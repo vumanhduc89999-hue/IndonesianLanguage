@@ -1,6 +1,6 @@
 <Languages><List>
-	<Language Name="In">
-		<DisplayName>Indonesia</DisplayName>
+	<Language Name="Vi">
+		<DisplayName>VietnameseLanguage</DisplayName>
 		<Icon>inflag.png</Icon>
 		<!--0:CNMODE 1:ENMODE-->
 		<UIMode>1</UIMode>
