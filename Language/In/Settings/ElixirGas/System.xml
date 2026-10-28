@@ -2,127 +2,128 @@
 	<List>
 		<Text Name="single_jin">
 			<Display>Metal Fullness</Display>
-			<Desc>Meningkatkan unsur logam di lingkungan dan tingkat terobosan hukum logam.</Desc>
+			<Desc>Increase the metal element in the environment and the breakthrought rate of metal laws.</Desc>
 		</Text>
 		<Text Name="single_mu">
 			<Display>Wood Fullness</Display>
-			<Desc>Meningkatkan unsur kayu di lingkungan dan tingkat terobosan hukum kayu.</Desc>
+			<Desc>Increase the wood element in the environment and the breakthrought rate of wood laws.</Desc>
 		</Text>
 		<Text Name="single_shui">
 			<Display>Water Fullness</Display>
-			<Desc>Meningkatkan unsur air di lingkungan dan tingkat terobosan hukum air.</Desc>
+			<Desc>Increase the water element in the environment and the breakthrought rate of water laws.</Desc>
 		</Text>
 		<Text Name="single_huo">
 			<Display>Fire Fullness</Display>
-			<Desc>Meningkatkan elemen api di lingkungan dan terobosan hukum kebakaran.</Desc>
+			<Desc>Increase the fire element in the environment and the breakthrought rate of fire laws.</Desc>
 		</Text>
 		<Text Name="single_tu">
 			<Display>Earth Fullness</Display>
-			<Desc>Meningkatkan unsur tanah di lingkungan dan laju terobosan hukum bumi.</Desc>
+			<Desc>Increase the earth element in the environment and the breakthrought rate of earth laws.</Desc>
 		</Text>
 		<Text Name="jin_mu">
 			<Display>Lumber Booster</Display>
-			<Desc>Meningkatkan kecepatan kayu dan pengumpulan murid secara signifikan.</Desc>
+			<Desc>Significantly increase the lumber and collection speed of disciples.</Desc>
 		</Text>
 		<Text Name="jin_shui">
 			<Display>Art Booster</Display>
-			<Desc>Secara signifikan meningkatkan keterampilan dan kecepatan menjahit para murid.</Desc>
+			<Desc>Significantly increase the artisanry and sewing speed of disciples.</Desc>
 		</Text>
 		<Text Name="jin_huo">
 			<Display>Mine Booster</Display>
-			<Desc>Secara signifikan meningkatkan hasil tambang para murid.</Desc>
+			<Desc>Significantly increase the mine yield of disciples.</Desc>
 		</Text>
 		<Text Name="jin_tu">
 			<Display>Mine Fullness</Display>
-			<Desc>Secara signifikan meningkatkan perolehan murid saya.</Desc>
+			<Desc>Significantly increase the mine gain of disciples.</Desc>
 		</Text>
 		<Text Name="mu_shui">
 			<Display>Breeding</Display>
-			<Desc>Secara signifikan meningkatkan hasil murid sekte dan kesuburan peta sekte</Desc>
+			<Desc>Significantly increases the yield of sect disciples and the fertility of the sect's map</Desc>
 		</Text>
 		<Text Name="mu_huo">
 			<Display>Full Blaze</Display>
-			<Desc>Secara signifikan meningkatkan kecepatan menempa dan memasak murid sekte</Desc>
+			<Desc>Significantly increases the forging and cooking speed of sect disciples</Desc>
 		</Text>
 		<Text Name="mu_tu">
 			<Display>Stabilize</Display>
-			<Desc>Secara signifikan meningkatkan kecepatan konstruksi murid sekte</Desc>
+			<Desc>Significantly increases the construction speed of sect disciples</Desc>
 		</Text>
 		<Text Name="shui_huo">
 			<Display>Waning Flame</Display>
-			<Desc>Secara signifikan meningkatkan kecepatan bantuan bencana dan tingkat keberhasilan murid sekte.</Desc>
+			<Desc>Significantly increases the disaster relief speed and success rate of sect disciples.</Desc>
 		</Text>
 		<Text Name="shui_tu">
 			<Display>Overflow</Display>
-			<Desc>Secara signifikan meningkatkan efek penyembuhan yang diharapkan dan pemulihan alami murid sekte</Desc>
+			<Desc>Significantly increases the expected healing effects and natural recovery of sect disciples</Desc>
 		</Text>
 		<Text Name="huo_tu">
 			<Display>Ashes</Display>
-			<Desc>Secara signifikan meningkatkan kecepatan pembongkaran dan kecepatan pembuatan batu murid sekte</Desc>
+			<Desc>Significantly increases the demolition speed and stonework speed of sect disciples</Desc>
 		</Text>
 		<Text Name="jin_mu_shui">
 			<Display>Exuberant</Display>
-			<Desc>Secara signifikan meningkatkan pencocokan hukum kayu para murid sekte</Desc>
+			<Desc>Significantly increases the wood law matching of sect disciples</Desc>
 		</Text>
 		<Text Name="jin_mu_huo">
 			<Display>Viridescent</Display>
-			<Desc>Secara signifikan meningkatkan hasil alkimia para murid sekte</Desc>
+			<Desc>Significantly increases the alchemy yield of sect disciples</Desc>
 		</Text>
 		<Text Name="jin_mu_tu">
 			<Display>Dismal</Display>
-			<Desc>Secara signifikan meningkatkan kecepatan kultivasi, kecepatan pembangunan fondasi, dan nilai kondisi mental murid sekte</Desc>
+			<Desc>Significantly increases the cultivation speed, foundation building speed, and mental state value of sect disciples</Desc>
 		</Text>
 		<Text Name="jin_shui_huo">
 			<Display>Lucent</Display>
-			<Desc>Secara signifikan meningkatkan tingkat keberhasilan penyempurnaan artefak murid sekte</Desc>
+			<Desc>Significantly increases the artifact refinement success rate of sect disciples</Desc>
 		</Text>
 		<Text Name="jin_shui_tu">
 			<Display>Cascade</Display>
-			<Desc>Secara signifikan meningkatkan pencocokan hukum air para murid sekte</Desc>
+			<Desc>Significantly increases the water law matching of sect disciples</Desc>
 		</Text>
 		<Text Name="jin_huo_tu">
 			<Display>Lustrous</Display>
-			<Desc>Secara signifikan meningkatkan pencocokan hukum logam para murid sekte</Desc>
+			<Desc>Significantly increases the metal law matching of sect disciples</Desc>
 		</Text>
 		<Text Name="mu_shui_huo">
 			<Display>Fervent</Display>
-			<Desc>Secara signifikan meningkatkan pencocokan hukum kebakaran murid sekte</Desc>
+			<Desc>Significantly increases the fire law matching of sect disciples</Desc>
 		</Text>
 		<Text Name="mu_shui_tu">
 			<Display>Equable</Display>
-			<Desc>Secara signifikan meningkatkan kecepatan alkimia murid sekte</Desc>
+			<Desc>Significantly increases the alchemy speed of sect disciples</Desc>
 		</Text>
 		<Text Name="mu_huo_tu">
 			<Display>Grim</Display>
-			<Desc>Secara signifikan meningkatkan pencocokan hukum bumi para murid sekte</Desc>
+			<Desc>Significantly increases the earth law matching of sect disciples</Desc>
 		</Text>
 		<Text Name="shui_huo_tu">
 			<Display>Ardent</Display>
-			<Desc>Secara signifikan meningkatkan kecepatan penempaan artefak murid sekte</Desc>
+			<Desc>Significantly increases the artifact forging speed of sect disciples</Desc>
 		</Text>
 		<Text Name="no_jin">
 			<Display>Metal Sever</Display>
-			<Desc>Meningkatkan pengurangan kerusakan Logam.(global)</Desc>
+			<Desc>Increase the Metal damage reduction.(global)</Desc>
 		</Text>
 		<Text Name="no_mu">
 			<Display>Wood Sever</Display>
-			<Desc>Meningkatkan pengurangan kerusakan kayu. (global)</Desc>
+			<Desc>Increase Wood damage reduction.(global)</Desc>
 		</Text>
 		<Text Name="no_shui">
 			<Display>Water Sever</Display>
-			<Desc>Meningkatkan pengurangan kerusakan air. (global)</Desc>
+			<Desc>Increase Water damage reduction.(global)</Desc>
 		</Text>
 		<Text Name="no_huo">
 			<Display>Fire Sever</Display>
-			<Desc>Meningkatkan pengurangan kerusakan akibat kebakaran. (global)</Desc>
+			<Desc>Increase Fire damage reduction.(global)</Desc>
 		</Text>
 		<Text Name="no_tu">
 			<Display>Earth Sever</Display>
-			<Desc>Meningkatkan pengurangan kerusakan atribut Bumi.(global)</Desc>
+			<Desc>Increase Earth attribute damage reduction.(global)</Desc>
 		</Text>
 		<Text Name="hunyuan">
 			<Display>Primordial</Display>
-			<Desc>Kurangi pencapaian, tingkatkan kecepatan belajar.</Desc>
+			<Desc>Decrease attainment, increase learning speed.</Desc>
 		</Text>
 	</List>
 </Texts>
+

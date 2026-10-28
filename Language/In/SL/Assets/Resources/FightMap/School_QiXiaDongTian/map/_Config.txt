@@ -24,3 +24,4 @@
 /Assets/Resources/FightMap/School_QiXiaDongTian/map.txt	OtherItem.11._hd.Ss.1	甲乙恶魄木	11.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_QiXiaDongTian/map.txt	OtherItem.12.Fabao.OName	灵木料	12	_ReplaceFabaoOName
 /Assets/Resources/FightMap/School_QiXiaDongTian/map.txt	OtherItem.12._hd.Ss.1	苍龙万骨柱	12.1	_ReplaceThingName
+

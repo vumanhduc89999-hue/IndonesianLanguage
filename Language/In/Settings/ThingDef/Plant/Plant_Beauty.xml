@@ -1,44 +1,45 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Dandelion" sParam="Plant">
-			<ThingName>Dandelion</ThingName>
-			<Desc>Bunga kecil yang indah.</Desc>
+			<ThingName>Bồ công anh</ThingName>
+			<Desc>Một bông hoa nhỏ xinh đẹp.</Desc>
 		</Text>
 		<Text Name="Flower1" sParam="Plant">
-			<ThingName>Springhope</ThingName>
-			<Desc>Tanaman indah dengan sedikit elemen Kayu.</Desc>
+			<ThingName>Xuân Hi Thảo</ThingName>
+			<Desc>Một loại thực vật đẹp, nhìn khá bắt mắt, mang thuộc tính mộc yếu ớt.</Desc>
 		</Text>
 		<Text Name="IceFlower1" sParam="Plant">
-			<ThingName>Iceflower</ThingName>
-			<Desc>Tanaman indah dengan sedikit elemen Kayu.</Desc>
+			<ThingName>Hoa băng</ThingName>
+			<Desc>Một loại thực vật đẹp, nhìn khá bắt mắt, mang thuộc tính mộc yếu ớt.</Desc>
 		</Text>
 		<Text Name="Flower2" sParam="Plant">
-			<ThingName>Aureate</ThingName>
-			<Desc>Tanaman indah dengan sedikit unsur Logam.</Desc>
+			<ThingName>Hoa Kim Hà</ThingName>
+			<Desc>Một loại thực vật đẹp, nhìn khá bắt mắt, mang thuộc tính kim yếu ớt.</Desc>
 		</Text>
 		<Text Name="Flower3" sParam="Plant">
-			<ThingName>Sanguinea</ThingName>
-			<Desc>Tanaman indah dengan sedikit elemen Api.</Desc>
+			<ThingName>Xích Nhiễm Hương</ThingName>
+			<Desc>Một loại thực vật đẹp, nhìn khá bắt mắt, mang thuộc tính hỏa yếu ớt.</Desc>
 		</Text>
 		<Text Name="Flower4" sParam="Plant">
-			<ThingName>Triandrus</ThingName>
-			<Desc>Tanaman indah dengan sedikit unsur Air.</Desc>
+			<ThingName>Thủy Lam Tiên</ThingName>
+			<Desc>Một loại thực vật đẹp, nhìn khá bắt mắt, mang thuộc tính thủy yếu ớt.</Desc>
 		</Text>
 		<Text Name="Flower5" sParam="Plant">
-			<ThingName>Fraxinus</ThingName>
-			<Desc>Tanaman indah dengan sedikit elemen Tanah.</Desc>
+			<ThingName>Hoa Trầm Yên</ThingName>
+			<Desc>Một loại thực vật đẹp, nhìn khá bắt mắt, mang thuộc tính thổ yếu ớt.</Desc>
 		</Text>
 		<Text Name="ShiChe" sParam="Plant">
-			<ThingName>Cornflowers</ThingName>
-			<Desc>Tanaman indah yang tumbuh di gurun.</Desc>
+			<ThingName>Hoa cúc xanh</ThingName>
+			<Desc>Một loại thực vật đẹp, mọc ở sa mạc.</Desc>
 		</Text>
 		<Text Name="CongRong" sParam="Plant">
-			<ThingName>Cistanche</ThingName>
-			<Desc>Tanaman indah yang tumbuh di gurun.</Desc>
+			<ThingName>Cây tầm gửi</ThingName>
+			<Desc>Một loại thực vật đẹp, mọc ở sa mạc.</Desc>
 		</Text>
 		<Text Name="CamelSting" sParam="Plant">
-			<ThingName>Camelthorn</ThingName>
-			<Desc>Tanaman indah yang tumbuh di gurun.</Desc>
+			<ThingName>Cây lạc đà</ThingName>
+			<Desc>Một loại thực vật đẹp, mọc ở sa mạc.</Desc>
 		</Text>
 	</List>
 </Texts>
+

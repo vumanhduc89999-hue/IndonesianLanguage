@@ -1,58 +1,59 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_Other_BingCanSi" sParam="Item">
-			<ThingName>Ice Silk</ThingName>
-			<Item.BeMaterial.NamePrefix>Ice Silk</Item.BeMaterial.NamePrefix>
+			<ThingName>Tơ tằm băng</ThingName>
+			<Item.BeMaterial.NamePrefix>Tơ tằm băng</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_BuZhiMing" sParam="Item">
-			<ThingName>Unknown Material</ThingName>
+			<ThingName>Vật liệu không rõ nguồn gốc</ThingName>
 		</Text>
 		<Text Name="Item_Other_JinJing" sParam="Item">
-			<ThingName>Western Metal Essence</ThingName>
-			<Item.BeMaterial.NamePrefix>Metal Essence</Item.BeMaterial.NamePrefix>
+			<ThingName>Tinh kim canh tân tiên thiên</ThingName>
+			<Item.BeMaterial.NamePrefix>Tiên Thiên Kim Tinh</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_MuJing" sParam="Item">
-			<ThingName>Eastern Wood Essence</ThingName>
-			<Item.BeMaterial.NamePrefix>Wood Essence</Item.BeMaterial.NamePrefix>
+			<ThingName>Tinh mộc giáp ất tiên thiên</ThingName>
+			<Item.BeMaterial.NamePrefix>Tiên Thiên Mộc Tinh</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_ShuiJing" sParam="Item">
-			<ThingName>Northern Water Essence</ThingName>
-			<Item.BeMaterial.NamePrefix>Water Essence</Item.BeMaterial.NamePrefix>
+			<ThingName>Tinh thủy nhâm quý tiên thiên</ThingName>
+			<Item.BeMaterial.NamePrefix>Tiên Thiên Thủy Tinh</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_HuoJing" sParam="Item">
-			<ThingName>Southern Fire Essence</ThingName>
-			<Item.BeMaterial.NamePrefix>Fire Essence</Item.BeMaterial.NamePrefix>
+			<ThingName>Tinh hỏa bính đinh tiên thiên</ThingName>
+			<Item.BeMaterial.NamePrefix>Tiên Thiên Hỏa Tinh</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_TuJing" sParam="Item">
-			<ThingName>Central Earth Essence</ThingName>
-			<Item.BeMaterial.NamePrefix>Earth Essence</Item.BeMaterial.NamePrefix>
+			<ThingName>Tinh thổ mậu kỷ tiên thiên</ThingName>
+			<Item.BeMaterial.NamePrefix>Tiên Thiên Thổ Tinh</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_NoneJing" sParam="Item">
-			<ThingName>Natural Essence</ThingName>
-			<Item.BeMaterial.NamePrefix>Natural Essence</Item.BeMaterial.NamePrefix>
+			<ThingName>Tinh nguyên tiên thiên</ThingName>
+			<Item.BeMaterial.NamePrefix>Tinh nguyên tiên thiên</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_LarkPerk" sParam="Item">
-			<ThingName>Beak</ThingName>
-			<Item.BeMaterial.NamePrefix>Beak</Item.BeMaterial.NamePrefix>
+			<ThingName>Mỏ chim sẻ</ThingName>
+			<Item.BeMaterial.NamePrefix>Mỏ chim sẻ</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_BuffaloHorn" sParam="Item">
-			<ThingName>Bull Horn</ThingName>
-			<Item.BeMaterial.NamePrefix>Bull Horn</Item.BeMaterial.NamePrefix>
+			<ThingName>Sừng bò man</ThingName>
+			<Item.BeMaterial.NamePrefix>Sừng bò man</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_LionFang" sParam="Item">
-			<ThingName>Leopard Fang</ThingName>
-			<Item.BeMaterial.NamePrefix>Leopard Fang</Item.BeMaterial.NamePrefix>
+			<ThingName>Răng báo</ThingName>
+			<Item.BeMaterial.NamePrefix>Răng báo</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_TortoiseShell" sParam="Item">
-			<ThingName>Shell</ThingName>
-			<Item.BeMaterial.NamePrefix>Shell</Item.BeMaterial.NamePrefix>
+			<ThingName>Vỏ giáp</ThingName>
+			<Item.BeMaterial.NamePrefix>Vỏ giáp</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_Other_DeerFeet" sParam="Item">
-			<ThingName>Deer Hoof</ThingName>
-			<Item.BeMaterial.NamePrefix>Deer Hoof</Item.BeMaterial.NamePrefix>
+			<ThingName>Mi chủng</ThingName>
+			<Item.BeMaterial.NamePrefix>Mi chủng</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SPStuffCategories_1" sParam="Item">
-			<ThingName>Unknown</ThingName>
+			<ThingName>Chưa Biết</ThingName>
 		</Text>
 	</List>
 </Texts>
+

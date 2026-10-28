@@ -1,23 +1,24 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LostPart">
-			<DisplayName>Lost Item</DisplayName>
+			<DisplayName>Vật Bị Lạc</DisplayName>
 		</Text>
 		<Text Name="SYS_ATK">
-			<DisplayName>Attack Stance</DisplayName>
-			<Desc>Pembudidaya fisik akan menyerang tubuh fisik musuh dengan kekuatan penuh, namun kemampuan pertahanan tubuh rahasia akan berkurang.</Desc>
+			<DisplayName>Tư Thế Tấn Công</DisplayName>
+			<Desc>Luyện thể giả tấn công toàn lực vào cơ thể kẻ địch, nhưng sẽ làm giảm khả năng phòng thủ của bí thể.</Desc>
 		</Text>
 		<Text Name="SYS_NORMAL">
-			<DisplayName>Common Stance</DisplayName>
-			<Desc>Sikap bertarung standar untuk kultivator fisik. Pertama-tama ia menangani artefak musuh dan kemudian menyerang tubuh fisik mereka. Jurus ini sama-sama bagus dalam menyerang dan bertahan serta seimbang dalam berbagai kemampuan.</Desc>
+			<DisplayName>Tư thế bình thường</DisplayName>
+			<Desc>Luyện thể giả chiến đấu bình thường, ưu tiên giải quyết phi kiếm của kẻ địch, sau đó tấn công cơ thể kẻ địch. Trạng thái này cân bằng giữa tấn công và phòng thủ, khả năng tổng thể cũng khá đều.</Desc>
 		</Text>
 		<Text Name="BPAttitudes_ManJi">
-			<DisplayName>Barbarian Will</DisplayName>
-			<Desc>Menggunakan kemauan bertarung yang kuat untuk memerintahkan seluruh tubuh untuk bergerak dan langsung menyerang tubuh fisik musuh, secara drastis meningkatkan kemampuan menyerang sambil mempertahankan pertahanan instingtual.</Desc>
+			<DisplayName>Man Cực Chiến Ý</DisplayName>
+			<Desc>Dùng ý chí chiến đấu mạnh mẽ điều khiển toàn thân, trực tiếp tấn công cơ thể kẻ địch, tăng mạnh khả năng tấn công, đồng thời duy trì khả năng phòng thủ bản năng.</Desc>
 		</Text>
 		<Text Name="BPAttitudes_WangZhe">
-			<DisplayName>Will of the King</DisplayName>
-			<Desc>Tetap tenang dan tenang saat menghadapi pertempuran dengan hati seorang raja. Mengurangi konsumsi rahasia tubuh.</Desc>
+			<DisplayName>Vương Giả Chiến Ý</DisplayName>
+			<Desc>Đối mặt với chiến đấu bằng tâm thế vương đạo, bình tĩnh không vội vàng, giảm tiêu hao của bí thể.</Desc>
 		</Text>
 	</List>
 </Texts>
+

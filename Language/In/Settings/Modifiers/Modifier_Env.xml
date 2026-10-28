@@ -1,64 +1,65 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="BornComa">
-			<DisplayName>Unconscious</DisplayName>
-			<Desc>Telah kehilangan kesadaran.</Desc>
+			<DisplayName>Hôn mê</DisplayName>
+			<Desc>Rơi vào trạng thái hôn mê.</Desc>
 		</Text>
 		<Text Name="FightPowerUp">
-			<DisplayName>Increased Strength</DisplayName>
-			<Desc>Serangan dan Pertahanan meningkat secara mendasar.</Desc>
+			<DisplayName>Tăng trưởng sức mạnh</DisplayName>
+			<Desc>Tấn công và phòng thủ được nâng cao từ gốc rễ.</Desc>
 		</Text>
 		<Text Name="FightPowerUp_DiMu">
-			<DisplayName>Earthmother Curse</DisplayName>
-			<Desc>Sangat meningkatkan kemampuan di bawah pengaruh Kutukan Ibu Pertiwi.</Desc>
+			<DisplayName>Địa Mẫu Sát Khí</DisplayName>
+			<Desc>Dưới tác động của Địa Mẫu Sát Khí, sức mạnh được tăng cường đáng kể.</Desc>
 		</Text>
 		<Text Name="JiaoLongFightPowerUp">
-			<DisplayName>Force of Water</DisplayName>
-			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
+			<DisplayName>Huyền Thủy Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Giao Long được tăng lên.</Desc>
 		</Text>
 		<Text Name="XiongFengFightPowerUp">
-			<DisplayName>Force of Fire</DisplayName>
-			<Desc>Qi dan Serangan Phoenix telah meningkat.</Desc>
+			<DisplayName>Xích Hỏa Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Hung Phượng được tăng lên.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp">
-			<DisplayName>Might of Yin Yang</DisplayName>
-			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
+			<DisplayName>Âm Dương Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Chúc Long được tăng lên.</Desc>
 		</Text>
 		<Text Name="JiaoLongFightPowerUp2">
-			<DisplayName>Force of Water</DisplayName>
-			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
+			<DisplayName>Huyền Thủy Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Giao Long được tăng lên.</Desc>
 		</Text>
 		<Text Name="JiaoLongFightPowerUp3">
-			<DisplayName>Force of Water</DisplayName>
-			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
+			<DisplayName>Huyền Thủy Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Giao Long được tăng lên.</Desc>
 		</Text>
 		<Text Name="JiaoLongFightPowerUp4">
-			<DisplayName>Force of Water</DisplayName>
-			<Desc>Qi dan Serangan Jiao-dragon telah meningkat.</Desc>
+			<DisplayName>Huyền Thủy Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Giao Long được tăng lên.</Desc>
 		</Text>
 		<Text Name="XiongFengFightPowerUp2">
-			<DisplayName>Force of Fire</DisplayName>
-			<Desc>Qi dan Serangan Phoenix telah meningkat.</Desc>
+			<DisplayName>Xích Hỏa Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Hung Phượng được tăng lên.</Desc>
 		</Text>
 		<Text Name="XiongFengFightPowerUp3">
-			<DisplayName>Force of Fire</DisplayName>
-			<Desc>Qi dan Serangan Phoenix telah meningkat.</Desc>
+			<DisplayName>Xích Hỏa Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Hung Phượng được tăng lên.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp2">
-			<DisplayName>Might of Yin Yang</DisplayName>
-			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
+			<DisplayName>Âm Dương Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Chúc Long được tăng lên.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp3">
-			<DisplayName>Might of Yin Yang</DisplayName>
-			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
+			<DisplayName>Âm Dương Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Chúc Long được tăng lên.</Desc>
 		</Text>
 		<Text Name="ZhulongFightPowerUp4">
-			<DisplayName>Might of Yin Yang</DisplayName>
-			<Desc>Qi dan Serangan Torch Dragon telah meningkat.</Desc>
+			<DisplayName>Âm Dương Chi Lực</DisplayName>
+			<Desc>Linh khí và sức tấn công của Chúc Long được tăng lên.</Desc>
 		</Text>
 		<Text Name="Dan_LingTree">
-			<DisplayName>Advanced Qi Resonance</DisplayName>
-			<Desc>Beresonansi dengan Qi di sekitar Illumitree, dapat meningkatkan kecepatan Pemulihan Qi.</Desc>
+			<DisplayName>Linh khí cộng hưởng</DisplayName>
+			<Desc>Cộng hưởng với linh khí trong Linh Thụ, có thể tăng tốc độ hồi phục linh khí.</Desc>
 		</Text>
 	</List>
 </Texts>
+

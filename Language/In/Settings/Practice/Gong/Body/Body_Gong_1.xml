@@ -1,17 +1,18 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Body_Gong_1">
-			<DisplayName>Primordial Unity Body</DisplayName>
-			<Desc>Hukum budidaya cetakan ulang yang diturunkan dari zaman dahulu yang meniru bentuk semua makhluk, mengikuti kehendak alam semesta dan menaati hukum enam penjuru. Mantra ini unggul dalam berintegrasi dengan alam dan selangkah demi selangkah berkembang menjadi satu kesatuan yang menandakan kerumitan semua makhluk di dunia. Tubuh fisik menjadi ilahi dan terlupakan.</Desc>
-			<SelectDesc>Latihan fisik berarti menggabungkan energi, Qi, dan roh menjadi satu, menghilangkan Qi dan benda magis lainnya, dan memulai latihan hanya dengan tubuh fisik. Apakah Anda ingin mengambil UU ini?</SelectDesc>
-			<Stages.0.DisplayName>Remold Phase</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Physical Reborn</Stages.0.Necks.0.DisplayName>
-			<Stages.1.DisplayName>Marrow-cleansing Phase</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Marrow Change</Stages.1.Necks.0.DisplayName>
-			<Stages.2.DisplayName>Incubation Phase</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Unifying Oneness</Stages.2.Necks.0.DisplayName>
-			<Stages.3.DisplayName>Chaos Phase</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Paramount Penalty</Stages.3.Necks.0.DisplayName>
+			<DisplayName>Thái Cổ Hình Ý Lục Hợp Chân Thể</DisplayName>
+			<Desc>Pháp luyện thể truyền thừa từ thái cổ, lấy hình dáng của chúng sinh, hưởng ý trời đất, thông hiểu pháp lục hợp. Pháp này sở trường hợp nhất với thiên nhiên, thở ra nuốt vào huyền diệu, từng bước tiến hóa, cuối cùng có thể rèn luyện thành chân thể huyền diệu lục hợp vạn hóa, thân thể thành thánh, phá vỡ hư không.</Desc>
+			<SelectDesc>Bước lên con đường tu luyện thân thể đồng nghĩa với việc hợp nhất hoàn toàn tinh khí thần, tuyệt duyên với linh khí, không thể sử dụng bất kỳ vật huyền diệu nào, từ đó hành tẩu thiên địa chỉ dựa vào thân thể. Có chắc chắn muốn đi con đường này không?</SelectDesc>
+			<Stages.0.DisplayName>Tẩy Thể Kỳ</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Huyết Nhục Tân Sinh</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Tẩy Tủy Kỳ</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Tẩy Tủy Hoán Cốt</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Thoát Thai Kỳ</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Nội Ngoại Hợp Nhất</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Hỗn Nguyên Kỳ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Thiên Hình</Stages.3.Necks.0.DisplayName>
 		</Text>
 	</List>
 </Texts>
+

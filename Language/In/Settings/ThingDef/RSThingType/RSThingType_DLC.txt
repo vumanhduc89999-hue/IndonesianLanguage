@@ -1,3 +1,5 @@
 ItemName	Type
-Item_BambooShoot	Food
-Item_Bamboo	Material
+Item_BambooShoot	Nguyên liệu nấu ăn
+Item_Bamboo	Vật liệu
+
+

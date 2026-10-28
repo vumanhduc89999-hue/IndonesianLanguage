@@ -1,43 +1,44 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JobAnimalEatFood">
-			<DisplayName>Eat</DisplayName>
+			<DisplayName>Ăn uống</DisplayName>
 		</Text>
 		<Text Name="JobBAnimalFree">
-			<DisplayName>Move</DisplayName>
+			<DisplayName>Di chuyển</DisplayName>
 		</Text>
 		<Text Name="JobBAnimalGiveBirth">
-			<DisplayName>Breed</DisplayName>
+			<DisplayName>Sinh sản</DisplayName>
 		</Text>
 		<Text Name="JobBirthIt">
-			<DisplayName>Hatch</DisplayName>
+			<DisplayName>Ấp trứng</DisplayName>
 		</Text>
 		<Text Name="JobEatFood">
-			<DisplayName>Eat</DisplayName>
+			<DisplayName>Ăn uống</DisplayName>
 		</Text>
 		<Text Name="JobDrinkWater">
-			<DisplayName>Drink</DisplayName>
+			<DisplayName>Uống nước</DisplayName>
 		</Text>
 		<Text Name="JobTakeRest">
-			<DisplayName>Sleep</DisplayName>
+			<DisplayName>Ngủ</DisplayName>
 		</Text>
 		<Text Name="JobLookAtSky">
-			<DisplayName>Skygaze</DisplayName>
+			<DisplayName>Ngắm trời</DisplayName>
 		</Text>
 		<Text Name="JobFree">
-			<DisplayName>Wander</DisplayName>
+			<DisplayName>Dạo chơi</DisplayName>
 		</Text>
 		<Text Name="JobRunAway">
-			<DisplayName>Flee</DisplayName>
+			<DisplayName>Chạy trốn</DisplayName>
 		</Text>
 		<Text Name="JobPlayWithBuilding">
-			<DisplayName>Have Fun</DisplayName>
+			<DisplayName>Giải trí</DisplayName>
 		</Text>
 		<Text Name="JobBasePractice">
-			<DisplayName>Foundation Training</DisplayName>
+			<DisplayName>Trúc cơ</DisplayName>
 		</Text>
 		<Text Name="JobIdle">
-			<DisplayName>Idle</DisplayName>
+			<DisplayName>Ngẩn ngơ</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,109 +1,110 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong3_a2">
-			<DisplayName>Killing Intent</DisplayName>
+			<DisplayName>Sát Ý</DisplayName>
 		</Text>
 		<Text Name="Gong3_a2_1">
-			<DisplayName>Killing Intent</DisplayName>
+			<DisplayName>Sát Ý</DisplayName>
 		</Text>
 		<Text Name="Gong3_a2_2">
-			<DisplayName>Killing Intent</DisplayName>
+			<DisplayName>Sát Ý</DisplayName>
 		</Text>
 		<Text Name="Gong3_a5">
-			<DisplayName>Sword Control</DisplayName>
+			<DisplayName>Ngự Kiếm Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong3_a5_1">
-			<DisplayName>Sword Control</DisplayName>
+			<DisplayName>Ngự Kiếm Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong3_a5_2">
-			<DisplayName>Sword Control</DisplayName>
+			<DisplayName>Ngự Kiếm Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong3_b0">
-			<DisplayName>Sanguine Absorption</DisplayName>
+			<DisplayName>Thiên Yêu Hóa Huyết</DisplayName>
 		</Text>
 		<Text Name="Gong3_b1">
-			<DisplayName>Celestial Demon Unchained</DisplayName>
+			<DisplayName>Thiên Ma Giải Thể</DisplayName>
 		</Text>
 		<Text Name="Gong3_b3">
-			<DisplayName>Seven-Slaughtering Form</DisplayName>
+			<DisplayName>Thất Sát Ma Thể</DisplayName>
 		</Text>
 		<Text Name="Gong3_b4">
-			<DisplayName>Blade Oath</DisplayName>
+			<DisplayName>Kiếm Tâm Thông Minh</DisplayName>
 		</Text>
 		<Text Name="Gong3_b6">
-			<DisplayName>Blade Cohesion</DisplayName>
+			<DisplayName>Tâm kiếm giao cảm</DisplayName>
 		</Text>
 		<Text Name="Gong3_b8">
-			<DisplayName>Strike Chant</DisplayName>
+			<DisplayName>Kích tự quyết</DisplayName>
 		</Text>
 		<Text Name="Gong3_c8">
-			<DisplayName>Crush Chant</DisplayName>
+			<DisplayName>Băng tự quyết</DisplayName>
 		</Text>
 		<Text Name="Gong3_d8">
-			<DisplayName>Control Chant</DisplayName>
+			<DisplayName>Ngự tự quyết</DisplayName>
 		</Text>
 		<Text Name="Gong3_b9">
-			<DisplayName>Stab Chant</DisplayName>
+			<DisplayName>Thứ tự quyết</DisplayName>
 		</Text>
 		<Text Name="Gong3_c9">
-			<DisplayName>Thrust Chant</DisplayName>
+			<DisplayName>Điểm tự quyết</DisplayName>
 		</Text>
 		<Text Name="Gong3_d9">
-			<DisplayName>Transformation Chant</DisplayName>
+			<DisplayName>Hóa tự quyết</DisplayName>
 		</Text>
 		<Text Name="Gong3_b10">
-			<DisplayName>Cleanse Chant</DisplayName>
+			<DisplayName>Tẩy tự quyết</DisplayName>
 		</Text>
 		<Text Name="Gong3_c10">
-			<DisplayName>Slash Chant</DisplayName>
+			<DisplayName>Phách tự quyết</DisplayName>
 		</Text>
 		<Text Name="Gong3_d10">
-			<DisplayName>Severance Chant</DisplayName>
+			<DisplayName>Phân tự quyết</DisplayName>
 		</Text>
 		<Text Name="Gong3_c0">
-			<DisplayName>Soul Snatcher</DisplayName>
+			<DisplayName>Nhiếp Thần Ngự Quỷ Đại Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong3_c1">
-			<DisplayName>Five Spiritual Imprints</DisplayName>
+			<DisplayName>Ngũ Ấn Khắc Thần</DisplayName>
 		</Text>
 		<Text Name="Gong3_c4">
-			<DisplayName>Divine Mastery</DisplayName>
+			<DisplayName>Thần ngự kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong3_c6">
-			<DisplayName>Swordmind</DisplayName>
+			<DisplayName>Thần hợp kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong3_d2">
-			<DisplayName>Demonic Aura</DisplayName>
+			<DisplayName>Ma Lưu Kiếm Ý</DisplayName>
 		</Text>
 		<Text Name="Gong3_d2_1">
-			<DisplayName>Swordsprite</DisplayName>
+			<DisplayName>Kiếm Linh</DisplayName>
 		</Text>
 		<Text Name="Gong3_d2_2">
-			<DisplayName>Legacy Artifact: Immortal Slayer</DisplayName>
+			<DisplayName>Bí Bảo: Bách Linh Trảm Tiên Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong3_d4">
-			<DisplayName>Sword Ultima</DisplayName>
+			<DisplayName>Cực Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong3_d4_1">
-			<DisplayName>Sword Ultima</DisplayName>
+			<DisplayName>Cực Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong3_d4_2">
-			<DisplayName>Sword Ultima</DisplayName>
+			<DisplayName>Cực Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong3_d6">
-			<DisplayName>Selfsword</DisplayName>
+			<DisplayName>Ngã Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong3_d6_1">
-			<DisplayName>Selfsword</DisplayName>
+			<DisplayName>Ngã Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong3_d6_2">
-			<DisplayName>Selfsword</DisplayName>
+			<DisplayName>Ngã Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong3_e4">
-			<DisplayName>Eureka Pill</DisplayName>
+			<DisplayName>Thiên Đạo Thần Đan</DisplayName>
 		</Text>
 		<Text Name="Gong3_e8">
-			<DisplayName>Taoist Artifact</DisplayName>
+			<DisplayName>Thiên Đạo Thần Khí</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

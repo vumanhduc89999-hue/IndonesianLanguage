@@ -1,50 +1,51 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="GodStory_1">
-			<DisplayName>Preaching</DisplayName>
-			<Desc>Saat bepergian, [NAME] terus berkhotbah dan membantu manusia yang membutuhkan di sepanjang perjalanan.</Desc>
-			<Selections.0.Display>Oke</Selections.0.Display>
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>[NAME] trong chuyến du ngoạn truyền đạo dọc đường, đồng thời giúp đỡ những người phàm gặp khó khăn.</Desc>
+			<Selections.0.Display>Đã hiểu</Selections.0.Display>
 		</Text>
 		<Text Name="GodStory_2">
-			<DisplayName>Preaching</DisplayName>
-			<Desc>Saat bepergian, [NAME] bertemu dengan beberapa manusia yang membutuhkan dan membantu mereka keluar dari masalah.</Desc>
-			<Selections.0.Display>Oke</Selections.0.Display>
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>[NAME] trong chuyến du ngoạn tại [PLACE] gặp một số người phàm gặp khó khăn, liền giúp đỡ họ.</Desc>
+			<Selections.0.Display>Đã hiểu</Selections.0.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_1">
-			<DisplayName>War of Mortals</DisplayName>
-			<Desc>[NAME] bergegas ke [PLACE] , dan mendapati bahwa tempat itu dilanda perang dengan banyak penderitaan.</Desc>
-			<Selections.0.Display>Mendesak penghentian perang</Selections.0.Display>
-			<Selections.1.Display>Menekan perang dengan kekerasan</Selections.1.Display>
-			<Selections.1.Tip>Golden Core</Selections.1.Tip>
-			<Selections.2.Display>Meninggalkan</Selections.2.Display>
+			<DisplayName>Chiến tranh của người phàm</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện chiến tranh đang diễn ra, người dân nơi đây chịu nhiều đau khổ vì chiến tranh.</Desc>
+			<Selections.0.Display>Khuyên dừng chiến tranh</Selections.0.Display>
+			<Selections.1.Display>Trấn áp bằng sấm sét</Selections.1.Display>
+			<Selections.1.Tip>Kim đan kỳ</Selections.1.Tip>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_2">
-			<DisplayName>Plagues wreak havoc</DisplayName>
-			<Desc>[NAME] bergegas ke [PLACE] hanya untuk menemukan bahwa wabah sedang terjadi, beberapa desa telah musnah.</Desc>
-			<Selections.0.Display>Sembuhkan pasiennya</Selections.0.Display>
-			<Selections.0.Tip>Golden Core</Selections.0.Tip>
-			<Selections.1.Display>Karantina dan lockdown</Selections.1.Display>
-			<Selections.2.Display>Meninggalkan</Selections.2.Display>
+			<DisplayName>Dịch bệnh hoành hành</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện dịch bệnh nơi đây đã trở nên nghiêm trọng, nhiều ngôi làng không còn một con gà hay chó nào sống sót.</Desc>
+			<Selections.0.Display>Kiên nhẫn chữa trị</Selections.0.Display>
+			<Selections.0.Tip>Kim đan kỳ</Selections.0.Tip>
+			<Selections.1.Display>Cách ly tiêu diệt</Selections.1.Display>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_3">
-			<DisplayName>Evils in the World</DisplayName>
-			<Desc>[NAME] bergegas ke [PLACE] hanya untuk menemukan area tersebut penuh dengan qi jahat, orang-orang menjadi panik.</Desc>
-			<Selections.0.Display>Gunakan strategi</Selections.0.Display>
-			<Selections.1.Display>Gunakan kekerasan</Selections.1.Display>
-			<Selections.1.Tip>Golden Core</Selections.1.Tip>
-			<Selections.2.Display>Meninggalkan</Selections.2.Display>
+			<DisplayName>Yêu tà loạn thế</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện nơi đây yêu khí ngập tràn, dân chúng xung quanh hoang mang lo lắng, đầy rẫy bất an.</Desc>
+			<Selections.0.Display>Thiết kế diệt yêu</Selections.0.Display>
+			<Selections.1.Display>Chém giết bằng sấm sét</Selections.1.Display>
+			<Selections.1.Tip>Kim đan kỳ</Selections.1.Tip>
+			<Selections.2.Display>Rời đi</Selections.2.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_4">
-			<DisplayName>Sudden Disaster</DisplayName>
-			<Desc>Sementara [NAME] bergegas ke [PLACE] hanya untuk menemukan situasinya mengerikan, dengan banyak orang yang berusaha menyelamatkan diri dari bencana.</Desc>
-			<Selections.0.Display>Bantu orang-orang</Selections.0.Display>
-			<Selections.1.Display>Meninggalkan</Selections.1.Display>
+			<DisplayName>Thiên tai bất ngờ</DisplayName>
+			<Desc>[NAME] đến [PLACE], phát hiện dân chúng nơi đây chết chóc nghiêm trọng, đang hoảng loạn tránh né tai họa.</Desc>
+			<Selections.0.Display>Cứu trợ dân chúng</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
 		</Text>
 		<Text Name="Secrets_GodStory_Gong_God_1">
-			<DisplayName>Lost Law</DisplayName>
-			<Desc>Setelah tiba di jurang yang disebutkan, [NAME] menemukan bahwa petir di sini redup, namun tidak biasa.</Desc>
-			<Selections.0.Display>Periksa jurang</Selections.0.Display>
-			<Selections.1.Display>Meninggalkan</Selections.1.Display>
+			<DisplayName>Pháp thuật thất truyền</DisplayName>
+			<Desc>[NAME] đến khe núi được người đại diện chỉ dẫn, chỉ thấy nơi đây ánh sét lóe lên mờ mờ, nhưng lại khác với pháp thuật sét hiện nay, dường như có một số thứ phi thường.</Desc>
+			<Selections.0.Display>Vào khe núi xem xét</Selections.0.Display>
+			<Selections.1.Display>Rời đi</Selections.1.Display>
 		</Text>
 	</List>
 </Texts>
+

@@ -42,4 +42,5 @@
 /Settings/RPG/Maps/Rpg_Tower_19/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param2	真是让人不得空闲，但你与他们一样，一样值得拯救。	0	
 /Settings/RPG/Maps/Rpg_Tower_19/map.txt	RPGInfo.MapInfo.Title	末法的代言人	-1	
 /Settings/RPG/Maps/Rpg_Tower_19/map.txt	RPGInfo.MapInfo.Desc	禁止自动恢复灵气	-1	
-/Settings/RPG/Maps/Rpg_Tower_19/map.txt	RPGInfo.MapInfo.EnterContent	此地原本是梧桐神木生长的地方，灵气充沛，适合天地灵根生长。可惜千年之内灵气就被修行者汲取得一干二净。	-1	
+/Settings/RPG/Maps/Rpg_Tower_19/map.txt	RPGInfo.MapInfo.EnterContent	此地原本是梧桐神木生长的地方，灵气充沛，适合天地灵根生长。可惜千年之内灵气就被修行者汲取得一干二净。	-1
+

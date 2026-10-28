@@ -107,4 +107,5 @@
 /Settings/RPG/Maps/Rpg_Tower_6/map.txt	Skills.SkillDefs.TSheildSkill-226.DisplayName	太上覆天咒	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_6/map.txt	Skills.SkillDefs.TDamageSkill-562.DisplayName	庚辛流光咒	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_6/map.txt	RPGInfo.Objects.4.LuaPostProcessing.Param1	凭什么？七十二洞天，三十六福地，周天三百六十星宫，凭什么是我们洞天被破灭？	4	
-/Settings/RPG/Maps/Rpg_Tower_6/map.txt	RPGInfo.Objects.4.LuaPostProcessing.Param2	我不服！我！不！服！	4	
+/Settings/RPG/Maps/Rpg_Tower_6/map.txt	RPGInfo.Objects.4.LuaPostProcessing.Param2	我不服！我！不！服！	4
+

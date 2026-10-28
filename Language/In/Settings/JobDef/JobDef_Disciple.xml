@@ -1,79 +1,80 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JobPracticeFeeling">
-			<DisplayName>Epiphany</DisplayName>
+			<DisplayName>Cảm ngộ</DisplayName>
 		</Text>
 		<Text Name="JobPractice">
-			<DisplayName>Cultivate</DisplayName>
+			<DisplayName>Tu luyện</DisplayName>
 		</Text>
 		<Text Name="JobBrokenNeck">
-			<DisplayName>Breakthrough</DisplayName>
+			<DisplayName>Đột phá</DisplayName>
 		</Text>
 		<Text Name="JobPracticeSkill">
-			<DisplayName>Practice</DisplayName>
+			<DisplayName>Luyện tập</DisplayName>
 		</Text>
 		<Text Name="JobReceiveApprentice">
-			<DisplayName>Take as Disciple</DisplayName>
+			<DisplayName>Nhận đệ tử</DisplayName>
 		</Text>
 		<Text Name="JobBuildBody">
-			<DisplayName>Remold</DisplayName>
+			<DisplayName>Rèn luyện cơ thể</DisplayName>
 		</Text>
 		<Text Name="JobRobBody">
-			<DisplayName>Possess</DisplayName>
+			<DisplayName>Cướp đoạt</DisplayName>
 		</Text>
 		<Text Name="JobAbsorbLing">
-			<DisplayName>Qi Absorb</DisplayName>
+			<DisplayName>Hấp thụ linh khí</DisplayName>
 		</Text>
 		<Text Name="JobRefiningFabao">
-			<DisplayName>Artifact Crafting</DisplayName>
+			<DisplayName>Luyện chế pháp bảo</DisplayName>
 		</Text>
 		<Text Name="JobPaintCharm">
-			<DisplayName>Draw Talisman</DisplayName>
+			<DisplayName>Vẽ bùa chú</DisplayName>
 		</Text>
 		<Text Name="JobTeachHim">
-			<DisplayName>Teach Manual</DisplayName>
+			<DisplayName>Truyền dạy bí kíp</DisplayName>
 		</Text>
 		<Text Name="JobLeave2Explore">
-			<DisplayName>Adventure</DisplayName>
+			<DisplayName>Luyện tập</DisplayName>
 		</Text>
 		<Text Name="JobMasterHelp">
-			<DisplayName>Guard</DisplayName>
+			<DisplayName>Hộ pháp</DisplayName>
 		</Text>
 		<Text Name="JobFeelEsoterica">
-			<DisplayName>Study Manual</DisplayName>
+			<DisplayName>Lĩnh ngộ bí kíp</DisplayName>
 		</Text>
 		<Text Name="JobAbsorbGong">
-			<DisplayName>Obtain Experience</DisplayName>
+			<DisplayName>Thu nhận tu vi</DisplayName>
 		</Text>
 		<Text Name="JobMelting">
-			<DisplayName>Smelt</DisplayName>
+			<DisplayName>Nấu chảy</DisplayName>
 		</Text>
 		<Text Name="JobEatPracticeFood">
-			<DisplayName>Take Elixir</DisplayName>
+			<DisplayName>Sử dụng</DisplayName>
 		</Text>
 		<Text Name="JobJiangdao">
-			<DisplayName>Give Lecture</DisplayName>
+			<DisplayName>Giảng đạo</DisplayName>
 		</Text>
 		<Text Name="JobMagicNormal">
-			<DisplayName>Perform Miracle</DisplayName>
+			<DisplayName>Thần thông phổ thông</DisplayName>
 		</Text>
 		<Text Name="JobGodPractice">
-			<DisplayName>Balance</DisplayName>
+			<DisplayName>Cân bằng</DisplayName>
 		</Text>
 		<Text Name="JobCangJingGe">
-			<DisplayName>Manual Pavilion</DisplayName>
+			<DisplayName>Tàng Kinh Các</DisplayName>
 		</Text>
 		<Text Name="JobGodPractice_Renunciation">
-			<DisplayName>Restrained</DisplayName>
+			<DisplayName>Khắc kỷ</DisplayName>
 		</Text>
 		<Text Name="JobBodyPractice">
-			<DisplayName>Remold</DisplayName>
+			<DisplayName>Ta thể</DisplayName>
 		</Text>
 		<Text Name="JobToHumanThunder">
-			<DisplayName>Shapeshifting Heavenly Tribulation</DisplayName>
+			<DisplayName>Thiên kiếp hóa hình</DisplayName>
 		</Text>
 		<Text Name="JobBodyTuna">
-			<DisplayName>Breathing Spell</DisplayName>
+			<DisplayName>Phương pháp hô hấp</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

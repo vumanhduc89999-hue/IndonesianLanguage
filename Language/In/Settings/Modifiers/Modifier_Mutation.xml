@@ -2,1098 +2,1099 @@
 	<List>
 		<Text Name="Modifier_Mutation_UnstableBase">
 			<DisplayName>Heavenly Chaos</DisplayName>
-			<Desc>Di bawah pengaruh Turbulent Heavenly Chaos, semua statistik diubah.</Desc>
+			<Desc>Under the influence of Turbulent Heavenly Chaos, all stats are altered.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_YinYangBase">
 			<DisplayName>Heavenly Chaos</DisplayName>
-			<Desc>Karena Pengakuan Iman Yin Yang dari Kekacauan Surgawi, semua statistik diubah untuk sementara</Desc>
+			<Desc>Due to Yin Yang Creed of Heavenly Chaos, all stats are temporarily altered</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_ConstantBase">
 			<DisplayName>Heavenly Chaos</DisplayName>
-			<Desc>Dipengaruhi oleh Constant Heavenly Chaos, semua statistik diubah.</Desc>
+			<Desc>Affected by Constant Heavenly Chaos, all stats are modified.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_1">
-			<Desc>Mengurangi Karisma sebesar 10%</Desc>
+			<Desc>Mị lực giảm 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_2">
-			<Desc>Mengurangi Karisma sebesar 30%</Desc>
+			<Desc>Mị lực giảm 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_3">
-			<Desc>Mengurangi Karisma sebesar 50%</Desc>
+			<Desc>Mị lực giảm 50%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_4">
-			<Desc>Menurunkan Kecerdasan sebesar 10%</Desc>
+			<Desc>Decrease Intelligence by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_5">
-			<Desc>Menurunkan Kecerdasan sebesar 30%</Desc>
+			<Desc>Decrease Intelligence by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_6">
-			<Desc>Kecerdasan berkurang 50%</Desc>
+			<Desc>Intelligence reduced by 50%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_7">
-			<Desc>Mengurangi Keberuntungan sebesar 10%</Desc>
+			<Desc>Decrease Luck by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_8">
-			<Desc>Keberuntungan berkurang 30%</Desc>
+			<Desc>Luck reduced by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_9">
-			<Desc>Keberuntungan berkurang 50%</Desc>
+			<Desc>Luck reduced by 50%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_10">
-			<Desc>Turunkan Persepsi sebesar 10%</Desc>
+			<Desc>Decrease Perception by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_11">
-			<Desc>Turunkan Persepsi sebesar 30%</Desc>
+			<Desc>Decrease Perception by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_12">
-			<Desc>Turunkan Persepsi sebesar 50%</Desc>
+			<Desc>Decrease Perception by 50%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_13">
-			<Desc>Turunkan Konstitusi sebesar 10%</Desc>
+			<Desc>Decrease Constitution by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_14">
-			<Desc>Turunkan Konstitusi sebesar 30%</Desc>
+			<Desc>Decrease Constitution by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_15">
-			<Desc>Turunkan Konstitusi sebesar 50%</Desc>
+			<Desc>Decrease Constitution by 50%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_16">
-			<Desc>Lima Atribut berkurang 10%</Desc>
+			<Desc>Five Attributes reduced by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BaseFive_17">
-			<Desc>Kurangi Kelima Atribut sebesar 30%</Desc>
+			<Desc>Decrease All Five Attributes by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_1">
-			<Desc>Meningkatkan Karisma sebesar 10%</Desc>
+			<Desc>Mị lực tăng 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_2">
-			<Desc>Meningkatkan Karisma sebesar 30%</Desc>
+			<Desc>Mị lực tăng 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_3">
-			<Desc>Meningkatkan Karisma sebesar 50%</Desc>
+			<Desc>Mị lực tăng 50%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_4">
-			<Desc>Meningkatkan Kecerdasan sebesar 10%</Desc>
+			<Desc>Increase Intelligence by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_5">
-			<Desc>Meningkatkan Kecerdasan sebesar 30%</Desc>
+			<Desc>Increase Intelligence by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_6">
-			<Desc>Meningkatkan Kecerdasan sebesar 50%</Desc>
+			<Desc>Increase Intelligence by 50%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_7">
-			<Desc>Tingkatkan Keberuntungan sebesar 10%</Desc>
+			<Desc>Increase Luck by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_8">
-			<Desc>Keberuntungan meningkat sebesar 30%</Desc>
+			<Desc>Luck increased by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_9">
-			<Desc>Tingkatkan Keberuntungan sebesar 50%</Desc>
+			<Desc>Increase Luck by 50%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_10">
-			<Desc>Tingkatkan Persepsi sebesar 10%</Desc>
+			<Desc>Increase Perception by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_11">
-			<Desc>Tingkatkan Persepsi sebesar 30%</Desc>
+			<Desc>Increase Perception by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_12">
-			<Desc>Tingkatkan Persepsi sebesar 50%</Desc>
+			<Desc>Increase Perception by 50%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_13">
-			<Desc>Tingkatkan Konstitusi sebesar 10%</Desc>
+			<Desc>Increase Constitution by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_14">
-			<Desc>Tingkatkan Konstitusi sebesar 30%</Desc>
+			<Desc>Increase Constitution by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_15">
-			<Desc>Tingkatkan Konstitusi sebesar 50%</Desc>
+			<Desc>Increase Constitution by 50%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_16">
-			<Desc>Lima Atribut meningkat 10%</Desc>
+			<Desc>Five Attributes increased by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BaseFive_17">
-			<Desc>Tingkatkan Kelima Atribut sebesar 30%</Desc>
+			<Desc>Increase All Five Attributes by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_LingAbsorbSpeed_1">
-			<Desc>Kecepatan pemulihan Qi meningkat sebesar 75%.</Desc>
+			<Desc>Qi recovery speed increases by 75%.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_LingAbsorbSpeed_2">
-			<Desc>Pemulihan Qi tiga kali lipat.</Desc>
+			<Desc>Qi recovery triples.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_LingAbsorbSpeed_3">
-			<Desc>Kecepatan pemulihan Qi meningkat 500%.</Desc>
+			<Desc>Qi recovery speed increases by 500%.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_LingAbsorbSpeed_1">
-			<Desc>Pemulihan Qi melambat sebesar 75%.</Desc>
+			<Desc>Qi recovery slows by 75%.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_LingAbsorbSpeed_2">
-			<Desc>Kecepatan pemulihan Qi berkurang 200%.</Desc>
+			<Desc>Qi recovery speed decreases by 200%.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_LingAbsorbSpeed_3">
-			<Desc>Kecepatan pemulihan Qi berkurang 500%</Desc>
+			<Desc>Qi recovery speed reduced by 500%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_NpcLingMaxValue_1">
-			<Desc>Tingkatkan batas Qi.</Desc>
+			<Desc>Increase Qi limit.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_NpcLingMaxValue_2">
-			<Desc>Tingkatkan batas Qi secara moderat.</Desc>
+			<Desc>Moderately increase Qi limit.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_NpcLingMaxValue_3">
-			<Desc>Meningkatkan batas Qi secara signifikan.</Desc>
+			<Desc>Significantly increase Qi limit.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_NpcFight_ShieldConversionRate_1">
-			<Desc>Sedikit meningkatkan Kekuatan penghalang Qi.</Desc>
+			<Desc>Slightly enhances the Power of Qi barrier.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_NpcFight_ShieldConversionRate_2">
-			<Desc>Tingkatkan kekuatan penghalang Qi</Desc>
+			<Desc>Enhance Qi barrier strength</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_NpcFight_ShieldConversionRate_1">
-			<Desc>Sedikit melemahkan penghalang Kekuatan Qi</Desc>
+			<Desc>Slightly weakens the Power of Qi barrier</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_NpcFight_ShieldConversionRate_2">
-			<Desc>Melemahkan kekuatan penghalang Qi</Desc>
+			<Desc>Weaken Qi barrier strength</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_MaxAge_1">
-			<Desc>Tingkatkan sedikit batas umur</Desc>
+			<Desc>Slightly increase lifespan cap</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_MaxAge_2">
-			<Desc>Tingkatkan Batas Umur</Desc>
+			<Desc>Increase Lifespan Cap</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_MaxAge_3">
-			<Desc>Meningkatkan batas umur secara signifikan</Desc>
+			<Desc>Significantly increase lifespan cap</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_MaxAge_1">
-			<Desc>Sedikit Kurangi Batas Umur</Desc>
+			<Desc>Slightly Reduce Lifespan Cap</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_MaxAge_2">
-			<Desc>Kurangi Batas Umur</Desc>
+			<Desc>Decrease Lifespan Cap</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_MaxAge_3">
-			<Desc>Mengurangi batas umur secara signifikan</Desc>
+			<Desc>Significantly reduce lifespan cap</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_PracticeRateAddPFromDan_1">
-			<Desc>Sedikit meningkatkan peluang terobosan kemacetan</Desc>
+			<Desc>Slightly increase bottleneck breakthrough chance</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_PracticeRateAddPFromDan_2">
-			<Desc>Meningkatkan kemungkinan terobosan kemacetan</Desc>
+			<Desc>Increase bottleneck breakthrough probability</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_PracticeRateAddPFromDan_3">
-			<Desc>Meningkatkan peluang terobosan kemacetan secara signifikan</Desc>
+			<Desc>Significantly increase bottleneck breakthrough chance</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_PracticeRateAddPFromDan_1">
-			<Desc>Sedikit mengurangi peluang terobosan kemacetan</Desc>
+			<Desc>Slightly reduce bottleneck breakthrough chance</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_PracticeRateAddPFromDan_2">
-			<Desc>Mengurangi kemungkinan terobosan kemacetan</Desc>
+			<Desc>Decrease bottleneck breakthrough probability</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_DeepPracticeSpeedSpecialCoefficient_1">
-			<Desc>Sedikit meningkatkan kecepatan budidaya</Desc>
+			<Desc>Slightly increase cultivation speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_DeepPracticeSpeedSpecialCoefficient_2">
-			<Desc>Sangat meningkatkan kecepatan budidaya</Desc>
+			<Desc>Greatly increase cultivation speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_DeepPracticeSpeedSpecialCoefficient_1">
-			<Desc>Sedikit mengurangi kecepatan budidaya</Desc>
+			<Desc>Slightly reduce cultivation speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_DeepPracticeSpeedSpecialCoefficient_2">
-			<Desc>Sangat mengurangi kecepatan budidaya</Desc>
+			<Desc>Greatly reduce cultivation speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_MindStateBaseValue_1">
-			<Desc>Tingkatkan sedikit nilai Status Mental dasar</Desc>
+			<Desc>Slightly increase base Mental State value</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_MindStateBaseValue_2">
-			<Desc>Meningkatkan nilai Keadaan Mental dasar</Desc>
+			<Desc>Increase base Mental State value</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_MindStateBaseValue_3">
-			<Desc>Meningkatkan nilai Status Mental dasar secara signifikan</Desc>
+			<Desc>Significantly increase base Mental State value</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_MindStateBaseValue_1">
-			<Desc>Turunkan sedikit nilai Status Mental dasar</Desc>
+			<Desc>Slightly decrease base Mental State value</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_MindStateBaseValue_2">
-			<Desc>Menurunkan nilai Status Mental dasar</Desc>
+			<Desc>Decrease base Mental State value</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_MindStateBaseValue_3">
-			<Desc>Mengurangi nilai Status Mental dasar secara signifikan</Desc>
+			<Desc>Significantly decrease base Mental State value</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_NutritionWaterAutoRecover_1">
-			<Desc>Tingkat kelaparan pulih secara otomatis</Desc>
+			<Desc>Auto-recover hunger level</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_NutritionConsumeConstant_1">
-			<Desc>Menjadi Kurang Lapar</Desc>
+			<Desc>Become Less Hungry</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_NutritionConsumeConstant_1">
-			<Desc>Menjadi Lebih Lapar</Desc>
+			<Desc>Become More Hungry</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_FatigueConsumeConstant_1">
-			<Desc>Menjadi kurang rentan terhadap kelelahan</Desc>
+			<Desc>Become less prone to fatigue</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_FatigueConsumeConstant_1">
-			<Desc>Menjadi lebih rentan terhadap kelelahan</Desc>
+			<Desc>Become more prone to fatigue</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_WaterConsumeConstant_1">
-			<Desc>Menjadi kurang rentan terhadap rasa haus</Desc>
+			<Desc>Become less prone to thirst</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_WaterConsumeConstant_1">
-			<Desc>Menjadi lebih rentan terhadap rasa haus</Desc>
+			<Desc>Become more prone to thirst</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_MoveSpeed_1">
-			<Desc>Sedikit Tingkatkan Kecepatan Bergerak</Desc>
+			<Desc>Slightly Increase Move Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_MoveSpeed_2">
-			<Desc>Meningkatkan Kecepatan Gerakan</Desc>
+			<Desc>Increase Movement Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_MoveSpeed_3">
-			<Desc>Meningkatkan Kecepatan Bergerak Secara Signifikan</Desc>
+			<Desc>Significantly Increase Move Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_MoveSpeed_1">
-			<Desc>Kurangi Sedikit Kecepatan Bergerak</Desc>
+			<Desc>Slightly Reduce Move Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_MoveSpeed_2">
-			<Desc>Kurangi Kecepatan Gerakan</Desc>
+			<Desc>Decrease Movement Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_MoveSpeed_3">
-			<Desc>Mengurangi kecepatan gerakan secara signifikan</Desc>
+			<Desc>Significantly reduce movement speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_GlobalEfficiency_1">
-			<Desc>Sedikit meningkatkan efisiensi kerja global</Desc>
+			<Desc>Slightly boost global work efficiency</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_GlobalEfficiency_2">
-			<Desc>Meningkatkan Efisiensi Kerja Global</Desc>
+			<Desc>Increase Global Work Efficiency</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_GlobalEfficiency_3">
-			<Desc>Secara signifikan meningkatkan efisiensi kerja global</Desc>
+			<Desc>Significantly boost global work efficiency</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_GlobalEfficiency_1">
-			<Desc>Sedikit mengurangi efisiensi kerja global</Desc>
+			<Desc>Slightly reduce global work efficiency</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_GlobalEfficiency_2">
-			<Desc>Mengurangi Efisiensi Kerja Global</Desc>
+			<Desc>Reduce Global Work Efficiency</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_GlobalEfficiency_3">
-			<Desc>Secara signifikan mengurangi efisiensi kerja global</Desc>
+			<Desc>Significantly reduce global work efficiency</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_IntelligenceSkillEXPConstant_1">
-			<Desc>Meningkatkan Kecepatan Belajar</Desc>
+			<Desc>Increase Learning Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_IntelligenceSkillEXPConstant_2">
-			<Desc>Meningkatkan kecepatan belajar secara signifikan</Desc>
+			<Desc>Significantly increase learning speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_IntelligenceSkillEXPConstant_1">
-			<Desc>Mengurangi Kecepatan Belajar</Desc>
+			<Desc>Decrease Learning Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_IntelligenceSkillEXPConstant_2">
-			<Desc>Mengurangi Kecepatan Belajar Secara Signifikan</Desc>
+			<Desc>Significantly Reduce Learning Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_AbilityLvAddV_1">
-			<Desc>Sedikit mengurangi bonus Pencapaian</Desc>
+			<Desc>Slightly reduce Attainment bonus</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_AbilityLvAddV_2">
-			<Desc>Kurangi bonus Pencapaian</Desc>
+			<Desc>Reduce Attainment bonus</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_AbilityLvAddV_3">
-			<Desc>Mengurangi Bonus Pencapaian Secara Signifikan</Desc>
+			<Desc>Significantly Reduce Attainment Bonus</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_AbilityLvAddV_1">
-			<Desc>Sedikit Tingkatkan Bonus Pencapaian</Desc>
+			<Desc>Slightly Increase Attainment Bonus</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_AbilityLvAddV_2">
-			<Desc>Meningkatkan Pencapaian</Desc>
+			<Desc>Increase Attainment</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_AbilityLvAddV_3">
-			<Desc>Meningkatkan Bonus Pencapaian Secara Signifikan</Desc>
+			<Desc>Significantly Increase Attainment Bonus</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_ComfyTMax_1">
-			<Desc>Meningkatkan adaptasi terhadap suhu tinggi</Desc>
+			<Desc>Increase adaptation to high temperatures</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_ComfyTMax_1">
-			<Desc>Kurangi Adaptasi terhadap Suhu Tinggi</Desc>
+			<Desc>Reduce Adaptation to High Temperatures</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_ComfyTMin_1">
-			<Desc>Meningkatkan Adaptasi terhadap Suhu Rendah</Desc>
+			<Desc>Increase Adaptation to Low Temperatures</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_ComfyTMin_1">
-			<Desc>Kurangi Adaptasi terhadap Suhu Rendah</Desc>
+			<Desc>Reduce Adaptation to Low Temperatures</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_DanMake_1">
-			<Desc>Kecepatan alkimia karakter, tingkat keberhasilan, dan hasil meningkat pesat</Desc>
+			<Desc>Character's alchemy speed, success rate, and yield greatly increase</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_DanMake_1">
-			<Desc>Kecepatan alkimia karakter, tingkat keberhasilan, dan hasil menurun tajam</Desc>
+			<Desc>Character's alchemy speed, success rate, and yield sharply decrease</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_FabaoMake_1">
-			<Desc>Secara signifikan meningkatkan kecepatan, tingkat keberhasilan, peringkat, kualitas, dan peluang pembuatan artefak penyempurnaan item magis karakter.</Desc>
+			<Desc>Significantly enhance the speed, success rate, rank, quality, and artifact creation chance of character's magical item refinement.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_FabaoMake_1">
-			<Desc>Mengurangi secara signifikan kecepatan, tingkat keberhasilan, peringkat, kualitas, dan peluang pembuatan artefak dari penyempurnaan item magis karakter.</Desc>
+			<Desc>Significantly reduce the speed, success rate, rank, quality, and artifact creation chance of character's magical item refinement.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Treatment_1">
-			<Desc>Kecepatan dan efektivitas penyembuhan karakter meningkat secara signifikan</Desc>
+			<Desc>Character healing speed and effectiveness are significantly increased</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Treatment_1">
-			<Desc>Kecepatan dan efektivitas penyembuhan karakter berkurang secara signifikan</Desc>
+			<Desc>Character healing speed and effectiveness are significantly reduced</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Butcher_1">
-			<Desc>Kecepatan dan hasil pemotongan karakter meningkat secara signifikan</Desc>
+			<Desc>Character butchery speed and yield are significantly increased</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Butcher_1">
-			<Desc>Kecepatan dan hasil pemotongan karakter berkurang secara signifikan</Desc>
+			<Desc>Character butchery speed and yield are significantly reduced</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Cooking_1">
-			<Desc>Kecepatan memasak karakter dan tingkat keterampilan memasak meningkat secara signifikan.</Desc>
+			<Desc>Character's cooking speed and cooking skill level significantly increased.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Cooking_1">
-			<Desc>Kecepatan memasak karakter dan tingkat keterampilan memasak berkurang secara signifikan.</Desc>
+			<Desc>Character's cooking speed and cooking skill level significantly reduced.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_ConstructionSpeed_1">
-			<Desc>Membangun Kecepatan &amp; Tingkat Keterampilan Konstruksi Meningkat Secara Signifikan</Desc>
+			<Desc>Building Speed &amp; Construction Skill Level Significantly Increased</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_ConstructionSpeed_1">
-			<Desc>Membangun Kecepatan &amp; Tingkat Keterampilan Konstruksi Menurun Secara Signifikan</Desc>
+			<Desc>Building Speed &amp; Construction Skill Level Significantly Decreased</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Mining_1">
-			<Desc>Kecepatan dan hasil penambangan karakter meningkat secara signifikan</Desc>
+			<Desc>Character mining speed and yield are significantly increased</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Mining_1">
-			<Desc>Kecepatan dan hasil penambangan karakter berkurang secara signifikan</Desc>
+			<Desc>Character mining speed and yield are significantly reduced</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Coolie_1">
-			<Desc>Bantuan bencana, pembersihan, dan kecepatan pergerakan karakter meningkat pesat</Desc>
+			<Desc>Character's disaster relief, cleaning, and movement speeds greatly increase</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Coolie_1">
-			<Desc>Bantuan bencana, pembersihan, dan kecepatan pergerakan karakter menurun tajam</Desc>
+			<Desc>Character's disaster relief, cleaning, and movement speeds sharply decrease</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_1">
-			<Desc>Keterampilan Pertempuran Level +1 (peningkatan batas)</Desc>
+			<Desc>Battle Skill Level +1 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_2">
-			<Desc>Keterampilan pertempuran tingkat +1</Desc>
+			<Desc>Battle skill level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_3">
-			<Desc>Tingkat Keterampilan Pertempuran +2</Desc>
+			<Desc>Battle Skill Level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_4">
-			<Desc>Keterampilan Duniawi Level +1 (batas peningkatan)</Desc>
+			<Desc>Worldly Skill Level +1 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_5">
-			<Desc>Tingkat Keterampilan Sosial +1</Desc>
+			<Desc>Social Skill Level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_6">
-			<Desc>Tingkat Keterampilan Sosial +2</Desc>
+			<Desc>Social Skill Level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_7">
-			<Desc>Keterampilan artisanry level +1 (peningkatan batas)</Desc>
+			<Desc>Artisanry skill level +1 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_8">
-			<Desc>Keterampilan Pengrajin Tingkat +1</Desc>
+			<Desc>Artisanry Skill Level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_9">
-			<Desc>Tingkat Keterampilan Pengrajin +2</Desc>
+			<Desc>Artisanry Skill Level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_10">
-			<Desc>Skill Qi Sense Level +1 (peningkatan batas)</Desc>
+			<Desc>Qi Sense Skill Level +1 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_11">
-			<Desc>Tingkat Keterampilan Qi Sense +1</Desc>
+			<Desc>Qi Sense Skill Level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_12">
-			<Desc>Tingkat Keterampilan Qi Sense +2</Desc>
+			<Desc>Qi Sense Skill Level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_13">
-			<Desc>Skill Crafting/Artifact Crafting level +1 (meningkatkan batas).</Desc>
+			<Desc>Crafting/Artifact Crafting skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_14">
-			<Desc>Meningkatkan level keterampilan Kerajinan/Kerajinan Artefak sebanyak +1.</Desc>
+			<Desc>Increase own Crafting/Artifact Crafting skill level by +1.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_15">
-			<Desc>Meningkatkan level skill Crafting/Artifact Crafting sendiri sebesar +2.</Desc>
+			<Desc>Increase own Crafting/Artifact Crafting skill level by +2.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_16">
-			<Desc>Level keterampilan Kedokteran/Alkimia +1 (meningkatkan batas).</Desc>
+			<Desc>Medicine/Alchemy skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_17">
-			<Desc>Keterampilan Kedokteran/Alkimia +1</Desc>
+			<Desc>Medicine/Alchemy Skill +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_18">
-			<Desc>Meningkatkan level keahlian Kedokteran/Alkimia sebanyak +2.</Desc>
+			<Desc>Increase own Medicine/Alchemy skill level by +2.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_19">
-			<Desc>Penguasaan Artefak Level +1 (peningkatan batas)</Desc>
+			<Desc>Artifact Mastery Level +1 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_20">
-			<Desc>Keterampilan Penguasaan Artefak Level +1</Desc>
+			<Desc>Artifact Mastery Skill Level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_21">
-			<Desc>Tingkat Keterampilan Penguasaan Artefak +2</Desc>
+			<Desc>Artifact Mastery Skill Level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_22">
-			<Desc>Level Keterampilan Mantra +1 (batas peningkatan)</Desc>
+			<Desc>Spell Skill Level +1 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_23">
-			<Desc>Tingkat keterampilan mantra +1</Desc>
+			<Desc>Spell skill level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_24">
-			<Desc>Tingkat Keterampilan Mantra +2</Desc>
+			<Desc>Spell Skill Level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_25">
-			<Desc>Keterampilan Perlindungan Level +1 (peningkatan batas)</Desc>
+			<Desc>Protection Skill Level +1 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_26">
-			<Desc>Tingkat keterampilan perlindungan +1</Desc>
+			<Desc>Protection skill level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_27">
-			<Desc>Tingkat Keterampilan Perlindungan +2</Desc>
+			<Desc>Protection Skill Level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_28">
-			<Desc>Keterampilan Array Level +1 (peningkatan batas)</Desc>
+			<Desc>Array Skill Level +1 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_29">
-			<Desc>Keterampilan Formasi Level +1</Desc>
+			<Desc>Formation Skill Level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_30">
-			<Desc>Tingkat keterampilan formasi +2</Desc>
+			<Desc>Formation skill level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_31">
-			<Desc>Keterampilan menambang level +1 (meningkatkan batas)</Desc>
+			<Desc>Mining skill level +1 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_32">
-			<Desc>Keterampilan Menambang Level +1</Desc>
+			<Desc>Mining Skill Level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_33">
-			<Desc>Tingkat Keterampilan Menambang +2</Desc>
+			<Desc>Mining Skill Level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_34">
-			<Desc>Keterampilan Bertani Level +1 (peningkatan batas)</Desc>
+			<Desc>Farming Skill Level +1 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_35">
-			<Desc>Tingkat Keterampilan Bertani +1</Desc>
+			<Desc>Farming Skill Level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_36">
-			<Desc>Tingkat Keterampilan Bertani +2</Desc>
+			<Desc>Farming Skill Level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_37">
-			<Desc>Keterampilan Konstruksi Level +1 (Peningkatan Batas)</Desc>
+			<Desc>Construction Skill Level +1 (Increase Cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_38">
-			<Desc>Keterampilan Konstruksi Level +1</Desc>
+			<Desc>Construction Skill Level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_39">
-			<Desc>Keterampilan Konstruksi Level +2</Desc>
+			<Desc>Construction Skill Level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_40">
-			<Desc>Keterampilan Memasak Level +1 (peningkatan batas)</Desc>
+			<Desc>Cooking Skill Level +1 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_41">
-			<Desc>Keterampilan Memasak Level +1</Desc>
+			<Desc>Cooking Skill Level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Skills_42">
-			<Desc>Tingkat Keterampilan Memasak +2</Desc>
+			<Desc>Cooking Skill Level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_1">
-			<Desc>Keterampilan pertempuran tingkat -1</Desc>
+			<Desc>Battle skill level -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_2">
-			<Desc>Tingkat keterampilan pertempuran -2</Desc>
+			<Desc>Battle skill level -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_3">
-			<Desc>Tingkat Keterampilan Pertempuran -3</Desc>
+			<Desc>Battle Skill Level -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_4">
-			<Desc>Tingkat Keterampilan Sosial -1</Desc>
+			<Desc>Social Skill Level -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_5">
-			<Desc>Tingkat keterampilan sosial -2</Desc>
+			<Desc>Social skill level -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_6">
-			<Desc>Tingkat Keterampilan Sosial -3</Desc>
+			<Desc>Social Skill Level -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_7">
-			<Desc>Keterampilan Pengrajin Tingkat -1</Desc>
+			<Desc>Artisanry Skill Level -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_8">
-			<Desc>Tingkat Keterampilan Pengrajin -2</Desc>
+			<Desc>Artisanry Skill Level -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_9">
-			<Desc>Tingkat Keterampilan Pengrajin -3</Desc>
+			<Desc>Artisanry Skill Level -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_10">
-			<Desc>Tingkat Keterampilan Rasa Qi -1</Desc>
+			<Desc>Qi Sense Skill Level -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_11">
-			<Desc>Tingkat Keterampilan Rasa Qi -2</Desc>
+			<Desc>Qi Sense Skill Level -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_12">
-			<Desc>Tingkat Keterampilan Rasa Qi -3</Desc>
+			<Desc>Qi Sense Skill Level -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_13">
-			<Desc>Mengurangi level skill Crafting/Artifact Crafting sendiri sebanyak -1.</Desc>
+			<Desc>Decrease own Crafting/Artifact Crafting skill level by -1.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_14">
-			<Desc>Keterampilan Membuat/Membuat Artefak -2</Desc>
+			<Desc>Crafting/Artifact Crafting Skill -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_15">
-			<Desc>Menurunkan level keterampilan membuat/membuat artefak sendiri sebanyak -3.</Desc>
+			<Desc>Decrease own crafting/artifact crafting skill level by -3.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_16">
-			<Desc>Menurunkan level keahlian Kedokteran/Alkimia sebanyak -1.</Desc>
+			<Desc>Decrease own Medicine/Alchemy skill level by -1.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_17">
-			<Desc>Menurunkan level keahlian Kedokteran/Alkimia sebanyak -2.</Desc>
+			<Desc>Decrease own Medicine/Alchemy skill level by -2.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_18">
-			<Desc>Keterampilan Kedokteran/Alkimia -3</Desc>
+			<Desc>Medicine/Alchemy Skill -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_19">
-			<Desc>Keterampilan Penguasaan Artefak Level -1</Desc>
+			<Desc>Artifact Mastery Skill Level -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_20">
-			<Desc>Tingkat Keterampilan Penguasaan Artefak -2</Desc>
+			<Desc>Artifact Mastery Skill Level -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_21">
-			<Desc>Tingkat keterampilan Penguasaan Artefak -3</Desc>
+			<Desc>Artifact Mastery skill level -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_22">
-			<Desc>Tingkat keterampilan mantra -1</Desc>
+			<Desc>Spell skill level -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_23">
-			<Desc>Tingkat Keterampilan Mantra -2</Desc>
+			<Desc>Spell Skill Level -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_24">
-			<Desc>Tingkat keterampilan mantra -3</Desc>
+			<Desc>Spell skill level -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_25">
-			<Desc>Tingkat Keterampilan Perlindungan -1</Desc>
+			<Desc>Protection Skill Level -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_26">
-			<Desc>Tingkat Keterampilan Perlindungan -2</Desc>
+			<Desc>Protection Skill Level -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_27">
-			<Desc>Tingkat Keterampilan Perlindungan -3</Desc>
+			<Desc>Protection Skill Level -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_28">
-			<Desc>Tingkat keterampilan formasi -1</Desc>
+			<Desc>Formation skill level -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_29">
-			<Desc>Tingkat Keterampilan Formasi -2</Desc>
+			<Desc>Formation Skill Level -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_30">
-			<Desc>Tingkat keterampilan formasi -3</Desc>
+			<Desc>Formation skill level -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_31">
-			<Desc>Tingkat keterampilan menambang -1</Desc>
+			<Desc>Mining skill level -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_32">
-			<Desc>Tingkat keterampilan menambang -2</Desc>
+			<Desc>Mining skill level -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_33">
-			<Desc>Tingkat Keterampilan Menambang -3</Desc>
+			<Desc>Mining Skill Level -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_34">
-			<Desc>Tingkat Keterampilan Bertani -1</Desc>
+			<Desc>Farming Skill Level -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_35">
-			<Desc>Tingkat Keterampilan Bertani -2</Desc>
+			<Desc>Farming Skill Level -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_36">
-			<Desc>Tingkat keterampilan bertani -3</Desc>
+			<Desc>Farming skill level -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_37">
-			<Desc>Keterampilan Konstruksi Tingkat -1</Desc>
+			<Desc>Construction Skill Level -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_38">
-			<Desc>Tingkat Keterampilan Konstruksi -2</Desc>
+			<Desc>Construction Skill Level -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_39">
-			<Desc>Tingkat Keterampilan Konstruksi -3</Desc>
+			<Desc>Construction Skill Level -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_40">
-			<Desc>Tingkat Keterampilan Memasak -1</Desc>
+			<Desc>Cooking Skill Level -1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_41">
-			<Desc>Tingkat Keterampilan Memasak -2</Desc>
+			<Desc>Cooking Skill Level -2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_Skills_42">
-			<Desc>Tingkat keterampilan memasak -3</Desc>
+			<Desc>Cooking skill level -3</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_Quenching_1">
-			<Desc>Kecepatan penyempurnaan tubuh karakter dan kemungkinan evolusi tingkat lanjut meningkat secara signifikan.</Desc>
+			<Desc>Character body refinement speed and advanced evolution probability significantly increase.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_ZhenEnginePower_1">
-			<Desc>Meningkatkan kapasitas beban formasi</Desc>
+			<Desc>Increase formation load capacity</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_ZhenEnginePower_2">
-			<Desc>Secara signifikan meningkatkan kapasitas beban formasi</Desc>
+			<Desc>Significantly enhance formation load capacity</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_ZhenEnginePower_1">
-			<Desc>Mengurangi kapasitas beban formasi</Desc>
+			<Desc>Decrease formation load capacity</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_ShieldResistance_1">
-			<Desc>Tingkatkan semua pengurangan kerusakan atribut</Desc>
+			<Desc>Increase all attribute damage reduction</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_ShieldResistance_2">
-			<Desc>Meningkatkan Pengurangan Kerusakan Logam</Desc>
+			<Desc>Increase Metal Damage Reduction</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_ShieldResistance_3">
-			<Desc>Meningkatkan Pengurangan Kerusakan Kayu</Desc>
+			<Desc>Increase Wood Damage Reduction</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_ShieldResistance_4">
-			<Desc>Meningkatkan Pengurangan Kerusakan Air</Desc>
+			<Desc>Increase Water Damage Reduction</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_ShieldResistance_5">
-			<Desc>Meningkatkan Pengurangan Kerusakan Akibat Kebakaran</Desc>
+			<Desc>Increase Fire Damage Reduction</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_ShieldResistance_6">
-			<Desc>Meningkatkan Pengurangan Kerusakan Atribut Bumi</Desc>
+			<Desc>Increase Earth Attribute Damage Reduction</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_ShieldResistance_1">
-			<Desc>Mengurangi Semua Pengurangan Kerusakan Atribut</Desc>
+			<Desc>Reduce All Attribute Damage Reduction</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_ShieldResistance_2">
-			<Desc>Mengurangi Pengurangan Kerusakan Logam</Desc>
+			<Desc>Decrease Metal Damage Reduction</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_ShieldResistance_3">
-			<Desc>Mengurangi Pengurangan Kerusakan Kayu</Desc>
+			<Desc>Decrease Wood Damage Reduction</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_ShieldResistance_4">
-			<Desc>Mengurangi Pengurangan Kerusakan Air</Desc>
+			<Desc>Decrease Water Damage Reduction</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_ShieldResistance_5">
-			<Desc>Mengurangi Pengurangan Kerusakan Akibat Kebakaran</Desc>
+			<Desc>Decrease Fire Damage Reduction</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_ShieldResistance_6">
-			<Desc>Mengurangi Pengurangan Kerusakan Bumi</Desc>
+			<Desc>Decrease Earth Damage Reduction</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BasepracticeSpeed_1">
-			<Desc>Tingkatkan Kecepatan Pelatihan Fondasi</Desc>
+			<Desc>Increase Foundation Training Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yang_BasepracticeSpeed_2">
-			<Desc>Meningkatkan Kecepatan Pelatihan Fondasi Secara Signifikan</Desc>
+			<Desc>Significantly Increase Foundation Training Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BasepracticeSpeed_1">
-			<Desc>Kurangi Kecepatan Pelatihan Fondasi</Desc>
+			<Desc>Decrease Foundation Training Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Yin_BasepracticeSpeed_2">
-			<Desc>Mengurangi Kecepatan Pelatihan Fondasi Secara Signifikan</Desc>
+			<Desc>Significantly Reduce Foundation Training Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_1">
-			<Desc>Meningkatkan Karisma sebesar 10%</Desc>
+			<Desc>Mị lực tăng 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_2">
-			<Desc>Meningkatkan Karisma sebesar 20%</Desc>
+			<Desc>Mị lực tăng 20%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_3">
-			<Desc>Meningkatkan Karisma sebesar 30%</Desc>
+			<Desc>Mị lực tăng 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_4">
-			<Desc>Meningkatkan Kecerdasan sebesar 10%</Desc>
+			<Desc>Increase Intelligence by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_5">
-			<Desc>Meningkatkan Kecerdasan sebesar 20%</Desc>
+			<Desc>Increase Intelligence by 20%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_6">
-			<Desc>Meningkatkan Kecerdasan sebesar 30%</Desc>
+			<Desc>Increase Intelligence by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_7">
-			<Desc>Tingkatkan Keberuntungan sebesar 10%</Desc>
+			<Desc>Increase Luck by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_8">
-			<Desc>Tingkatkan Keberuntungan sebesar 20%</Desc>
+			<Desc>Increase Luck by 20%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_9">
-			<Desc>Keberuntungan meningkat sebesar 30%</Desc>
+			<Desc>Luck increased by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_10">
-			<Desc>Tingkatkan Persepsi sebesar 10%</Desc>
+			<Desc>Increase Perception by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_11">
-			<Desc>Tingkatkan Persepsi sebesar 20%</Desc>
+			<Desc>Increase Perception by 20%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_12">
-			<Desc>Tingkatkan Persepsi sebesar 30%</Desc>
+			<Desc>Increase Perception by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_13">
-			<Desc>Tingkatkan Konstitusi sebesar 10%</Desc>
+			<Desc>Increase Constitution by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_14">
-			<Desc>Tingkatkan Konstitusi sebesar 20%</Desc>
+			<Desc>Increase Constitution by 20%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_15">
-			<Desc>Tingkatkan Konstitusi sebesar 30%</Desc>
+			<Desc>Increase Constitution by 30%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BaseFive_16">
-			<Desc>Lima Atribut meningkat 10%</Desc>
+			<Desc>Five Attributes increased by 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_LingAbsorbSpeed_1">
-			<Desc>Meningkatkan sedikit pemulihan Qi.</Desc>
+			<Desc>Boosts Qi recovery slightly.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_LingAbsorbSpeed_2">
-			<Desc>Tingkatkan kecepatan pemulihan Qi sendiri</Desc>
+			<Desc>Increase own Qi recovery speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_LingAbsorbSpeed_3">
-			<Desc>Sangat meningkatkan kecepatan pemulihan Qi.</Desc>
+			<Desc>Greatly increases Qi recovery speed.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_NpcLingMaxValue_1">
-			<Desc>Secara mendasar meningkatkan batas Qi sebesar 10%.</Desc>
+			<Desc>Tăng giới hạn Linh khí cơ bản lên 10%</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_NpcFight_ShieldConversionRate_1">
-			<Desc>Ubah kekuatan penghalang Qi</Desc>
+			<Desc>Modify Qi barrier strength</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_MaxAge_1">
-			<Desc>Ubah Batas Umur</Desc>
+			<Desc>Modify Lifespan Limit</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_PracticeRateAddPFromDan_1">
-			<Desc>Ubah Probabilitas Terobosan Kemacetan</Desc>
+			<Desc>Modify Bottleneck Breakthrough Probability</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_DeepPracticeSpeedSpecialCoefficient_1">
-			<Desc>Ubah Kecepatan Budidaya</Desc>
+			<Desc>Modify Cultivation Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_MindStateBaseValue_1">
-			<Desc>Ubah nilai Status Mental dasar</Desc>
+			<Desc>Modify base Mental State value</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_NutritionWaterAutoRecover_1">
-			<Desc>Sedikit meningkatkan kemampuan berpantang makanan dan air, otomatis mengembalikan rasa kenyang.</Desc>
+			<Desc>Slightly improve the ability to abstain from food and water, automatically restore satiety.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_NutritionWaterAutoRecover_2">
-			<Desc>Meningkatkan kemampuan untuk berpantang makanan dan minuman, secara otomatis mengembalikan rasa kenyang.</Desc>
+			<Desc>Enhances the ability to abstain from food and drink, automatically restoring satiety.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_NutritionWaterAutoRecover_3">
-			<Desc>Sangat meningkatkan kemampuan berpantang makanan dan air, secara otomatis mengembalikan rasa kenyang.</Desc>
+			<Desc>Greatly improve the ability to abstain from food and water, automatically restore satiety.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_NutritionConsumeConstant_1">
-			<Desc>Ubah Kecepatan Kelaparan</Desc>
+			<Desc>Modify Hunger Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_FatigueConsumeConstant_1">
-			<Desc>Ubah Kecepatan Kelelahan</Desc>
+			<Desc>Modify Fatigue Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_WaterConsumeConstant_1">
-			<Desc>Ubah kecepatan konsumsi air</Desc>
+			<Desc>Modify water consumption speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_MoveSpeed_1">
-			<Desc>Ubah Kecepatan Gerakan</Desc>
+			<Desc>Modify Movement Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_GlobalEfficiency_1">
-			<Desc>Ubah Efisiensi Kerja</Desc>
+			<Desc>Modify Work Efficiency</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_NeckCountdownAddV_1">
-			<Desc>Tunda Kesengsaraan</Desc>
+			<Desc>Delay Tribulation</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_IntelligenceSkillEXPConstant_1">
-			<Desc>Ubah Kecepatan Belajar</Desc>
+			<Desc>Modify Learning Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_IntelligenceSkillEXPConstant_2">
-			<Desc>Ubah Kecepatan Belajar</Desc>
+			<Desc>Modify Learning Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_IntelligenceSkillEXPConstant_3">
-			<Desc>Ubah Kecepatan Belajar</Desc>
+			<Desc>Modify Learning Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_InspirationCoefficient_1">
-			<Desc>Lebih Mudah Dipahami</Desc>
+			<Desc>Easier to Comprehend</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_ComfyTMax_1">
-			<Desc>Meningkatkan adaptasi terhadap suhu tinggi</Desc>
+			<Desc>Increase adaptation to high temperatures</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_ComfyTMin_1">
-			<Desc>Meningkatkan Adaptasi terhadap Suhu Rendah</Desc>
+			<Desc>Increase Adaptation to Low Temperatures</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_DanMake_1">
-			<Desc>Kecepatan alkimia karakter, tingkat keberhasilan, dan hasil meningkat pesat</Desc>
+			<Desc>Character's alchemy speed, success rate, and yield greatly increase</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_FabaoMake_1">
-			<Desc>Secara signifikan meningkatkan kecepatan, tingkat keberhasilan, peringkat, kualitas, dan peluang pembuatan artefak penyempurnaan item magis karakter.</Desc>
+			<Desc>Significantly enhance the speed, success rate, rank, quality, and artifact creation chance of character's magical item refinement.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Treatment_1">
-			<Desc>Kecepatan dan efektivitas penyembuhan karakter meningkat secara signifikan</Desc>
+			<Desc>Character healing speed and effectiveness are significantly increased</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Butcher_1">
-			<Desc>Kecepatan dan hasil pemotongan karakter meningkat secara signifikan</Desc>
+			<Desc>Character butchery speed and yield are significantly increased</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Cooking_1">
-			<Desc>Meningkatkan kecepatan memasak karakter secara signifikan</Desc>
+			<Desc>Significantly increase character cooking speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Handwork_1">
-			<Desc>Kecepatan memotong batu karakter, kecepatan menempa, kecepatan membuat, kecepatan menjahit, dan bonus kualitas meningkat secara drastis.</Desc>
+			<Desc>Character's stone cutting speed, forging speed, crafting speed, sewing speed, and quality bonus drastically increase.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_ConstructionSpeed_1">
-			<Desc>Kecepatan pembentukan karakter meningkat pesat</Desc>
+			<Desc>Character building speed greatly increased</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_PlantWork_1">
-			<Desc>Secara signifikan meningkatkan karakter penanaman, pemanenan, kecepatan potong, dan hasil.</Desc>
+			<Desc>Significantly boosts character's planting, harvesting, cutting speeds, and yield.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Mining_1">
-			<Desc>Kecepatan dan hasil penambangan karakter meningkat secara signifikan</Desc>
+			<Desc>Character mining speed and yield are significantly increased</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Coolie_1">
-			<Desc>Bantuan bencana, pembersihan, dan kecepatan pergerakan karakter meningkat pesat</Desc>
+			<Desc>Character's disaster relief, cleaning, and movement speeds greatly increase</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Experience_1">
-			<Desc>Kecepatan terbang petualangan karakter, faktor penguatan reputasi petualangan, kecepatan eksplorasi petualangan, dan nilai siluman meningkat secara signifikan.</Desc>
+			<Desc>Character's adventure flying speed, adventure reputation amplification factor, adventure exploration speed, and stealth value substantially increase.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_1">
-			<Desc>Keterampilan pertarungan karakter level +1</Desc>
+			<Desc>Character battle skill level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_2">
-			<Desc>Keterampilan Pertempuran Karakter +2</Desc>
+			<Desc>Character Battle Skill +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_3">
-			<Desc>Keterampilan Pertempuran Karakter level +1 (meningkatkan batas).</Desc>
+			<Desc>Character Battle skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_4">
-			<Desc>Keterampilan Sosial Karakter +1</Desc>
+			<Desc>Character Social Skill +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_5">
-			<Desc>Tingkat keterampilan sosial karakter +2</Desc>
+			<Desc>Character social skill level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_6">
-			<Desc>Keterampilan Sosial Karakter level +1 (meningkatkan batas).</Desc>
+			<Desc>Character Social skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_7">
-			<Desc>Keterampilan Pengrajin Karakter +1</Desc>
+			<Desc>Character Artisanry Skill +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_8">
-			<Desc>Keterampilan Pengrajin Karakter +2</Desc>
+			<Desc>Character Artisanry Skill +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_9">
-			<Desc>Level keterampilan Artisanry Karakter +1 (meningkatkan batas).</Desc>
+			<Desc>Character Artisanry skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_10">
-			<Desc>Keterampilan Karakter Qi Sense +1</Desc>
+			<Desc>Character Qi Sense Skill +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_11">
-			<Desc>Keterampilan Karakter Qi Sense +2</Desc>
+			<Desc>Character Qi Sense Skill +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_12">
-			<Desc>Level keterampilan Karakter Qi Sense +1 (meningkatkan batas).</Desc>
+			<Desc>Character Qi Sense skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_13">
-			<Desc>Keterampilan Pembuatan Karakter/Keterampilan Pembuatan Artefak Level +1</Desc>
+			<Desc>Character Crafting/Artifact Crafting Skill Level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_14">
-			<Desc>Level keterampilan Pembuatan Karakter/Pembuatan Artefak meningkat sebesar 2.</Desc>
+			<Desc>Character's Crafting/Artifact Crafting skill level increases by 2.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_15">
-			<Desc>Level keterampilan Pembuatan Karakter/Pembuatan Artefak +1 (peningkatan batas).</Desc>
+			<Desc>Character's Crafting/Artifact Crafting skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_16">
-			<Desc>Level Keterampilan Kedokteran/Alkimia +1</Desc>
+			<Desc>Character Medicine/Alchemy Skill Level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_17">
-			<Desc>Keterampilan Kedokteran/Alkimia +2.</Desc>
+			<Desc>Medicine/Alchemy skill +2.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_18">
-			<Desc>Level keahlian Kedokteran/Alkimia Karakter +1 (peningkatan batas).</Desc>
+			<Desc>Character's Medicine/Alchemy skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_19">
-			<Desc>Tingkat keterampilan artefak karakter +1</Desc>
+			<Desc>Character artifact skill level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_20">
-			<Desc>Level keterampilan artefak karakter +2</Desc>
+			<Desc>Character artifact skill level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_21">
-			<Desc>Tingkat keterampilan artefak karakter +1 (meningkatkan batas).</Desc>
+			<Desc>Character's artifact skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_22">
-			<Desc>Keterampilan Mantra Karakter +1</Desc>
+			<Desc>Character Spell Skill +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_23">
-			<Desc>Keterampilan Mantra Karakter +2</Desc>
+			<Desc>Character Spell Skill +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_24">
-			<Desc>Level keterampilan Mantra Karakter +1 (meningkatkan batas).</Desc>
+			<Desc>Character Spell skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_25">
-			<Desc>Keterampilan Perlindungan Karakter +1</Desc>
+			<Desc>Character Protection Skill +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_26">
-			<Desc>Tingkat keterampilan perlindungan karakter +2</Desc>
+			<Desc>Character protection skill level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_27">
-			<Desc>Skill Perlindungan Karakter level +1 (meningkatkan batas).</Desc>
+			<Desc>Character's Protection skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_28">
-			<Desc>Keterampilan Pembentukan Karakter +1</Desc>
+			<Desc>Character Formation Skill +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_29">
-			<Desc>Keterampilan Pembentukan Karakter +2</Desc>
+			<Desc>Character Formation Skill +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_30">
-			<Desc>Keterampilan Formasi Karakter level +1 (meningkatkan batas).</Desc>
+			<Desc>Character Formation skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_31">
-			<Desc>Tingkat keterampilan penambangan karakter +1</Desc>
+			<Desc>Character mining skill level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_32">
-			<Desc>Keterampilan Penggalian Karakter +2</Desc>
+			<Desc>Character Dig Skill +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_33">
-			<Desc>Level keterampilan Penambangan Karakter +1 (meningkatkan batas).</Desc>
+			<Desc>Character Mining skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_34">
-			<Desc>Keterampilan bertani karakter level +1</Desc>
+			<Desc>Character farming skill level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_35">
-			<Desc>Keterampilan bertani karakter level +2</Desc>
+			<Desc>Character farming skill level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_36">
-			<Desc>Keterampilan Bertani Karakter level +1 (meningkatkan batas).</Desc>
+			<Desc>Character Farming skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_37">
-			<Desc>Keterampilan Konstruksi Level +1</Desc>
+			<Desc>Construction Skill Level +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_38">
-			<Desc>Keterampilan Konstruksi Level +2</Desc>
+			<Desc>Construction Skill Level +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_39">
-			<Desc>Keterampilan Konstruksi Level +1 (Peningkatan Batas)</Desc>
+			<Desc>Construction Skill Level +1 (Increase Cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_40">
-			<Desc>Keterampilan Memasak Karakter +1</Desc>
+			<Desc>Character Cooking Skill +1</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_41">
-			<Desc>Keterampilan Memasak Karakter +2</Desc>
+			<Desc>Character Cooking Skill +2</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Skills_42">
-			<Desc>Skill Memasak Karakter level +1 (meningkatkan batas).</Desc>
+			<Desc>Character Cooking skill level +1 (increases cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Quenching_1">
-			<Desc>Kecepatan penyempurnaan tubuh karakter dan kemungkinan evolusi tingkat lanjut meningkat secara signifikan.</Desc>
+			<Desc>Character body refinement speed and advanced evolution probability significantly increase.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Tuna_1">
-			<Desc>Sedikit meningkatkan efisiensi pernapasan karakter</Desc>
+			<Desc>Slightly boost character breathing efficiency</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_Tuna_2">
-			<Desc>Secara signifikan meningkatkan efisiensi pernapasan karakter</Desc>
+			<Desc>Significantly enhance character breathing efficiency</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_RecoveryPower_1">
-			<Desc>Meningkatkan ketahanan alami tubuh</Desc>
+			<Desc>Increase natural body resilience</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_VisionRadius_1">
-			<Desc>Meningkatkan rentang persepsi sendiri</Desc>
+			<Desc>Increase own perception range</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_ZhenEnginePower_1">
-			<Desc>Secara signifikan meningkatkan kapasitas muatan formasi karakter.</Desc>
+			<Desc>Significantly boosts character's formation Load capacity.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_1">
-			<Desc>Sangat meningkatkan semua pengurangan kerusakan atribut untuk karakter.</Desc>
+			<Desc>Greatly enhances all attribute damage reduction for the character.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_2">
-			<Desc>Sangat meningkatkan pengurangan Kerusakan Logam pada karakter.</Desc>
+			<Desc>Greatly enhances Metal Damage reduction for the character.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_3">
-			<Desc>Sangat meningkatkan pengurangan Kerusakan Kayu pada karakter.</Desc>
+			<Desc>Greatly enhances Wood Damage reduction for the character.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_4">
-			<Desc>Sangat meningkatkan pengurangan kerusakan atribut Air pada karakter.</Desc>
+			<Desc>Greatly increases character's Water attribute damage reduction.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_5">
-			<Desc>Secara signifikan meningkatkan ketahanan terhadap kerusakan akibat kebakaran karakter.</Desc>
+			<Desc>Significantly boosts character's Fire damage resistance.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_ShieldResistance_6">
-			<Desc>Sangat meningkatkan pengurangan Kerusakan Bumi untuk karakter tersebut.</Desc>
+			<Desc>Greatly enhances Earth Damage reduction for the character.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BasepracticeSpeed_1">
-			<Desc>Tingkatkan sedikit kecepatan Pelatihan Dasar karakter</Desc>
+			<Desc>Slightly increase character Foundation Training speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BasepracticeSpeed_2">
-			<Desc>Meningkatkan Kecepatan Pelatihan Dasar Karakter</Desc>
+			<Desc>Increase Character's Foundation Training Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_BasepracticeSpeed_3">
-			<Desc>Meningkatkan kecepatan Pelatihan Dasar karakter secara signifikan</Desc>
+			<Desc>Significantly boost character Foundation Training speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_AbilityLvAddV_1">
-			<Desc>Kurangi bonus Pencapaian</Desc>
+			<Desc>Reduce Attainment bonus</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_AbilityLvAddV_2">
-			<Desc>Kurangi bonus Pencapaian</Desc>
+			<Desc>Reduce Attainment bonus</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_AbilityLvAddV_3">
-			<Desc>Meningkatkan Pencapaian</Desc>
+			<Desc>Increase Attainment</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_AbilityLvAddV_4">
-			<Desc>Meningkatkan Pencapaian</Desc>
+			<Desc>Increase Attainment</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_AgeCostSpeed_1">
-			<Desc>Secara signifikan mempercepat kecepatan peluruhan umur.</Desc>
+			<Desc>Significantly accelerate the speed of lifespan decay.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Unstable_FabaoNum_1">
-			<Desc>Buka 1 Slot Artefak</Desc>
+			<Desc>Unlock 1 Artifact Slot</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_1">
-			<Desc>Semua Level Keterampilan +2 (peningkatan batas)</Desc>
+			<Desc>All Skill Levels +2 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_2">
-			<Desc>Keterampilan Alkimia Level +5 (peningkatan batas)</Desc>
+			<Desc>Alchemy Skill Level +5 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_3">
-			<Desc>Tingkat keterampilan membuat artefak +5 (meningkatkan batas)</Desc>
+			<Desc>Artifact crafting skill level +5 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_4">
-			<Desc>Keterampilan Artisanry Level +5 (peningkatan batas)</Desc>
+			<Desc>Artisanry Skill Level +5 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_5">
-			<Desc>Level Keterampilan Duniawi +5 (batas peningkatan)</Desc>
+			<Desc>Worldly Skill Level +5 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_6">
-			<Desc>Tingkat Keterampilan Konstruksi +10</Desc>
+			<Desc>Construction Skill Level +10</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_7">
-			<Desc>Tingkat keterampilan menambang +10</Desc>
+			<Desc>Mining skill level +10</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_8">
-			<Desc>Tingkat Keterampilan Sosial -5</Desc>
+			<Desc>Social Skill Level -5</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_9">
-			<Desc>Keterampilan Pertempuran Level +5 (peningkatan batas)</Desc>
+			<Desc>Battle Skill Level +5 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_10">
-			<Desc>Tingkat Keterampilan Rasa Qi +10</Desc>
+			<Desc>Qi Sense Skill Level +10</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_11">
-			<Desc>Keterampilan Pertempuran -5</Desc>
+			<Desc>Battle Skill -5</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_12">
-			<Desc>Keterampilan perlindungan +5 (menaikkan Cap).</Desc>
+			<Desc>Protection skill +5 (raises Cap).</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Skills_13">
-			<Desc>Keterampilan Mantra +10 (peningkatan batas)</Desc>
+			<Desc>Spell Skill +10 (increase cap)</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_DeepPracticeSpeedSpecialCoefficient_2">
-			<Desc>Sangat mengurangi kecepatan budidaya</Desc>
+			<Desc>Greatly reduce cultivation speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_MaxAge_1">
-			<Desc>Tingkatkan Batas Umur</Desc>
+			<Desc>Increase Lifespan Cap</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_ComfyTMin_1">
-			<Desc>Kurangi Adaptasi terhadap Suhu Rendah</Desc>
+			<Desc>Reduce Adaptation to Low Temperatures</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_NpcLingMaxValue_1">
-			<Desc>Secara mendasar meningkatkan batas Qi</Desc>
+			<Desc>Fundamentally boost Qi limit</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Quenching_1">
-			<Desc>Kecepatan pernapasan dan pemurnian tubuh karakter, serta kemungkinan evolusi tingkat lanjut selama pemurnian tubuh, menurun secara signifikan.</Desc>
+			<Desc>Character's breathing and body refining speeds, and advanced evolution probability during body refining, significantly decrease.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Experience_1">
-			<Desc>Kecepatan terbang petualangan karakter, faktor penguatan reputasi petualangan, kecepatan eksplorasi petualangan, dan nilai siluman menurun secara signifikan.</Desc>
+			<Desc>Character's adventure flying speed, adventure reputation amplification factor, adventure exploration speed, and stealth value substantially decrease.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_MindStateBaseValue_1">
-			<Desc>Mengurangi Bonus Keadaan Mental Secara Signifikan</Desc>
+			<Desc>Significantly Reduce Mental State Bonus</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_Handwork_1">
-			<Desc>Kecepatan memotong batu karakter, kecepatan menempa, kecepatan membuat, kecepatan menjahit, dan bonus kualitas menurun drastis.</Desc>
+			<Desc>Character's stone cutting speed, forging speed, crafting speed, sewing speed, and quality bonus drastically decrease.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_ConsumeConstant_1">
-			<Desc>Karakter lebih cenderung merasa lapar, haus, dan lelah</Desc>
+			<Desc>Characters are more likely to feel hunger, thirst, and fatigue</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_BasepracticeSpeedCoefficient_1">
-			<Desc>Meningkatkan Pelatihan Fondasi dan kecepatan kultivasi untuk sementara.</Desc>
+			<Desc>Temporarily increase Foundation Training and cultivation speed.</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_BasepracticeSpeedCoefficient_2">
-			<Desc>Secara signifikan mengurangi pelatihan dasar dan kecepatan budidaya</Desc>
+			<Desc>Significantly reduce foundation training and cultivation speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_IntelligenceSkillEXPConstant_1">
-			<Desc>Meningkatkan Kecepatan Belajar</Desc>
+			<Desc>Increase Learning Speed</Desc>
 		</Text>
 		<Text Name="Modifier_Mutation_Constant_IntelligenceSkillEXPConstant_2">
-			<Desc>Menurunkan Kecepatan Belajar, dan + 5 Level Penguasaan Artefak (Meningkatkan Batas)</Desc>
+			<Desc>Decrease Learning Speed, and + 5 Artifact Mastery Level (Increase Cap)</Desc>
 		</Text>
 	</List>
 </Texts>
+

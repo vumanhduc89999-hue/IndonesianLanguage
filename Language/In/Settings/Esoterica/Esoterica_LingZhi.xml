@@ -1,54 +1,55 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Esoterica_LingZhi_MiFa_Ling_Jin">
-			<DisplayName>Natural Law (Codex of Langya)</DisplayName>
-			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Pemberkatan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Menurunkan Pencapaian secara signifikan.\nPahami arti sebenarnya dari ilmu pedang, tembus batas Penguasaan Pedang sebanyak 5 level.[/color][/size]</EffectDesc>
+			<DisplayName>Bản Nguyên Chân Pháp-Lang Nha Điển</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng linh tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể đạo hạnh\nNgộ ý chân thực của ngự kiếm, đột phá giới hạn kỹ năng ngự kiếm lên cấp 5.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Ling_Mu">
-			<DisplayName>Natural Law (Sutra of Wither and Flourish)</DisplayName>
-			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Pemberkatan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Menurunkan Pencapaian secara signifikan.\nMengurangi tingkat penurunan Umur secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Bản Nguyên Chân Pháp-Khô Vinh Kinh</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng linh tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể đạo hạnh\nGiảm đáng kể tốc độ hao mòn thọ nguyên[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Ling_Shui">
-			<DisplayName>Natural Law (Book of Buddhists)</DisplayName>
-			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Pemberkatan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Menurunkan Pencapaian secara signifikan.\nMeningkatkan tingkat konversi Stamina secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Bản Nguyên Chân Pháp-Thanh Liên Thư</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng linh tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể đạo hạnh\nTăng đáng kể tỷ lệ chuyển hóa tinh nguyên[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Ling_Huo">
-			<DisplayName>Natural Law (Record of Delicate Wisdom)</DisplayName>
-			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Pemberkatan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Menurunkan Pencapaian secara signifikan.\nPahami arti sebenarnya dari Mantra, tembus batas keterampilan Mantra sebanyak 5 level.[/color][/size]</EffectDesc>
+			<DisplayName>Bản Nguyên Chân Pháp-Minh Di Lục</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng linh tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể đạo hạnh\nNgộ ý chân thực của thuật pháp, đột phá giới hạn kỹ năng thuật pháp lên cấp 5.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Ling_Tu">
-			<DisplayName>Natural Law (Chant of Dwelling Dragon)</DisplayName>
-			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Pemberkatan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Menurunkan Pencapaian secara signifikan.\nMeningkatkan efisiensi Penyerapan Qi secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Bản Nguyên Chân Pháp-Uẩn Long Quyết</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng linh tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đáng kể đạo hạnh\nTăng đáng kể hiệu suất hấp thụ khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Sha_Jin">
-			<DisplayName>Divergent Law (Incantation of Spiritual Purity)</DisplayName>
-			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Kutukan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecaman secara signifikan.\nMeningkatkan Potensi secara signifikan.\nMeningkatkan Persepsi sebesar 100%.[/color][/size]</EffectDesc>
+			<DisplayName>Nghịch Nguyên Chân Pháp-Vô Vọng Tâm Ma Chú</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng sát tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể thiên phạt\nTăng đáng kể tiềm năng\nThần thức tăng gấp đôi[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Sha_Mu">
-			<DisplayName>Divergent Law (Sutra of Great Offense)</DisplayName>
-			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Kutukan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Penghukuman secara signifikan.\nPahami arti sebenarnya dari pengerjaan, tembus batas keterampilan Pembuatan Artefak sebanyak 5 level. \nMeningkatkan Konstitusi sebesar 100%.[/color][/size]</EffectDesc>
+			<DisplayName>Nghịch Nguyên Chân Pháp-Đại Quá Kinh</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng sát tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể thiên phạt\nNgộ ý chân thực của luyện khí, đột phá giới hạn kỹ năng luyện khí lên cấp 5.\nGân cốt tăng gấp đôi[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Sha_Shui">
-			<DisplayName>Divergent Law (Unfulfilled Relief)</DisplayName>
-			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Kutukan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecaman secara signifikan.\nMeningkatkan tingkat konsumsi makanan secara signifikan.\nMeningkatkan Karisma sebesar 100%.[/color][/size]</EffectDesc>
+			<DisplayName>Nghịch Nguyên Chân Pháp-Vị Tế Thất Tuyệt Thể</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng sát tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể thiên phạt\nTăng đáng kể tốc độ tiêu thụ thực phẩm\nQuyến rũ tăng gấp đôi[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Sha_Huo">
-			<DisplayName>Divergent Law (Heavenly Revolution)</DisplayName>
-			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Kutukan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Penghukuman secara signifikan.\nPahami arti sebenarnya dari Alkimia, tembus batas keterampilan Alkimia sebanyak 5 level. \nMeningkatkan Kecerdasan sebesar 100%.[/color][/size]</EffectDesc>
+			<DisplayName>Nghịch Nguyên Chân Pháp-Cách Thiên Lục</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng sát tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể thiên phạt\nNgộ ý chân thực của luyện đan, đột phá giới hạn kỹ năng luyện đan lên cấp 5.\nNgộ tính tăng gấp đôi[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LingZhi_MiFa_Sha_Tu">
-			<DisplayName>Divergent Law (Reversed Misfortune)</DisplayName>
-			<Desc>Sebuah kodeks rahasia, isinya dipahami dari sekilas Tao Lima Elemen melalui Kutukan Akar Roh. Tao yang bisa diucapkan bukanlah Tao yang abadi. Ini adalah pemahaman seorang kultivator ketika berhadapan dengan Tao yang agung dan oleh karena itu sulit untuk disampaikan kepada orang lain.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Penghukuman secara signifikan.\nPahami arti sebenarnya dari Perlindungan, tembus batas keterampilan Perlindungan sebanyak 5 level. \nMeningkatkan Keberuntungan sebesar 100%.[/color][/size]</EffectDesc>
+			<DisplayName>Nghịch Nguyên Chân Pháp-Phủ Cực Vô Cữu Thư</DisplayName>
+			<Desc>Bí điển ngộ đạo thông qua việc sử dụng sát tính của linh căn trời đất làm môi giới để nhìn thấu đại đạo ngũ hành. Cái gọi là "Đạo khả đạo, phi thường đạo", đây là cảm ngộ mà người tu hành đối diện trực tiếp với đại đạo mà sinh ra, vì vậy rất khó truyền thụ cho người khác.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cường mạnh Thiên Khiển\nLĩnh ngộ chân ý Hộ Thể, đột phá giới hạn kỹ năng Hộ Thể lên cấp 5.\nCơ duyên tăng gấp đôi[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>
+

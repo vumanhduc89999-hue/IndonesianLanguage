@@ -1209,3 +1209,4 @@
 /Settings/TeachFile/XL-02.osave	Skill.SkillDefs.TDamageSkill-577.DisplayName	玄武绝杀诀	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/XL-02.osave	Skill.SkillDefs.TFabaoSkill-95.DisplayName	通天咒	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/XL-02.osave	Skill.SkillDefs.TDamageSkill-578.DisplayName	癸水飞星神雷	-1	_ReplaceSkillDisplaceName
+

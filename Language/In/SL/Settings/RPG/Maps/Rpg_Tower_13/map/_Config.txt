@@ -49,7 +49,8 @@
 /Settings/RPG/Maps/Rpg_Tower_13/map.txt	Things.Things.880.PropertyMgr._hd.BackStoryDesc.1	天苍 227年第75日,通过从闻药味获取的理智，对有点担忧的感知，对雷的认知，产生了一点灵智碎片。
 天苍 238年第21日,通过从闻泥土的味道获取的理智，对思念的感知，对武器的认知，产生了一点灵智碎片。
 天苍 242年第111日,通过从看地面获取的理智，对躁动的感知，对春季的认知，产生了一点灵智碎片。
-天苍 244年第95日,通过从回忆获取的理智，对有点恐惧的感知，对食物的认知，产生了一点灵智碎片。	880.1	
+天苍 244年第95日,通过从回忆获取的理智，对有点恐惧的感知，对食物的认知，产生了一点灵智碎片。
+	880.1	
 /Settings/RPG/Maps/Rpg_Tower_13/map.txt	Things.Things.880.Titles.0.title	九天冥河之主	880.0	
 /Settings/RPG/Maps/Rpg_Tower_13/map.txt	Skills.SkillDefs.TDamageSkill-618.DisplayName	玉虚飞星	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_13/map.txt	Skills.SkillDefs.THealthSkill-131.DisplayName	炎神殿五气真言	-1	_ReplaceSkillDisplaceName
@@ -61,4 +62,5 @@
 /Settings/RPG/Maps/Rpg_Tower_13/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param2	让我痛饮汝浑浊的血浆，呷呷呷呷！	1	
 /Settings/RPG/Maps/Rpg_Tower_13/map.txt	RPGInfo.MapInfo.Title	走向死亡	-1	
 /Settings/RPG/Maps/Rpg_Tower_13/map.txt	RPGInfo.MapInfo.Desc	自我恢复停止	-1	
-/Settings/RPG/Maps/Rpg_Tower_13/map.txt	RPGInfo.MapInfo.EnterContent	这里是通向阴曹地府的一段路。在邪法坛的镇压之下，万物都无法再生。	-1	
+/Settings/RPG/Maps/Rpg_Tower_13/map.txt	RPGInfo.MapInfo.EnterContent	这里是通向阴曹地府的一段路。在邪法坛的镇压之下，万物都无法再生。	-1
+

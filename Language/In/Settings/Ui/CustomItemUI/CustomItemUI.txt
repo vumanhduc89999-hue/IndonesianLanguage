@@ -1,55 +1,57 @@
-﻿Name	DisplayName	Tips
-		
-DisplayName	nama	nama proyek。
-Desc	menggambarkan	Deskripsi rinci tentang proyek。
-Element	lima elemen	Lima elemen atribut item。
-Rate	nilai	Tingkat itemnya。
-Zhuji	nilai fondasi	Nilai bangunan fondasi meningkat ketika murid luar mengambil item ini。（Isi rentangnya：0~30000）
-Fesistance	resistensi obat	Tingkat penurunan kemanjuran obat setelah meminumnya berkali-kali。Perlawanan adalah1Artinya, item tersebut tidak akan efektif sama sekali saat Anda meminumnya lagi.。（Isi rentangnya：0~1；Dukungan presisi：0.01）
-Ling	Nilai aura	Nilai aura meningkat dengan mengambil item ini。（Isi rentangnya：0~999999999）
-Nutrition	Nilai gizi	Berapa banyak nilai makanan yang akan ditingkatkan dengan mengambil item ini。（Isi rentangnya：0~100）
-Water	Nilai air minum	Berapa banyak nilai minum air yang akan ditingkatkan dengan mengambil item ini。（Isi rentangnya：0~100）
-PracticeNutrition	Nilai esensi	Berapa nilai esensi yang akan ditingkatkan dengan mengambil item ini?。（Isi rentangnya：0~9999）
-DiscipleOnly	Apakah hanya berlaku untuk pintu dalam saja?	Apakah item ini hanya efektif untuk murid batiniah。
-DanModifier	efek ramuan	Efek khusus yang melekat pada pengambilan item ini。
-Color	Pemeran warna	Tekstur item memiliki corak warna。
-EquipLable	Jenis peralatan	Jenis peralatan。
-EquipModel	Model	Model peralatan。
-Sex	jenis kelamin	Persyaratan gender diperlukan untuk memakai peralatan ini。
-TemperatureMaxAdd	Nilai penyesuaian suhu maksimum yang sesuai	Nilai penyesuaian dasar peralatan ini ke suhu maksimum yang sesuai untuk karakter，Nilai sebenarnya akan berkaitan dengan kualitas peralatan dan bahan yang digunakan.。（Isi rentangnya：-999~999）
-TemperatureMinAdd	Nilai penyesuaian suhu minimum yang sesuai	Nilai penyesuaian dasar peralatan ke suhu minimum yang sesuai untuk karakter，Nilai sebenarnya akan berkaitan dengan kualitas peralatan dan bahan yang digunakan.。（Isi rentangnya：-999~999）
-WeaponKind	lengan	Jenis senjatanya。
-Damage	kerusakan dasar	Nilai kerusakan dasar senjata ini，Nilai sebenarnya akan berkaitan dengan kualitas peralatan dan bahan yang digunakan.。（Isi rentangnya：1~999）
-AttackSpeed	kecepatan serangan	Jumlah serangan per detik untuk senjata ini。（Isi rentangnya：0.3~3）
-AttackRange	Jangkauan serangan	Jangkauan maksimum serangan senjata ini。satuan：jaringan。（Isi rentangnya：1.5~20）
-Difficulty	kesulitan belajar	Kesulitan dari cheat ini，Semakin besar kesulitannya，Semakin banyak wawasan yang perlu Anda pelajari，Semakin banyak latihan Tao yang Anda tingkatkan setelah belajar, semakin banyak pula。（Isi rentangnya：0~999）
-EsotericaType	tipe curang	Jenis kode cheat yang dimilikinya。
-MaxStack	Jumlah overlay	
-Duration	lanjutan	Durasi efek khusus ini。satuan：Kedua。（Isi rentangnya：-1atau1~999999，-1Efek ini berlaku secara permanen）
-Skill	Peningkatan keterampilan	Keterampilan tambahan yang dibawa oleh efek khusus ini。
-Property	Atribut meningkat	Atribut yang dibawa oleh efek khusus ini bersifat tambahan。
-GLevel	dunia	Level yang diperlukan untuk mempelajari rahasia ini。
-DanLevel	Tingkat alkimia	Tingkat keterampilan alkimia diperlukan untuk menyempurnakan ramuan ini。（Isi rentangnya：1~20）
-DanCount	Jumlah alkimia	Kuantitas teoretis yang dihasilkan setiap kali ramuan dimurnikan，Nilai sebenarnya akan sama dengan level sang alkemis，Memperbaiki terkait lingkungan；Saat memurnikan ramuan，Nilai sebenarnya dari nilai ini setidaknya1。（Isi rentangnya：0.1~999）
-DanRate	Kesulitan alkimia	Kesulitan dalam menyempurnakan ramuan ini。Semakin tinggi tingkat kesulitannya，Semakin sulit untuk menyempurnakannya dengan sukses。
-ELearn	Pembelajaran rahasia	Cara menyempurnakan ramuan ini bisa kamu pelajari melalui cheat berikut ini。
-WorldDrop	dunia jatuh	Setelah memicu hadiah mendapatkan ramuan acak dalam pengalaman，Obat mujarab ini bisa diperoleh。
-Businessman	Penjual menjual	Obat mujarab ini dapat dibeli dari barang pedagang.。
-InitialUnlock	pembukaan kunci awal	Ramuan ini dapat dimurnikan oleh semua orang secara default。
-DropCount	Jatuhkan kuantitas	Jumlah pil yang didapat selama pelatihan。
-DropRate	Kemungkinan jatuh	Setelah memicu hadiah ramuan acak selama pengalaman，Kemungkinan mendapatkan obat mujarab。
-SellPrice	Harga barang	Harga untuk membeli barang ini dari pedagang。
-SellCount	Kuantitas penjualan	Berapa banyak obat mujarab yang bisa dibawa oleh seorang pedagang dalam satu waktu?。
-StuffSelect	Wakil materi	Pilih bahan yang dibutuhkan untuk membuat item。
-EsoDropRate	Kemungkinan jatuh	Setelah memicu hadiah cheat acak selama pengalaman，Kemungkinan mendapatkan rahasianya。
-StartUnlock	Mulai Tidak Terkunci	Dapatkan cheat secara otomatis di awal。
-EsoWorldDrop	dunia jatuh	Setelah memicu hadiah mendapatkan cheat acak selama pengalaman，Cheat ini bisa saja anda dapatkan。
-EquipModifier	Efek peralatan	Efek khusus melekat saat memakai peralatan ini。
-EsoModifier	Efek curang	Pelajari efek khusus yang disertakan pada resep ini。
-MaterialSelect	Bahan utama	Kategori material utama yang diperlukan untuk membuat item ini。
-BuildSelect	gedung produksi	Mengatur bangunan yang digunakan untuk membuat item ini。
-MainCostItemCount	Kuantitas bahan utama	Jumlah dasar bahan utama yang dibutuhkan untuk membuat item。（Isi rentangnya：1~999）
-DanSelect	Danfang	Rumus obat mujarab yang bisa didapat dengan mempelajari buku rahasia ini。
-ModSelect	Model	model senjata ini。
-Ignorelimit	Apakah akan mengabaikan batas atas	Apakah bonus level keahlian akan terlampaui?20batas keterampilan tingkat。
-PpTypeSelect	jenis	Jenis bonus dari atribut ini。
+Name	DisplayName	Tips
+
+DisplayName	Tên	Tên của dự án này.
+Desc	Mô tả	Mô tả chi tiết về dự án này.
+Element	Ngũ hành	Thuộc tính ngũ hành của vật phẩm này.
+Rate	Cấp	Cấp bậc của vật phẩm này.
+Zhuji	Giá trị Trúc cơ	Giá trị xây dựng cơ bản tăng lên khi đệ tử ngoại môn sử dụng vật phẩm này. (Điền vào khoảng: 0~30000)
+Fesistance	Kháng thuốc	Tỷ lệ suy giảm hiệu quả khi sử dụng nhiều lần vật phẩm này. Kháng thuốc bằng 1 có nghĩa là lần sử dụng tiếp theo sẽ hoàn toàn không có hiệu quả. (Điền vào khoảng: 0~1; độ chính xác hỗ trợ: 0.01)
+Ling	Giá trị linh khí	Giá trị linh khí tăng lên khi sử dụng vật phẩm này. (Điền vào khoảng: 0~999999999)
+Nutrition	Giá trị dinh dưỡng	Giá trị thực phẩm tăng lên khi sử dụng vật phẩm này. (Điền vào khoảng: 0~100)
+Water	Giá trị nước uống	Giá trị nước uống tăng lên khi sử dụng vật phẩm này. (Điền vào khoảng: 0~100)
+PracticeNutrition	Giá trị tinh nguyên	Giá trị tinh nguyên tăng lên khi sử dụng vật phẩm này. (Điền vào khoảng: 0~9999)
+DiscipleOnly	Có phải chỉ hiệu quả trong nội môn	Vật phẩm này có chỉ có hiệu quả với đệ tử nội môn hay không.
+DanModifier	Hiệu quả đan dược	Hiệu ứng đặc biệt kèm theo khi sử dụng vật phẩm này.
+Color	Thiên hướng	Màu sắc lệch của hình ảnh vật phẩm này.
+EquipLable	Loại trang bị	Loại trang bị này.
+EquipModel	Mô hình	Mô hình của trang bị này.
+Sex	Giới tính	Yêu cầu giới tính để mặc trang bị này.
+TemperatureMaxAdd	Giá trị điều chỉnh nhiệt độ tối đa phù hợp	Giá trị điều chỉnh cơ bản cho nhiệt độ tối đa phù hợp với nhân vật của trang bị này, giá trị thực sẽ liên quan đến chất lượng trang bị và nguyên liệu sử dụng. (Điền vào khoảng: -999~999)
+TemperatureMinAdd	Giá trị điều chỉnh nhiệt độ tối thiểu phù hợp	Giá trị điều chỉnh cơ bản cho nhiệt độ tối thiểu phù hợp với nhân vật của trang bị này, giá trị thực sẽ liên quan đến chất lượng trang bị và nguyên liệu sử dụng. (Điền vào khoảng: -999~999)
+WeaponKind	Vũ khí	Loại vũ khí này.
+Damage	Thiệt hại cơ bản	Giá trị sát thương cơ bản của vũ khí này, giá trị thực sẽ liên quan đến chất lượng trang bị và nguyên liệu sử dụng. (Điền vào khoảng: 1~999)
+AttackSpeed	Tốc độ tấn công	Số lần tấn công mỗi giây của vũ khí này. (Điền vào khoảng: 0.3~3)
+AttackRange	Phạm vi tấn công	Khoảng cách xa nhất để vũ khí này phát động tấn công. Đơn vị: ô. (Điền vào khoảng: 1.5~20)
+Difficulty	Độ khó học tập	Độ khó của bí kíp này, độ khó càng lớn, càng cần nhiều hiểu biết để học, và càng tăng nhiều đạo hành sau khi học. (Điền vào khoảng: 0~999)
+EsotericaType	Loại bí tịch	Loại bí kíp này.
+MaxStack	Số lớp chồng chất	
+Duration	Thời gian duy trì	Thời gian hiệu lực của hiệu ứng đặc biệt này. Đơn vị: giây. (Điền vào khoảng: -1 hoặc 1~999999, -1 có nghĩa là hiệu ứng này có hiệu lực vĩnh viễn)
+Skill	Tăng cường kỹ năng	Kỹ năng phụ trợ mà hiệu ứng đặc biệt này mang lại.
+Property	Tăng cường thuộc tính	Thuộc tính phụ trợ mà hiệu ứng đặc biệt này mang lại.
+GLevel	Cảnh giới	Cảnh giới cần thiết để học bí kíp này.
+DanLevel	Cấp độ luyện đan	Cấp độ kỹ năng luyện đan cần thiết để chế tạo viên đan này. (Điền vào khoảng: 1~20)
+DanCount	Số lượng luyện đan	Số lượng lý thuyết sản xuất viên đan này mỗi lần chế tạo, giá trị thực sẽ liên quan đến trình độ của người luyện đan và môi trường chế tạo; trong quá trình luyện đan, giá trị thực tối thiểu là 1. (Điền vào khoảng: 0.1~999)
+DanRate	Độ khó luyện đan	Độ khó của việc chế tạo viên đan này. Độ khó càng cao, càng khó để thành công.
+ELearn	Học bí tịch	Có thể học được phương pháp chế tạo viên đan này thông qua các bí kíp dưới đây.
+WorldDrop	Rơi ra thế giới	Trong quá trình rèn luyện, sau khi kích hoạt phần thưởng ngẫu nhiên nhận được viên đan, có khả năng nhận được viên đan này.
+Businessman	Bán bởi thương nhân	Có thể mua viên đan này trong hàng hóa của thương nhân hành.
+InitialUnlock	Mở khóa ban đầu	Viên đan này mặc định có thể được tất cả mọi người luyện chế.
+DropCount	Số lượng rơi ra	Số lượng viên đan này nhận được trong quá trình rèn luyện.
+DropRate	Xác suất rơi ra	Xác suất nhận được viên đan này sau khi kích hoạt phần thưởng ngẫu nhiên nhận được viên đan trong quá trình rèn luyện.
+SellPrice	Giá trị vật phẩm	Giá mua vật phẩm này từ tay thương nhân hành.
+SellCount	Số lượng bán	Số lượng viên đan này mà thương nhân hành sẽ mang theo mỗi lần.
+StuffSelect	Nguyên liệu phụ	Chọn nguyên liệu cần thiết để chế tạo vật phẩm này.
+EsoDropRate	Xác suất rơi ra	Xác suất nhận được bí kíp này sau khi kích hoạt phần thưởng ngẫu nhiên nhận được bí kíp trong quá trình rèn luyện.
+StartUnlock	Mở khóa lúc bắt đầu	Tự động nhận được bí kíp khi bắt đầu.
+EsoWorldDrop	Rơi ra thế giới	Trong quá trình rèn luyện, sau khi kích hoạt phần thưởng ngẫu nhiên nhận được bí kíp, có khả năng nhận được bí kíp này.
+EquipModifier	Hiệu ứng trang bị	Hiệu ứng đặc biệt kèm theo khi mặc trang bị này.
+EsoModifier	Hiệu ứng bí tịch	Hiệu ứng đặc biệt kèm theo khi học bí kíp này.
+MaterialSelect	Nguyên liệu chính	Loại nguyên liệu chính cần thiết để chế tạo vật phẩm này.
+BuildSelect	Tòa nhà sản xuất	Cài đặt công trình sử dụng để chế tạo vật phẩm này.
+MainCostItemCount	Số nguyên liệu chính	Số lượng cơ bản của nguyên liệu chính cần thiết để chế tạo vật phẩm này. (Điền vào khoảng: 1~999)
+DanSelect	Công thức đan	Công thức viên đan có thể học được khi học bí kíp này.
+ModSelect	Mô hình	Mô hình của vũ khí này.
+Ignorelimit	Có phải bỏ qua giới hạn không	Tăng cường cấp độ kỹ năng này có vượt quá giới hạn cấp độ 20 hay không.
+PpTypeSelect	Loại	Loại hình tăng cường thuộc tính này.
+
+

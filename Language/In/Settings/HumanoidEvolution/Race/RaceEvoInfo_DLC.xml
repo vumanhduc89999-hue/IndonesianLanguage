@@ -1,11 +1,12 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Panda">
-			<NaiveTalk>*whines*, *whines*!</NaiveTalk>
-			<PeferEnvironment.PlantDesc>Suka memiliki Bambu di dekatnya</PeferEnvironment.PlantDesc>
-			<PeferEnvironment.LightDesc>Suka berada di luar ruangan</PeferEnvironment.LightDesc>
-			<PeferEnvironment.LiveDesc>Lebih menyukai spesies yang sama</PeferEnvironment.LiveDesc>
-			<PeferEnvironment.Desc>Suka memiliki Bambu di dekatnya. Suka berada di luar ruangan.\nLebih menyukai spesies yang sama.</PeferEnvironment.Desc>
+			<NaiveTalk>Eng eng eng, eng eng!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Thích có tre ở gần</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Thích ở ngoài trời</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Chỉ thích đồng loại</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Thích đồng loại. Thích ở ngoài trời.\nThích có tre ở gần.</PeferEnvironment.Desc>
 		</Text>
 	</List>
 </Texts>
+

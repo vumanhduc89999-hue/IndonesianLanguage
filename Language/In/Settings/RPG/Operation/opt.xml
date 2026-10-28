@@ -1,34 +1,35 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mine">
-			<DisplayName>Mine</DisplayName>
+			<DisplayName>Khai thác mỏ</DisplayName>
 		</Text>
 		<Text Name="Pickup">
-			<DisplayName>Collect</DisplayName>
+			<DisplayName>Nhặt lên</DisplayName>
 		</Text>
 		<Text Name="Cutoff">
-			<DisplayName>Chop</DisplayName>
+			<DisplayName>Chặt</DisplayName>
 		</Text>
 		<Text Name="Eat">
-			<DisplayName>Eat</DisplayName>
+			<DisplayName>Ăn uống</DisplayName>
 		</Text>
 		<Text Name="Dialog">
-			<DisplayName>Talk</DisplayName>
+			<DisplayName>Đối thoại</DisplayName>
 		</Text>
 		<Text Name="Interact">
-			<DisplayName>Interact</DisplayName>
+			<DisplayName>Tương tác</DisplayName>
 		</Text>
 		<Text Name="Equip">
-			<DisplayName>Equip</DisplayName>
+			<DisplayName>Trang bị</DisplayName>
 		</Text>
 		<Text Name="Attack">
-			<DisplayName>Attack</DisplayName>
+			<DisplayName>Tấn công</DisplayName>
 		</Text>
 		<Text Name="Slaughter">
-			<DisplayName>Slaughter</DisplayName>
+			<DisplayName>Giết mổ</DisplayName>
 		</Text>
 		<Text Name="SlaughterBoss">
-			<DisplayName>Dig</DisplayName>
+			<DisplayName>Đào</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

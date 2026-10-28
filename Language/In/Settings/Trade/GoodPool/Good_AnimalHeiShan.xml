@@ -1,20 +1,21 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="HeiShanA">
-			<IVNUMBER.0.Animal.DisplayName>Wolf Cage</IVNUMBER.0.Animal.DisplayName>
-			<IVNUMBER.0.Animal.Tip>Di dalamnya ada serigala di Negara Kebangkitan. Pelatihan yang diterimanya dari sekte telah memberinya kenangan terkait Mantra.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.0.Animal.DisplayName>Chuồng sói</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con sói kỳ khai trí, được môn phái định hướng bồi dưỡng để sở hữu ký ức về thuật pháp.</IVNUMBER.0.Animal.Tip>
 		</Text>
 		<Text Name="HeiShanAL">
-			<IVNUMBER.0.Animal.DisplayName>Simple Wolf Cage</IVNUMBER.0.Animal.DisplayName>
-			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor serigala dalam kondisi Kebangkitan, ia memiliki Kecerdasan Ketakutan.</IVNUMBER.0.Animal.Tip>
-			<IVNUMBER.1.Animal.DisplayName>Simple Wolf Cage</IVNUMBER.1.Animal.DisplayName>
-			<IVNUMBER.1.Animal.Tip>Di dalamnya ada seekor serigala dalam kondisi Kebangkitan, ia memiliki Kecerdasan Pikiran.</IVNUMBER.1.Animal.Tip>
-			<IVNUMBER.2.Animal.DisplayName>Simple Wolf Cage</IVNUMBER.2.Animal.DisplayName>
-			<IVNUMBER.2.Animal.Tip>Di dalamnya ada seekor serigala dalam kondisi Kebangkitan, ia memiliki Intelijen Kegembiraan.</IVNUMBER.2.Animal.Tip>
-			<IVNUMBER.3.Animal.DisplayName>Simple Wolf Cage</IVNUMBER.3.Animal.DisplayName>
-			<IVNUMBER.3.Animal.Tip>Di dalamnya ada serigala dalam kondisi Kebangkitan, ia memiliki Intelijen Kemarahan.</IVNUMBER.3.Animal.Tip>
-			<IVNUMBER.4.Animal.DisplayName>Simple Wolf Cage</IVNUMBER.4.Animal.DisplayName>
-			<IVNUMBER.4.Animal.Tip>Di dalamnya ada seekor serigala dalam Keadaan Kebangkitan, ia memiliki Kecerdasan Kecemasan.</IVNUMBER.4.Animal.Tip>
+			<IVNUMBER.0.Animal.DisplayName>Chuồng sói sơ sài</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con sói kỳ khai trí, sở hữu linh trí về nỗi sợ.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Chuồng sói sơ sài</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Bên trong có một con sói kỳ khai trí, sở hữu linh trí về nỗi nhớ.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Chuồng sói sơ sài</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Bên trong có một con sói kỳ khai trí, sở hữu linh trí về niềm vui.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Chuồng sói sơ sài</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Bên trong có một con sói kỳ khai trí, sở hữu linh trí về sự giận dữ.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Chuồng sói sơ sài</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Bên trong có một con sói kỳ khai trí, sở hữu linh trí về nỗi lo.</IVNUMBER.4.Animal.Tip>
 		</Text>
 	</List>
 </Texts>
+

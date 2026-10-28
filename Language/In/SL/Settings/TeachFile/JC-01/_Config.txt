@@ -60,3 +60,4 @@
 /Settings/TeachFile/JC-01.osave	Skill.SkillDefs.TSheildSkill-2.DisplayName	冷月不坏诀	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/JC-01.osave	Skill.SkillDefs.TSheildSkill-3.DisplayName	戊土不坏咒	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/JC-01.osave	Skill.SkillDefs.TDamageSkill-2.DisplayName	麒麟流光神雷	-1	_ReplaceSkillDisplaceName
+

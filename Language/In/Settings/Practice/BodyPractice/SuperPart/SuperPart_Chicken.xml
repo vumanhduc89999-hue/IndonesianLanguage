@@ -1,25 +1,26 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Chicken_1">
-			<Prefix>Solar</Prefix>
-			<Suffix>Needles</Suffix>
-			<Desc>Sebuah badan rahasia yang diturunkan dari garis keturunan ayam Yaoguai yang menyatukan kekuatan Yang ke paruhnya dan memberinya Kekuatan Penghancur. Menggunakannya untuk menyerang dengan paruh dan unggul dalam menembus penghalang Qi.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah besar.\n Secara drastis meningkatkan tingkat penetrasi penghalang Qi tubuh rahasia.</Levels.0.Desc>
+			<Prefix>Đại nhật</Prefix>
+			<Suffix>Thần Châm</Suffix>
+			<Desc>Bí thể trong huyết mạch truyền thừa của Kê Yêu, ngưng tụ lực Cửu Dương hội tụ vào mỏ, sau đó trao thêm lực phá diệt. Dùng để mổ tấn công, rất giỏi phá vỡ linh khí hộ thuẫn.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh uy lực bí thể từ gốc rễ\nTăng mạnh tỷ lệ xuyên thủng linh khí hộ thuẫn của bí thể.</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Chicken_2">
-			<Prefix>Skyfire</Prefix>
-			<Suffix>Crown</Suffix>
-			<Desc>Tubuh rahasia yang diturunkan dari garis keturunan ayam Yaoguai yang membentuk kembali mahkotanya dengan Kekuatan Matahari. Setelah tercapai, pencetakan ulang akan menjadi sangat efisien.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan tingkat pencetakan ulang kultivator fisik dalam jumlah besar.</Levels.0.Desc>
+			<Prefix>Thiên Dương Chân Hình</Prefix>
+			<Suffix>Mào</Suffix>
+			<Desc>Bí thể trong huyết mạch truyền thừa của Kê Yêu, dùng lực mặt trời rèn luyện bảo mào trên đầu, luyện thành thuật này sẽ đạt hiệu quả gấp bội trong quá trình ta luyện thân thể.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tốc độ ta luyện thân thể của người luyện thể.</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Chicken_3">
-			<Prefix>Prismatic</Prefix>
-			<Suffix>Aura</Suffix>
-			<Desc>Tubuh rahasia yang diturunkan dari garis keturunan ayam Yaoguai, yang aslinya berasal dari bulu ekor yang dibentuk ulang oleh Peacock Sage mengikuti keyakinan kuno Lima Elemen. Setelah tercapai, tidak ada yang bisa lepas dari genggamannya.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan peluang penekanan artefak tubuh rahasia dalam jumlah besar.</Levels.0.Desc>
+			<Prefix>Ngũ Sắc</Prefix>
+			<Suffix>Thần Quang</Suffix>
+			<Desc>Bí thể trong huyết mạch truyền thừa của Kê Yêu, nguyên mẫu từ vô căn vũ đuôi do Khổng Tước Yêu Thánh lĩnh ngộ đạo Ngũ Hành tiên thiên luyện thành, một khi luyện thành, không gì không quét sạch.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ trấn áp pháp bảo của bí thể.</Levels.0.Desc>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,86 +1,87 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JYRabbit">
-			<DisplayName>Kelinci Monster</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Kelinci</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Thỏ Yêu</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Thỏ yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="JYChicken">
-			<DisplayName>Ayam Monster</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Chicken</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Yêu Kê</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Gà yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="JYWolf">
-			<DisplayName>Rakasa Serigala</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Wolf</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Yêu Lang</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Sói yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="JYSnake">
-			<DisplayName>Monster Ular</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Ular</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Yêu Xà</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Rắn yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="JYBoar">
-			<DisplayName>Monster Babi Hutan</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Boar</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Yêu Trư</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Lợn yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="JYBear">
-			<DisplayName>Monster Beruang</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Bear</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Yêu Hùng</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Gấu yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="JYFrog">
-			<DisplayName>Katak Raksasa</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Katak Monster</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Yêu Oa</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Ếch yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="JYTurtle">
-			<DisplayName>Monster Penyu</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Turtle</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Yêu Quy</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Rùa yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="JYCat">
-			<DisplayName>Monster Kucing</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Cat</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Yêu Miêu</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Mèo yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="JYCattle">
-			<DisplayName>Monster Banteng</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Bull</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Yêu Ngưu</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Trâu yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="JYTiger">
-			<DisplayName>Monster Harimau</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Tiger</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Yêu Hổ</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Hổ yêu</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="JYLongpuNight">
-			<DisplayName>Hamba Naga (Malam)</DisplayName>
-			<Desc>Hamba berasal dari kekuatan Yin dan Yang.</Desc>
+			<DisplayName>Long chi nô bộc (Đêm)</DisplayName>
+			<Desc>Kẻ phục vụ được biến hóa từ sức mạnh Âm Dương</Desc>
 		</Text>
 		<Text Name="JYLongpuDay">
-			<DisplayName>Hamba Naga (Hari)</DisplayName>
-			<Desc>Hamba berasal dari kekuatan Yin dan Yang.</Desc>
+			<DisplayName>Long chi nô bộc (Ngày)</DisplayName>
+			<Desc>Kẻ phục vụ được biến hóa từ sức mạnh Âm Dương</Desc>
 		</Text>
 		<Text Name="JYZhuLongENian">
-			<DisplayName>Avatar Naga Ganas</DisplayName>
-			<Desc>Manifestasi dari kejahatan dalam pikiran.</Desc>
+			<DisplayName>Ác Niệm Long Hình</DisplayName>
+			<Desc>Sự hiện thân của tà niệm trong lòng</Desc>
 		</Text>
 		<Text Name="JYZhuLongShanNian">
-			<DisplayName>Avatar Naga Jinak</DisplayName>
-			<Desc>Perwujudan kebaikan dalam pikiran.</Desc>
+			<DisplayName>Thiện Niệm Long Hình</DisplayName>
+			<Desc>Sự hiện thân của thiện niệm trong lòng</Desc>
 		</Text>
 	</List>
 </Texts>
+

@@ -202,4 +202,5 @@
 /Settings/RPG/Maps/Rpg_Tower_0/map.txt	RPGInfo.Objects.9.LuaPostProcessing.IdleTalk	抓老鼠？我怎么就不会抓老鼠了，你别人眼看牛低！	9	
 /Settings/RPG/Maps/Rpg_Tower_0/map.txt	RPGInfo.MapInfo.Title	无何有之乡	-1	
 /Settings/RPG/Maps/Rpg_Tower_0/map.txt	RPGInfo.MapInfo.Desc	界间界·虚之草庐	-1	
-/Settings/RPG/Maps/Rpg_Tower_0/map.txt	RPGInfo.MapInfo.EnterContent	界间幻景，存续之所。	-1	
+/Settings/RPG/Maps/Rpg_Tower_0/map.txt	RPGInfo.MapInfo.EnterContent	界间幻景，存续之所。	-1
+

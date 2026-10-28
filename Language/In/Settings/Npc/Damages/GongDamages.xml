@@ -1,175 +1,176 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Tower_FuBai">
-			<DisplayName>Destructive Downfall</DisplayName>
+			<DisplayName>Suy tàn</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Bhit1">
-			<DisplayName>Bruise</DisplayName>
+			<DisplayName>Trầy xước</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Bhit2">
-			<DisplayName>Minor Injury</DisplayName>
+			<DisplayName>Thương nhẹ</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Bhit3">
-			<DisplayName>Small Wound</DisplayName>
+			<DisplayName>Vết thương nhỏ</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Jin_ThunderDamage">
-			<DisplayName>Thunderstruck</DisplayName>
+			<DisplayName>Sét đánh</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Jin_SwordLight2">
-			<DisplayName>Sword Aura Infection (Serious)</DisplayName>
+			<DisplayName>Kiếm khí nhập thể (nặng)</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Mu_Failure">
-			<DisplayName>Failing</DisplayName>
+			<DisplayName>Suy kiệt</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Mu_Corrosion">
-			<DisplayName>Festering</DisplayName>
+			<DisplayName>Suy thoái</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Shui_Frostbite">
-			<DisplayName>Frostbite</DisplayName>
+			<DisplayName>Tổn thương do lạnh</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Shui_ColdPoison">
-			<DisplayName>Cold Poison</DisplayName>
+			<DisplayName>Hàn độc</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Huo_VisceralBurn">
-			<DisplayName>Visceral Burn</DisplayName>
+			<DisplayName>Thiêu đốt nội tạng</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Huo_BurnOfPain">
-			<DisplayName>Scorch</DisplayName>
+			<DisplayName>Đau bỏng rát</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Tu_Weathering">
-			<DisplayName>Weathered</DisplayName>
+			<DisplayName>Phong hóa</DisplayName>
 		</Text>
 		<Text Name="BodyPractice_Tu_Petrifaction2">
-			<DisplayName>Petrified (Serious)</DisplayName>
+			<DisplayName>Cứng đờ (nặng)</DisplayName>
 		</Text>
 		<Text Name="FivePoison">
-			<DisplayName>Breath of Bane</DisplayName>
+			<DisplayName>Hơi thở ngũ độc</DisplayName>
 		</Text>
 		<Text Name="SwordBallDamage">
-			<DisplayName>Body Split</DisplayName>
+			<DisplayName>Kiếm khí xé cơ thể</DisplayName>
 		</Text>
 		<Text Name="XueGuLianXing">
-			<DisplayName>Smelting</DisplayName>
+			<DisplayName>Luyện tâm chú</DisplayName>
 		</Text>
 		<Text Name="Dan_Soul3_Damage">
-			<DisplayName>Impaired Mind</DisplayName>
+			<DisplayName>Tổn thương thần trí</DisplayName>
 		</Text>
 		<Text Name="ZaoHuaYuLu_YuanShenJiMie">
-			<DisplayName>Obliterated Spirit</DisplayName>
+			<DisplayName>Nguyên thần tịch diệt</DisplayName>
 		</Text>
 		<Text Name="SoulOutOfBrain">
-			<DisplayName>Soul in Discord</DisplayName>
+			<DisplayName>Linh hồn bất hợp</DisplayName>
 		</Text>
 		<Text Name="LostSoul">
-			<DisplayName>Occluded</DisplayName>
+			<DisplayName>Khóa chặt</DisplayName>
 		</Text>
 		<Text Name="Damage_GongXinYin_Damage">
-			<DisplayName>Shattered Soul</DisplayName>
+			<DisplayName>Thần hồn trọng thương</DisplayName>
 		</Text>
 		<Text Name="Damage_TianDaoBenYuan1">
-			<DisplayName>Damaged Soul</DisplayName>
+			<DisplayName>Thần hồn tổn thương</DisplayName>
 		</Text>
 		<Text Name="Damage_Kidnap_MiHun">
-			<DisplayName>Enchantment Spell</DisplayName>
+			<DisplayName>Thuật mê hồn</DisplayName>
 		</Text>
 		<Text Name="Damage_TianDaoBenYuan2">
-			<DisplayName>Overturned Perception</DisplayName>
+			<DisplayName>Thần thức tiêu diệt</DisplayName>
 		</Text>
 		<Text Name="Damage_ZhenFaZhenDang">
-			<DisplayName>Formation Tremors</DisplayName>
+			<DisplayName>Trận pháp chấn động</DisplayName>
 		</Text>
 		<Text Name="DiffEnergyInvade">
-			<DisplayName>Alien Qi</DisplayName>
+			<DisplayName>Chân khí dị chủng</DisplayName>
 		</Text>
 		<Text Name="MeridianRupture">
-			<DisplayName>Dissevered</DisplayName>
+			<DisplayName>Gãy đứt</DisplayName>
 		</Text>
 		<Text Name="MeridianIncomplete">
-			<DisplayName>Broken</DisplayName>
+			<DisplayName>Khuyết thiếu</DisplayName>
 		</Text>
 		<Text Name="ElixirFieldShock">
-			<DisplayName>Abdominal Palpitation</DisplayName>
+			<DisplayName>Đan điền chấn động</DisplayName>
 		</Text>
 		<Text Name="NeiQiWenLuan">
-			<DisplayName>Inner Chaos</DisplayName>
+			<DisplayName>Nội tức rối loạn</DisplayName>
 		</Text>
 		<Text Name="Damage_Boss_LingBoom">
-			<DisplayName>Turbulent Qi</DisplayName>
+			<DisplayName>Chân khí bạo phát</DisplayName>
 		</Text>
 		<Text Name="Damage_Sys_SuppressGodCall">
-			<DisplayName>Tribulation Suppression</DisplayName>
+			<DisplayName>Áp chế thiên kiếp</DisplayName>
 		</Text>
 		<Text Name="JieNanHuangu">
-			<DisplayName>Pain of Skeletal Change</DisplayName>
+			<DisplayName>Nỗi đau thay xương</DisplayName>
 		</Text>
 		<Text Name="LingSpillsInjury_Sp">
-			<DisplayName>Damaged Meridians</DisplayName>
+			<DisplayName>Kinh mạch trọng thương</DisplayName>
 		</Text>
 		<Text Name="LingSpillsInjury">
-			<DisplayName>Overflow of Qi</DisplayName>
+			<DisplayName>Tổn thương chân khí</DisplayName>
 		</Text>
 		<Text Name="SevereInjury">
-			<DisplayName>Loss of Primeval Qi</DisplayName>
+			<DisplayName>Nguyên khí tổn hại lớn</DisplayName>
 		</Text>
 		<Text Name="Jin_ThunderDamage">
-			<DisplayName>Thunderstruck</DisplayName>
+			<DisplayName>Sét đánh</DisplayName>
 		</Text>
 		<Text Name="Jin_BoneNail">
-			<DisplayName>Punctured Bone</DisplayName>
+			<DisplayName>Xương gai</DisplayName>
 		</Text>
 		<Text Name="Jin_SwordLight1">
-			<DisplayName>Sword Aura Infection (Mild)</DisplayName>
+			<DisplayName>Kiếm khí nhập thể (nhẹ)</DisplayName>
 		</Text>
 		<Text Name="Jin_SwordLight2">
-			<DisplayName>Sword Aura Infection (Serious)</DisplayName>
+			<DisplayName>Kiếm khí nhập thể (nặng)</DisplayName>
 		</Text>
 		<Text Name="Mu_VitalityDevour1">
-			<DisplayName>Breath of Erosion (Mild)</DisplayName>
+			<DisplayName>Hơi thở ăn mòn sinh mệnh (nhẹ)</DisplayName>
 		</Text>
 		<Text Name="Mu_VitalityDevour2">
-			<DisplayName>Breath of Erosion (Serious)</DisplayName>
+			<DisplayName>Hơi thở ăn mòn sinh mệnh (nặng)</DisplayName>
 		</Text>
 		<Text Name="Mu_Failure">
-			<DisplayName>Failing</DisplayName>
+			<DisplayName>Suy kiệt</DisplayName>
 		</Text>
 		<Text Name="Mu_Corrosion">
-			<DisplayName>Festering</DisplayName>
+			<DisplayName>Suy thoái</DisplayName>
 		</Text>
 		<Text Name="Mu_Parasitic">
-			<DisplayName>Parasite Infection</DisplayName>
+			<DisplayName>Ký Sinh</DisplayName>
 		</Text>
 		<Text Name="Shui_Frostbite">
-			<DisplayName>Frostbite</DisplayName>
+			<DisplayName>Tổn thương do lạnh</DisplayName>
 		</Text>
 		<Text Name="Shui_ColdBlood">
-			<DisplayName>Cold Meridians</DisplayName>
+			<DisplayName>Hàn mạch</DisplayName>
 		</Text>
 		<Text Name="Shui_ColdPoison">
-			<DisplayName>Cold Poison</DisplayName>
+			<DisplayName>Hàn độc</DisplayName>
 		</Text>
 		<Text Name="Huo_VisceralBurn">
-			<DisplayName>Visceral Burn</DisplayName>
+			<DisplayName>Thiêu đốt nội tạng</DisplayName>
 		</Text>
 		<Text Name="Huo_BurnOfPain">
-			<DisplayName>Scorching Pain</DisplayName>
+			<DisplayName>Đau bỏng rát</DisplayName>
 		</Text>
 		<Text Name="Huo_MarrowDry">
-			<DisplayName>Depleted Marrows</DisplayName>
+			<DisplayName>Chứng tủy khô</DisplayName>
 		</Text>
 		<Text Name="Huo_HeartBurn">
-			<DisplayName>Heart Burn</DisplayName>
+			<DisplayName>Thiêu đốt tâm can</DisplayName>
 		</Text>
 		<Text Name="Tu_Weathering">
-			<DisplayName>Weathered</DisplayName>
+			<DisplayName>Phong hóa</DisplayName>
 		</Text>
 		<Text Name="Tu_Petrifaction1">
-			<DisplayName>Petrified (Mild)</DisplayName>
+			<DisplayName>Cứng đờ (nhẹ)</DisplayName>
 		</Text>
 		<Text Name="Tu_Petrifaction2">
-			<DisplayName>Petrified (Serious)</DisplayName>
+			<DisplayName>Cứng đờ (nặng)</DisplayName>
 		</Text>
 		<Text Name="Tu_BrainClose">
-			<DisplayName>Closed Mind</DisplayName>
+			<DisplayName>Chứng khóa thần</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

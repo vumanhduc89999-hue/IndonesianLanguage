@@ -1,282 +1,283 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SYS_LOST">
-			<DisplayName>[Empty]</DisplayName>
-			<Desc>Bantuan ini telah hilang, begitu pula semua informasi mengenainya. (Kosong).</Desc>
+			<DisplayName>[Mất tích]</DisplayName>
+			<Desc>Đây là một nhãn cảm tình đã mất tích, không ai biết bất kỳ thông tin gì. (Mô đun bị mất).</Desc>
 		</Text>
 		<Text Name="Opinion">
-			<DisplayName>Opinion</DisplayName>
-			<Desc>Label Favor khusus, digunakan dalam memilah pendapat yang berbeda.</Desc>
+			<DisplayName>Quan điểm</DisplayName>
+			<Desc>Đây là một nhãn cảm tình đặc biệt, dùng để xử lý các quan điểm khác nhau.</Desc>
 		</Text>
 		<Text Name="Distrust">
-			<DisplayName>Withdrawn</DisplayName>
-			<Desc>Dunia ini dijalankan oleh keuntungan, dan pencariannya. Saya tidak mempercayai siapa pun.</Desc>
+			<DisplayName>Lạnh lùng</DisplayName>
+			<Desc>Thế giới này toàn là lợi ích, ta không tin tưởng ai cả.</Desc>
 		</Text>
 		<Text Name="Enthusiasm">
-			<DisplayName>Amiable</DisplayName>
-			<Desc>Pertemuan kita sudah ditakdirkan. Kita semua adalah teman baik!</Desc>
+			<DisplayName>Nhiệt tình</DisplayName>
+			<Desc>Gặp nhau là có duyên, mọi người đều là ngươi!</Desc>
 		</Text>
 		<Text Name="BeReceived">
-			<DisplayName>Beloved</DisplayName>
-			<Desc>[HENAME] bersifat karismatik, dan selalu diterima dengan baik oleh orang lain.</Desc>
+			<DisplayName>Được yêu thích</DisplayName>
+			<Desc>[HENAME] rất có sức hút, bẩm sinh được mọi người yêu thích.</Desc>
 		</Text>
 		<Text Name="BeTrueMan">
-			<DisplayName>Well-Versed</DisplayName>
-			<Desc>Yang lain menjunjung tinggi [HENAME] atas pengalaman kehidupan nyata mereka.</Desc>
+			<DisplayName>Người chân thật</DisplayName>
+			<Desc>Kinh nghiệm thực tế của [HENAME] khiến người khác phải nhìn bằng con mắt khác.</Desc>
 		</Text>
 		<Text Name="Loyal">
-			<DisplayName>Gallant</DisplayName>
-			<Desc>[HENAME] memiliki rasa keadilan yang kuat, dan merupakan teman yang baik.</Desc>
+			<DisplayName>Trượng nghĩa</DisplayName>
+			<Desc>[HENAME] rất trượng nghĩa, đáng để kết giao sâu sắc.</Desc>
 		</Text>
 		<Text Name="BeiGuoXia">
-			<DisplayName>Scapegoat</DisplayName>
-			<Desc>[HENAME] sering kali menyalahkan orang lain, sehingga mendapatkan kasih sayang dari rekan-rekannya.</Desc>
+			<DisplayName>Người gánh vác</DisplayName>
+			<Desc>[HENAME] thường xuyên gánh vác trách nhiệm, rất được lòng những người xung quanh.</Desc>
 		</Text>
 		<Text Name="DongShiZhang">
-			<DisplayName>Boss</DisplayName>
-			<Desc>[HENAME] , itu bos kami ya!</Desc>
+			<DisplayName>Chủ tịch</DisplayName>
+			<Desc>[HENAME] là chủ tịch của chúng ta!</Desc>
 		</Text>
 		<Text Name="HaoShuang">
-			<DisplayName>Chivalrous</DisplayName>
-			<Desc>Hanya berhati dan bersifat sopan, [HENAME] menginspirasi persahabatan di sekitar mereka!</Desc>
+			<DisplayName>Hào sảng</DisplayName>
+			<Desc>[HENAME] có tấm lòng hiệp nghĩa, là người hào sảng, khiến người khác muốn kết giao!</Desc>
 		</Text>
 		<Text Name="BeginTogether">
-			<DisplayName>Wanderer</DisplayName>
-			<Desc>[HENAME] menjelajahi daratan di sisiku.</Desc>
+			<DisplayName>Lang bạt giang hồ</DisplayName>
+			<Desc>[HENAME] cùng ta lang bạt giang hồ.</Desc>
 		</Text>
 		<Text Name="Charisma0">
-			<Desc>Karisma Nikmat 0</Desc>
-			<Layers.0.DisplayName>Nasty</Layers.0.DisplayName>
-			<Layers.0.Desc>Why do people like [HENAME] have to exist...</Layers.0.Desc>
-			<Layers.1.DisplayName>Unkind</Layers.1.DisplayName>
-			<Layers.1.Desc>It's hard work, trying to get on with [HENAME].</Layers.1.Desc>
-			<Layers.2.DisplayName>Reticent</Layers.2.DisplayName>
-			<Layers.2.Desc>Despite not being great at getting along with others, [HENAME] is a good person really.</Layers.2.Desc>
+			<Desc>Thiện cảm mị lực 0</Desc>
+			<Layers.0.DisplayName>Người thô lỗ</Layers.0.DisplayName>
+			<Layers.0.Desc>Trên đời sao lại có người như [HENAME]...</Layers.0.Desc>
+			<Layers.1.DisplayName>Không hiểu nhân tình</Layers.1.DisplayName>
+			<Layers.1.Desc>Ở cùng [HENAME] thật khó chịu.</Layers.1.Desc>
+			<Layers.2.DisplayName>Không giỏi giao tiếp</Layers.2.DisplayName>
+			<Layers.2.Desc>[HENAME] tuy không giỏi giao tiếp, nhưng thực ra là một người rất tốt.</Layers.2.Desc>
 		</Text>
 		<Text Name="Charisma1">
-			<Desc>Nikmat Karisma 1</Desc>
-			<Layers.0.DisplayName>Hypocrite</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME] is a fraud, acting all high and mighty.</Layers.0.Desc>
-			<Layers.1.DisplayName>Cultured</Layers.1.DisplayName>
-			<Layers.1.Desc>[HENAME] seems like a good person.</Layers.1.Desc>
-			<Layers.2.DisplayName>Considerate</Layers.2.DisplayName>
-			<Layers.2.Desc>It's easy getting along with [HENAME] as they're so considerate.</Layers.2.Desc>
+			<Desc>Thiện cảm mị lực 1</Desc>
+			<Layers.0.DisplayName>Kẻ giả nhân giả nghĩa</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] thật biết diễn, đúng là kẻ giả nhân giả nghĩa.</Layers.0.Desc>
+			<Layers.1.DisplayName>Có tu dưỡng</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] trông có vẻ là người không tệ.</Layers.1.Desc>
+			<Layers.2.DisplayName>Thấu hiểu lòng người</Layers.2.DisplayName>
+			<Layers.2.Desc>[HENAME] rất thấu hiểu lòng người, ở cùng anh/cô ấy rất vui vẻ.</Layers.2.Desc>
 		</Text>
 		<Text Name="Charisma2">
-			<Desc>Nikmat Karisma 2</Desc>
-			<Layers.0.DisplayName>Noble</Layers.0.DisplayName>
-			<Layers.0.Desc>I can't stand [HENAME], but they are valiant, it's true.</Layers.0.Desc>
-			<Layers.1.DisplayName>Dashing</Layers.1.DisplayName>
-			<Layers.1.Desc>[HENAME] seems so refined, and classy.</Layers.1.Desc>
-			<Layers.2.DisplayName>Ray of Sunshine</Layers.2.DisplayName>
-			<Layers.2.Desc>Getting along with [HENAME] is truly a joy. They're a little ray of sunshine, and a great friend.</Layers.2.Desc>
+			<Desc>Thiện cảm mị lực 2</Desc>
+			<Layers.0.DisplayName>Quân tử</Layers.0.DisplayName>
+			<Layers.0.Desc>Dù ta rất ghét [HENAME], nhưng anh/cô ấy là một quân tử thực sự.</Layers.0.Desc>
+			<Layers.1.DisplayName>Phong độ phiêu phiêu</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] trông phong độ phiêu phiêu, rất có khí chất và tu dưỡng.</Layers.1.Desc>
+			<Layers.2.DisplayName>Như tắm gió xuân</Layers.2.DisplayName>
+			<Layers.2.Desc>Ở cùng [HENAME] thật sự rất vui, như tắm gió xuân, có Bằng Hữu như vậy thật sự rất hạnh phúc.</Layers.2.Desc>
 		</Text>
 		<Text Name="Relative">
-			<Desc>[HENAME] adalah [TXT] saya.</Desc>
+			<Desc>[HENAME] là [TXT] của ta.</Desc>
 		</Text>
 		<Text Name="Practice">
-			<Desc>[HENAME] adalah [TXT] saya.</Desc>
+			<Desc>[HENAME] là [TXT] của ta.</Desc>
 		</Text>
 		<Text Name="PracticeOther">
-			<Desc>[HENAME] adalah [TXT] saya.</Desc>
+			<Desc>[HENAME] là [TXT] của ta.</Desc>
 		</Text>
 		<Text Name="Family">
-			<Desc>[HENAME] adalah [TXT] saya.</Desc>
+			<Desc>[HENAME] là [TXT] của ta.</Desc>
 		</Text>
 		<Text Name="Friend">
-			<Desc>Bantuan Persahabatan 2</Desc>
-			<Layers.0.DisplayName>Friend</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME] is my friend, although we've been having problems as of late.</Layers.0.Desc>
-			<Layers.1.DisplayName>Friend</Layers.1.DisplayName>
-			<Layers.1.Desc>[HENAME] is a good friend of mine.</Layers.1.Desc>
-			<Layers.2.DisplayName>Faithful Friend</Layers.2.DisplayName>
-			<Layers.2.Desc>[HENAME] is my faithful friend.</Layers.2.Desc>
+			<Desc>Thiện cảm Bằng Hữu 2</Desc>
+			<Layers.0.DisplayName>Bằng Hữu</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] là ngươi của ta, nhưng gần đây giữa chúng ta có chút vấn đề.</Layers.0.Desc>
+			<Layers.1.DisplayName>Bằng Hữu</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] là ngươi thân của ta.</Layers.1.Desc>
+			<Layers.2.DisplayName>Chí hữu</Layers.2.DisplayName>
+			<Layers.2.Desc>[HENAME] là chí hữu của ta.</Layers.2.Desc>
 		</Text>
 		<Text Name="Scar">
-			<DisplayName>Scar</DisplayName>
-			<Desc>[HENAME] mempunyai bekas luka parah di wajahnya.</Desc>
+			<DisplayName>Sẹo</DisplayName>
+			<Desc>[HENAME] trên mặt có vết sẹo xấu xí.</Desc>
 		</Text>
 		<Text Name="Fancy">
-			<DisplayName>Attraction</DisplayName>
-			<Desc>Daya tarik</Desc>
-			<Layers.0.DisplayName>Attraction</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME]... *Sigh*.</Layers.0.Desc>
-			<Layers.1.DisplayName>Attraction</Layers.1.DisplayName>
+			<DisplayName>Ái mộ</DisplayName>
+			<Desc>Ái mộ</Desc>
+			<Layers.0.DisplayName>Ái mộ</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME]... hầy...</Layers.0.Desc>
+			<Layers.1.DisplayName>Ái mộ</Layers.1.DisplayName>
 		</Text>
 		<Text Name="Lover">
-			<DisplayName>Lover</DisplayName>
-			<Desc>[HENAME] adalah kekasihku.</Desc>
+			<DisplayName>Người yêu</DisplayName>
+			<Desc>[HENAME] là người yêu của ta.</Desc>
 		</Text>
 		<Text Name="VisceralScar">
-			<DisplayName>Terrible Scar</DisplayName>
-			<Desc>[HENAME] memiliki bekas luka parah di tubuhnya yang menyakitkan untuk dilihat.</Desc>
+			<DisplayName>Vết sẹo đáng sợ</DisplayName>
+			<Desc>Trên người [HENAME] có vết sẹo đáng sợ khiến người khác không dám nhìn thẳng.</Desc>
 		</Text>
 		<Text Name="Evilfaced">
-			<DisplayName>Unattractive</DisplayName>
-			<Desc>[HENAME] benar-benar jelek, sama sekali tidak enak dipandang.</Desc>
+			<DisplayName>Diện mạo xấu xí</DisplayName>
+			<Desc>[HENAME] trông rất xấu, khiến người khác khó chịu khi nhìn.</Desc>
 		</Text>
 		<Text Name="BeautifulFace">
-			<DisplayName>Handsome</DisplayName>
-			<Desc>[HENAME] adalah kecantikan sejati, menyebarkan kebahagiaan hanya dengan penampilannya.</Desc>
+			<DisplayName>Dung mạo tuấn mỹ</DisplayName>
+			<Desc>[HENAME] trông rất đẹp, khiến người khác nhìn thấy liền sinh thiện cảm.</Desc>
 		</Text>
 		<Text Name="Cruel">
-			<DisplayName>Brusque</DisplayName>
-			<Desc>Perilaku [HENAME] terhadap orang lain sungguh buruk, saya tidak tahan.</Desc>
+			<DisplayName>Đối xử nghiêm khắc</DisplayName>
+			<Desc>[HENAME] thái độ với người khác rất tệ, khiến người khác ghét.</Desc>
 		</Text>
 		<Text Name="Affinity">
-			<DisplayName>Pleasant</DisplayName>
-			<Desc>[HENAME] hangat dan akomodatif, sehingga memudahkan orang lain untuk mendekati mereka.</Desc>
+			<DisplayName>Đối xử hòa nhã</DisplayName>
+			<Desc>[HENAME] đối xử với người khác rất thân thiện và nhiệt tình, khiến người khác muốn gần gũi.</Desc>
 		</Text>
 		<Text Name="SayHi">
-			<DisplayName>Greeting</DisplayName>
-			<Desc>[HENAME] dan saya berbagi salam.</Desc>
+			<DisplayName>Chào hỏi</DisplayName>
+			<Desc>Ta và [HENAME] đã chào hỏi nhau.</Desc>
 		</Text>
 		<Text Name="AfterTalk">
-			<DisplayName>Chat</DisplayName>
-			<Desc>Saya ngobrol dengan [HENAME] , sungguh luar biasa.</Desc>
+			<DisplayName>Trò chuyện</DisplayName>
+			<Desc>Ta và [HENAME] đã trò chuyện, điều này thật tuyệt.</Desc>
 		</Text>
 		<Text Name="DeepTalk">
-			<DisplayName>Heart-to-heart Talk</DisplayName>
-			<Desc>Saya berbicara dari hati ke hati dengan [HENAME] . Kami menjalin hubungan yang baik, dan menurutku itu membuat kami semakin dekat.</Desc>
+			<DisplayName>Tâm sự</DisplayName>
+			<Desc>Ta và [HENAME] đã tâm sự, điều này giúp chúng ta hiểu nhau hơn, ta cảm thấy mối quan hệ của chúng ta đã tiến một bước lớn.</Desc>
 		</Text>
 		<Text Name="Neglect">
-			<DisplayName>Cold Shoulder</DisplayName>
-			<Desc>Saya mengatakan sesuatu kepada [HENAME] tetapi mereka bahkan tidak mengakui saya. Lagipula aku tidak peduli. Apa pun.</Desc>
+			<DisplayName>Thờ ơ</DisplayName>
+			<Desc>Ta nói vài câu với [HENAME], nhưng [HE] dường như lười đáp lại ta, vừa hay ta cũng lười để ý đến [HE].</Desc>
 		</Text>
 		<Text Name="Quarrel">
-			<DisplayName>Quarrel</DisplayName>
-			<Desc>Saya sedikit berselisih paham dengan [HENAME] . Mereka tidak tahu apa yang mereka bicarakan, itu yang terburuk.</Desc>
+			<DisplayName>Cãi vã</DisplayName>
+			<Desc>Ta và [HENAME] đã cãi nhau, người này thật vô lý, thật đáng ghét.</Desc>
 		</Text>
 		<Text Name="Insult">
-			<DisplayName>Humiliated</DisplayName>
-			<Desc>[HENAME] dan saya saling menghina. Aku benar-benar tidak tahan melihat mereka, bodoh.</Desc>
+			<DisplayName>Lăng mạ</DisplayName>
+			<Desc>Ta và [HENAME] đã lăng mạ lẫn nhau, ta thực sự không thể chịu nổi tên khốn này.</Desc>
 		</Text>
 		<Text Name="SayHiFight">
-			<DisplayName>Fight</DisplayName>
-			<Desc>Saya sedang berbasa-basi dengan [HENAME] tetapi karena suatu alasan keadaan menjadi tegang, dan kami mulai bertengkar. Berantakan sekali.</Desc>
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Ta và [HENAME] chào hỏi nhau một chút, nhưng không hiểu sao cả hai đều nổi nóng vô cớ, kết quả là đánh nhau, thật tệ.</Desc>
 		</Text>
 		<Text Name="AfterTalkFight">
-			<DisplayName>Fight</DisplayName>
-			<Desc>Saya mengobrol dengan [TXT] dan kami akhirnya bertengkar tanpa alasan yang jelas.</Desc>
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Ta và [HENAME] trò chuyện một chút, nhưng không hiểu sao cả hai đều nổi nóng vô cớ, kết quả là đánh nhau, thật tệ.</Desc>
 		</Text>
 		<Text Name="DeepTalkFight">
-			<DisplayName>Fight</DisplayName>
-			<Desc>Saya membuka hati untuk [HENAME] namun kami terlibat perdebatan sengit, dan bahkan berakhir dengan pertengkaran. Sayang sekali.</Desc>
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Ta và [HENAME] tâm sự với nhau, nhưng chúng ta lại có những bất đồng gay gắt, cuối cùng thậm chí còn động tay động chân. Điều này thực sự làm tổn thương tình cảm.</Desc>
 		</Text>
 		<Text Name="NeglectFight">
-			<DisplayName>Fight</DisplayName>
-			<Desc>Saya mulai berbicara dengan [HENAME] tetapi mereka tersinggung dengan perkataan saya, dan kami akhirnya bertengkar satu sama lain.</Desc>
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Ta nói vài câu với [HENAME], nhưng thái độ hời hợt của chúng ta đã chọc giận đối phương, không kìm được mà đánh nhau.</Desc>
 		</Text>
 		<Text Name="QuarrelFight">
-			<DisplayName>Fight</DisplayName>
-			<Desc>Saya bertengkar dengan [TXT] yang hanya bisa diselesaikan dengan tinju.</Desc>
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Ta và [HENAME] đã cãi nhau, nếu đã không hợp nhau thì chỉ có thể dùng nắm đấm để giải quyết vấn đề.</Desc>
 		</Text>
 		<Text Name="InsultFight">
-			<DisplayName>Fight</DisplayName>
-			<Desc>Saya saling menghina dengan [HENAME] . Si idiot yang suka berperang harus diberi pelajaran, dengan tinjuku.</Desc>
+			<DisplayName>Đánh nhau</DisplayName>
+			<Desc>Ta và [HENAME] đã lăng mạ lẫn nhau, loại người vô giáo dục này chỉ có thể dạy dỗ bằng nắm đấm.</Desc>
 		</Text>
 		<Text Name="WithYoung">
-			<Desc>Sikap terhadap generasi muda.</Desc>
-			<Layers.0.DisplayName>Rude to Elders</Layers.0.DisplayName>
-			<Layers.0.Desc>I think [HENAME] is an absolute rat.</Layers.0.Desc>
-			<Layers.1.DisplayName>Fond</Layers.1.DisplayName>
-			<Layers.1.Desc>I think [HENAME] is still just a kid.</Layers.1.Desc>
-			<Layers.2.DisplayName>Young Potential</Layers.2.DisplayName>
-			<Layers.2.Desc>I think [HENAME] shows promise.</Layers.2.Desc>
+			<Desc>Thái độ đối với hậu bối</Desc>
+			<Layers.0.DisplayName>Không tôn trọng bề trên</Layers.0.DisplayName>
+			<Layers.0.Desc>Ta cho rằng [HENAME] là một tên nhóc hỗn láo</Layers.0.Desc>
+			<Layers.1.DisplayName>Yêu thương</Layers.1.DisplayName>
+			<Layers.1.Desc>Ta cảm thấy [HENAME] vẫn còn là một đứa trẻ</Layers.1.Desc>
+			<Layers.2.DisplayName>Tuổi trẻ tài cao</Layers.2.DisplayName>
+			<Layers.2.Desc>Ta cảm thấy [HENAME] tuổi trẻ tài cao</Layers.2.Desc>
 		</Text>
 		<Text Name="WithElder">
-			<Desc>Sikap terhadap orang yang lebih tua.</Desc>
-			<Layers.0.DisplayName>Rebellious</Layers.0.DisplayName>
-			<Layers.0.Desc>I don't like being around [HENAME], makes me feel awkward.</Layers.0.Desc>
-			<Layers.1.DisplayName>Respects Elders</Layers.1.DisplayName>
-			<Layers.1.Desc>I reckon [HENAME] should be treated respectfully, on account of their age.</Layers.1.Desc>
-			<Layers.2.DisplayName>Reverence</Layers.2.DisplayName>
-			<Layers.2.Desc>I hold [HENAME] in high esteem.</Layers.2.Desc>
+			<Desc>Thái độ đối với trưởng bối</Desc>
+			<Layers.0.DisplayName>Nổi loạn</Layers.0.DisplayName>
+			<Layers.0.Desc>Ta cảm thấy khó xử khi đứng trước [HENAME]</Layers.0.Desc>
+			<Layers.1.DisplayName>Kính lão</Layers.1.DisplayName>
+			<Layers.1.Desc>Ta cảm thấy [HENAME] lớn tuổi nên cần được tôn trọng</Layers.1.Desc>
+			<Layers.2.DisplayName>Tôn kính</Layers.2.DisplayName>
+			<Layers.2.Desc>Ta rất tôn kính [HENAME]</Layers.2.Desc>
 		</Text>
 		<Text Name="RivalInlove">
-			<Desc>Saingan Cinta</Desc>
-			<Layers.0.DisplayName>Loathing</Layers.0.DisplayName>
-			<Layers.0.Desc>Oh, if I could just shove a blade into [HENAME] and be done with it.</Layers.0.Desc>
-			<Layers.1.DisplayName>Empathy</Layers.1.DisplayName>
-			<Layers.1.Desc>I think [HENAME] and I are similar in a lot of ways.</Layers.1.Desc>
+			<Desc>Tình địch</Desc>
+			<Layers.0.DisplayName>Căm ghét</Layers.0.DisplayName>
+			<Layers.0.Desc>Ta hận không thể đâm chết [HENAME]</Layers.0.Desc>
+			<Layers.1.DisplayName>Đồng cảm</Layers.1.DisplayName>
+			<Layers.1.Desc>Ta cảm thấy [HENAME] rất giống mình</Layers.1.Desc>
 		</Text>
 		<Text Name="PersonalEnemyBegin">
-			<DisplayName>Hatred</DisplayName>
-			<Desc>Saya tidak tahan berada di ruangan yang sama dengan [HENAME] .</Desc>
+			<DisplayName>Thù hận</DisplayName>
+			<Desc>Ta và [HENAME] không đội trời chung</Desc>
 		</Text>
 		<Text Name="FeatureOpposition">
-			<DisplayName>On Bad Terms</DisplayName>
-			<Desc>Jadi orang seperti itulah [HE] . Saya membenci [HE] . ( [TXT] )</Desc>
+			<DisplayName>Đối lập về tính cách</DisplayName>
+			<Desc>Ta ghét [HE], [HE] lại là loại người như vậy. ([TXT])</Desc>
 		</Text>
 		<Text Name="FeatureClose">
-			<DisplayName>Close</DisplayName>
-			<Desc>Saya suka orang-orang seperti [HE] . Kami dipotong dari kain yang sama. ( [TXT] )</Desc>
+			<DisplayName>Tính cách gần gũi</DisplayName>
+			<Desc>Ta thích kiểu người như [HE], chúng ta có những đặc điểm giống nhau. ([TXT])</Desc>
 		</Text>
 		<Text Name="SameBackstory">
-			<DisplayName>Common Ground</DisplayName>
-			<Desc>Kami memiliki banyak pengalaman bersama ( [TXT] ).</Desc>
+			<DisplayName>Trải nghiệm tương đồng</DisplayName>
+			<Desc>Trải nghiệm của chúng ta thật giống nhau ([TXT])</Desc>
 		</Text>
 		<Text Name="FeedGood">
-			<DisplayName>Take Care</DisplayName>
-			<Desc>Terima kasih telah menjagaku.</Desc>
+			<DisplayName>Chăm sóc</DisplayName>
+			<Desc>Cảm ơn vì đã chăm sóc ta</Desc>
 		</Text>
 		<Text Name="FeedBad">
-			<DisplayName>What is this?</DisplayName>
-			<Desc>Apa yang kamu coba berikan padaku?</Desc>
+			<DisplayName>Đây là gì?</DisplayName>
+			<Desc>Ngươi đã cho ta ăn gì?</Desc>
 		</Text>
 		<Text Name="ThankTreat">
-			<DisplayName>Heal</DisplayName>
-			<Desc>Terima kasih telah membantu saya menyembuhkan.</Desc>
+			<DisplayName>Chữa trị</DisplayName>
+			<Desc>Cảm ơn vì đã chữa trị cho ta</Desc>
 		</Text>
 		<Text Name="ThankHufa">
-			<DisplayName>Guard</DisplayName>
-			<Desc>Terima kasih, tuan.</Desc>
+			<DisplayName>Hộ pháp</DisplayName>
+			<Desc>Cảm ơn sư phụ</Desc>
 		</Text>
 		<Text Name="BeAttack">
-			<DisplayName>Under Attack</DisplayName>
-			<Desc>Apakah kamu mencoba membunuhku?</Desc>
+			<DisplayName>Bị tấn công</DisplayName>
+			<Desc>Ngươi muốn giết ta sao?</Desc>
 		</Text>
 		<Text Name="BeMagicBood">
-			<DisplayName>Appreciation</DisplayName>
-			<Desc>Terima kasih, atas semua yang telah kamu lakukan untukku.</Desc>
+			<DisplayName>Biết ơn</DisplayName>
+			<Desc>Cảm ơn vì tất cả những gì ngươi đã làm cho ta</Desc>
 		</Text>
 		<Text Name="BeMagicBad">
-			<DisplayName>Damaged</DisplayName>
-			<Desc>Apa yang baru saja kamu lakukan padaku?</Desc>
+			<DisplayName>Tổn thương</DisplayName>
+			<Desc>Ngươi đã làm gì với ta?</Desc>
 		</Text>
 		<Text Name="AmuseME">
-			<DisplayName>Amused</DisplayName>
-			<Desc>[HENAME] adalah sumber tawa yang tepat.</Desc>
+			<DisplayName>Chọc cười</DisplayName>
+			<Desc>[HENAME] thực sự là một người thú vị</Desc>
 		</Text>
 		<Text Name="PersonalEnemy">
-			<DisplayName>Hatred</DisplayName>
-			<Desc>[HENAME] dibunuh [TXT] .</Desc>
+			<DisplayName>Thù hận</DisplayName>
+			<Desc>[HENAME] đã giết [TXT]</Desc>
 		</Text>
 		<Text Name="MagicBad">
-			<DisplayName>Damaged</DisplayName>
-			<Desc>Menyaksikan [HENAME] merugikan [TXT] .</Desc>
+			<DisplayName>Tổn thương</DisplayName>
+			<Desc>Chứng kiến [HENAME] làm tổn thương [TXT]</Desc>
 		</Text>
 		<Text Name="MagicGood">
-			<DisplayName>Appreciation</DisplayName>
-			<Desc>Menyaksikan [HENAME] menggunakan sihir melawan [TXT] .</Desc>
+			<DisplayName>Biết ơn</DisplayName>
+			<Desc>Chứng kiến [HENAME] thi triển tiên thuật lên [TXT]</Desc>
 		</Text>
 		<Text Name="BeDeclaration">
-			<Layers.0.DisplayName>Declare Feelings</Layers.0.DisplayName>
-			<Layers.0.Desc>[HENAME] professed their feelings for me, haha.</Layers.0.Desc>
-			<Layers.1.DisplayName>Declare Feelings</Layers.1.DisplayName>
-			<Layers.1.Desc>[HENAME] told me of their feelings for me. My heart's racing.</Layers.1.Desc>
+			<Layers.0.DisplayName>Tỏ tình</Layers.0.DisplayName>
+			<Layers.0.Desc>Không ngờ lại bị [HENAME] tỏ tình, haha</Layers.0.Desc>
+			<Layers.1.DisplayName>Tỏ tình</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] đã tỏ tình với ta, tim ta đập rất nhanh</Layers.1.Desc>
 		</Text>
 		<Text Name="Favour_School_FiveTangZhu">
-			<DisplayName>Disdain</DisplayName>
-			<Desc>Bagaimana [HENAME] dapat bertindak sebagai Pemimpin Cabang, dengan kinerja seperti itu?</Desc>
+			<DisplayName>Khinh thường</DisplayName>
+			<Desc>[HENAME] với trình độ này mà cũng có thể làm đường chủ sao?</Desc>
 		</Text>
 		<Text Name="Favour_School_ZhangMen">
-			<DisplayName>Sect Leader</DisplayName>
-			<Desc>[HENAME] adalah Pemimpin Sekte kami.</Desc>
+			<DisplayName>Chưởng môn</DisplayName>
+			<Desc>[HENAME] là chưởng môn của chúng ta.</Desc>
 		</Text>
 		<Text Name="Favour_School_TangZhu">
-			<DisplayName>Branch Leader</DisplayName>
-			<Desc>[HENAME] adalah Pemimpin Cabang kami.</Desc>
+			<DisplayName>Đường chủ</DisplayName>
+			<Desc>[HENAME] là đường chủ của chúng ta.</Desc>
 		</Text>
 	</List>
 </Texts>
+

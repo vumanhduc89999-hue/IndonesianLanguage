@@ -1,166 +1,167 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="ZhenMainNode_Lv3_2_1">
-			<DisplayName>Sun-Moon Wax and Wane</DisplayName>
+			<DisplayName>Nhật Nguyệt Tròn Khuyết</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv3_2_2">
-			<DisplayName>Yin-Yang Rise and Fall</DisplayName>
+			<DisplayName>Âm Dương Tiêu Trưởng</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv3_2_3">
-			<DisplayName>Space-Time Evolution</DisplayName>
+			<DisplayName>Vũ Trụ Khai Phá</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv3_2_4">
-			<DisplayName>Cycle of Beginning and End</DisplayName>
+			<DisplayName>Bắt Đầu Kết Thúc Luân Chuyển</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv3_2_5">
-			<DisplayName>Everything's Life and Death</DisplayName>
+			<DisplayName>Sinh Diệt Vạn Vật</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv3_2_6">
-			<DisplayName>Secrets of Creation</DisplayName>
+			<DisplayName>Tạo Hóa Huyền Cơ</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_1">
-			<DisplayName>Heavenly Sun</DisplayName>
+			<DisplayName>Nhật Trung Thiên</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_2">
-			<DisplayName>Thunderous Sun</DisplayName>
+			<DisplayName>Nhật Trung Lôi</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_3">
-			<DisplayName>Saturated Sun</DisplayName>
+			<DisplayName>Nhật Trung Thủy</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_4">
-			<DisplayName>Mountainous Sun</DisplayName>
+			<DisplayName>Nhật Trung Sơn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_5">
-			<DisplayName>Earthy Moon</DisplayName>
+			<DisplayName>Nguyệt Trung Địa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_6">
-			<DisplayName>Windy Moon</DisplayName>
+			<DisplayName>Nguyệt Trung Phong</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_7">
-			<DisplayName>Fiery Moon</DisplayName>
+			<DisplayName>Nguyệt Trung Hỏa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_8">
-			<DisplayName>Sodden Moon</DisplayName>
+			<DisplayName>Nguyệt Trung Trạch</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_9">
-			<DisplayName>Yang Heaven</DisplayName>
+			<DisplayName>Dương Sinh Thiên</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_10">
-			<DisplayName>Yang Thunder</DisplayName>
+			<DisplayName>Dương Sinh Lôi</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_11">
-			<DisplayName>Yang Water</DisplayName>
+			<DisplayName>Dương Sinh Thủy</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_12">
-			<DisplayName>Yang Mountain</DisplayName>
+			<DisplayName>Dương Sinh Sơn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_13">
-			<DisplayName>Yin Earth</DisplayName>
+			<DisplayName>Âm Sinh Địa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_14">
-			<DisplayName>Yin Wind</DisplayName>
+			<DisplayName>Âm Sinh Phong</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_15">
-			<DisplayName>Yin Fire</DisplayName>
+			<DisplayName>Âm Sinh Hỏa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_16">
-			<DisplayName>Yin Swamp</DisplayName>
+			<DisplayName>Âm Sinh Trạch</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_17">
-			<DisplayName>Heaven of Space</DisplayName>
+			<DisplayName>Vũ Hóa Thiên</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_18">
-			<DisplayName>Thunder of Space</DisplayName>
+			<DisplayName>Vũ Hóa Lôi</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_19">
-			<DisplayName>Water of Space</DisplayName>
+			<DisplayName>Vũ Hóa Thủy</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_20">
-			<DisplayName>Mountain of Space</DisplayName>
+			<DisplayName>Vũ Hóa Sơn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_21">
-			<DisplayName>Earth of Time</DisplayName>
+			<DisplayName>Trụ Hóa Địa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_22">
-			<DisplayName>Wind of Time</DisplayName>
+			<DisplayName>Trụ Hóa Phong</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_23">
-			<DisplayName>Fire of Time</DisplayName>
+			<DisplayName>Trụ Hóa Hỏa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_24">
-			<DisplayName>Swamp of Time</DisplayName>
+			<DisplayName>Trụ Hóa Trạch</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_25">
-			<DisplayName>Heaven's Beginning</DisplayName>
+			<DisplayName>Bắt Đầu Từ Thiên</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_26">
-			<DisplayName>Thunder's Beginning</DisplayName>
+			<DisplayName>Bắt Đầu Từ Lôi</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_27">
-			<DisplayName>Water's Beginning</DisplayName>
+			<DisplayName>Bắt Đầu Từ Thủy</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_28">
-			<DisplayName>Mountain's Beginning</DisplayName>
+			<DisplayName>Bắt Đầu Từ Sơn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_29">
-			<DisplayName>Earth's End</DisplayName>
+			<DisplayName>Kết Thúc Ở Địa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_30">
-			<DisplayName>Wind's End</DisplayName>
+			<DisplayName>Kết Thúc Ở Phong</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_31">
-			<DisplayName>Fire's End</DisplayName>
+			<DisplayName>Kết Thúc Ở Hỏa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_32">
-			<DisplayName>Swamp's End</DisplayName>
+			<DisplayName>Kết Thúc Ở Trạch</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_33">
-			<DisplayName>Heaven of Life</DisplayName>
+			<DisplayName>Sinh Cùng Thiên</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_34">
-			<DisplayName>Thunder of Life</DisplayName>
+			<DisplayName>Sinh Cùng Lôi</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_35">
-			<DisplayName>Water of Life</DisplayName>
+			<DisplayName>Sinh Cùng Thủy</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_36">
-			<DisplayName>Mountain of Life</DisplayName>
+			<DisplayName>Sinh Cùng Sơn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_37">
-			<DisplayName>Earth of Death</DisplayName>
+			<DisplayName>Diệt Cùng Địa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_38">
-			<DisplayName>Wind of Death</DisplayName>
+			<DisplayName>Diệt Cùng Phong</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_39">
-			<DisplayName>Fire of Death</DisplayName>
+			<DisplayName>Diệt Cùng Hỏa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_40">
-			<DisplayName>Swamp of Death</DisplayName>
+			<DisplayName>Diệt Cùng Trạch</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_41">
-			<DisplayName>Heaven of Creation</DisplayName>
+			<DisplayName>Tạo thành trời</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_42">
-			<DisplayName>Thunder of Creation</DisplayName>
+			<DisplayName>Tạo thành sấm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_43">
-			<DisplayName>Water of Creation</DisplayName>
+			<DisplayName>Tạo thành nước</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_44">
-			<DisplayName>Mountain of Creation</DisplayName>
+			<DisplayName>Tạo thành núi</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_45">
-			<DisplayName>Earth of Destiny</DisplayName>
+			<DisplayName>Biến thành đất</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_46">
-			<DisplayName>Wind of Destiny</DisplayName>
+			<DisplayName>Biến thành gió</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_47">
-			<DisplayName>Fire of Destiny</DisplayName>
+			<DisplayName>Biến thành lửa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv3_3_48">
-			<DisplayName>Swamp of Destiny</DisplayName>
+			<DisplayName>Biến thành đầm</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

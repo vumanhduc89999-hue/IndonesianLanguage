@@ -2167,4 +2167,5 @@
 /Settings/TeachFile/JY-03.osave	Trade.SchoolTrade.schooldata.7.Leader.name	尚易容	7	
 /Settings/TeachFile/JY-03.osave	Trade.SchoolTrade.schooldata.4.Leader.name	靳承	4	
 /Settings/TeachFile/JY-03.osave	Trade.SchoolTrade.schooldata.6.Leader.name	阴醉柳	6	
-/Settings/TeachFile/JY-03.osave	Trade.SchoolTrade.schooldata.11.Leader.name	汝初彤	11	
+/Settings/TeachFile/JY-03.osave	Trade.SchoolTrade.schooldata.11.Leader.name	汝初彤	11
+

@@ -1,44 +1,45 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="PracticeMaster">
-			<DisplayNameF>Master</DisplayNameF>
-			<DisplayNameM>Master</DisplayNameM>
+			<DisplayNameF>Sư phụ</DisplayNameF>
+			<DisplayNameM>Sư phụ</DisplayNameM>
 		</Text>
 		<Text Name="PracticeChild">
-			<DisplayNameF>Disciple</DisplayNameF>
-			<DisplayNameM>Disciple</DisplayNameM>
+			<DisplayNameF>Đệ tử</DisplayNameF>
+			<DisplayNameM>Đệ tử</DisplayNameM>
 		</Text>
 		<Text Name="PracticeMasterMaster">
-			<DisplayNameF>Great Master</DisplayNameF>
-			<DisplayNameM>Great Master</DisplayNameM>
+			<DisplayNameF>Thái sư phụ</DisplayNameF>
+			<DisplayNameM>Thái sư phụ</DisplayNameM>
 		</Text>
 		<Text Name="PracticeChildChild">
-			<DisplayNameF>Disciple's Disciple</DisplayNameF>
-			<DisplayNameM>Disciple's Disciple</DisplayNameM>
+			<DisplayNameF>Đồ tôn</DisplayNameF>
+			<DisplayNameM>Đồ tôn</DisplayNameM>
 		</Text>
 		<Text Name="PracticeBrother">
-			<DisplayNameF>Fellow Disciple, Fellow Disciple</DisplayNameF>
-			<DisplayNameM>Fellow Disciple, Fellow Disciple</DisplayNameM>
+			<DisplayNameF>Sư tỷ, sư muội</DisplayNameF>
+			<DisplayNameM>Sư huynh, sư đệ</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherBrother">
-			<DisplayNameF>Fellow Disciple, Fellow Disciple</DisplayNameF>
-			<DisplayNameM>Fellow Disciple, Fellow Disciple</DisplayNameM>
+			<DisplayNameF>Sư tỷ, sư muội</DisplayNameF>
+			<DisplayNameM>Sư huynh, sư đệ</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherMaster">
-			<DisplayNameF>Master's Fellow Disciple, Master's Fellow Disciple</DisplayNameF>
-			<DisplayNameM>Master's Fellow Disciple, Master's Fellow Disciple</DisplayNameM>
+			<DisplayNameF>Tiểu sư cô, sư cô</DisplayNameF>
+			<DisplayNameM>Tiểu sư thúc, sư thúc</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherChild">
-			<DisplayNameF>Fellow Disciple's Disciple</DisplayNameF>
-			<DisplayNameM>Fellow Disciple's Disciple</DisplayNameM>
+			<DisplayNameF>Sư điệt</DisplayNameF>
+			<DisplayNameM>Sư điệt</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherMasterMaster">
-			<DisplayNameF>Grand Master</DisplayNameF>
-			<DisplayNameM>Grand Master</DisplayNameM>
+			<DisplayNameF>Sư tổ</DisplayNameF>
+			<DisplayNameM>Sư tổ</DisplayNameM>
 		</Text>
 		<Text Name="PracticeOtherChildChild">
-			<DisplayNameF>Disciple's Disciple</DisplayNameF>
-			<DisplayNameM>Disciple's Disciple</DisplayNameM>
+			<DisplayNameF>Đồ tôn</DisplayNameF>
+			<DisplayNameM>Đồ tôn</DisplayNameM>
 		</Text>
 	</List>
 </Texts>
+

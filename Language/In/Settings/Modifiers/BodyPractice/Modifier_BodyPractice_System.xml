@@ -1,48 +1,49 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="BodyPractice_Attitude_Atk">
-			<DisplayName>Attack Stance</DisplayName>
-			<Desc>Fokus penuh menyerang tubuh fisik musuh. Dalam posisi ini, performa serangan tubuh rahasia meningkat sebesar 25% dan performa pertahanan berkurang sebesar 50%.</Desc>
+			<DisplayName>Tư thế tấn công</DisplayName>
+			<Desc>Tấn công toàn lực vào bản thể đối phương, trong tư thế này, hiệu suất tấn công của bí thể tăng 25%, hiệu suất phòng thủ giảm 50%.</Desc>
 		</Text>
 		<Text Name="BodyPractice_Attitude_Normal">
-			<DisplayName>Common Stance</DisplayName>
-			<Desc>Menggunakan sikap standar bagi para kultivator fisik untuk terlibat dalam pertempuran, seimbang dalam setiap aspek.</Desc>
+			<DisplayName>Tư thế bình thường</DisplayName>
+			<Desc>Chiến đấu theo cách tiêu chuẩn của người luyện thể, có thể phát huy cân bằng mọi mặt.</Desc>
 		</Text>
 		<Text Name="BodyPractice_Attitude_ManJi">
-			<DisplayName>Barbarian Will</DisplayName>
-			<Desc>Menggunakan kemauan bertarung yang kuat untuk memerintahkan seluruh tubuh untuk bergerak dan langsung menyerang tubuh fisik musuh, secara drastis meningkatkan kemampuan menyerang sambil mempertahankan pertahanan instingtual. Performa serangan badan rahasia meningkat sebesar 30% dan performa pertahanan berkurang sebesar 25%.</Desc>
+			<DisplayName>Man Cực Chiến Ý</DisplayName>
+			<Desc>Sử dụng ý chí chiến đấu mạnh mẽ để điều khiển toàn bộ hành động, trực tiếp tấn công bản thể đối phương, tăng đáng kể lực tấn công, đồng thời giữ khả năng phòng thủ bản năng. Hiệu suất tấn công của bí thể tăng 30%, hiệu suất phòng thủ giảm 25%.</Desc>
 		</Text>
 		<Text Name="BodyPractice_Attitude_WangZhe">
-			<DisplayName>Will of the King</DisplayName>
-			<Desc>Tetap tenang dan tenang saat menghadapi pertempuran dengan hati seorang raja. Performa serangan badan rahasia meningkat sebesar 15%, performa pertahanan meningkat sebesar 15%, dan konsumsi berkurang sebesar 20%.</Desc>
+			<DisplayName>Vương Giả Chiến Ý</DisplayName>
+			<Desc>Đối diện với chiến đấu bằng tâm vương đạo, ung dung không vội vàng. Hiệu suất tấn công của bí thể tăng 15%, hiệu suất phòng thủ tăng 15%, tiêu hao bí thể giảm 20%.</Desc>
 		</Text>
 		<Text Name="BodyPractice_DefenseDebuff">
-			<DisplayName>Weakening</DisplayName>
-			<Desc>Setelah True Qi habis, kultivator fisik jatuh ke dalam kondisi lemah, semua statistik berkurang 90%.</Desc>
+			<DisplayName>Suy yếu</DisplayName>
+			<Desc>Chân khí cạn kiệt, người luyện thể rơi vào trạng thái suy yếu, tất cả thuộc tính giảm 90%.</Desc>
 		</Text>
 		<Text Name="Modifier_BodyPractice_AngerFire">
-			<DisplayName>Furious Berserk</DisplayName>
-			<Desc>Mengingat kenangan menyakitkan yang tersegel dan mengaktifkan sepenuhnya semua fungsi tubuh dalam jangka waktu tertentu.</Desc>
+			<DisplayName>Cuồng nộ kích động</DisplayName>
+			<Desc>Hồi tưởng lại ký ức đau khổ bị phong ấn, trong một khoảng thời gian kích hoạt toàn diện chức năng cơ thể.</Desc>
 		</Text>
 		<Text Name="Modifier_BodyPractice_Magic_JingXi">
-			<DisplayName>Organ Overload</DisplayName>
-			<Desc>Jantung dan paru-paru menjadi kelebihan beban setelah menggunakan Pernapasan Paus dan efisiensi pernapasan berkurang drastis.</Desc>
+			<DisplayName>Tâm Phế Quá Tái</DisplayName>
+			<Desc>Sau khi thực hiện phương pháp hít thở cá voi, tim phổi quá tải, hiệu suất hít thở giảm mạnh.</Desc>
 		</Text>
 		<Text Name="Modifier_BodyPractice_Magic_TunJin">
-			<DisplayName>Devouring Mouth</DisplayName>
-			<Desc>Mempercepat konsumsi umur dan menarik Qi Primordial dari kehampaan untuk mengisi kembali rasa lapar.</Desc>
+			<DisplayName>Thôn Tận Chi Khẩu</DisplayName>
+			<Desc>Đẩy nhanh tiêu hao sinh mệnh, đồng thời từ hư không hấp thu nguyên khí, bổ sung mức độ đói của bản thân.</Desc>
 		</Text>
 		<Text Name="Modifier_BodyPractice_Magic_XiuFu">
-			<DisplayName>Transporting Energy</DisplayName>
-			<Desc>Mengangkut energi ke seluruh tubuh untuk mempercepat pemulihan luka.</Desc>
+			<DisplayName>Vận chuyển khí huyết</DisplayName>
+			<Desc>Vận chuyển khí huyết toàn thân, đẩy nhanh tốc độ hồi phục tổn thương.</Desc>
 		</Text>
 		<Text Name="Modifier_BodyPractice_Magic_ChiYi1">
-			<DisplayName>Fleeting Life</DisplayName>
-			<Desc>Menggunakan Qi Sejati yang dihasilkan oleh Tubuh yang Ditolak untuk mengalir ke seluruh tubuh dan secara drastis meningkatkan tingkat konsumsi umur dan kecepatan pembentukan kembali.</Desc>
+			<DisplayName>Thử Sinh Thúc Hốt</DisplayName>
+			<Desc>Sử dụng chân khí từ thể chống dị để vận chuyển toàn thân, tăng đáng kể tốc độ tiêu hao sinh mệnh, tăng đáng kể tốc độ luyện thể.</Desc>
 		</Text>
 		<Text Name="Modifier_BodyPractice_Magic_ChiYi2">
-			<DisplayName>Fallacious Life</DisplayName>
-			<Desc>Menggunakan Qi Sejati yang dihasilkan oleh Tubuh yang Ditolak untuk mengalir ke seluruh tubuh dan secara drastis meningkatkan tingkat konsumsi umur dan peluang terjadinya arah evolusi lanjutan dalam pembentukan ulang.</Desc>
+			<DisplayName>Thử Sinh Hư Vọng</DisplayName>
+			<Desc>Sử dụng chân khí từ thể chống dị để vận chuyển toàn thân, tăng đáng kể tốc độ tiêu hao sinh mệnh, tăng đáng kể khả năng xuất hiện các phương án tiến hoá cao cấp trong luyện thể.</Desc>
 		</Text>
 	</List>
 </Texts>
+

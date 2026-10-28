@@ -1,40 +1,41 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Box_Cargo" sParam="Plant">
-			<ThingName>Old Box</ThingName>
-			<Desc>Kotak kargo yang relatif terawat baik. Tampaknya tersesat dalam kepanikan oleh seseorang yang melarikan diri dari perang.</Desc>
-			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Telusuri kotak ini.</StoryBnts.0.Desc>
+			<ThingName>Rương cũ</ThingName>
+			<Desc>Một chiếc hòm hàng còn khá nguyên vẹn, dường như bị bỏ rơi trong lúc người ta chạy trốn chiến loạn.</Desc>
+			<StoryBnts.0.Name>Tìm kiếm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tìm kiếm chiếc hòm này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse" sParam="Plant">
-			<ThingName>Decomposed Body</ThingName>
-			<Desc>Tubuh yang sudah membusuk. Entah kenapa, ia mati di sini.</Desc>
-			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cari tubuh ini.</StoryBnts.0.Desc>
+			<ThingName>Xác mục nát</ThingName>
+			<Desc>Một bộ xác đã mục nát từ lâu, không biết vì sao lại chết ở đây.</Desc>
+			<StoryBnts.0.Name>Tìm kiếm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tìm kiếm bộ xác này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse_OldMan1" sParam="Plant">
-			<ThingName>Decomposed Body</ThingName>
-			<Desc>Tubuh yang sudah membusuk. Entah kenapa, ia mati di sini.</Desc>
-			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cari tubuh ini.</StoryBnts.0.Desc>
+			<ThingName>Xác mục nát</ThingName>
+			<Desc>Một bộ xác đã mục nát từ lâu, không biết vì sao lại chết ở đây.</Desc>
+			<StoryBnts.0.Name>Tìm kiếm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tìm kiếm bộ xác này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse_OldMan2" sParam="Plant">
-			<ThingName>Decomposed Body</ThingName>
-			<Desc>Tubuh yang sudah membusuk. Entah kenapa, ia mati di sini.</Desc>
-			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cari tubuh ini.</StoryBnts.0.Desc>
+			<ThingName>Xác mục nát</ThingName>
+			<Desc>Một bộ xác đã mục nát từ lâu, không biết vì sao lại chết ở đây.</Desc>
+			<StoryBnts.0.Name>Tìm kiếm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tìm kiếm bộ xác này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse_BeastMan" sParam="Plant">
-			<ThingName>Half-decomposed Body</ThingName>
-			<Desc>Tubuhnya setengah membusuk, binatang buas tidak memakannya karena alasan tertentu.</Desc>
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah untuk berinteraksi dengan Penampakannya dengan Persepsi Anda.</StoryBnts.0.Desc>
+			<ThingName>Xác nửa mục nát</ThingName>
+			<Desc>Một bộ xác bị mục nát một nửa, không hiểu sao thú hoang lại không ăn nó.</Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức tiếp xúc với âm hồn của nó.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Box_Corpse_ShiXiong" sParam="Plant">
-			<ThingName>Recent Corpse</ThingName>
-			<Desc>Mayat yang meninggal di sini belum lama ini karena suatu alasan.</Desc>
-			<StoryBnts.0.Name>Search</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cari tubuh ini.</StoryBnts.0.Desc>
+			<ThingName>Xác tươi mới</ThingName>
+			<Desc>Một bộ xác vừa mới chết không lâu, không biết vì sao lại ở đây.</Desc>
+			<StoryBnts.0.Name>Tìm kiếm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Tìm kiếm bộ xác này.</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>
+

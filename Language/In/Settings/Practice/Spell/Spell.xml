@@ -1,240 +1,241 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Spell_SYSLOST">
-			<DisplayName>Empty</DisplayName>
-			<Desc>Sebuah bangunan hilang yang tidak dikenali oleh siapa pun. \n(Kosong.)</Desc>
+			<DisplayName>Mô-đun bị mất</DisplayName>
+			<Desc>Vật Đánh Mất, không ai biết đây là gì.\n(Mô-đun mất).</Desc>
 		</Text>
 		<Text Name="Spell_MoveSpeed1">
-			<DisplayName>Agility Talisman</DisplayName>
-			<Desc>Talisman digunakan untuk meningkatkan kecepatan gerak.</Desc>
+			<DisplayName>Khinh thân phù</DisplayName>
+			<Desc>Là phù chú có thể tăng tốc độ di chuyển.</Desc>
 		</Text>
 		<Text Name="Spell_TempLow1">
-			<DisplayName>Cold-resistant Talisman</DisplayName>
-			<Desc>Jimat digunakan untuk meningkatkan ketahanan terhadap dingin.</Desc>
+			<DisplayName>Tị Hàn Phù</DisplayName>
+			<Desc>Là phù chú có thể tăng khả năng chống lạnh.</Desc>
 		</Text>
 		<Text Name="Spell_TempHigh1">
-			<DisplayName>Heat-resistant Talisman</DisplayName>
-			<Desc>Jimat digunakan untuk meningkatkan ketahanan terhadap panas.</Desc>
+			<DisplayName>Tị Hoả Phù</DisplayName>
+			<Desc>Là phù chú có thể tăng khả năng chống nóng.</Desc>
 		</Text>
 		<Text Name="Spell_ReadNovel">
-			<DisplayName>Story Talisman</DisplayName>
-			<Desc>Jimat aneh entah dari mana. Mudah untuk digambar tetapi memiliki efek yang aneh, sehingga tersebar luas di kalangan budidaya. Setelah dilengkapi, seseorang dapat fokus pada jimat ini dan melihat banyak cerita luar biasa dari Webnovel dan melepaskannya. Namun, hal itu akan dengan mudah menarik perhatian seseorang dan memperlambat kecepatan kerja dan kultivasi.\n[color=#D06508]Terima kasih Webnovel APP karena telah mendukung permainan kami.[/color]</Desc>
+			<DisplayName>Dị văn phù</DisplayName>
+			<Desc>Là phù chú kỳ lạ không biết truyền từ đâu, cách vẽ rất đơn giản nhưng hiệu quả rất thần kỳ, được lưu truyền rộng rãi trong giới tu hành. Chỉ cần người đeo tập trung tâm thần vào phù chú sẽ có thể nhận được nhiều câu chuyện kỳ diệu, thư giãn tâm trạng, điều chỉnh tâm cảnh. Tuy nhiên sẽ không thể kiềm chế sự mê đắm, rất ảnh hưởng đến hiệu suất làm việc và tốc độ tu hành.</Desc>
 		</Text>
 		<Text Name="Spell_MoveSpeed2">
-			<DisplayName>Talisman of Spiritual Travelling</DisplayName>
-			<Desc>Talisman digunakan untuk meningkatkan kecepatan bergerak, serta kecepatan selama berpetualang.</Desc>
+			<DisplayName>Thần hành phù</DisplayName>
+			<Desc>Là phù chú có thể tăng tốc độ di chuyển, cũng có thể tăng tốc độ khi luyện tập.</Desc>
 		</Text>
 		<Text Name="Spell_RecoveryPower">
-			<DisplayName>Talisman of Curer</DisplayName>
-			<Desc>Jimat digunakan untuk meningkatkan tingkat pemulihan alami.</Desc>
+			<DisplayName>Khư Bệnh Phù</DisplayName>
+			<Desc>Là phù chú có thể tăng khả năng tự phục hồi tự nhiên của cơ thể.</Desc>
 		</Text>
 		<Text Name="Spell_VisionRadius">
-			<DisplayName>Talisman of Foreseer</DisplayName>
-			<Desc>Talisman digunakan untuk meningkatkan jangkauan pandangan, dan mengurangi waktu yang dihabiskan untuk menemukan lokasi baru dalam petualangan.</Desc>
+			<DisplayName>Thiên Lý Thị Phù</DisplayName>
+			<Desc>Là phù chú có thể tăng phạm vi tầm nhìn, và tăng tốc độ phát hiện địa điểm mới khi luyện tập.</Desc>
 		</Text>
 		<Text Name="Spell_Fatigue">
-			<DisplayName>Talisman of Spiritual Cleansing</DisplayName>
-			<Desc>Jimat digunakan untuk meningkatkan kualitas tidur dan mengurangi kecenderungan kelelahan.</Desc>
+			<DisplayName>Chu Công Địch Phù</DisplayName>
+			<Desc>Là phù chú có thể tăng chất lượng giấc ngủ và làm cho người ta khó bị mệt mỏi.</Desc>
 		</Text>
 		<Text Name="Spell_Nutrition">
-			<DisplayName>Talisman of Qi Absorption</DisplayName>
-			<Desc>Digunakan untuk meningkatkan efisiensi penyerapan Qi dan puasa.</Desc>
+			<DisplayName>Ẩm Khí Phù</DisplayName>
+			<Desc>Tăng hiệu quả uống khí bế thực.</Desc>
 		</Text>
 		<Text Name="Spell_Nutrition1">
-			<DisplayName>Talisman of Fasting</DisplayName>
-			<Desc>Digunakan untuk mengurangi tingkat konsumsi makanan.</Desc>
+			<DisplayName>Tích Cốc phù</DisplayName>
+			<Desc>Giảm tốc độ tiêu hao thực phẩm.</Desc>
 		</Text>
 		<Text Name="Spell_Hide">
-			<DisplayName>Talisman of Invisibility</DisplayName>
-			<Desc>Jimat digunakan untuk menyembunyikan kehadiran Anda sampai batas tertentu, menjadi kurang dapat dikenali oleh orang lain selama petualangan, dan mengurangi peluang memperoleh reputasi.</Desc>
+			<DisplayName>Nặc tung phù</DisplayName>
+			<Desc>Có thể ở một mức độ nhất định che giấu khí tức của mình, làm cho bản thân khi ra ngoài luyện tập không dễ bị nhận diện danh tính, giảm tốc độ tăng danh vọng.</Desc>
 		</Text>
 		<Text Name="Spell_Happy">
-			<DisplayName>Talisman of Lasting Joy</DisplayName>
-			<Desc>Jimat digunakan untuk meningkatkan mood dan mengurangi kebutuhan hiburan.</Desc>
+			<DisplayName>Trường Lạc phù</DisplayName>
+			<Desc>Làm cho tâm trạng nhẹ nhàng tốt lên, và giảm tốc độ suy giảm giá trị giải trí.</Desc>
 		</Text>
 		<Text Name="Spell_LunHui_ShenShen">
-			<DisplayName>Prayer Talisman</DisplayName>
-			<Desc>Jimat yang dibentuk oleh doa orang lain, digunakan untuk meningkatkan mood dan menstabilkan kondisi mental.</Desc>
+			<DisplayName>Phù Thần Thần</DisplayName>
+			<Desc>Là phù chú kết hợp lực cầu nguyện, có thể làm cho tâm trạng tốt lên, tâm cảnh ổn định.</Desc>
 		</Text>
 		<Text Name="Spell_TempLow2">
-			<DisplayName>Talisman of Supreme Yang</DisplayName>
-			<Desc>Jimat digunakan untuk meningkatkan ketahanan terhadap dingin secara drastis.</Desc>
+			<DisplayName>Thái Dương Phù</DisplayName>
+			<Desc>Là phù chú có thể tăng mạnh khả năng chống lạnh.</Desc>
 		</Text>
 		<Text Name="Spell_TempHigh2">
-			<DisplayName>Talisman of Supreme Yin</DisplayName>
-			<Desc>Jimat digunakan untuk meningkatkan ketahanan terhadap panas secara drastis.</Desc>
+			<DisplayName>Thái âm phù</DisplayName>
+			<Desc>Là phù chú có thể tăng mạnh khả năng chống nóng.</Desc>
 		</Text>
 		<Text Name="Spell_Intelligence">
-			<DisplayName>Talisman of Civil Prosperity</DisplayName>
-			<Desc>Digunakan untuk menjernihkan pikiran dan meningkatkan kemampuan belajar.</Desc>
+			<DisplayName>Văn Xương phù</DisplayName>
+			<Desc>Làm cho đầu óc sáng suốt, tăng khả năng học tập.</Desc>
 		</Text>
 		<Text Name="Spell_Fight">
-			<DisplayName>Talisman of Military Prosperity</DisplayName>
-			<Desc>Digunakan untuk meningkatkan kemampuan bertarung dan ketahanan terhadap rasa sakit.</Desc>
+			<DisplayName>Võ Xương phù</DisplayName>
+			<Desc>Tăng khả năng chiến đấu, tăng khả năng chịu đau.</Desc>
 		</Text>
 		<Text Name="Spell_GlobalEfficiency">
-			<DisplayName>Talisman of Diligence</DisplayName>
-			<Desc>Digunakan untuk meningkatkan efisiensi kerja.</Desc>
+			<DisplayName>Thần cần phù</DisplayName>
+			<Desc>Làm cho tay chân linh hoạt, tăng hiệu suất làm việc.</Desc>
 		</Text>
 		<Text Name="Spell_MadeQualityAddValue">
-			<DisplayName>Talisman of Craftsmanship</DisplayName>
-			<Desc>Digunakan untuk meningkatkan kualitas barang kerajinan.</Desc>
+			<DisplayName>Thiên Công phù.</DisplayName>
+			<Desc>Tăng chất lượng vật phẩm chế tạo.</Desc>
 		</Text>
 		<Text Name="Spell_Yield">
-			<DisplayName>Talisman of Fertility</DisplayName>
-			<Desc>Digunakan untuk meningkatkan hasil selama berburu, bertani dan memanen.</Desc>
+			<DisplayName>Phì nhiêu phù</DisplayName>
+			<Desc>Tăng sản lượng khi săn bắn, trồng trọt thu hoạch.</Desc>
 		</Text>
 		<Text Name="Spell_Treatment">
-			<DisplayName>Medicinal Mastery</DisplayName>
-			<Desc>Digunakan untuk meningkatkan tingkat keberhasilan penyembuhan dan efeknya.</Desc>
+			<DisplayName>Dược vương phù</DisplayName>
+			<Desc>Tăng tỷ lệ thành công và hiệu quả chữa trị.</Desc>
 		</Text>
 		<Text Name="Spell_MindState1">
-			<DisplayName>Tranquil Heart</DisplayName>
-			<Desc>Jimat digunakan untuk sedikit meningkatkan kondisi mental.</Desc>
+			<DisplayName>Bình tâm phù</DisplayName>
+			<Desc>Là phù chú có thể làm tâm cảnh tăng lên một chút.</Desc>
 		</Text>
 		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient1">
-			<DisplayName>Heavenly Heart</DisplayName>
-			<Desc>Jimat digunakan untuk sedikit meningkatkan kecepatan budidaya.</Desc>
+			<DisplayName>Thiên Tâm phù</DisplayName>
+			<Desc>Là phù chú có thể tăng tốc độ tu luyện một chút.</Desc>
 		</Text>
 		<Text Name="Spell_MindState2">
-			<DisplayName>Divine Comprehension</DisplayName>
-			<Desc>Jimat digunakan untuk meningkatkan kondisi mental.</Desc>
+			<DisplayName>Động thần phù</DisplayName>
+			<Desc>Là phù chú có thể làm tâm cảnh tăng lên.</Desc>
 		</Text>
 		<Text Name="Spell_MindState2_LunHui">
-			<DisplayName>Divinity Mind</DisplayName>
-			<Desc>Jimat langka yang diturunkan dari ribuan tahun yang lalu, diciptakan oleh Yuan abadi kuno yang menulis ulang Jimat Gua Ilahi. \N[color=#D06508]Ini sebagai apresiasi kepada pemain pertama yang berhasil menggambar jimat dengan kualitas 100%: Sebenarnya bukan saya[/color]</Desc>
+			<DisplayName>Trời thông động thần phù</DisplayName>
+			<Desc>Là phù chú phiên bản tuyệt bản do cổ tiên Viên Nhược Tuyết cải tiến ba phù Động Thần của đạo môn để lại nghìn năm trước. \n[color=#D06508]Dùng để tưởng niệm người chơi đầu tiên vẽ được phù chú chất lượng 100 trong trò chơi: Thật ra không phải ta[/color]</Desc>
 		</Text>
 		<Text Name="Spell_SpeedOfMindStateCoefficientByMoods">
-			<DisplayName>Truth Comprehension</DisplayName>
-			<Desc>Digunakan untuk meningkatkan peluang terobosan.</Desc>
+			<DisplayName>Động chân phù</DisplayName>
+			<Desc>Có thể tăng tỷ lệ đột phá bình cảnh.</Desc>
 		</Text>
 		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient2">
-			<DisplayName>Oblivion Comprehension</DisplayName>
-			<Desc>Digunakan untuk meningkatkan kecepatan budidaya.</Desc>
+			<DisplayName>Động Huyền phù</DisplayName>
+			<Desc>Có thể tăng tốc độ tu luyện.</Desc>
 		</Text>
 		<Text Name="Spell_WorldMapFlySpeed">
-			<DisplayName>Departing Shadow</DisplayName>
-			<Desc>Digunakan untuk meningkatkan kecepatan terbang jarak jauh dengan artefak.</Desc>
+			<DisplayName>Phân ảnh độn không phù</DisplayName>
+			<Desc>Có thể tăng tốc độ bay ngự kiếm đường dài.</Desc>
 		</Text>
 		<Text Name="Spell_FabaoMake_SuccessRateAddV">
-			<DisplayName>Talisman of Riches</DisplayName>
-			<Desc>Jimat digunakan untuk meningkatkan tingkat keberhasilan pembuatan artefak.</Desc>
+			<DisplayName>Thái thượng thông bảo phù</DisplayName>
+			<Desc>Là phù chú có thể tăng tỷ lệ thành công luyện chế pháp bảo.</Desc>
 		</Text>
 		<Text Name="Spell_FabaoMake_LingInheritRateAddV">
-			<DisplayName>Wonder Talisman</DisplayName>
-			<Desc>Digunakan untuk sedikit menaikkan tingkat artefak yang dibuat.</Desc>
+			<DisplayName>Ngũ phương Linh Bảo phù</DisplayName>
+			<Desc>Có thể tăng nhẹ phẩm cấp luyện chế pháp bảo.</Desc>
 		</Text>
 		<Text Name="Spell_DanMake_SuccessRateAddV">
-			<DisplayName>Tusita Talisman</DisplayName>
-			<Desc>Digunakan untuk meningkatkan tingkat keberhasilan Alkimia.</Desc>
+			<DisplayName>Đâu Suất thần phù</DisplayName>
+			<Desc>Có thể tăng tỷ lệ thành công luyện chế đan dược.</Desc>
 		</Text>
 		<Text Name="Spell_DanMake_YieldAddP">
-			<DisplayName>Impermanence Talisman</DisplayName>
-			<Desc>Digunakan untuk sedikit meningkatkan hasil Alkimia.</Desc>
+			<DisplayName>Vạn hóa nhận đan phù</DisplayName>
+			<Desc>Có thể tăng nhẹ sản lượng luyện chế đan dược.</Desc>
 		</Text>
 		<Text Name="Spell_Fu">
-			<DisplayName>Illustration of Everlasting Prosperity</DisplayName>
-			<Desc>Digunakan untuk meningkatkan mood dan kondisi mental siapa pun yang memakainya dan memberikan keberuntungan. Selamat Festival Musim Semi dan semoga sukses!</Desc>
+			<DisplayName>Vạn phúc đồ</DisplayName>
+			<Desc>Người đeo có thể tăng tâm trạng và tâm cảnh, vạn sự như ý. Chúc mừng năm mới, vạn sự như ý!</Desc>
 		</Text>
 		<Text Name="Spell_Lu">
-			<DisplayName>Illustration of Everlasting Status</DisplayName>
-			<Desc>Digunakan untuk meningkatkan kesehatan dan keuntungan materi bagi siapa pun yang memakainya. Selamat Festival Musim Semi dan semoga sukses!</Desc>
+			<DisplayName>Vạn lộc đồ</DisplayName>
+			<Desc>Người đeo có thể thân thể nhẹ nhàng khỏe mạnh, thu hoạch tăng lên. Chúc mừng năm mới, vạn sự như ý!</Desc>
 		</Text>
 		<Text Name="Spell_Shou">
-			<DisplayName>Illustration of Everlasting Longevity</DisplayName>
-			<Desc>Digunakan untuk meningkatkan umur dan kekebalan terhadap penyakit bagi siapapun yang memakainya. Selamat Festival Musim Semi dan semoga sukses!</Desc>
+			<DisplayName>Vạn thọ đồ</DisplayName>
+			<Desc>Người đeo có thể tăng thọ nguyên, tránh xa bệnh tật. Chúc mừng năm mới, vạn sự như ý!</Desc>
 		</Text>
 		<Text Name="Spell_Shield1">
-			<DisplayName>Darkarmor Talisman</DisplayName>
-			<Desc>Meningkatkan Perlindungan pemakainya.</Desc>
+			<DisplayName>Huyền Giáp phù</DisplayName>
+			<Desc>Người đeo có thể tăng lực hộ thể.</Desc>
 		</Text>
 		<Text Name="Spell_Shield2">
-			<DisplayName>Heavenarmor Talisman</DisplayName>
-			<Desc>Meningkatkan tingkat keterampilan Perlindungan pemakainya.</Desc>
+			<DisplayName>Thiên Giáp Phù</DisplayName>
+			<Desc>Người đeo có thể tăng cấp độ kỹ năng hộ thể.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Jin">
-			<DisplayName>Metalarmor Talisman</DisplayName>
-			<Desc>Meningkatkan ketahanan pemakainya terhadap Kerusakan Logam.</Desc>
+			<DisplayName>Kim giáp phù</DisplayName>
+			<Desc>Người đeo có thể tăng lực kháng tổn thương thuộc tính Kim.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Mu">
-			<DisplayName>Woodarmor Talisman</DisplayName>
-			<Desc>Meningkatkan ketahanan pemakainya terhadap Kerusakan Kayu.</Desc>
+			<DisplayName>Mộc giáp phù</DisplayName>
+			<Desc>Người đeo có thể tăng lực kháng tổn thương thuộc tính Mộc.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Shui">
-			<DisplayName>Waterarmor Talisman</DisplayName>
-			<Desc>Meningkatkan ketahanan pemakainya terhadap Kerusakan Air.</Desc>
+			<DisplayName>Thủy Giáp Phù</DisplayName>
+			<Desc>Người đeo có thể tăng lực kháng tổn thương thuộc tính Thủy.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Huo">
-			<DisplayName>Firearmor Talisman</DisplayName>
-			<Desc>Meningkatkan ketahanan pemakainya terhadap Kerusakan Kebakaran.</Desc>
+			<DisplayName>Hoả giáp phù</DisplayName>
+			<Desc>Người đeo có thể tăng lực kháng tổn thương thuộc tính Hỏa.</Desc>
 		</Text>
 		<Text Name="Spell_Shield_Tu">
-			<DisplayName>Eartharmor Talisman</DisplayName>
-			<Desc>Meningkatkan ketahanan pemakainya terhadap Kerusakan Bumi.</Desc>
+			<DisplayName>Thổ giáp phù</DisplayName>
+			<Desc>Người đeo có thể tăng lực kháng tổn thương thuộc tính Thổ.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao1">
-			<DisplayName>Sharpsword Talisman</DisplayName>
-			<Desc>Meningkatkan Kekuatan Artefak.</Desc>
+			<DisplayName>Lợi kiếm phù</DisplayName>
+			<Desc>Người đeo có thể tăng uy lực pháp bảo.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao2">
-			<DisplayName>Divinesword Talisman</DisplayName>
-			<Desc>Meningkatkan level skill Artifact Mastery pemakainya.</Desc>
+			<DisplayName>Thần Kiếm Phù</DisplayName>
+			<Desc>Người đeo có thể tăng cấp độ kỹ năng ngự khí.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao3">
-			<DisplayName>Spiritsword Talisman</DisplayName>
-			<Desc>Meningkatkan Pengganda Pemulihan Qi Artefak pemakainya.</Desc>
+			<DisplayName>Linh kiếm phù</DisplayName>
+			<Desc>Người đeo có thể tăng tỷ lệ hồi linh của pháp bảo.</Desc>
 		</Text>
 		<Text Name="Spell_FaBao4">
-			<DisplayName>Sacredsword Talisman</DisplayName>
-			<Desc>Secara mendasar meningkatkan Kekuatan Artefak pemakainya, dan secara komprehensif meningkatkan kemampuan Artefak.</Desc>
+			<DisplayName>Thánh kiếm phù</DisplayName>
+			<Desc>Người đeo có thể từ căn bản tăng uy lực pháp bảo, và toàn diện tăng khả năng pháp bảo.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill1">
-			<DisplayName>Vilecurse Talisman</DisplayName>
-			<Desc>Meningkatkan Kekuatan Mantra pemakainya.</Desc>
+			<DisplayName>Lệ chú phù</DisplayName>
+			<Desc>Người đeo có thể tăng uy lực pháp thuật.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill2">
-			<DisplayName>Divine Curse Talisman</DisplayName>
-			<Desc>Meningkatkan level skill Spell pemakainya.</Desc>
+			<DisplayName>Thần Chú Phù</DisplayName>
+			<Desc>Người đeo có thể tăng cấp độ kỹ năng thuật pháp.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill3">
-			<DisplayName>Spiritcurse Talisman</DisplayName>
-			<Desc>Secara mendasar mengurangi Biaya Mantra Qi pemakainya.</Desc>
+			<DisplayName>Linh chú phù</DisplayName>
+			<Desc>Người đeo có thể từ căn bản giảm tiêu hao linh khí của kỹ năng thuật pháp.</Desc>
 		</Text>
 		<Text Name="Spell_FightSkill4">
-			<DisplayName>Sacredcurse Talisman</DisplayName>
-			<Desc>Secara mendasar meningkatkan Kekuatan Mantra dan Biaya Qi pemakainya.</Desc>
+			<DisplayName>Thánh chú phù</DisplayName>
+			<Desc>Người đeo có thể từ căn bản tăng uy lực pháp thuật, tiêu hao linh khí pháp thuật.</Desc>
 		</Text>
 		<Text Name="Spell_TongTian1">
-			<DisplayName>Heavensent Talisman</DisplayName>
-			<Desc>Meningkatkan Lima Atribut pemakainya.</Desc>
+			<DisplayName>Thông thiên phù</DisplayName>
+			<Desc>Người đeo có thể tăng ngũ chiều.</Desc>
 		</Text>
 		<Text Name="Spell_TongTian2">
-			<DisplayName>Heavenshrouding Talisman</DisplayName>
-			<Desc>Mengurangi Pencapaian pemakainya.</Desc>
+			<DisplayName>Phù Chắn Trời</DisplayName>
+			<Desc>Người đeo có thể giảm đạo hạnh.</Desc>
 		</Text>
 		<Text Name="Spell_TongTian3">
-			<DisplayName>Latent Talisman</DisplayName>
-			<Desc>Meningkatkan Potensi pemakainya.</Desc>
+			<DisplayName>Thật lặn phù</DisplayName>
+			<Desc>Người đeo có thể tăng tiềm lực.</Desc>
 		</Text>
 		<Text Name="Spell_JieTian1">
-			<DisplayName>Heavenlent Talisman</DisplayName>
-			<Desc>Meningkatkan Pencapaian pemakainya.</Desc>
+			<DisplayName>Tá Thiên Phù</DisplayName>
+			<Desc>Người đeo có thể tăng đạo hạnh.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice1">
-			<DisplayName>Divine Residence</DisplayName>
-			<Desc>Meningkatkan batas Max Divine Residents bagi pemakainya.</Desc>
+			<DisplayName>Thần cư phù</DisplayName>
+			<Desc>Người đeo có thể tăng giới hạn thần dân.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice2">
-			<DisplayName>Divine Perception</DisplayName>
-			<Desc>Meningkatkan Bonus Perolehan Keyakinan pemakainya.</Desc>
+			<DisplayName>Thần cảm giác phù</DisplayName>
+			<Desc>Người đeo có thể tăng thêm hiệu suất thu nhận tín ngưỡng của thần quốc.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice3">
-			<DisplayName>Divine Authority</DisplayName>
-			<Desc>Meningkatkan Keilahian pemakainya.</Desc>
+			<DisplayName>Thần uy phù</DisplayName>
+			<Desc>Người đeo có thể tăng thần tính.</Desc>
 		</Text>
 		<Text Name="Spell_GodPractice4">
-			<DisplayName>Divine Concealment</DisplayName>
-			<Desc>Mengurangi Keilahian pemakainya.</Desc>
+			<DisplayName>Thần ẩn phù</DisplayName>
+			<Desc>Người đeo có thể giảm thần tính.</Desc>
 		</Text>
 	</List>
 </Texts>
+

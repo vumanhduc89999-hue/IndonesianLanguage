@@ -1,16 +1,17 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="BanSpouse">
-			<DisplayName>No Spouse</DisplayName>
+			<DisplayName>Không có phối ngẫu</DisplayName>
 		</Text>
 		<Text Name="BanParents">
-			<DisplayName>No Parents</DisplayName>
+			<DisplayName>Không có cha mẹ</DisplayName>
 		</Text>
 		<Text Name="BanChild">
-			<DisplayName>No Children</DisplayName>
+			<DisplayName>Không có con cái</DisplayName>
 		</Text>
 		<Text Name="BanLove">
-			<DisplayName>Devoted</DisplayName>
+			<DisplayName>Chung tình</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

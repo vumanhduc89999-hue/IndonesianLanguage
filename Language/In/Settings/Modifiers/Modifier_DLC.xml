@@ -1,20 +1,21 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="YinYangErosion">
-			<DisplayName>Yin Yang Corrosion</DisplayName>
-			<Desc>Kurangi pertahanan musuh dengan Kekuatan Yin Yang.</Desc>
+			<DisplayName>Xâm thực âm dương</DisplayName>
+			<Desc>Sử dụng sức mạnh âm dương để giảm phòng thủ của kẻ địch.</Desc>
 		</Text>
 		<Text Name="BambooBedFeel">
-			<DisplayName>Chill</DisplayName>
-			<Desc>Tempat tidur bambu terasa agak dingin.</Desc>
+			<DisplayName>Lương ý</DisplayName>
+			<Desc>Giường trúc mang lại cảm giác mát lạnh từng đợt.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_YinYangForce">
-			<DisplayName>Origin Force (Mixed)</DisplayName>
-			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli guna meningkatkan penguasaan artefak, penghalang Qi, serta kekuatan dan daya tahan tubuh rahasia secara drastis.</Desc>
+			<DisplayName>Nguyên Thân Chân Lực (Hỗn)</DisplayName>
+			<Desc>Đốt cháy mạnh mẽ nguồn sống bản nguyên, kích phát lực lượng nguyên thân của yêu tộc, tăng mạnh uy lực ngự khí, uy lực bí thể, độ bền của linh khí hộ thể và bí thể.</Desc>
 		</Text>
 		<Text Name="Fish_EndureHunger">
-			<DisplayName>Hunger-resistant</DisplayName>
-			<Desc>Makan Golden Dwarf Cichlid, mampu menahan lapar.</Desc>
+			<DisplayName>Chống đói</DisplayName>
+			<Desc>Sau khi ăn cá rô vàng, khả năng chống đói tăng lên.</Desc>
 		</Text>
 	</List>
 </Texts>
+

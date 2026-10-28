@@ -499,7 +499,8 @@
 天苍 237年第22日,通过从面朝北方获取的理智，对担忧的感知，对树的认知，产生了一点灵智碎片。
 天苍 237年第91日,通过从回忆获取的理智，对躁动的感知，对珍宝的认知，产生了一点灵智碎片。
 天苍 239年第103日,通过从登高获取的理智，对非常担忧的感知，对雷的认知，产生了一点灵智碎片。
-天苍 239年第111日,通过从发呆获取的理智，对有点愤怒的感知，对武器的认知，产生了一点灵智碎片。	520.1	
+天苍 239年第111日,通过从发呆获取的理智，对有点愤怒的感知，对武器的认知，产生了一点灵智碎片。
+	520.1	
 /Settings/RPG/Maps/Rpg_Tower_2/map.txt	Things.Things.520.Titles.0.title	杀人之兔	520.0	
 /Settings/RPG/Maps/Rpg_Tower_2/map.txt	Esotericals.Data.0.DisplayName	入定之术	0	_ReplaceEsotericaName
 /Settings/RPG/Maps/Rpg_Tower_2/map.txt	Esotericals.Data.1.DisplayName	百炼诀	1	_ReplaceEsotericaName
@@ -529,4 +530,5 @@
 /Settings/RPG/Maps/Rpg_Tower_2/map.txt	Esotericals.Data.25.DisplayName	天道神丹	25	_ReplaceEsotericaName
 /Settings/RPG/Maps/Rpg_Tower_2/map.txt	Esotericals.Data.26.DisplayName	天道神器	26	_ReplaceEsotericaName
 /Settings/RPG/Maps/Rpg_Tower_2/map.txt	RPGInfo.Objects.7.LuaPostProcessing.Param1	不！！不，这是什么力量？我为什么会有这样的力量？兔子？我怎么变成了这个样子？我真的没有杀人！	7	
-/Settings/RPG/Maps/Rpg_Tower_2/map.txt	RPGInfo.Objects.7.LuaPostProcessing.Param2	你……你也是来污蔑我的？我要杀了你！！	7	
+/Settings/RPG/Maps/Rpg_Tower_2/map.txt	RPGInfo.Objects.7.LuaPostProcessing.Param2	你……你也是来污蔑我的？我要杀了你！！	7
+

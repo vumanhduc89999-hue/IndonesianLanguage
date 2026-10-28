@@ -1,152 +1,179 @@
 <Helps>
   <List>
 	<Help Name="Long" Type="Icon" Def="Boss_Long">
-		<Title>naga</Title>
+		<Title>Giao Long</Title>
 		<Icon>ui/Other/bosstujian3</Icon>
 	</Help>
 	<Help Name="Long_P1" Root="Long" Type="Content">
-		<Title>pola pemulihan</Title>
-		<Text>[color=#9e6404]Pembuluh darah air pecah:[/color]
-				Naga tersebut menyebabkan urat air bawah tanah meletus, menyebabkan kerusakan pada target dan mengubah suatu area menjadi perairan dangkal.
-		  [color=#9e6404]Guntur Setan Guishui:[/color]
-				Naga tersebut memadatkan kekuatan Guishui menjadi guntur iblis, menyebabkan kerusakan pada target.
-		  [color=#9e6404]Panggilan kawanan:[/color]
-				Gunakan kekuatan naga untuk menekan monster di sekitar dan melancarkan serangan.
-		  [color=#9e6404]Air asli mengembun:[/color]
-				Ketika aura naga kurang dari 75%, ia akan menyerap uap air di seluruh peta, menerapkan kekuatan roh air pada dirinya sendiri, dan memasuki wujud naga sejati.</Text>
+		<Title>Hình thái phục hồi</Title>
+		<Text><![CDATA[
+		  [color=#9e6404]Thủy Mạch Bạo Phát:[/color]
+Ngọc Long kích thích thủy mạch ngầm bùng nổ, gây sát thương cho mục tiêu và biến một khu vực thành nước nông.
+  [color=#9e6404]Yêu Lôi Thủy Quái:[/color]
+Ngọc Long ngưng tụ sức mạnh của Thủy Quái thành Yêu Lôi, gây sát thương cho mục tiêu.
+  [color=#9e6404]Gọi Đàn Thú:[/color]
+Sử dụng uy lực của rồng để áp chế những con thú xung quanh tấn công.
+  [color=#9e6404]Ngưng Tinh Thủy:[/color]
+Khi linh khí của Ngọc Long nhỏ hơn 75%, sẽ hấp thụ hơi nước trên toàn bản đồ, gia tăng sức mạnh Thủy Linh cho bản thân và chuyển sang hình thái Thần Long.
+				
+		]]></Text>
 	</Help>
 	<Help Name="Long_P2" Root="Long" Type="Content">
-		<Title>bentuk naga sejati</Title>
-		<Text>[color=#9e6404]Pembuluh darah air pecah:[/color]
-				Naga tersebut menyebabkan urat air bawah tanah meletus, menyebabkan kerusakan pada target dan mengubah suatu area menjadi perairan dangkal.
-		  [color=#9e6404]Guntur Setan Guishui:[/color]
-				Naga tersebut memadatkan kekuatan Guishui menjadi guntur iblis, menyebabkan kerusakan pada beberapa target.
-		  [color=#9e6404]Teknik Penyedotan Naga:[/color]
-				Jiaolong menarik napas dalam-dalam, mempercepat hilangnya air karakter musuh di seluruh peta, dan menerapkan kekuatan roh air pada dirinya sendiri.
-		  [color=#9e6404]Serangan balik:[/color]
-				Naga menandai karakter untuk jangka waktu tertentu. Setelah waktu habis, setengah dari aura maksimum senjata ajaib akan meledak, menyebabkan kerusakan besar pada semua karakter dalam jarak 5 blok dari unit yang ditandai. Jika atribut senjata ajaib ditahan oleh naga, efeknya akan berlipat ganda, jika tidak, efeknya akan berkurang setengahnya.
-		  [color=#9e6404]Panggilan kawanan:[/color]
-				Gunakan kekuatan naga untuk menekan monster di sekitar dan melancarkan serangan.
-		  [color=#9e6404]Iblis langit berubah menjadi darah:[/color]
-				Naga itu memurnikan semua mayat di tempat kejadian, memulihkan dirinya sendiri, dan menerapkan kekuatan roh air.</Text>
+		<Title>Hình thái chân long</Title>
+		<Text><![CDATA[
+		  [color=#9e6404]Thủy Mạch Bạo Phát:[/color]
+Ngọc Long kích thích thủy mạch ngầm bùng nổ, gây sát thương cho mục tiêu và biến một khu vực thành nước nông.
+  [color=#9e6404]Yêu Lôi Thủy Quái:[/color]
+Ngọc Long ngưng tụ sức mạnh của Thủy Quái thành Yêu Lôi, gây sát thương cho nhiều mục tiêu.
+  [color=#9e6404]Long Hấp Thuật:[/color]
+Ngọc Long hít một hơi thật sâu, làm cho độ ẩm của tất cả nhân vật đối địch trên bản đồ nhanh chóng giảm đi, và gia tăng sức mạnh Thủy Linh cho bản thân.
+  [color=#9e6404]Phản Tác:[/color]
+Ngọc Long đánh dấu một nhân vật trong một khoảng thời gian, sau khi thời gian kết thúc, một nửa linh khí tối đa của pháp bảo sẽ bùng nổ phản tác, gây sát thương lớn cho tất cả nhân vật trong phạm vi 5 ô quanh mục tiêu bị đánh dấu. Nếu thuộc tính pháp bảo bị Ngọc Long khắc chế, hiệu ứng sẽ gấp đôi, ngược lại sẽ giảm một nửa.
+  [color=#9e6404]Gọi Đàn Thú:[/color]
+Sử dụng uy lực của rồng để áp chế những con thú xung quanh tấn công.
+  [color=#9e6404]Biến Huyết Thiên Yêu:[/color]
+Ngọc Long luyện hóa tất cả xác chết trong cảnh, phục hồi bản thân và gia tăng sức mạnh Thủy Linh.
+			
+		]]></Text>
 	</Help>
 	<Help Name="Long_Secret" Root="Long" Type="Content">
-		<Title>Rahasia Naga</Title>
-		<Text>[color=#9e6404]Perairan asli:[/color]
-				Naga adalah badan air sejati. Ia menerima lebih banyak kerusakan tanah, lebih sedikit kerusakan air, sangat sedikit kerusakan akibat kebakaran, dan menyerap kerusakan logam.
-		  [color=#9e6404]Kemarahan Naga:[/color]
-				Saat hujan lebat reda, naga akan menghabiskan banyak kekuatan roh air dan memasuki kondisi marah, dengan semua atribut meningkat selama 120 detik.
-				Ketika amukan naga berakhir, naga tersebut akan memanggil hujan lebat lagi dan menyebabkan banyak kerusakan pada karakter yang sebelumnya menyebarkan hujan lebat tersebut. Jika atribut karakter dikendalikan oleh naga, efeknya akan berlipat ganda, jika tidak, efeknya akan berkurang setengahnya.
-		  [color=#9e6404]Neraka Dingin:[/color]
-				Ketika bagian tubuh naga dihancurkan, ia akan mengeluarkan nafas dingin ke lokasi karakter yang menghancurkan bagian tersebut. Nafasnya bertahan selama beberapa bulan dan daerah sekitarnya akan mengalami cuaca dingin yang parah.
-		  [color=#9e6404]Zeguo:[/color]
-				Ketika kekuatan roh air mencapai 100 lapisan, naga akan mengubahnya menjadi kekuatan penghancur dan meledak. Seluruh wilayah akan hancur dan berubah menjadi air, dan semua makhluk hidup di dalamnya akan mati.
-		  [color=#9e6404]Cakar Naga Sejati:[/color]
-				Saat naga memasuki wujud naga sejati, cakarnya akan ditutupi oleh kekuatan naga sejati dan menjadi tidak bisa dihancurkan.
-		  [color=#9e6404]Geng Naga Pelindung Tubuh:[/color]
-				Jiaolong terlahir dengan Qi yang melindungi tubuh, dan bagian-bagiannya sulit untuk dihancurkan. Hanya ketika sedang marah, Qi pelindung tubuh akan berkumpul di dalam tubuh, dan bagian lain akan menjadi rentan.
-		  [color=#9e6404]Skala terbalik naga:[/color]
-				Setelah naga menjadi marah tiga kali, sisik kebalikannya akan terlihat.</Text>
+		<Title>Bí văn giao long</Title>
+		<Text><![CDATA[
+		  [color=#9e6404]Chân thủy chi thân:[/color]
+Ngọc Long là thân thể Thủy Chân Chính, nhận nhiều sát thương thuộc tính Thổ, ít sát thương thuộc tính Thuỷ, rất ít sát thương thuộc tính Hoả, hấp thụ sát thương thuộc tính Kim.
+  [color=#9e6404]Long nộ:[/color]
+Khi cơn bão được xua tan, Ngọc Long sẽ tiêu hao một lượng lớn sức mạnh Thủy Linh, bước vào trạng thái thịnh nộ, tăng tất cả thuộc tính, kéo dài 120 giây.
+Khi cơn thịnh nộ kết thúc, Ngọc Long sẽ triệu hồi lại cơn bão và gây sát thương lớn cho những nhân vật đã xua tan cơn bão trước đó. Nếu thuộc tính của nhân vật bị Ngọc Long khắc chế, hiệu ứng sẽ gấp đôi, ngược lại sẽ giảm một nửa.
+  [color=#9e6404]Hàn Ngục:[/color]
+Khi các bộ phận của giao long bị phá hủy, nó sẽ phun ra một luồng khí lạnh đến vị trí của nhân vật ở khu vực bị phá hủy. Luồng khí này kéo dài trong nhiều tháng và khu vực xung quanh sẽ rơi vào tình trạng giá lạnh.
+[color=#9e6404]Đầm lầy: [/color]
+Khi sức mạnh của linh thuỷ tích tụ đầy đủ 100 lớp, giao long sẽ biến nó thành một sức mạnh hủy diệt bùng nổ, khu vực xung quanh sẽ bị tiêu diệt hoàn toàn, biến thành vùng nước, trong đó tất cả sinh vật đều chết.
+[color=#9e6404]Chân Long chi trảo: [/color]
+Khi giao long chuyển sang hình thái chân chính, móng vuốt của nó sẽ được bao phủ bởi sức mạnh chân chính, trở nên không thể bị phá hủy.
+[color=#9e6404]Hộ thể long giáp: [/color]
+Giao long vốn có hộ thể giáp khí, các bộ phận của nó khó bị phá hủy. Chỉ khi nó nổi giận, khí hộ thể mới tập trung vào cơ thể, các bộ phận khác mới trở nên yếu ớt.
+[color=#9e6404]Long Chi Nghịch Lân: [/color]
+Sau khi giao long nổi giận ba lần, vảy ngược của nó sẽ lộ ra.
+				
+				
+		]]></Text>
 	</Help>
 	
 	<Help Name="Feng" Type="Icon" Def="Boss_Feng">
-	<Title>burung phoenix yang ganas</Title>
+	<Title>Phượng hung</Title>
 	<Icon>ui/Other/bosstujian2</Icon>
 	</Help>
 	<Help Name="Feng_P1" Root="Feng" Type="Content">
-		<Title>bentuk api</Title>
-		<Text>[color=#9e6404]Huo Xihong Lian:[/color]
-				Burung phoenix yang ganas menghembuskan nafas api, menyebabkan kerusakan terus menerus pada target, dan memiliki peluang untuk membakar permukaan di dekatnya.
-		  [color=#9e6404]Sekering:[/color]
-				Burung phoenix yang ganas menandai karakter untuk jangka waktu tertentu. Setelah waktu habis, itu akan menyebabkan kerusakan besar dalam radius 2 blok, dan kerusakan tersebut akan dibagi ke semua makhluk dalam jangkauan. Jika atribut karakter yang disebutkan ditahan oleh burung phoenix yang ganas, kerusakannya akan meningkat 2 kali lipat.
-		  [color=#9e6404]Memakan api:[/color]
-				Burung phoenix yang ganas menarik napas dalam-dalam, menyerap semua api di peta, memulihkan auranya sendiri sesuai dengan jumlah api, dan memperoleh kekuatan roh api.
-		  [color=#9e6404]Kebakaran nyata terjadi:[/color]
-				Ketika kekuatan roh api mencapai 100 lapisan, burung phoenix yang ganas akan memasuki bentuk api yang sebenarnya dan melepaskan enam belas bulu roh api dari hidupnya sendiri untuk membantu dalam pertempuran.</Text>
+		<Title>Hình thái liệt diễm</Title>
+		<Text><![CDATA[	
+		  [color=#9e6404]Hỏa Tức Hồng Luyện: [/color]
+Phượng hoàng ác phun ra liệt hỏa, gây sát thương liên tục cho mục tiêu và có khả năng đốt cháy bề mặt xung quanh.
+[color=#9e6404]Dung Đoạn: [/color]
+Phượng hoàng ác đánh dấu một nhân vật trong một khoảng thời gian, sau khi thời gian kết thúc, gây ra lượng sát thương khổng lồ trong phạm vi 2 ô xung quanh, sát thương được chia sẻ giữa tất cả sinh linh trong phạm vi đó. Nếu thuộc tính của nhân vật bị đánh dấu bị phượng hoàng ác khắc chế, sát thương sẽ tăng gấp đôi.
+[color=#9e6404]Thôn Hỏa: [/color]
+Phượng hoàng ác hít một hơi thật sâu, hấp thụ tất cả ngọn lửa trên bản đồ, phục hồi linh khí của bản thân dựa trên số lượng lửa, và nhận được sức mạnh linh hoả.
+[color=#9e6404]Chân Hỏa Bạo Phát: [/color]
+Khi sức mạnh linh hoả tích tụ đầy đủ 100 lớp, phượng hoàng ác sẽ chuyển sang hình thái chân hỏa, và phóng ra mười sáu chiếc Hoả Linh Vũ do mình giao ước để hỗ trợ chiến đấu.
+		 ]]></Text>
 	</Help>
 	<Help Name="Feng_P2" Root="Feng" Type="Content">
-		<Title>bentuk sebenarnya</Title>
-		<Text>[color=#9e6404]Zhen Yan mempertahankan[/color]
-				Burung phoenix yang ganas akan terus mengkonsumsi kekuatan roh api untuk mempertahankan bentuk api aslinya. Ketika kekuatan roh api habis, burung phoenix yang ganas akan keluar dari bentuk api yang sebenarnya dan mencoba mengambil kembali bulu roh api. Setiap kali bulu roh api diambil kembali, 10% energi spiritual akan dipulihkan.
-		  [color=#9e6404]Nafas Api Sejati[/color]
-				Burung phoenix yang ganas memuntahkan berbagai macam api berbentuk kipas, menyebabkan kerusakan pada karakter dalam jangkauannya dan memiliki peluang untuk membakar permukaan tanah.
-		  [color=#9e6404]Sekering Zhenyan:[/color]
-				Burung phoenix yang ganas menandai semua praktisi logam, dan setelah waktunya habis, ia akan menyebabkan kerusakan besar dalam radius 2 blok, dan kerusakan tersebut akan dibagi ke semua makhluk dalam jangkauannya. Jika atribut karakter yang disebutkan ditahan oleh burung phoenix yang ganas, kerusakannya akan meningkat 2 kali lipat. Jika tidak ada praktisi logam, karakter akan diklik secara acak untuk melepaskan Meltdown.
-		  [color=#9e6404]Memakan api:[/color]
-				Burung phoenix yang ganas menarik napas dalam-dalam, menyerap semua api di peta, memulihkan auranya sendiri sesuai dengan jumlah api, dan memperoleh kekuatan roh api.
-		  [color=#9e6404]Kristal Matahari:[/color]
-				Burung phoenix yang ganas melepaskan kristal api sejati dari kehidupan dan kematiannya sendiri, meningkatkan suhu seluruh area dalam upaya mengubah seluruh peta menjadi bumi hangus.</Text>
+		<Title>Trạng thái chân diễm</Title>
+		<Text><![CDATA[	
+		  [color=#9e6404]Duy trì chân hỏa [/color]
+Phượng hoàng ác sẽ liên tục tiêu hao sức mạnh linh hoả để duy trì hình thái chân hỏa của mình. Khi sức mạnh linh hoả cạn kiệt, phượng hoàng ác sẽ rút lui khỏi hình thái chân hỏa và cố gắng thu hồi Hoả Linh Vũ, mỗi lần thu hồi một chiếc Hoả Linh Vũ, bản thân phục hồi 10% linh khí.
+[color=#9e6404]Chân Diễm Chi Tức [/color]
+Phượng hoàng ác phun ra ngọn lửa hình quạt lớn, gây sát thương cho các nhân vật trong phạm vi và có khả năng đốt cháy bề mặt.
+[color=#9e6404]Dung Đoạn chân hỏa: [/color]
+Phượng hoàng ác đánh dấu tất cả các tu sĩ thuộc kim thuộc tính, sau khi thời gian kết thúc, gây ra lượng sát thương khổng lồ trong phạm vi 2 ô xung quanh, sát thương được chia sẻ giữa tất cả sinh linh trong phạm vi đó. Nếu thuộc tính của nhân vật bị đánh dấu bị phượng hoàng ác khắc chế, sát thương sẽ tăng gấp đôi. Nếu không có tu sĩ kim thuộc tính, sẽ ngẫu nhiên đánh dấu một nhân vật để phát động Dung Đoạn.
+[color=#9e6404]Thôn Hỏa: [/color]
+Phượng hoàng ác hít một hơi thật sâu, hấp thụ tất cả ngọn lửa trên bản đồ, phục hồi linh khí của bản thân dựa trên số lượng Hoả, và nhận được sức mạnh linh hoả.
+[color=#9e6404]Thái Dương Chi Tinh: [/color]
+Phượng hoàng ác phóng ra tinh thể chân hỏa của mình, nâng cao nhiệt độ toàn bộ khu vực, cố gắng biến toàn bộ bản đồ thành đất cháy.
+		 ]]></Text>
 	</Help>
 	<Help Name="Feng_Secret" Root="Feng" Type="Content">
-		<Title>Rahasia burung phoenix yang ganas</Title>
-		<Text>[color=#9e6404]Tubuh api sejati:[/color]
-				Burung phoenix yang ganas adalah tubuh api yang sebenarnya. Ia menerima lebih banyak kerusakan air, lebih sedikit kerusakan akibat kebakaran, sangat sedikit kerusakan logam, dan menyerap kerusakan kayu.
-		  [color=#9e6404]Feng Nu Jiuxiao[/color]
-				Saat cuaca berubah menjadi hujan, burung phoenix yang ganas akan menjadi marah, menghentikan segala tindakan, dan segera menyemprotkan tiga bola api untuk membombardir permukaan sekitarnya. dan menyebabkan kerusakan besar pada semua musuh dalam jangkauan. Nyala api akan membombardir area dengan atribut api dan air yang kuat. Burung phoenix yang ganas akan segera mengeluarkan mantra pemakan api setelah mengamuk di langit, kemudian membubarkan awan hujan dan mengunci cuaca dalam keadaan terik matahari dalam jangka waktu tertentu.
-		  [color=#9e6404]Mata Panas[/color]
-				Ketika bagian tubuh dari burung phoenix ganas dihancurkan, ia akan memadatkan kekuatan api sejati ke seluruh tubuhnya dan menatap karakter di bagian yang rusak dengan matanya yang terbakar, menyebabkan kerusakan yang semakin besar. Selama proses ini, tubuh burung phoenix yang ganas juga akan menjadi rapuh karena kurangnya pertahanan.
-		  [color=#9e6404]Nirwana[/color]
-				Setelah kematian burung phoenix jahat, ia akan berubah menjadi nirwana dan berubah menjadi telur burung phoenix jahat. Ia akan menyerap energi spiritual dan mencoba untuk dibangkitkan dalam waktu empat puluh sembilan hari. Selama periode ini, jika energi spiritual telur phoenix jahat habis, phoenix jahat akan mati total; jika energi spiritual telur phoenix jahat penuh, phoenix jahat akan terlahir kembali. Jika telur phoenix jahat tidak menyerap cukup energi spiritual setelah empat puluh sembilan hari, phoenix jahat juga akan mati total.
-		  [color=#9e6404]Sayap Roh Api[/color]
-				Saat Fierce Phoenix dalam wujud apinya, hampir mustahil untuk dihancurkan karena sayapnya dilindungi oleh bulu api. Hanya setelah memasuki bentuk api yang sebenarnya dan melepaskan bulu api barulah sayap tersebut dapat dihancurkan.
-		  [color=#9e6404]Kristal Matahari:[/color]
-				Kristal Matahari dari Fierce Phoenix adalah intisari kental dari seluruh tubuhnya. Kecuali senjata ajaib berbahan dasar air, senjata ajaib lainnya tidak dapat membahayakannya.</Text>
+		<Title>Bí văn hung phượng</Title>
+		<Text><![CDATA[	
+		  [color=#9e6404]Thân thể chân hỏa: [/color]
+Phượng hoàng ác là thân thể chân hỏa, chịu nhiều sát thương thuộc Thuỷ, ít sát thương thuộc Hoả, rất ít sát thương thuộc kim, hấp thụ sát thương thuộc mộc.
+[color=#9e6404]Phượng Nộ Cửu Tiêu [/color]
+Khi thời tiết chuyển sang mưa, phượng hoàng ác sẽ rơi vào cơn giận, ngừng tất cả hành động, ngay lập tức phun ra ba ngọn lửa mạnh mẽ tấn công bề mặt xung quanh. Đồng thời gây ra lượng sát thương lớn cho tất cả kẻ thù trong phạm vi. Ngọn lửa sẽ ưu tiên tấn công khu vực có thuộc tính Hoả và Thuỷ đậm đặc. Sau khi phượng hoàng ác phát động Phượng Nộ Cửu Tiêu, nó sẽ ngay lập tức phát động một lần Thôn Hỏa, sau đó giải tán mây mưa và khóa thời tiết ở trạng thái nắng gắt trong một khoảng thời gian nhất định.
+[color=#9e6404]Chước Chi Đồng [/color]
+Khi các bộ phận của phượng hoàng ác bị phá hủy, nó sẽ hội tụ toàn bộ sức mạnh chân hỏa, dùng Chước Chi Đồng nhìn chằm chằm vào nhân vật ở bộ phận bị phá hủy, gây ra sát thương ngày càng cao. Trong quá trình này, cơ thể của phượng hoàng ác cũng sẽ trở nên yếu ớt do thiếu phòng thủ.
+[color=#9e6404]Tái sinh [/color]
+Sau khi phượng hoàng ác chết sẽ tái sinh thành trứng phượng hoàng ác, trong vòng bốn mươi chín ngày hấp thụ linh khí để cố gắng hồi sinh. Trong khoảng thời gian này, nếu linh khí của trứng phượng hoàng ác cạn kiệt, phượng hoàng sẽ hoàn toàn chết; nếu linh khí của trứng phượng hoàng ác đầy đủ, phượng hoàng sẽ tái sinh, nếu sau bốn mươi chín ngày trứng phượng hoàng ác vẫn chưa hấp thụ đủ linh khí, phượng hoàng cũng sẽ hoàn toàn chết.
+[color=#9e6404]Hỏa linh chi dực [/color]
+Khi phượng hoàng ác ở hình thái Hoả, do đôi cánh được bảo vệ bởi lông linh hoả, vì vậy gần như không thể bị phá hủy. Chỉ khi vào hình thái chân hỏa, phóng ra Hoả Linh Vũ, đôi cánh mới có thể bị phá hủy.
+[color=#9e6404]Thái Dương Chi Tinh: [/color]
+Thái Dương Chi Tinh của phượng hoàng ác là tinh hoa toàn thân của nó, loại bỏ các pháp bảo thuộc Thuỷ, các pháp bảo khác không thể gây sát thương cho nó.
+		 ]]></Text>
 	</Help>
 	
 	<Help Name="ZhuLong" Type="Icon" Def="Boss_ZhuLong">
-	<Title>naga lilin</Title>
+	<Title>Chúc Long</Title>
 	<Icon>ui/Other/bosstujian1</Icon>
 	</Help>
 	<Help Name="ZhuLong_P1" Root="ZhuLong" Type="Content">
-		<Title>pola diurnal</Title>
-		<Text>[color=#9e6404]Dewa Harian:[/color]
-				Naga lilin bermanifestasi dalam bentuk Yang, dan akan melapisi 1 lapisan Nafas Yang setiap 6 detik. Nafas Zhiyang akan diubah menjadi jumlah nafas Xuanyin yang sama pada tahap pemotongan.
-		  [color=#9e6404]Guntur Dosa:[/color]
-				Naga lilin menggerakkan kekuatan sucinya untuk memancarkan guntur Yang yang penuh karma, menyebabkan kerusakan pada karakter dan untuk sementara meningkatkan momok target sebanyak 2 poin. Semakin tinggi Scourge target, semakin tinggi pula kerusakannya.
-		  [color=#9e6404]Kamu Nafas Naga Api:[/color]
-				Naga lilin mengeluarkan nafas naga yang keras ke satu arah. Musuh yang terkena nafas akan menghasilkan [bentuk naga kebaikan] dan mengalami kerusakan. Semakin tinggi Scourge target, semakin tinggi pula kerusakannya.
-		  [color=#9e6404]Penghakiman Surga:[/color]
-				Melepaskannya pada target dengan momok terendah, menyebabkan kerusakan besar. Jika momok target lebih tinggi dari 50, auranya akan merajalela ke seluruh tubuh, menyebabkan cedera serius langsung dan hilangnya efektivitas tempur. Energi spiritual yang mengamuk juga akan meledak, menyebabkan kerusakan pada area 3 blok di dekatnya, dan akan diserap oleh Naga Lilin, melapisi 20 lapisan Nafas Matahari.
-		  [color=#9e6404]Karma mengambil bentuk:[/color]
-				Ketika Nafas Matahari mencapai tingkat ke-100, karma akan dilepaskan dan diubah menjadi [Bentuk Naga Pikiran Baik] untuk semua murid batin.
-		  [color=#9e6404]Kemarahan Yin dan Yang:[/color]
-				Ketika telur naga lilin dihancurkan, naga lilin dengan marah mengganggu jalur yin dan yang, menyebabkan kerusakan pada semua musuh dan menetaskan semua [Telur Yang] yang tidak tertekan, lalu naik ke udara, menghasilkan tiga [Telur Yin] di jalur tersebut, dan akhirnya muncul kembali dalam bentuk malam yang gelap. Selama transformasi Yin dan Yang, Zhulong memperoleh 50 lapisan Nafas Yin Misterius, dan peningkatan hukuman ilahi yang disebabkan oleh Guntur Dosa pada pemain juga akan dihapus.
-		  [color=#9e6404]Bentuk naga dari pemikiran yang baik:[/color]
-				Hantu yang diciptakan oleh naga lilin pada siang hari akan terus mengembalikan energi spiritual pada naga lilin. Kandungan aura dan kekuatan mantra dari hantu tersebut berhubungan dengan momok karakter saat diciptakan. Semakin tinggi momok targetnya, semakin kuat nilainya.
-		  [color=#9e6404]Telur Yang:[/color]
-				Saat naga lilin mengaktifkan murka yin dan yang, ia akan menetaskan semua [Telur Yang] di tempat kejadian, dan pelayan naga yang dihasilkan darinya akan menjadi ancaman besar. [Telur Yang] membutuhkan Feng Shui yang sangat jahat untuk menekannya.</Text>
+		<Title>Hình thái bạch trú</Title>
+		<Text><![CDATA[	
+		  [color=#9e6404]Bạch Trú Chi Thần: [/color]
+Chúc long hiện ra dưới hình thái dương, sẽ tăng thêm 1 lớp hơi thở dương mỗi 6 giây. Hơi thở dương ở giai đoạn chuyển tiếp sẽ chuyển đổi thành lượng tương đương hơi thở huyền âm.
+[color=#9e6404]Tội nghiệt chi lôi: [/color]
+Chúc long kích hoạt thần lực, phát ra sấm sét dương chứa đầy nghiệp lực, gây sát thương cho nhân vật, và tạm thời khiến mục tiêu tăng 2 điểm thiên khiển. Thiên khiển của mục tiêu càng cao, sát thương càng lớn.
+[color=#9e6404]Hỏa diệm long tức: [/color]
+Chúc Long phun ra một luồng hỏa long mạnh mẽ về một hướng, kẻ thù bị phun trúng sẽ tạo ra một [Hình Long Thiện Niệm] và chịu tổn thương. Mức độ thiên khiển của mục tiêu càng cao, sát thương càng lớn.
+  [color=#9e6404]Thiên Đạo Xét Xử: [/color]
+Giải phóng lên mục tiêu có thiên khiển thấp nhất, gây ra lượng sát thương lớn, nếu thiên khiển của mục tiêu cao hơn 50, sẽ khiến toàn thân linh khí bùng nổ, trực tiếp bị thương nặng và mất đi chiến lực. Linh khí bùng nổ cũng sẽ phát nổ, gây hủy hoại cho khu vực xung quanh 3 ô và bị Chúc Long hấp thụ, cộng thêm 20 tầng Đến Dương Chi Khí.
+  [color=#9e6404]Nghiệp Lực Hóa Hình: [/color]
+Khi Đến Dương Chi Khí đạt 100 tầng, giải phóng Nghiệp Lực Hóa Hình, tạo ra [Hình Long Thiện Niệm] cho tất cả đệ tử nội môn.
+  [color=#9e6404]Âm Dương Chi Nộ: [/color]
+Khi trứng của Chúc Long bị phá hủy, Chúc Long tức giận làm rối loạn Âm Dương Đạo, gây sát thương cho tất cả kẻ thù, và ấp tất cả [Âm chi noãn] chưa bị áp chế, sau đó bay lên, tạo ra ba [Dương chi noãn] trên đường đi, cuối cùng hiện ra dưới hình thái ban ngày. Trong quá trình chuyển đổi Âm Dương, Chúc Long nhận được 50 tầng Huyền Âm Chi Khí, sự gia tăng thiên khiển do Sát Nghiệp Chi Lôi mang lại cho người chơi cũng sẽ được xóa bỏ.
+  [color=#9e6404]Hình Long Thiện Niệm: [/color]
+Chúc Long tạo ra ảo ảnh vào ban ngày, liên tục hồi phục linh khí cho Chúc Long. Hàm lượng linh khí của ảo ảnh liên quan đến sức mạnh phép thuật và thiên khiển của nhân vật tại thời điểm tạo ra. Mức độ thiên khiển của mục tiêu càng cao, giá trị càng mạnh.
+  [color=#9e6404]Dương chi noãn: [/color]
+Khi Chúc Long phát động Âm Dương Chi Nộ, sẽ ấp tất cả [Dương chi noãn] trong cảnh, những kẻ phục vụ rồng tạo ra từ đó sẽ là mối đe dọa lớn. [Dương chi noãn] cần có phong thủy đại hung để áp chế.
+				
+				
+		 ]]></Text>
 	</Help>
 	<Help Name="ZhuLong_P2" Root="ZhuLong" Type="Content">
-		<Title>bentuk malam yang gelap</Title>
-		<Text>[color=#9e6404]Dewa Malam Abadi:[/color]
-				Naga lilin bermanifestasi dalam bentuk yin, dan akan melapisi 1 lapisan nafas yin misterius setiap 6 detik. Nafas Xuanyin akan diubah menjadi jumlah napas Yang yang sama pada tahap pemotongan.
-		  [color=#9e6404]Guntur Pikiran Ilahi:[/color]
-				Naga lilin menggerakkan kekuatan sucinya dan mengirimkan guntur Yin yang menyerang pikiran ilahi, menyebabkan kerusakan pada karakter dan menurunkan mood target untuk sementara sebanyak 2 poin. Semakin rendah mood target, semakin tinggi kerusakannya.
-		  [color=#9e6404]Napas Naga Iblis Batin:[/color]
-				Naga lilin mengeluarkan nafas naga yang keras ke satu arah. Musuh yang terkena nafas akan menghasilkan [Bentuk Naga Pemikiran Jahat] dan terkena damage. Semakin rendah mood target, semakin tinggi kerusakannya.
-		  [color=#9e6404]Jurang pikiran jahat:[/color]
-				Itu dilepaskan pada target dengan kondisi mental tertinggi, menyebabkan kerusakan besar. Jika kondisi mental target lebih rendah dari 30, auranya akan merajalela ke seluruh tubuh, menyebabkan cedera serius secara langsung dan hilangnya efektivitas tempur. Energi spiritual yang mengamuk juga akan meledak, menyebabkan kerusakan pada area 3 blok di dekatnya, dan akan diserap oleh naga lilin, melapisi 20 lapisan nafas Xuanyin.
-		  [color=#9e6404]Iblis batiniah mengambil bentuk:[/color]
-				Ketika nafas Xuanyin mencapai lantai 100, iblis batiniah akan dilepaskan dan [bentuk naga pikiran jahat] akan dihasilkan untuk semua murid batin.
-		  [color=#9e6404]Kemarahan Yin dan Yang:[/color]
-				Ketika telur naga lilin dihancurkan, naga lilin dengan marah mengganggu jalur yin dan yang, menyebabkan kerusakan pada semua musuh dan menetaskan semua [Telur Yin] yang tidak tertekan, lalu naik ke udara, menghasilkan tiga [Telur Yang] di jalur tersebut, dan akhirnya muncul kembali dalam bentuk siang hari. Selama transisi antara yin dan yang, Zhulong memperoleh 50 lapisan Nafas Matahari, dan penurunan kondisi pikiran pemain yang disebabkan oleh Guntur Pikiran Ilahi juga akan hilang.
-		  [color=#9e6404]Bentuk naga pikiran jahat:[/color]
-				Hantu yang diciptakan oleh naga lilin di malam yang gelap dapat melepaskan senjata ajaib untuk menyerang. Kandungan aura hantu terkait dengan kekuatan senjata ajaib dan keadaan pikiran karakter saat dihasilkan. Semakin rendah mood target, semakin kuat kekuatannya.
-		  [color=#9e6404]Telur Yin:[/color]
-				Saat naga lilin mengaktifkan murka yin dan yang, ia akan menetaskan semua [Telur Yin] di tempat kejadian, dan pelayan naga yang dihasilkan darinya akan menjadi ancaman besar. [Telur Yin] perlu ditekan dengan feng shui yang baik.</Text>
+		<Title>Hình thái ám dạ</Title>
+		<Text><![CDATA[	
+		 [color=#9e6404]Vĩnh Dạ Chi Thần: [/color]
+Chúc Long hiện ra dưới hình thái Âm, sẽ cộng dồn 1 tầng Huyền Âm Chi Khí mỗi 6 giây. Huyền Âm Chi Khí sẽ chuyển hóa thành Đến Dương Chi Khí tương ứng trong giai đoạn cắt.
+  [color=#9e6404]Thần Niệm Chi Lôi: [/color]
+Chúc Long kích hoạt thần lực, phát ra lôi âm tấn công thần niệm, gây tổn thương cho nhân vật và tạm thời làm giảm tâm trạng mục tiêu 2 điểm. Tâm trạng mục tiêu càng thấp, sát thương càng cao.
+  [color=#9e6404]Tâm Ma Long Tử: [/color]
+Chúc Long phun ra một luồng hỏa long mạnh mẽ về một hướng, kẻ thù bị phun trúng sẽ tạo ra một [Hình Long Ác Niệm] và chịu tổn thương. Mức độ tâm trạng của mục tiêu càng thấp, sát thương càng cao.
+  [color=#9e6404]Ác Niệm Chi Tuyến: [/color]
+Giải phóng lên mục tiêu có tâm trạng cao nhất, gây ra lượng sát thương lớn, nếu tâm trạng của mục tiêu thấp hơn 30, sẽ khiến toàn thân linh khí bùng nổ, trực tiếp bị thương nặng và mất đi chiến lực. Linh khí bùng nổ cũng sẽ phát nổ, gây hủy hoại cho khu vực xung quanh 3 ô và bị Chúc Long hấp thụ, cộng thêm 20 tầng Huyền Âm Chi Khí.
+  [color=#9e6404]Tâm Ma Hóa Hình: [/color]
+Khi Huyền Âm Chi Khí đạt 100 tầng, giải phóng Tâm Ma Hóa Hình, tạo ra [Hình Long Ác Niệm] cho tất cả đệ tử nội môn.
+  [color=#9e6404]Âm Dương Chi Nộ: [/color]
+Khi trứng của Chúc Long bị phá hủy, Chúc Long tức giận làm rối loạn Âm Dương Đạo, gây sát thương cho tất cả kẻ thù, và ấp tất cả [Âm chi noãn] chưa bị áp chế, sau đó bay lên, tạo ra ba [Dương chi noãn] trên đường đi, cuối cùng hiện ra dưới hình thái ban ngày. Trong quá trình chuyển đổi Âm Dương, Chúc Long nhận được 50 tầng Đến Dương Chi Khí, sự gia tăng tâm trạng do Thần Niệm Chi Lôi mang lại cho người chơi cũng sẽ được xóa bỏ.
+  [color=#9e6404]Hình Long Ác Niệm: [/color]
+Chúc Long tạo ra ảo ảnh vào ban đêm, có thể phát ra bảo bối để tấn công. Hàm lượng linh khí của ảo ảnh liên quan đến sức mạnh bảo bối và tâm trạng của nhân vật tại thời điểm tạo ra. Mức độ tâm trạng của mục tiêu càng thấp, sức mạnh càng mạnh.
+  [color=#9e6404]Âm chi noãn: [/color]
+Khi Chúc Long phát động Âm Dương Chi Nộ, sẽ ấp tất cả [Âm chi noãn] trong cảnh, những kẻ phục vụ rồng tạo ra từ đó sẽ là mối đe dọa lớn. [Âm chi noãn] cần có phong thủy đại cát để áp chế.
+				
+				
+		 ]]></Text>
 	</Help>
 	<Help Name="ZhuLong_Secret" Root="ZhuLong" Type="Content">
-		<Title>Rahasia Naga Lilin</Title>
-		<Text>[color=#9e6404]Inkarnasi Yin dan Yang:[/color]
-				Naga lilin adalah penjelmaan manusia dari yin dan yang antara langit dan bumi. Dalam bentuk siang hari, hanya kerusakan yang disebabkan oleh lima elemen milik yin (logam dan air) yang akan efektif, sedangkan kerusakan yang disebabkan oleh lima elemen milik Yang (api dan kayu) akan diserap. Dalam bentuk malam gelap, hanya kerusakan yang disebabkan oleh lima elemen Yang (api dan kayu) yang akan efektif, sedangkan kerusakan dari lima elemen Yin (logam dan air) akan diserap. Meskipun kerusakan atribut bumi mengabaikan tahapan, kerusakan yang ditimbulkan hanya lebih kecil.
-		  [color=#9e6404]Topeng Pikiran Murka Surga:[/color]
-				Ketika mata naga hancur dalam bentuk malam yang gelap, Zhulong akan menggunakan murka surga untuk meluncurkan topeng pikiran pada karakter di bagian yang rusak. Orang yang menghancurkan mata naga akan mengalami penurunan mood sebesar 100 poin selama satu tahun. Jika Anda selamat dari topeng psikis, suasana hati Anda akan meningkat secara permanen sebesar 20 poin.
-		  [color=#9e6404]Murka Surga - Dihantui Karma:[/color]
-				Ketika mata naga hancur dalam bentuk siang hari, Zhulong akan menggunakan murka surga untuk meluncurkan Karmic Fire Haunting pada karakter di bagian yang rusak. Orang yang menghancurkan mata naga akan mendapat peningkatan 1.000 poin momok selama satu tahun. Jika Anda selamat dari api karma, momoknya akan berkurang secara permanen sebesar 200 poin.
-		  [color=#9e6404]Skala Surga:[/color]
-				Ada skala surga di antara alis Zhulong, yang hanya akan muncul setelah Zhulong mengaktifkan murka yin dan yang dua kali.
-		  [color=#9e6404]Giok Kekacauan:[/color]
-				Chaos Jade adalah sumber kekuatan naga lilin. Hanya setelah menghancurkan mata dan menghancurkan Skala Langit barulah Chaos Jade muncul di lokasi Skala Langit.</Text>
+		<Title>Bí văn chúc long</Title>
+		<Text><![CDATA[	
+		  [color=#9e6404]Âm Dương Hóa Thân: [/color]
+Chúc Long là hóa thân của Âm Dương Đạo giữa trời đất. Trong hình thái ban ngày, chỉ có sát thương thuộc Âm (Kim Thủy) mới có hiệu lực, sát thương thuộc Dương (Hỏa Mộc) sẽ bị hấp thụ. Trong hình thái ban đêm, chỉ có sát thương thuộc Dương (Hỏa Mộc) mới có hiệu lực, sát thương thuộc Âm (Kim Thủy) sẽ bị hấp thụ. Sát thương thuộc Thổ mặc dù không bị ảnh hưởng bởi giai đoạn, nhưng chỉ có thể gây ra sát thương nhỏ.
+  [color=#9e6404]Thiên Đạo Chi Nộ - Tâm Linh Già Tráo: [/color]
+Khi mắt rồng bị phá hủy trong hình thái ban đêm, Chúc Long sẽ nhờ vào Thiên Đạo Chi Nộ, phát động Tâm Linh Che Mặt lên nhân vật phá hủy mắt rồng, khiến người phá hủy mắt rồng trong một năm tâm trạng giảm 100 điểm. Nếu vượt qua Tâm Linh Che Mặt, tâm trạng sẽ vĩnh viễn tăng 20 điểm.
+  [color=#9e6404]Thiên Đạo Chi Nộ - Nghiệp Hỏa Quấn Quanh: [/color]
+Khi mắt rồng bị phá hủy trong hình thái ban ngày, Chúc Long sẽ nhờ vào Thiên Đạo Chi Nộ, phát động Nghiệp Hỏa Quấn Quanh lên nhân vật phá hủy mắt rồng, khiến người phá hủy mắt rồng trong một năm thiên khiển tăng 1000 điểm. Nếu vượt qua Nghiệp Hỏa Quấn Quanh, thiên khiển sẽ vĩnh viễn giảm 200 điểm.
+  [color=#9e6404]Thiên Đạo Chi Lân: [/color]
+Chúc Long có một chiếc Thiên Đạo Chi Lân ở giữa trán, chỉ xuất hiện sau khi Chúc Long phát động hai lần Âm Dương Chi Nộ.
+  [color=#9e6404]Hỗn Độn Chi Ngọc: [/color]
+Hỗn Độn Chi Ngọc là nguồn sức mạnh của Chúc Long, chỉ khi phá hủy đôi mắt, đánh bại Thiên Lân, Hỗn Độn Chi Ngọc mới xuất hiện tại vị trí của Thiên Lân.
+		 ]]></Text>
 	</Help>
 </List>
 </Helps>
+

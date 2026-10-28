@@ -88,5 +88,7 @@ ID	FabaoName	FabaoDes
 
 
 
-89	Evil Deterring	An artifact made from a wooden sword and can deter evil.
-125	Perfected Warrior Sword	Also known as the Exorcist Prime, the Perfected Warrior used this precious sword to expel all evils. About 3 inches long, the sword is reforged from jade stones with the true powers of exorcism; it thus has an imposing purplish glow around it. Once drawn, it transforms into inch-long violet lightening bolts that destroy everything they touch.
+89	Trừ Tà	Một vật phẩm được làm từ một thanh kiếm gỗ và có khả năng ngăn chặn ác quỷ.
+125	Kiếm Chiến Giả Chí Tôn	Còn được biết đến với danh hiệu Trấn Tà Chân Quân, Chiến Giả Chí Tôn sử dụng thanh kiếm trân quý này để trừ yêu diệt ma, hàng phục bách tà. Thanh kiếm dài chừng ba tấc, được rèn luyện từ ngọc thạch tinh thuần, ẩn chứa chân ý trừ tà, tỏa ra hào quang tím thâm sâu, uy nghi lẫm liệt. Mỗi khi rút kiếm, nó lập tức hóa thành lôi quang tím dài một tấc, tựa như thiên lôi giáng thế, chém rách hư không, diệt tận vạn vật. Không ma vật nào có thể chống lại sát khí tuyệt luân của kiếm này!
+
+

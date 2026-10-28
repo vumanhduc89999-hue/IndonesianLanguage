@@ -1,13 +1,15 @@
 talk	notarget	thing
-NotEat_Item_WuDang_HuangJingFen	I will not eat the Soil Essence Powder	
-NotEat_Item_Dan_WuQiNoHunger2	I will not eat the Qi Fasting Pill	
-NotEat_Item_Dan_SanHuaHuangJing	I will not eat the Trimerous Essence Pill	
-WannaEat_Item_WuDang_HuangJingFen	I want to eat the Soil Essence Powder	
-WannaEat_Item_Dan_WuQiNoHunger2	I want to eat the Qi Fasting Pill	
-WannaEat_Item_Dan_SanHuaHuangJing	I want to eat the Trimerous Essence Pill	
-DoTalkEat_Item_WuDang_HuangJingFen		I'm eating the Soil Essence Powder
-DoTalkEat_Item_Dan_WuQiNoHunger2		I'm eating the Qi Fasting Pill
-DoTalkEat_Item_Dan_SanHuaHuangJing		I'm eating the
-CantEat_Item_WuDang_HuangJingFen	I cannot find a Soil Essence Powder	
-CantEat_Item_Dan_WuQiNoHunger2	I cannot find a Qi Fasting Pill to eat	
-CantEat_Item_Dan_SanHuaHuangJing	I cannot find a Trimerous Essence Pill to eat	
+NotEat_Item_WuDang_HuangJingFen	Ta sẽ không ăn hoàng tinh phấn	
+NotEat_Item_Dan_WuQiNoHunger2	Ta sẽ không ăn ngũ khí Tích Cốc đan	
+NotEat_Item_Dan_SanHuaHuangJing	Ta sẽ không ăn tam hoa hoàng tinh hoàn	
+WannaEat_Item_WuDang_HuangJingFen	Ta rất muốn ăn hoàng tinh phấn	
+WannaEat_Item_Dan_WuQiNoHunger2	Ta rất muốn ăn ngũ khí Tích Cốc đan	
+WannaEat_Item_Dan_SanHuaHuangJing	Ta rất muốn ăn tam hoa hoàng tinh hoàn	
+DoTalkEat_Item_WuDang_HuangJingFen		Ta ngay tại ăn hoàng tinh phấn
+DoTalkEat_Item_Dan_WuQiNoHunger2		Ta ngay tại ăn ngũ khí Tích Cốc đan
+DoTalkEat_Item_Dan_SanHuaHuangJing		Ta ngay tại ăn tam hoa hoàng tinh hoàn
+CantEat_Item_WuDang_HuangJingFen	Ta tìm không thấy hoàng tinh phấn có thể ăn	
+CantEat_Item_Dan_WuQiNoHunger2	Ta tìm không thấy ngũ khí Tích Cốc đan có thể ăn	
+CantEat_Item_Dan_SanHuaHuangJing	Ta tìm không thấy tam hoa hoàng tinh hoàn có thể ăn	
+
+

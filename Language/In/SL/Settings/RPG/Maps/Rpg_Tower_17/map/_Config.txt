@@ -286,3 +286,4 @@
 /Settings/RPG/Maps/Rpg_Tower_17/map.txt	Skills.SkillDefs.TDamageSkill-572.DisplayName	紫薇镇神	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_17/map.txt	Skills.SkillDefs.TDamageSkill-573.DisplayName	本源镇神真言	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_17/map.txt	Skills.SkillDefs.THealthSkill-141.DisplayName	玉虚五气神雷	-1	_ReplaceSkillDisplaceName
+

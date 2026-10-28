@@ -1,122 +1,123 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JobCloseTo">
-			<DisplayName>Approach</DisplayName>
+			<DisplayName>Tiếp cận</DisplayName>
 		</Text>
 		<Text Name="JobMoveToBed">
-			<DisplayName>Rest</DisplayName>
+			<DisplayName>Nghỉ dưỡng</DisplayName>
 		</Text>
 		<Text Name="JobDemonLoseSoul">
-			<DisplayName>Seal Five Senses</DisplayName>
+			<DisplayName>Phong tỏa ngũ quan</DisplayName>
 		</Text>
 		<Text Name="JobDemonClaustrophobia">
-			<DisplayName>Confine</DisplayName>
+			<DisplayName>Ẩn mình</DisplayName>
 		</Text>
 		<Text Name="JobDemonWail">
-			<DisplayName>Wail</DisplayName>
+			<DisplayName>Khóc thảm</DisplayName>
 		</Text>
 		<Text Name="JobDemonBlank">
-			<DisplayName>In Trance</DisplayName>
+			<DisplayName>Bàng hoàng</DisplayName>
 		</Text>
 		<Text Name="JobObtainThing">
-			<DisplayName>Obtain</DisplayName>
+			<DisplayName>Thu nhận</DisplayName>
 		</Text>
 		<Text Name="JobEatItem">
-			<DisplayName>Eat</DisplayName>
+			<DisplayName>Ăn uống</DisplayName>
 		</Text>
 		<Text Name="JobEquipItem">
-			<DisplayName>Equip</DisplayName>
+			<DisplayName>Trang bị</DisplayName>
 		</Text>
 		<Text Name="JobFaceIdle">
-			<DisplayName>Interact</DisplayName>
+			<DisplayName>Tương tác</DisplayName>
 		</Text>
 		<Text Name="JobFighting">
-			<DisplayName>In Battle</DisplayName>
+			<DisplayName>Trong trận chiến</DisplayName>
 		</Text>
 		<Text Name="JobFight">
-			<DisplayName>Battle</DisplayName>
+			<DisplayName>Chiến đấu</DisplayName>
 		</Text>
 		<Text Name="JobFightDriver">
-			<DisplayName>In Battle</DisplayName>
+			<DisplayName>Trong trận chiến</DisplayName>
 		</Text>
 		<Text Name="JobZhenFighting">
-			<DisplayName>In Battle</DisplayName>
+			<DisplayName>Trong trận chiến</DisplayName>
 		</Text>
 		<Text Name="JobBodyFighting">
-			<DisplayName>In Battle</DisplayName>
+			<DisplayName>Trong trận chiến</DisplayName>
 		</Text>
 		<Text Name="JobLeaveMap">
-			<DisplayName>Leave</DisplayName>
+			<DisplayName>Rời đi</DisplayName>
 		</Text>
 		<Text Name="JobWaitHelp">
-			<DisplayName>Passerby</DisplayName>
+			<DisplayName>Người qua đường</DisplayName>
 		</Text>
 		<Text Name="JobTalk">
-			<DisplayName>Socialize</DisplayName>
+			<DisplayName>Giao tiếp</DisplayName>
 		</Text>
 		<Text Name="JobSimpleAction">
-			<DisplayName>Act</DisplayName>
+			<DisplayName>Hành vi</DisplayName>
 		</Text>
 		<Text Name="JobWalkerHelp">
-			<DisplayName>Help</DisplayName>
+			<DisplayName>Trợ giúp</DisplayName>
 		</Text>
 		<Text Name="JobAlarmbell">
-			<DisplayName>Warn</DisplayName>
+			<DisplayName>Cảnh báo</DisplayName>
 		</Text>
 		<Text Name="JobMoveTo">
-			<DisplayName>Move To</DisplayName>
+			<DisplayName>Di chuyển đến</DisplayName>
 		</Text>
 		<Text Name="JobMoveThingTo">
-			<DisplayName>Haul</DisplayName>
+			<DisplayName>Vận chuyển</DisplayName>
 		</Text>
 		<Text Name="JobYSSleep">
-			<DisplayName>Slumber</DisplayName>
+			<DisplayName>Ngủ say</DisplayName>
 		</Text>
 		<Text Name="JobWaitCMD">
-			<DisplayName>Wait For Orders</DisplayName>
+			<DisplayName>Đợi lệnh</DisplayName>
 		</Text>
 		<Text Name="JobRobItem">
-			<DisplayName>Take By Force</DisplayName>
+			<DisplayName>Cướp đoạt</DisplayName>
 		</Text>
 		<Text Name="JobZhenStart">
-			<DisplayName>Form Formation</DisplayName>
+			<DisplayName>Kết trận</DisplayName>
 		</Text>
 		<Text Name="JobStayInZhen">
-			<DisplayName>Operate Formation</DisplayName>
+			<DisplayName>Vận hành trận pháp</DisplayName>
 		</Text>
 		<Text Name="JobRebuildZhen">
-			<DisplayName>Change Formation</DisplayName>
+			<DisplayName>Biến trận</DisplayName>
 		</Text>
 		<Text Name="JobPerformWithBuilding">
-			<DisplayName>Work</DisplayName>
+			<DisplayName>Công việc</DisplayName>
 		</Text>
 		<Text Name="JobPerformFree">
-			<DisplayName>Wander</DisplayName>
+			<DisplayName>Dạo chơi</DisplayName>
 		</Text>
 		<Text Name="JobTryTalk">
-			<DisplayName>Talk</DisplayName>
+			<DisplayName>Giao lưu</DisplayName>
 		</Text>
 		<Text Name="JobGotoAndStay">
-			<DisplayName>Go to</DisplayName>
-			<Desc>Go to</Desc>
+			<DisplayName>Đi đến</DisplayName>
+			<Desc>Đi đến</Desc>
 		</Text>
 		<Text Name="JobJGTunShi">
-			<DisplayName>Devour</DisplayName>
+			<DisplayName>Yêu quái nuốt chửng</DisplayName>
 		</Text>
 		<Text Name="JobJGRevival">
-			<DisplayName>Revive</DisplayName>
+			<DisplayName>Tỉnh dậy sau tạo hình</DisplayName>
 		</Text>
 		<Text Name="JobYsThink">
-			<DisplayName>Think</DisplayName>
+			<DisplayName>Suy nghĩ</DisplayName>
 		</Text>
 		<Text Name="JobStudyThing">
-			<DisplayName>Observe</DisplayName>
+			<DisplayName>Quan sát</DisplayName>
 		</Text>
 		<Text Name="JobYsToHuman">
-			<DisplayName>Awaken Intelligence</DisplayName>
+			<DisplayName>Thức tỉnh linh trí</DisplayName>
 		</Text>
 		<Text Name="JobGoFishing">
-			<DisplayName>Fish</DisplayName>
+			<DisplayName>Câu cá</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

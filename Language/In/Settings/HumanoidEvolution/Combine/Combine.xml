@@ -1,16 +1,17 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="ATarget">
-			<DisplayName>Realization</DisplayName>
+			<DisplayName>Nhận thức</DisplayName>
 		</Text>
 		<Text Name="AScene">
-			<DisplayName>Rationality</DisplayName>
+			<DisplayName>Lý trí</DisplayName>
 		</Text>
 		<Text Name="AEmotion">
-			<DisplayName>Perception</DisplayName>
+			<DisplayName>Cảm nhận</DisplayName>
 		</Text>
 		<Text Name="FNode">
-			<DisplayName>Intelligence Shard</DisplayName>
+			<DisplayName>Mảnh linh trí</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

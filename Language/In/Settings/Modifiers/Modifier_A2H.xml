@@ -1,60 +1,61 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Animal2HumanThinkFull">
-			<DisplayName>Full Thought</DisplayName>
-			<Desc>Penuh pemikiran.</Desc>
+			<DisplayName>Đầy suy nghĩ</DisplayName>
+			<Desc>Suy nghĩ đã đầy</Desc>
 		</Text>
 		<Text Name="Animal2HumanFeelLing">
-			<DisplayName>Budding Intelligence</DisplayName>
-			<Desc>Terasa kecerdasan pemula.</Desc>
+			<DisplayName>Linh trí mơ hồ</DisplayName>
+			<Desc>Có cảm giác mơ hồ về linh trí.</Desc>
 		</Text>
 		<Text Name="AnimalToHuman">
-			<DisplayName>Halfway Shapeshifted</DisplayName>
-			<Desc>Berubah bentuk.</Desc>
+			<DisplayName>Bán hóa hình</DisplayName>
+			<Desc>Đang trong trạng thái bán hóa hình.</Desc>
 		</Text>
 		<Text Name="LingShou_fanshi">
-			<DisplayName>Pet Countercharge</DisplayName>
-			<Desc>Hewan peliharaan akan membuat artefak menjadi bumerang bagi pemiliknya setelah jangka waktu tertentu, menyebabkan Artefak Qi berkurang setengahnya. Efeknya berlipat ganda untuk artefak elemen Api, dan dibelah dua untuk artefak elemen Tanah.</Desc>
+			<DisplayName>Linh thú phản phệ</DisplayName>
+			<Desc>Sau một thời gian sẽ phản phệ pháp bảo, linh khí pháp bảo giảm một nửa, hiệu quả pháp bảo thuộc tính hỏa tăng gấp đôi, hiệu quả pháp bảo thuộc tính thổ giảm một nửa.</Desc>
 		</Text>
 		<Text Name="ToHumanThunderComing">
-			<DisplayName>Shapeshifting Tribulation</DisplayName>
-			<Desc>Kesengsaraan yang Berubah Bentuk sedang terjadi.</Desc>
+			<DisplayName>Thiên kiếp hóa hình</DisplayName>
+			<Desc>Thiên kiếp hóa hình đang được tích tụ</Desc>
 		</Text>
 		<Text Name="Modifier_LingChong_Heal">
-			<DisplayName>Companion</DisplayName>
-			<Desc>Dengan hewan peliharaan roh sebagai teman, cederanya pulih lebih cepat.</Desc>
+			<DisplayName>Đồng hành</DisplayName>
+			<Desc>Dưới sự đồng hành của linh thú, vết thương hồi phục nhanh hơn.</Desc>
 		</Text>
 		<Text Name="Modifier_LingChong_Stay">
-			<DisplayName>Companion</DisplayName>
-			<Desc>Dengan hewan peliharaan roh sebagai teman selama pelatihan, kondisi mental menjadi lebih stabil.</Desc>
+			<DisplayName>Đồng hành</DisplayName>
+			<Desc>Khi tu luyện có linh thú đồng hành, tâm cảnh trở nên bình ổn hơn.</Desc>
 		</Text>
 		<Text Name="Modifier_GlitterEyes">
-			<DisplayName>Piercing Sight</DisplayName>
-			<Desc>Memiliki Piercing Sight Dark Phoenix agar dapat melihat fitur asli suatu item saat berada di pelelangan.</Desc>
+			<DisplayName>Hỏa Nhãn Kim Tinh</DisplayName>
+			<Desc>Sở hữu lực Hỏa Nhãn Kim Tinh của Huyền Phượng, có thể nhìn thấu chân diện thật của một số vật phẩm trong đấu giá.</Desc>
 		</Text>
 		<Text Name="Modifier_Shelter">
-			<DisplayName>Aegis</DisplayName>
-			<Desc>Secara drastis meningkatkan penghalang Qi dan daya tahan tubuh rahasia dalam rentang waktu singkat.</Desc>
+			<DisplayName>Hộ thể</DisplayName>
+			<Desc>Trong thời gian ngắn tăng mạnh độ bền của linh khí hộ thể và bí thể.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealPower">
-			<DisplayName>Origin Force (Power)</DisplayName>
-			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli guna meningkatkan kekuatan artefak dan badan rahasia secara drastis.</Desc>
+			<DisplayName>Chân lực nguyên thân (Lực)</DisplayName>
+			<Desc>Đốt cháy mạnh mẽ nguồn sống bản nguyên, kích phát lực lượng nguyên thân của yêu tộc, tăng mạnh uy lực ngự khí, uy lực bí thể.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealRecover">
-			<DisplayName>Origin Force (Nurture)</DisplayName>
-			<Desc>Membakar sumber kehidupan dengan cepat untuk menstimulasi kekuatan Yaoguai asli guna meningkatkan ketahanan secara drastis, tingkat pemulihan Qi artefak, dan tingkat pemulihan Qi Sejati badan rahasia.</Desc>
+			<DisplayName>Chân lực nguyên thân (Hàm)</DisplayName>
+			<Desc>Đốt cháy mạnh mẽ nguồn sống bản nguyên, kích phát lực lượng nguyên thân của yêu tộc, tăng mạnh khả năng hồi phục cơ thể, tốc độ hồi phục linh khí pháp bảo, tốc độ hồi phục chân khí bí thể.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealWisdom">
-			<DisplayName>Origin Force (INT)</DisplayName>
-			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli untuk secara drastis meningkatkan kekuatan mantra, akurasi serangan tubuh rahasia, tingkat keberhasilan pertahanan, penetrasi penghalang Qi, dan peluang penindasan artefak.</Desc>
+			<DisplayName>Chân lực nguyên thân (Trí)</DisplayName>
+			<Desc>Đốt cháy mạnh mẽ nguồn sống bản nguyên, kích phát lực lượng nguyên thân của yêu tộc, tăng mạnh uy lực pháp thuật, tỷ lệ tấn công chính xác của bí thể, tỷ lệ phòng thủ thành công, tỷ lệ xuyên thủng linh khí hộ thể, tỷ lệ trấn áp pháp bảo.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_RealShield">
-			<DisplayName>Origin Force (PCT)</DisplayName>
-			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli guna meningkatkan penguasaan artefak, penghalang Qi, serta kekuatan dan daya tahan tubuh rahasia secara drastis.</Desc>
+			<DisplayName>Chân lực nguyên thân (Hộ)</DisplayName>
+			<Desc>Đốt cháy mạnh mẽ nguồn sống bản nguyên, kích phát lực lượng nguyên thân của yêu tộc, tăng mạnh uy lực ngự khí, uy lực bí thể, độ bền của linh khí hộ thể và bí thể.</Desc>
 		</Text>
 		<Text Name="Modifier_YG_NormalPower">
-			<DisplayName>Demon Body</DisplayName>
-			<Desc>Tubuh iblis meningkatkan kekuatan tempur dan mempercepat proses pembentukan ulang. Namun didorong oleh alam liar, kecerdasan, kecepatan belajar, dan kondisi mental seorang kultivator semuanya akan sangat terpengaruh.</Desc>
+			<DisplayName>Yêu thân</DisplayName>
+			<Desc>Trong trạng thái yêu thân, năng lực chiến đấu được tăng cường, tốc độ luyện thân cũng nhanh hơn. Nhưng dưới sự thúc đẩy của bản năng hoang dã, tu hành giả bị ảnh hưởng lớn đến trí tuệ, tốc độ học tập và tâm cảnh.</Desc>
 		</Text>
 	</List>
 </Texts>
+

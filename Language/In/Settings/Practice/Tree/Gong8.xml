@@ -1,127 +1,128 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong8_a0">
-			<DisplayName>Panacea</DisplayName>
+			<DisplayName>Hóa Thương Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong8_a6">
-			<DisplayName>Records of the Perfected Warrior</DisplayName>
+			<DisplayName>Chân Võ Lục</DisplayName>
 		</Text>
 		<Text Name="Gong8_a11">
-			<DisplayName>Incantation of Mind Cleansing</DisplayName>
+			<DisplayName>Thanh Tâm Chú</DisplayName>
 		</Text>
 		<Text Name="Gong8_b6">
-			<DisplayName>The Compass Doctrine</DisplayName>
+			<DisplayName>Tư Nam Kinh</DisplayName>
 		</Text>
 		<Text Name="Gong8_b11">
-			<DisplayName>Breakthrough Incantation</DisplayName>
+			<DisplayName>Động Tâm Chú</DisplayName>
 		</Text>
 		<Text Name="Gong8_c0">
-			<DisplayName>Meditation</DisplayName>
+			<DisplayName>Thuật Nhập Định</DisplayName>
 		</Text>
 		<Text Name="Gong8_c1">
-			<DisplayName>Palm of Absorption</DisplayName>
+			<DisplayName>Hấp Tinh Chưởng</DisplayName>
 		</Text>
 		<Text Name="Gong8_c2">
-			<DisplayName>Reverie Rebirth</DisplayName>
+			<DisplayName>Huyền Tẫn Trọng Sinh</DisplayName>
 		</Text>
 		<Text Name="Gong8_c3">
-			<DisplayName>Dubhe Chant</DisplayName>
+			<DisplayName>Thiên Xu Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong8_c3_1">
-			<DisplayName>Sword of Dubhe</DisplayName>
+			<DisplayName>Thiên Xu Kiếm Ý</DisplayName>
 		</Text>
 		<Text Name="Gong8_c3_2">
-			<DisplayName>Legacy Artifact: Sword of Dubhe</DisplayName>
+			<DisplayName>Bí Bảo: Thiên Xu Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c4">
-			<DisplayName>Merak Chant</DisplayName>
+			<DisplayName>Thiên Tuyền Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong8_c4_1">
-			<DisplayName>Sword of Merak</DisplayName>
+			<DisplayName>Thiên Tuyền Kiếm Ý</DisplayName>
 		</Text>
 		<Text Name="Gong8_c4_2">
-			<DisplayName>Legacy Artifact: Sword of Merak</DisplayName>
+			<DisplayName>Bí Bảo: Thiên Tuyền Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c5">
-			<DisplayName>Phegda Chant</DisplayName>
+			<DisplayName>Thiên Cơ Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong8_c5_1">
-			<DisplayName>Sword of Phegda</DisplayName>
+			<DisplayName>Thiên Cơ Kiếm Ý</DisplayName>
 		</Text>
 		<Text Name="Gong8_c5_2">
-			<DisplayName>Legacy Artifact: Sword of Phegda</DisplayName>
+			<DisplayName>Bí Bảo: Thiên Cơ Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c6">
-			<DisplayName>Megrez Chant</DisplayName>
+			<DisplayName>Thiên Quyền Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong8_c6_1">
-			<DisplayName>Sword of Megrez</DisplayName>
+			<DisplayName>Thiên Quyền Kiếm Ý</DisplayName>
 		</Text>
 		<Text Name="Gong8_c6_2">
-			<DisplayName>Legacy Artifact: Sword of Megrez</DisplayName>
+			<DisplayName>Bí Bảo: Thiên Quyền Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c7">
-			<DisplayName>Alioth Chant</DisplayName>
+			<DisplayName>Ngọc Hành Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong8_c7_1">
-			<DisplayName>Sword of Alioth</DisplayName>
+			<DisplayName>Ngọc Hành Kiếm Ý</DisplayName>
 		</Text>
 		<Text Name="Gong8_c7_2">
-			<DisplayName>Legacy Artifact: Sword of Alioth</DisplayName>
+			<DisplayName>Bí Bảo: Ngọc Hành Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c8">
-			<DisplayName>Mizar Chant</DisplayName>
+			<DisplayName>Khai Dương Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong8_c8_1">
-			<DisplayName>Sword of Mizar</DisplayName>
+			<DisplayName>Khai Dương Kiếm Ý</DisplayName>
 		</Text>
 		<Text Name="Gong8_c8_2">
-			<DisplayName>Legacy Artifact: Sword of Mizar</DisplayName>
+			<DisplayName>Bí Bảo: Khai Dương Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c9">
-			<DisplayName>Alkaid Chant</DisplayName>
+			<DisplayName>Dao Quang Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong8_c9_1">
-			<DisplayName>Sword of Alkaid</DisplayName>
+			<DisplayName>Dao Quang Kiếm Ý</DisplayName>
 		</Text>
 		<Text Name="Gong8_c9_2">
-			<DisplayName>Legacy Artifact: Sword of Alkaid</DisplayName>
+			<DisplayName>Bí Bảo: Dao Quang Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong8_c11">
-			<DisplayName>Exchange Incantation</DisplayName>
+			<DisplayName>Kiếp Tâm Chú</DisplayName>
 		</Text>
 		<Text Name="Gong8_c11_1">
-			<DisplayName>Fatebreak Incantation</DisplayName>
+			<DisplayName>Xá Tâm Chú</DisplayName>
 		</Text>
 		<Text Name="Gong8_d0">
-			<DisplayName>Thunderstorm</DisplayName>
+			<DisplayName>Lôi Bạo Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong8_d0_1">
-			<DisplayName>Grand Chariot Bladezone</DisplayName>
+			<DisplayName>Bắc Đẩu Kiếm Giới</DisplayName>
 		</Text>
 		<Text Name="Gong8_d1">
-			<DisplayName>Stargazer</DisplayName>
+			<DisplayName>Mắt Sao Đẩu</DisplayName>
 		</Text>
 		<Text Name="Gong8_d6">
-			<DisplayName>Grand Chariot Ultimate</DisplayName>
+			<DisplayName>Bắc Đấu Tuyệt Thức</DisplayName>
 		</Text>
 		<Text Name="Gong8_d6_1">
-			<DisplayName>Grand Chariot Ultimate</DisplayName>
+			<DisplayName>Bắc Đấu Tuyệt Thức</DisplayName>
 		</Text>
 		<Text Name="Gong8_d6_2">
-			<DisplayName>Grand Chariot Ultimate</DisplayName>
+			<DisplayName>Bắc Đấu Tuyệt Thức</DisplayName>
 		</Text>
 		<Text Name="Gong8_d10">
-			<DisplayName>Universal Foresight.</DisplayName>
+			<DisplayName>Chu Thiên Thần Toán</DisplayName>
 		</Text>
 		<Text Name="Gong8_d11">
-			<DisplayName>Divinity Incantation</DisplayName>
+			<DisplayName>Thiên Tâm Chú</DisplayName>
 		</Text>
 		<Text Name="Gong8_e4">
-			<DisplayName>Eureka Pill</DisplayName>
+			<DisplayName>Thiên Đạo Thần Đan</DisplayName>
 		</Text>
 		<Text Name="Gong8_e8">
-			<DisplayName>Taoist Artifact</DisplayName>
+			<DisplayName>Thiên Đạo Thần Khí</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

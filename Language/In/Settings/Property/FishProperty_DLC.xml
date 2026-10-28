@@ -1,14 +1,15 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FishTimes">
-			<DisplayName>Caught Fish</DisplayName>
-			<DisplayValue>{0}</DisplayValue>
-			<Desc>Jumlah ikan yang ditangkap oleh pembudidaya ini.</Desc>
+			<DisplayName>Số câu cá</DisplayName>
+			<DisplayValue>{0} con</DisplayValue>
+			<Desc>Số cá mà tu sĩ đã câu</Desc>
 		</Text>
 		<Text Name="HeaviestFish">
-			<DisplayName>Heaviest Fish</DisplayName>
-			<DisplayValue>{0:f1} Catties</DisplayValue>
-			<Desc>Bobot ikan terberat yang pernah ditangkap oleh pembudidaya ini.</Desc>
+			<DisplayName>Trọng lượng nhất</DisplayName>
+			<DisplayValue>{0:f1} cân</DisplayValue>
+			<Desc>Trọng lượng nặng nhất của cá mà tu sĩ câu được.</Desc>
 		</Text>
 	</List>
 </Texts>
+

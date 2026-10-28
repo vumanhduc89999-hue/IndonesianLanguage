@@ -392,4 +392,5 @@
 /Settings/RPG/Maps/Rpg_Tower_14/map.txt	RPGInfo.Objects.3.LuaPostProcessing.Param2	又有明界的食物送上门了！献上你的真灵，祭奠幽界的主宰罢！	3	
 /Settings/RPG/Maps/Rpg_Tower_14/map.txt	RPGInfo.MapInfo.Title	饥渴之人	-1	
 /Settings/RPG/Maps/Rpg_Tower_14/map.txt	RPGInfo.MapInfo.Desc	持续灵气损失	-1	
-/Settings/RPG/Maps/Rpg_Tower_14/map.txt	RPGInfo.MapInfo.EnterContent	此地传说是上古仙人布下的聚灵阵。他不断运转神通汲取周围灵气，万物衰败，自己也因承受不住而就此陨落，留下其残念还在持续不断地汲取灵气。	-1	
+/Settings/RPG/Maps/Rpg_Tower_14/map.txt	RPGInfo.MapInfo.EnterContent	此地传说是上古仙人布下的聚灵阵。他不断运转神通汲取周围灵气，万物衰败，自己也因承受不住而就此陨落，留下其残念还在持续不断地汲取灵气。	-1
+

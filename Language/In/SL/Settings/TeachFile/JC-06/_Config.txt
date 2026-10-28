@@ -214,3 +214,4 @@
 /Settings/TeachFile/JC-06.osave	Skill.SkillDefs.TDamageSkill-1.DisplayName	燃魂九极咒	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/JC-06.osave	Skill.SkillDefs.TSheildSkill-1.DisplayName	朱雀金刚	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/JC-06.osave	Skill.SkillDefs.TSheildSkill-2.DisplayName	造化不坏神雷	-1	_ReplaceSkillDisplaceName
+

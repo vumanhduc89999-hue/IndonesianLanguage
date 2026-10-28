@@ -1,56 +1,57 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="t1">
-			<DisplayName>Common Weather</DisplayName>
-			<Desc>Cuaca Umum</Desc>
+			<DisplayName>Thời tiết bình thường</DisplayName>
+			<Desc>Thời tiết bình thường</Desc>
 		</Text>
 		<Text Name="t2">
-			<DisplayName>Rare Weather</DisplayName>
-			<Desc>Cuaca Langka</Desc>
+			<DisplayName>Thời tiết hiếm gặp</DisplayName>
+			<Desc>Thời tiết hiếm gặp</Desc>
 		</Text>
 		<Text Name="t3">
-			<DisplayName>Treasure Descending</DisplayName>
-			<Desc>Harta Karun Turun</Desc>
+			<DisplayName>Bảo vật rơi xuống</DisplayName>
+			<Desc>Bảo vật rơi xuống</Desc>
 		</Text>
 		<Text Name="t8">
-			<DisplayName>Disciple's Recommendation</DisplayName>
-			<Desc>Rekomendasi Murid</Desc>
+			<DisplayName>Đệ tử giới thiệu</DisplayName>
+			<Desc>Đệ tử giới thiệu</Desc>
 		</Text>
 		<Text Name="t_vistor">
-			<DisplayName>Visitor Event</DisplayName>
-			<Desc>Acara Pengunjung</Desc>
+			<DisplayName>Sự kiện khách đến thăm</DisplayName>
+			<Desc>Sự kiện khách đến thăm</Desc>
 		</Text>
 		<Text Name="t5">
-			<DisplayName>Wild Animal Attack</DisplayName>
-			<Desc>Serangan Hewan Liar</Desc>
+			<DisplayName>Dã thú tấn công</DisplayName>
+			<Desc>Dã thú tấn công</Desc>
 		</Text>
 		<Text Name="t6">
-			<DisplayName>Enemy Incoming</DisplayName>
-			<Desc>Musuh Masuk</Desc>
+			<DisplayName>Kẻ địch xâm chiếm</DisplayName>
+			<Desc>Kẻ địch xâm chiếm</Desc>
 		</Text>
 		<Text Name="t7">
-			<DisplayName>Monster Assault</DisplayName>
-			<Desc>Serangan Monster</Desc>
+			<DisplayName>Yêu thú tấn công</DisplayName>
+			<Desc>Yêu thú tấn công</Desc>
 		</Text>
 		<Text Name="s_fabao">
-			<DisplayName>Secret - Unearthing Artifact</DisplayName>
-			<Desc>Rahasia - Menggali Artefak</Desc>
+			<DisplayName>Bí văn-pháp bảo xuất thế</DisplayName>
+			<Desc>Bí văn-pháp bảo xuất thế</Desc>
 		</Text>
 		<Text Name="s_miji">
-			<DisplayName>Secret - Unearthing Manual</DisplayName>
-			<Desc>Rahasia - Manual Penggalian</Desc>
+			<DisplayName>Bí văn-bí kíp xuất thế</DisplayName>
+			<Desc>Bí văn-bí kíp xuất thế</Desc>
 		</Text>
 		<Text Name="s_daotong">
-			<DisplayName>Secret - Manifesting Mandate</DisplayName>
-			<Desc>Rahasia - Mewujudkan Amanat</Desc>
+			<DisplayName>Bí văn-đạo thống hiện thế</DisplayName>
+			<Desc>Bí văn-đạo thống hiện thế</Desc>
 		</Text>
 		<Text Name="s_dongfu">
-			<DisplayName>Secret - Manifesting Cave</DisplayName>
-			<Desc>Rahasia - Mewujudkan Gua</Desc>
+			<DisplayName>Bí văn-động phủ hiện thế</DisplayName>
+			<Desc>Bí văn-động phủ hiện thế</Desc>
 		</Text>
 		<Text Name="s_zhengxie">
-			<DisplayName>Secret - Trace of the Famous</DisplayName>
-			<Desc>Rahasia - Jejak Yang Terkenal</Desc>
+			<DisplayName>Bí văn-chính tà hành tung</DisplayName>
+			<Desc>Bí văn-chính tà hành tung</Desc>
 		</Text>
 	</List>
 </Texts>
+

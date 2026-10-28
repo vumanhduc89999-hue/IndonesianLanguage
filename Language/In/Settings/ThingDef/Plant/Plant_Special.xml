@@ -1,26 +1,27 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Ginseng" sParam="Plant">
-			<ThingName>Ginseng</ThingName>
-			<Desc>Bahan obat langka. Memiliki kemampuan penyembuhan yang kuat dan dapat meningkatkan Qi purba Anda secara signifikan. Tumbuh di lingkungan antara[temperature]-30[/temperature]ke[temperature]40[/temperature]. Hanya tumbuh di tempat dengan jumlah Qi tertentu.</Desc>
+			<ThingName>Nhân Sâm</ThingName>
+			<Desc>Một loại dược liệu quý hiếm, cực kỳ giá trị trong y học, có thể đại bổ nguyên khí, mọc trong khoảng nhiệt độ từ [temperature]-30[/temperature] đến [temperature]40[/temperature]. Cần mọc ở nơi có linh khí nhất định.</Desc>
 		</Text>
 		<Text Name="GanodermaLucidum" sParam="Plant">
-			<ThingName>Lingzhi</ThingName>
-			<Desc>Bahan obat langka. Memiliki kemampuan penyembuhan yang kuat dan dapat meningkatkan Qi purba Anda secara signifikan. Tumbuh di lingkungan antara[temperature]10[/temperature]ke[temperature]40[/temperature]. Hanya tumbuh di tempat dengan jumlah Qi tertentu.</Desc>
+			<ThingName>Chi thảo</ThingName>
+			<Desc>Một loại dược liệu quý hiếm, cực kỳ giá trị trong y học, có thể đại bổ nguyên khí, mọc trong khoảng nhiệt độ từ [temperature]10[/temperature] đến [temperature]40[/temperature]. Cần mọc ở nơi có linh khí nhất định.</Desc>
 		</Text>
 		<Text Name="Mint" sParam="Plant">
-			<ThingName>Purity Leaf</ThingName>
-			<Desc>Bahan obat umum. Bersifat dingin, mempunyai efek menyejukkan dan menenangkan. Tumbuh di lingkungan antara[temperature]-30[/temperature]ke[temperature]40[/temperature]. Hanya tumbuh di tempat dengan jumlah Qi tertentu.</Desc>
+			<ThingName>Thanh Tâm Thảo</ThingName>
+			<Desc>Một loại dược liệu phổ biến, tính mát, có thể an thần định khí, mọc trong khoảng nhiệt độ từ [temperature]-30[/temperature] đến [temperature]40[/temperature]. Cần mọc ở nơi có linh khí nhất định.</Desc>
 		</Text>
 		<Text Name="MagicHerb" sParam="Plant">
-			<ThingName>Spirit Leaf</ThingName>
-			<Desc>Bahan obat dengan spiritualitas. Seharusnya relatif jarang. Tumbuh di lingkungan antara[temperature]-30[/temperature]ke[temperature]40[/temperature]. Hanya tumbuh di tempat dengan jumlah Qi tertentu. Ada Daun Roh yang tumbuh di mana-mana di luar Rumah Gua di Puncak Alkemis di Dataran Tengah.</Desc>
+			<ThingName>Linh tiên thảo</ThingName>
+			<Desc>Một loại thảo dược giàu linh lực, vốn rất hiếm, mọc trong khoảng nhiệt độ từ [temperature]-30[/temperature] đến [temperature]40[/temperature]. Cần mọc ở nơi có linh khí nhất định. Ngoài động y tiên trên Luyện Đan Phong Trung Nguyên, có cả một ngọn núi đầy Linh Tiên Thảo mọc.</Desc>
 		</Text>
 		<Text Name="WarmHerb" sParam="Plant">
-			<ThingName>Caterpillar Fungus</ThingName>
-			<Desc>Ramuan dengan beragam penampilan yang hanya matang di musim dingin dan musim panas. Juga dikenal sebagai "rumput berubah bentuk" di kalangan masyarakat umum. Bila dikonsumsi untuk sementara dapat meningkatkan kemampuan adaptasi seseorang terhadap lingkungan ekstrim.</Desc>
-			<StoryBnts.0.Name>Harvest</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Mencoba memanen dengan mantra.</StoryBnts.0.Desc>
+			<ThingName>Đông trùng hạ thảo</ThingName>
+			<Desc>Loại cỏ có hình dạng thay đổi, chỉ trưởng thành vào mùa đông và hè, được người đời gọi là "cỏ biến hóa". Sau khi dùng có thể tạm thời tăng khả năng thích nghi với môi trường khắc nghiệt.</Desc>
+			<StoryBnts.0.Name>Hái lượm</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng pháp lực hái.</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>
+

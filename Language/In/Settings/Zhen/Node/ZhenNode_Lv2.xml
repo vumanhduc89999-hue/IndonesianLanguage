@@ -1,310 +1,311 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="ZhenMainNode_Lv2_4_1">
-			<DisplayName>Heaven-Earth Harmony</DisplayName>
+			<DisplayName>Thiên Địa Hòa Hợp</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv2_4_2">
-			<DisplayName>Wind-Thunder Centrality</DisplayName>
+			<DisplayName>Phong Lôi Ứng Trung</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv2_4_3">
-			<DisplayName>Yin-Yang Conversion</DisplayName>
+			<DisplayName>Âm Cực Sinh Dương</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv2_4_4">
-			<DisplayName>Yang-Yin Conversion</DisplayName>
+			<DisplayName>Dương Cực Hóa Âm</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv2_4_5">
-			<DisplayName>Way of Extreme Yin</DisplayName>
+			<DisplayName>Huyền Âm Chi Đạo</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_Lv2_4_6">
-			<DisplayName>Way of Extreme Yang</DisplayName>
+			<DisplayName>Chí Dương Chi Đạo</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_1">
-			<DisplayName>Heaven</DisplayName>
+			<DisplayName>Thiên</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_2">
-			<DisplayName>Earth</DisplayName>
+			<DisplayName>Địa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_3">
-			<DisplayName>Water</DisplayName>
+			<DisplayName>Thủy</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_4">
-			<DisplayName>Fire</DisplayName>
+			<DisplayName>Hỏa</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_5">
-			<DisplayName>Thunder</DisplayName>
+			<DisplayName>Lôi</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_6">
-			<DisplayName>Wind</DisplayName>
+			<DisplayName>Phong</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_7">
-			<DisplayName>Mountain</DisplayName>
+			<DisplayName>Sơn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_1_8">
-			<DisplayName>Swamp</DisplayName>
+			<DisplayName>Trạch</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_9">
-			<DisplayName>Creative Heaven</DisplayName>
+			<DisplayName>Càn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_10">
-			<DisplayName>Receptive Earth</DisplayName>
+			<DisplayName>Khôn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_11">
-			<DisplayName>Abysmal Water</DisplayName>
+			<DisplayName>Khảm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_12">
-			<DisplayName>Clinging Fire</DisplayName>
+			<DisplayName>Rời đi</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_13">
-			<DisplayName>Arousing Thunder</DisplayName>
+			<DisplayName>Chấn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_14">
-			<DisplayName>Gentle Wind</DisplayName>
+			<DisplayName>Tốn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_15">
-			<DisplayName>Still Mountain</DisplayName>
+			<DisplayName>Cấn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_16">
-			<DisplayName>Joyous Swamp</DisplayName>
+			<DisplayName>Đoài</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_17">
-			<DisplayName>Peace</DisplayName>
+			<DisplayName>Thái</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_18">
-			<DisplayName>Might</DisplayName>
+			<DisplayName>Đại Tráng</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_19">
-			<DisplayName>Prosperity</DisplayName>
+			<DisplayName>Đại Súc</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_20">
-			<DisplayName>Abundance</DisplayName>
+			<DisplayName>Đại Hữu</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_21">
-			<DisplayName>Expectancy</DisplayName>
+			<DisplayName>Nhu</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_22">
-			<DisplayName>Resolution</DisplayName>
+			<DisplayName>Quái</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_23">
-			<DisplayName>Welfare</DisplayName>
+			<DisplayName>Tiểu Súc</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_24">
-			<DisplayName>Stagnation</DisplayName>
+			<DisplayName>Không</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_25">
-			<DisplayName>Enthusiasm</DisplayName>
+			<DisplayName>Dự</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_26">
-			<DisplayName>Separation</DisplayName>
+			<DisplayName>Bác</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_27">
-			<DisplayName>Progress</DisplayName>
+			<DisplayName>Tấn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_28">
-			<DisplayName>Union</DisplayName>
+			<DisplayName>Bỉ</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_29">
-			<DisplayName>Gathering</DisplayName>
+			<DisplayName>Tụy</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_30">
-			<DisplayName>Contemplation</DisplayName>
+			<DisplayName>Quan</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_31">
-			<DisplayName>Innocence</DisplayName>
+			<DisplayName>Vô Vọng</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_32">
-			<DisplayName>Return</DisplayName>
+			<DisplayName>Phục</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_33">
-			<DisplayName>Comfort</DisplayName>
+			<DisplayName>Nghi</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_34">
-			<DisplayName>Engulfing</DisplayName>
+			<DisplayName>Thực Hà</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_35">
-			<DisplayName>Sprout</DisplayName>
+			<DisplayName>Trưng</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_36">
-			<DisplayName>Following</DisplayName>
+			<DisplayName>Tùy</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_37">
-			<DisplayName>Augmenting</DisplayName>
+			<DisplayName>Ích</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_38">
-			<DisplayName>Retreat</DisplayName>
+			<DisplayName>Độn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_39">
-			<DisplayName>Modesty</DisplayName>
+			<DisplayName>Khiêm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_40">
-			<DisplayName>Excess</DisplayName>
+			<DisplayName>Tiểu Quá</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_41">
-			<DisplayName>Wandering</DisplayName>
+			<DisplayName>Lữ</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_42">
-			<DisplayName>Obstruction</DisplayName>
+			<DisplayName>Tiện</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_43">
-			<DisplayName>Attraction</DisplayName>
+			<DisplayName>Hàm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_44">
-			<DisplayName>Development</DisplayName>
+			<DisplayName>Tiệm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_45">
-			<DisplayName>Fellowship</DisplayName>
+			<DisplayName>Đồng Nhân</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_46">
-			<DisplayName>Darkening</DisplayName>
+			<DisplayName>Minh Di</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_47">
-			<DisplayName>Profusion</DisplayName>
+			<DisplayName>Phong</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_48">
-			<DisplayName>Grace</DisplayName>
+			<DisplayName>Bội</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_49">
-			<DisplayName>Completion</DisplayName>
+			<DisplayName>Ký Tế</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_50">
-			<DisplayName>Revolution</DisplayName>
+			<DisplayName>Cách</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_51">
-			<DisplayName>Family</DisplayName>
+			<DisplayName>Gia Nhân</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_52">
-			<DisplayName>Conflict</DisplayName>
+			<DisplayName>Tụng</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_53">
-			<DisplayName>Army</DisplayName>
+			<DisplayName>Sư</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_54">
-			<DisplayName>Deliverance</DisplayName>
+			<DisplayName>Giải</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_55">
-			<DisplayName>Ignorance</DisplayName>
+			<DisplayName>Manh</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_56">
-			<DisplayName>Incompleteness</DisplayName>
+			<DisplayName>Vị Tế</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_57">
-			<DisplayName>Predicament</DisplayName>
+			<DisplayName>Khốn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_58">
-			<DisplayName>Dispersion</DisplayName>
+			<DisplayName>Hoán</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_59">
-			<DisplayName>Treading</DisplayName>
+			<DisplayName>Lý</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_60">
-			<DisplayName>Approach</DisplayName>
+			<DisplayName>Lâm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_61">
-			<DisplayName>Bride</DisplayName>
+			<DisplayName>Quy Muội</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_62">
-			<DisplayName>Decrease</DisplayName>
+			<DisplayName>Tổn</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_63">
-			<DisplayName>Opposition</DisplayName>
+			<DisplayName>Quái</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_64">
-			<DisplayName>Limitation</DisplayName>
+			<DisplayName>Tiết</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_65">
-			<DisplayName>Honesty</DisplayName>
+			<DisplayName>Trung Phu</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_66">
-			<DisplayName>Encounter</DisplayName>
+			<DisplayName>Cấu</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_67">
-			<DisplayName>Ascension</DisplayName>
+			<DisplayName>Thăng</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_68">
-			<DisplayName>Duration</DisplayName>
+			<DisplayName>Hằng</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_69">
-			<DisplayName>Calamity</DisplayName>
+			<DisplayName>Cổ</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_70">
-			<DisplayName>Cauldron</DisplayName>
+			<DisplayName>Đỉnh</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_71">
-			<DisplayName>Well</DisplayName>
+			<DisplayName>Tỉnh</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_2_72">
-			<DisplayName>Preponderance</DisplayName>
+			<DisplayName>Đại Quá</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_1">
-			<DisplayName>Universe Sword Mastery</DisplayName>
+			<DisplayName>Càn Ngự Kiếm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_2">
-			<DisplayName>Universe Spell Derivation</DisplayName>
+			<DisplayName>Càn Diễn Pháp</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_3">
-			<DisplayName>Universe Barrier Focus</DisplayName>
+			<DisplayName>Càn Ngưng Cương</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_4">
-			<DisplayName>Ground Sword Mastery</DisplayName>
+			<DisplayName>Khôn Ngự Kiếm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_5">
-			<DisplayName>Ground Spell Derivation</DisplayName>
+			<DisplayName>Khôn Diễn Pháp</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_6">
-			<DisplayName>Ground Barrier Focus</DisplayName>
+			<DisplayName>Khôn Ngưng Cương</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_7">
-			<DisplayName>Thunder Sword Mastery</DisplayName>
+			<DisplayName>Chấn Ngự Kiếm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_8">
-			<DisplayName>Thunder Spell Derivation</DisplayName>
+			<DisplayName>Chấn Diễn Pháp</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_9">
-			<DisplayName>Thunder Barrier Focus</DisplayName>
+			<DisplayName>Chấn Ngưng Cương</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_10">
-			<DisplayName>Wind Sword Mastery</DisplayName>
+			<DisplayName>Tốn Ngự Kiếm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_11">
-			<DisplayName>Wind Spell Derivation</DisplayName>
+			<DisplayName>Tốn Diễn Pháp</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_12">
-			<DisplayName>Wind Barrier Focus</DisplayName>
+			<DisplayName>Tốn Ngưng Cương</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_13">
-			<DisplayName>Water Sword Mastery</DisplayName>
+			<DisplayName>Khảm Ngự Kiếm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_14">
-			<DisplayName>Water Spell Derivation</DisplayName>
+			<DisplayName>Khảm Diễn Pháp</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_15">
-			<DisplayName>Water Barrier Focus</DisplayName>
+			<DisplayName>Khảm Ngưng Cương</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_16">
-			<DisplayName>Fire Sword Mastery</DisplayName>
+			<DisplayName>Ly Ngự Kiếm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_17">
-			<DisplayName>Fire Spell Derivation</DisplayName>
+			<DisplayName>Ly Diễn Pháp</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_18">
-			<DisplayName>Fire Barrier Focus</DisplayName>
+			<DisplayName>Ly Ngưng Cương</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_19">
-			<DisplayName>Mountain Sword Mastery</DisplayName>
+			<DisplayName>Cấn Ngự Kiếm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_20">
-			<DisplayName>Mountain Spell Derivation</DisplayName>
+			<DisplayName>Cấn Diễn Pháp</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_21">
-			<DisplayName>Mountain Barrier Focus</DisplayName>
+			<DisplayName>Cấn Ngưng Cương</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_22">
-			<DisplayName>Moor Sword Mastery</DisplayName>
+			<DisplayName>Đoài Ngự Kiếm</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_23">
-			<DisplayName>Moor Spell Derivation</DisplayName>
+			<DisplayName>Đoài Diễn Pháp</DisplayName>
 		</Text>
 		<Text Name="ZhenNode_Lv2_3_24">
-			<DisplayName>Moor Barrier Focus</DisplayName>
+			<DisplayName>Đoài Ngưng Cương</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

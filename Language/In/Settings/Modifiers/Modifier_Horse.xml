@@ -1,52 +1,53 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Modifier_Horse_All_0">
-			<DisplayName>Base Adventure Speed Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tốc độ rèn luyện cơ bản</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_All_7">
-			<DisplayName>Max Qi Bonus</DisplayName>
+			<DisplayName>Giá trị tăng linh khí</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Rabbit_10">
-			<DisplayName>Rabbit</DisplayName>
+			<DisplayName>Thỏ</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Chicken_10">
-			<DisplayName>Chicken</DisplayName>
+			<DisplayName>Gà</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Wolf_10">
-			<DisplayName>Wolf</DisplayName>
+			<DisplayName>Sói</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Snake_10">
-			<DisplayName>Snake</DisplayName>
+			<DisplayName>Rắn</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Boar_10">
-			<DisplayName>Boar</DisplayName>
+			<DisplayName>Lợn</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Bear_10">
-			<DisplayName>Bear</DisplayName>
+			<DisplayName>Gấu</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Frog_10">
-			<DisplayName>Frog</DisplayName>
+			<DisplayName>Ếch</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Turtle_10">
-			<DisplayName>Turtle</DisplayName>
+			<DisplayName>Rùa</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Cat_10">
-			<DisplayName>Cat</DisplayName>
+			<DisplayName>Mèo</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Cattle_10">
-			<DisplayName>Cattle</DisplayName>
+			<DisplayName>Bò</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Tiger_10">
-			<DisplayName>Tiger</DisplayName>
+			<DisplayName>Hổ</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Panda_10">
-			<DisplayName>Panda</DisplayName>
+			<DisplayName>Mạc</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_LuShu_0">
-			<DisplayName>LuShu</DisplayName>
+			<DisplayName>Lộc Thục</DisplayName>
 		</Text>
 		<Text Name="Modifier_Horse_Fei_0">
-			<DisplayName>Fei</DisplayName>
+			<DisplayName>Phi</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

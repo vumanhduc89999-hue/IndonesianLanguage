@@ -60,4 +60,5 @@
 /Settings/RPG/Maps/Rpg_Tower_3/map.txt	Skills.SkillDefs.TDamageSkill-571.DisplayName	太上飞星诀	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_3/map.txt	Skills.SkillDefs.TDamageSkill-572.DisplayName	紫薇流光咒	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_3/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param1	吾成道太初，观无极二分，化天地万物，有感于心，开辟道法修行之路。本望生灵能超脱天地之锢…	1	
-/Settings/RPG/Maps/Rpg_Tower_3/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param2	然世间因修行超脱者寡，沉沦者众……流毒自吾而始…便由吾而终罢……	1	
+/Settings/RPG/Maps/Rpg_Tower_3/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param2	然世间因修行超脱者寡，沉沦者众……流毒自吾而始…便由吾而终罢……	1
+

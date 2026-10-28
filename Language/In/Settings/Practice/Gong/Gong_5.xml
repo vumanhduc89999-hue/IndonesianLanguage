@@ -1,26 +1,27 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong_5_Tu">
-			<DisplayName>Heaven Stealing Law</DisplayName>
-			<Desc>Ribuan tahun yang lalu, bumi terpaksa terpisah dari surga, menyebabkan menipisnya Qi di alam manusia, dan kenaikan menjadi mustahil. Karena putus asa, seorang kultivator dengan bakat langka menemukan cara yang tidak biasa dan menciptakan Hukum ini. Hal ini tidak bergantung pada lingkungan, tetapi akan menghabiskan energi kehidupan seseorang untuk melakukan terobosan. Oleh karena itu, hanya orang yang memiliki tubuh paling sehat dan berbagai obat langka untuk memperpanjang umurnya yang dapat mengolah Hukum ini.</Desc>
-			<SelectDesc>Seseorang akan unggul dalam keterampilan menjaga. Selama Inti Emas memenuhi persyaratan, terobosan akan berhasil. Namun, hal ini akan menghabiskan sebagian besar umur selama budidaya. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
-			<Stages.0.DisplayName>Sanguine Absorption</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Sanguine Absorption</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.1.DisplayName>Qi Congealment</Stages.0.Necks.1.DisplayName>
-			<Stages.1.DisplayName>Sacrificial Devotion</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Sacrificial Devotion</Stages.1.Necks.0.DisplayName>
-			<Stages.1.Necks.1.DisplayName>Tempered</Stages.1.Necks.1.DisplayName>
-			<Stages.1.Necks.2.DisplayName>Core Congealment</Stages.1.Necks.2.DisplayName>
-			<Stages.2.DisplayName>Skeletal Change</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Skeletal Change</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.1.DisplayName>Integration</Stages.2.Necks.1.DisplayName>
-			<Stages.2.Necks.2.DisplayName>Fetal</Stages.2.Necks.2.DisplayName>
-			<Stages.3.DisplayName>Soul Scorching</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Scorching</Stages.3.Necks.0.DisplayName>
-			<Stages.3.Necks.1.DisplayName>Incineration</Stages.3.Necks.1.DisplayName>
-			<Stages.4.DisplayName>Last Resolution</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Last Resolution</Stages.4.Necks.0.DisplayName>
-			<Stages.4.Necks.1.DisplayName>Ascension</Stages.4.Necks.1.DisplayName>
+			<DisplayName>Thâu Thiên Quyết</DisplayName>
+			<Desc>Ngàn năm trước tuyệt địa thiên thông, linh khí nhân giới gần như cạn kiệt, không còn hy vọng thành tiên. Trong tuyệt cảnh, một người tu hành thiên tư tuyệt diễm đã khai sáng pháp môn này. Pháp môn này không phụ thuộc vào môi trường, lấy tiềm năng sinh mệnh làm cái giá để đột phá cảnh giới, vì vậy chỉ người có thể chất trời sinh mạnh mẽ mới có thể tu hành, và cần các loại thiên tài địa bảo để kéo dài tuổi thọ mới có một tia hy vọng thành tiên.</Desc>
+			<SelectDesc>Công pháp này sở trường về thuật phòng ngự, khi điều kiện phẩm cấp Kim Đan được thỏa mãn, việc đột phá chắc chắn thành công, chỉ là trong quá trình tu luyện cần tiêu hao nhiều tuổi thọ. Có muốn lựa chọn tu luyện công pháp này không?</SelectDesc>
+			<Stages.0.DisplayName>Hóa Huyết Kỳ</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Hóa Huyết</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.1.DisplayName>Ngưng Khí</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>Xả Thân Kỳ</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Xả Thân</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Bách Luyện</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Ngưng Đan</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Hoán Cốt Kỳ</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Hoán Cốt</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Bất Đọa</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Nguyên Anh</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Nhiên Hồn Kỳ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Nhiên Hồn</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Phần Niệm</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Phá Phủ Kỳ</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Phá Phủ</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Phi thăng</Stages.4.Necks.1.DisplayName>
 		</Text>
 	</List>
 </Texts>
+

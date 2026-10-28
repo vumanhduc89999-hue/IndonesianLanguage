@@ -27,3 +27,4 @@
 /Settings/RPG/Maps/Rpg_Tower_N/map.txt	Skills.SkillDefs.TDamageSkill-560.DisplayName	壬癸镇神神雷	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_N/map.txt	Skills.SkillDefs.TSheildSkill-225.DisplayName	乐梦柏上仙金刚诀	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_N/map.txt	Skills.SkillDefs.TDamageSkill-561.DisplayName	本源陨星咒	-1	_ReplaceSkillDisplaceName
+

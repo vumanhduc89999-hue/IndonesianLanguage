@@ -1,8 +1,9 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Test3">
-			<DisplayName>Defense Stance</DisplayName>
-			<Desc>Sikap Pertahanan</Desc>
+			<DisplayName>Tư Thế Phòng Thủ</DisplayName>
+			<Desc>Tư Thế Phòng Thủ Tư Thế Phòng Thủ</Desc>
 		</Text>
 	</List>
 </Texts>
+

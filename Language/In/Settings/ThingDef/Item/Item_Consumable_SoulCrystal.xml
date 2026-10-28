@@ -1,27 +1,28 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_SoulCrystalBase" sParam="Item">
-			<Item.FabaoSuffix>Soul Gem</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Phách</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_SoulCrystalYou" sParam="Item">
-			<ThingName>Anguish Soul Gem</ThingName>
-			<Desc>Permata jiwa gelap, berisi beberapa kenangan menyakitkan yang tersisa.</Desc>
+			<ThingName>U phách</ThingName>
+			<Desc>Kết tinh linh hồn u ám, chứa đựng một số ký ức đau khổ còn sót lại.</Desc>
 		</Text>
 		<Text Name="Item_SoulCrystalNing" sParam="Item">
-			<ThingName>Serenity Soul Gem</ThingName>
-			<Desc>Permata jiwa yang tenang, berisi beberapa kenangan yang tersisa.</Desc>
+			<ThingName>Ninh phách</ThingName>
+			<Desc>Kết tinh linh hồn yên bình, chứa đựng một số ký ức còn sót lại.</Desc>
 		</Text>
 		<Text Name="Item_SoulCrystalLing" sParam="Item">
-			<ThingName>Spirit Soul Gem</ThingName>
-			<Desc>Permata jiwa yang jernih, berisi beberapa kenangan indah yang tersisa.</Desc>
+			<ThingName>Linh phách</ThingName>
+			<Desc>Kết tinh linh hồn trong suốt, chứa đựng một số ký ức hạnh phúc còn sót lại.</Desc>
 		</Text>
 		<Text Name="Item_SoulCrystalYuanLing" sParam="Item">
-			<ThingName>Primordial Soul Gem</ThingName>
-			<Desc>Roh Makhluk memperoleh kesadarannya adalah sebuah kesalahan di jalan surga, sedangkan Permata Jiwa Purba adalah jejak kedalaman dari kesalahan tersebut, yang diambil dari Roh Makhluk.</Desc>
+			<ThingName>Nguyên linh chi phách</ThingName>
+			<Desc>Nguyên linh chi phách là tia huyền diệu sót lại từ tinh quái sinh ra ý thức, do thiên đạo bỏ sót mà ngưng tụ.</Desc>
 		</Text>
 		<Text Name="Item_Yao_CatSoul" sParam="Item">
-			<ThingName>Cat Soul Gem</ThingName>
-			<Desc>Fragmen jiwa kucing Yaoguai, mungkin ada hubungannya dengan pepatah bahwa kucing memiliki sembilan nyawa. Ini mengandung kekuatan misterius, mengkonsumsinya akan memberi Anda sub-spirit tambahan. Item ini hanya dapat diambil sekali seumur hidup. Hanya efektif untuk kultivator yang telah mencapai fase Roh Primordial.</Desc>
+			<ThingName>Miêu Yêu Chi Phách</ThingName>
+			<Desc>Mảnh linh hồn mèo yêu, có thể liên quan đến truyền thuyết mèo có chín mạng, chứa đựng một số sức mạnh huyền diệu. Uống vào có thể tăng thêm một phân thần. Vật này chỉ có thể dùng một lần trong đời, chỉ hiệu quả với người tu hành đạt nguyên thần kỳ.</Desc>
 		</Text>
 	</List>
 </Texts>
+

@@ -53,4 +53,5 @@
 /Settings/RPG/Maps/Rpg_Tower_23/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param1	你以为你是谁？妄图征服自然？你比这野草高贵不到哪儿去！	0	
 /Settings/RPG/Maps/Rpg_Tower_23/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param2	真可悲，远道而来，竟愚昧至此。化作这天地的养分吧，这是你最后的升华了。	0	
 /Settings/RPG/Maps/Rpg_Tower_23/map.txt	RPGInfo.MapInfo.Title	无何有之乡	-1	
-/Settings/RPG/Maps/Rpg_Tower_23/map.txt	RPGInfo.MapInfo.Desc	界间残渣	-1	
+/Settings/RPG/Maps/Rpg_Tower_23/map.txt	RPGInfo.MapInfo.Desc	界间残渣	-1
+

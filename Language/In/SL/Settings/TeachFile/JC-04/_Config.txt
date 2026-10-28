@@ -184,3 +184,4 @@
 /Settings/TeachFile/JC-04.osave	Skill.SkillDefs.TSheildSkill-1.DisplayName	丙火金刚真言	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/JC-04.osave	Skill.SkillDefs.TSheildSkill-2.DisplayName	奔烈覆天神雷	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/JC-04.osave	Skill.SkillDefs.TDamageSkill-2.DisplayName	天火飞星神雷	-1	_ReplaceSkillDisplaceName
+

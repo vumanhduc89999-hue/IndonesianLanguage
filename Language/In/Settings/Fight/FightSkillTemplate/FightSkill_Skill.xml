@@ -1,13 +1,14 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SYS_LOST">
-			<DisplayName>Empty</DisplayName>
+			<DisplayName>Mô-đun bị mất</DisplayName>
 		</Text>
 		<Text Name="TSkillSkill">
-			<DisplayName>Spell Enhancement</DisplayName>
+			<DisplayName>Tăng cường thuật pháp</DisplayName>
 		</Text>
 		<Text Name="SkillSkill_Gong10_1">
-			<DisplayName>Astroflare</DisplayName>
+			<DisplayName>Phần Nhật Chân Pháp</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

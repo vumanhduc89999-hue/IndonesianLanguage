@@ -1,36 +1,37 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="YGPanda">
-			<DisplayName>Panda Yaoguai</DisplayName>
-			<Desc>Hewan Berubah Menjadi Yaogua Karena Kecerdasan yang Bangkit: Panda Yaoguai</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Yêu Mạch</DisplayName>
+			<Desc>Yêu thức tỉnh linh trí và hóa hình: Yêu Mạc</Desc>
+			<MaleName>Nam</MaleName>
+			<FemaleName>Nữ</FemaleName>
 		</Text>
 		<Text Name="Panda">
-			<DisplayName>Panda</DisplayName>
-			<Desc>Hewan Biasa: Panda</Desc>
-			<TalkBefore>*merengek*</TalkBefore>
-			<TalkAfter>*merengek*</TalkAfter>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Mạc</DisplayName>
+			<Desc>Động vật bình thường: Mạc</Desc>
+			<TalkBefore>Ê ê,</TalkBefore>
+			<TalkAfter>, Ê!</TalkAfter>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="JYPanda">
-			<DisplayName>Monster Panda</DisplayName>
-			<Desc>Hewan yang memperoleh kekuatan tanpa membangkitkan kecerdasan: Monster Panda</Desc>
-			<MaleName>[b][color=#0000FF]♂️[/color][/b]</MaleName>
-			<FemaleName>[b][color=#FF6EC7]♀[/color][/b]</FemaleName>
+			<DisplayName>Yêu Mạch</DisplayName>
+			<Desc>Động vật chưa thức tỉnh linh trí nhưng có được sức mạnh: Yêu Mạc</Desc>
+			<MaleName>Đực</MaleName>
+			<FemaleName>Cái</FemaleName>
 		</Text>
 		<Text Name="LsPandaXian">
-			<DisplayName>Xianxian</DisplayName>
-			<Desc>Divine Panda Xianxian adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
-			<TalkBefore>*merengek*</TalkBefore>
-			<TalkAfter>*merengek*</TalkAfter>
+			<DisplayName>Thiên Mạc Tiên Tiên</DisplayName>
+			<Desc>Thiên Mạc Tiên Tiên là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>Ê ê,</TalkBefore>
+			<TalkAfter>, Ê!</TalkAfter>
 		</Text>
 		<Text Name="LsPandaXiu">
-			<DisplayName>Xiu Xiu</DisplayName>
-			<Desc>Divine Panda Xiuxiu adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
-			<TalkBefore>*merengek*</TalkBefore>
-			<TalkAfter>*merengek*</TalkAfter>
+			<DisplayName>Thiên Mặc Tu Tu</DisplayName>
+			<Desc>Thiên Mạc Tu Tu là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>Ê ê,</TalkBefore>
+			<TalkAfter>, Ê!</TalkAfter>
 		</Text>
 	</List>
 </Texts>
+

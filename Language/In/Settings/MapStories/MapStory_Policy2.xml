@@ -1,9 +1,10 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="OutSpread_TreeEXP">
-			<DisplayName>Study Nature</DisplayName>
-			<Desc>Anda telah cukup belajar dari Pengakuan Iman Surga, dan perolehan Anda dapat dibekukan menjadi pil sekarang.</Desc>
-			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+			<DisplayName>Sự kiện thu thập Thiên Đạo</DisplayName>
+			<Desc>Thiên Đạo đã thu thập đầy, có thể ngưng kết thành đan.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
 		</Text>
 	</List>
 </Texts>
+

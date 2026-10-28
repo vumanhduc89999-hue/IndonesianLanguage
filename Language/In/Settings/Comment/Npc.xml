@@ -1,43 +1,44 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="NpcDiscipleOfJinDan">
-			<Notes>Comment Panel of Xiandao Cultivator</Notes>
-			<Title>Xiandao Cultivator</Title>
-			<Desc>Seorang kultivator yang berlatih dengan Hukum Inti Emas dalam mengejar jalan menuju keabadian. Meskipun Penggarap Xiandao telah memilih Hukum yang sulit, itu adalah Hukum keagungan yang benar-benar memberi Anda pemahaman komprehensif tentang dunia yang mengarah pada pembebasan tertinggi. Meskipun kekuatan individu mereka terbatas, mereka dapat bertarung dalam formasi untuk melawan musuh dengan kekuatan gabungan massa. Selain itu, mereka unggul dalam menggambar alkimia dan jimat, mengubah alam dengan berbagai teknik ajaib. Tidak diragukan lagi mereka adalah arus utama dunia budidaya.</Desc>
+			<Notes>Bảng tu hành giả tiên đạo</Notes>
+			<Title>Tu hành giả tiên đạo</Title>
+			<Desc>Người tu luyện pháp Kim Đan, truy cầu tiên đạo. Tu hành giả tiên đạo dù tu luyện khó khăn, nhưng đây là con đường thực sự để lĩnh hội đại đạo thế gian, đạt được tự tại. Họ tuy sức mạnh cá nhân có hạn, nhưng có thể kết thành trận pháp, hợp sức chống địch. Ngoài ra, họ còn tinh thông luyện thần đan, vẽ phù lục, dùng các thần thông để cải tạo tự nhiên, là dòng chính không thể tranh cãi của giới tu hành.</Desc>
 		</Text>
 		<Text Name="NpcDiscipleOfGod">
-			<Notes>Comment Panel of Shendao Cultivator</Notes>
-			<Title>Shendao Cultivator</Title>
-			<Desc>Penggarap yang mengumpulkan kekuatan keyakinan dari massa untuk mengejar jalan para dewa. Meskipun mereka sangat kuat, karena mereka dapat memperoleh kekuatan tanpa batas dari keyakinan yang tak terbatas, mereka akan kehilangan identitas mereka secara permanen karena didominasi oleh keyakinan, dan pada akhirnya menjadi dewa murni.</Desc>
+			<Notes>Bảng tu hành giả thần đạo</Notes>
+			<Title>Tu hành giả thần đạo</Title>
+			<Desc>Người tu luyện thần đạo, tụ hội sức mạnh tín ngưỡng của chúng sinh. Họ rất mạnh, có thể hấp thu sức mạnh vô tận từ tín ngưỡng, nhưng lại không tránh khỏi mất đi bản ngã, cuối cùng bị tín ngưỡng chi phối, trở thành thần linh thuần túy.</Desc>
 		</Text>
 		<Text Name="NpcDiscipleOfBody">
-			<Notes>Comment Panel of Physical Cultivator</Notes>
-			<Title>Physical Cultivator</Title>
-			<Desc>Hukum penanaman yang sudah ada sejak zaman kuno. Manfaatkan esensi antara langit dan bumi untuk memurnikan tubuh fana Anda menjadi tubuh abadi. Penggarap Fisik pandai bertarung, mereka menekankan pada penggunaan kekuatan dalam budidaya. Bahkan para pemula, setelah menyelesaikan kursus pengantar, dapat dengan cepat menjadi kuat dalam pertarungan. Namun cara pemurnian tubuh hanya terfokus pada tubuh itu sendiri, ia terus menyerap energi antara langit dan bumi namun memberikan sedikit imbalan. Akibatnya, jumlah mereka sulit bertambah. Seiring berjalannya waktu, pada akhirnya terbukti terlalu sulit bagi mereka untuk bersaing dengan para pembudidaya Xiandao yang sedang naik daun, sehingga lambat laun mereka mengalami kemunduran.</Desc>
+			<Notes>Bảng luyện thể giả</Notes>
+			<Title>Luyện thể giả</Title>
+			<Desc>Đạo tu hành truyền thừa từ thượng cổ, tụ hội tinh hoa thiên địa để ta luyện thân thể, đạt được thể chất bất tử. Luyện thể giả giỏi về công kích, chú trọng phá đạo bằng sức mạnh. Chỉ cần nhập môn, họ có thể nhanh chóng sở hữu sức chiến đấu mạnh mẽ, nhưng đạo thể tu lấy bản thân làm gốc, liên tục khai thác, không thể phản bổ thiên địa, càng khó tụ tập thành quần thể. Theo thời gian, cuối cùng họ khó có thể cạnh tranh với tu hành giả tiên đạo đang trỗi dậy, dần dần suy tàn.</Desc>
 		</Text>
 		<Text Name="NpcWaiMen">
-			<Notes>Comment Panel of Outer Disciple</Notes>
-			<Title>Mortal</Title>
-			<Desc>Mereka yang tidak pernah menginjakkan kaki pada Hukum kultivasi ibarat dedaunan yang tersapu di masa sulit ini.</Desc>
+			<Notes>Bảng ngoại môn đệ tử</Notes>
+			<Title>Phàm nhân</Title>
+			<Desc>Người chưa bước vào con đường tu hành, trong thời loạn thế này như cỏ rác.</Desc>
 		</Text>
 		<Text Name="NpcDaNeng">
-			<Notes>Comment Panel of Master</Notes>
-			<Title>Ancient Cultivator</Title>
-			<Desc>Penggarap yang tertidur karena kekeringan Qi di zaman kuno kini telah terbangun dan kembali. Mereka sangat kuat.</Desc>
+			<Notes>Bảng đại năng</Notes>
+			<Title>Tu hành giả thượng cổ</Title>
+			<Desc>Tu hành giả từ thời thượng cổ, do linh khí cạn kiệt mà ngủ say, nay đã thức tỉnh trở về. Họ sở hữu sức mạnh vô cùng lớn.</Desc>
 		</Text>
 		<Text Name="NpcPuppet">
-			<Notes>Comment Panel of Vessel</Notes>
-			<Title>Vessel</Title>
-			<Desc>Benda humanoid yang dimanipulasi dengan sihir, dapat melakukan pekerjaan manual sederhana.</Desc>
+			<Notes>Bảng khôi lỗi</Notes>
+			<Title>Khôi lỗi</Title>
+			<Desc>Vật hình người được pháp thuật điều khiển, có thể thực hiện các công việc lao động đơn giản.</Desc>
 		</Text>
 		<Text Name="NpcZombie">
-			<Notes>Comment Panel of Zombie</Notes>
-			<Title>Zombie</Title>
-			<Desc>Karena Feng Shui yang buruk, beberapa orang yang meninggal bermutasi menjadi makhluk tak berakal yang haus darah.</Desc>
+			<Notes>Bảng cương thi</Notes>
+			<Title>Cương thi</Title>
+			<Desc>Người đã khuất do phong thủy không tốt mà biến đổi, trở thành tồn tại không có linh trí, khao khát huyết thực.</Desc>
 		</Text>
 		<Text Name="NpcTeacher">
-			<Notes>Comment Panel of Mysterious Cultivator</Notes>
-			<Title>Mysterious Cultivator</Title>
+			<Notes>Bảng tu hành giả thần bí</Notes>
+			<Title>Tu hành giả thần bí</Title>
 		</Text>
 	</List>
 </Texts>
+

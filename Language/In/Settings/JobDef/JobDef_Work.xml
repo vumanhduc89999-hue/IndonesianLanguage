@@ -1,91 +1,92 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JobMine">
-			<DisplayName>Mine</DisplayName>
+			<DisplayName>Khai thác mỏ</DisplayName>
 		</Text>
 		<Text Name="JobCarry">
-			<DisplayName>Haul</DisplayName>
+			<DisplayName>Vận chuyển</DisplayName>
 		</Text>
 		<Text Name="JobBuild">
-			<DisplayName>Build</DisplayName>
+			<DisplayName>Xây</DisplayName>
 		</Text>
 		<Text Name="JobFixBuilding">
-			<DisplayName>Repair</DisplayName>
+			<DisplayName>Sửa chữa</DisplayName>
 		</Text>
 		<Text Name="JobMoveBuilding">
-			<DisplayName>Move Building</DisplayName>
+			<DisplayName>Di chuyển công trình</DisplayName>
 		</Text>
 		<Text Name="JobSetupBuilding">
-			<DisplayName>Erect Building</DisplayName>
+			<DisplayName>Lắp đặt công trình</DisplayName>
 		</Text>
 		<Text Name="JobPlant">
-			<DisplayName>Planting</DisplayName>
+			<DisplayName>Trồng trọt</DisplayName>
 		</Text>
 		<Text Name="JobOutFire">
-			<DisplayName>Extinguish Fire</DisplayName>
+			<DisplayName>Dập lửa</DisplayName>
 		</Text>
 		<Text Name="JobHarvest">
-			<DisplayName>Harvest</DisplayName>
+			<DisplayName>Thu</DisplayName>
 		</Text>
 		<Text Name="JobCutoff">
-			<DisplayName>Remove</DisplayName>
+			<DisplayName>Loại bỏ</DisplayName>
 		</Text>
 		<Text Name="JobCutoffTree">
-			<DisplayName>Chop</DisplayName>
+			<DisplayName>Chặt</DisplayName>
 		</Text>
 		<Text Name="JobSeachItem">
-			<DisplayName>Search</DisplayName>
+			<DisplayName>Tìm kiếm</DisplayName>
 		</Text>
 		<Text Name="JobSeachNpc">
-			<DisplayName>Search</DisplayName>
+			<DisplayName>Tìm kiếm</DisplayName>
 		</Text>
 		<Text Name="JobCarryOut">
-			<DisplayName>Move Away</DisplayName>
+			<DisplayName>Dọn dẹp</DisplayName>
 		</Text>
 		<Text Name="JobDismantle">
-			<DisplayName>Demolish</DisplayName>
+			<DisplayName>Tháo</DisplayName>
 		</Text>
 		<Text Name="JobMakeItem">
-			<DisplayName>Create</DisplayName>
+			<DisplayName>Chế tạo</DisplayName>
 		</Text>
 		<Text Name="JobRemoveFloor">
-			<DisplayName>Remove Floorboards</DisplayName>
+			<DisplayName>Loại bỏ sàn nhà</DisplayName>
 		</Text>
 		<Text Name="JobTreatHim">
-			<DisplayName>Heal</DisplayName>
+			<DisplayName>Chữa trị</DisplayName>
 		</Text>
 		<Text Name="JobCarryToBed">
-			<DisplayName>Carry to Bed</DisplayName>
+			<DisplayName>Mang người lên giường</DisplayName>
 		</Text>
 		<Text Name="JobFeedHim">
-			<DisplayName>Take Care</DisplayName>
+			<DisplayName>Chăm sóc</DisplayName>
 		</Text>
 		<Text Name="JobCarryWater">
-			<DisplayName>Fetch Water</DisplayName>
+			<DisplayName>Lấy nước</DisplayName>
 		</Text>
 		<Text Name="JobExplore">
-			<DisplayName>Explore</DisplayName>
+			<DisplayName>Thăm dò</DisplayName>
 		</Text>
 		<Text Name="JobBuryHim">
-			<DisplayName>Bury</DisplayName>
+			<DisplayName>Chôn cất</DisplayName>
 		</Text>
 		<Text Name="JobHunting">
-			<DisplayName>Hunt</DisplayName>
+			<DisplayName>Săn</DisplayName>
 		</Text>
 		<Text Name="JobSlaughter">
-			<DisplayName>Butcher</DisplayName>
+			<DisplayName>Giết mổ</DisplayName>
 		</Text>
 		<Text Name="JobKill">
-			<DisplayName>Kill</DisplayName>
+			<DisplayName>Tiêu diệt</DisplayName>
 		</Text>
 		<Text Name="JobMoveNpc">
-			<DisplayName>Haul</DisplayName>
+			<DisplayName>Vận chuyển</DisplayName>
 		</Text>
 		<Text Name="JobCleanFloor">
-			<DisplayName>Clean</DisplayName>
+			<DisplayName>Dọn dẹp</DisplayName>
 		</Text>
 		<Text Name="JobSacrifice">
-			<DisplayName>Sacrifice Offering</DisplayName>
+			<DisplayName>Hiến Tế</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

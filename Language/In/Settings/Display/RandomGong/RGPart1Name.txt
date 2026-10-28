@@ -1,17 +1,19 @@
-Ancient Cultivator Prefix,Great Vastness,Primordial,Chaos,Begin and End,Purple Cloud,Comprehension,Infinite,Primordial,Endless,Taichi,World's Beginning,Finale,Supreme,Ancient Primordial,Ninth Sky,Spirit Sky,Vast Sky,Profound Sky,Jade Sky,Dome Sky,Immensity,Primordial,Endless,Clear Void,Illusion,Profound Void
-Common Level 1 Prefix,Generally Propagated,Commonly Propagated,Universally Propagated
-Common Level 2 Prefix,Dark Pill,True Pill,True Void
-Common Level 3 Prefix,Wandering,Liberated,Unrestrained
-Common Level 4 Prefix,Elucidative,True Yang,Observant
-Sunshade Abode Prefix,Sunshade,Supreme Clarity,Numinous Treasure
-Kunlun Palace Prefix,Kunlun,Jade Void,Primordial
-Skydome Palace Prefix,Skydome,Obliviousness,Grand Supreme
-Purple Cloud Temple Prefix,Purple Cloud,Heaven and Earth,Yin Yang
-Mystic Unity Sect Prefix,True Unity,Essential,Venerated Guardian
-Blue Lotus Temple,Blue Lotus,Venusian,Liberated
-Evenfall Abode Prefix,Evenfall,Pentalotus,Ultimate Clarity
-Mt. Hundred Insects Prefix,Hundred Insects,Reverie,Pentatoxic
-Pit of Doom Prefix,Pit of Doom,Earthmother,Profound Magnetic
-Seven-Slaughtering Sect Prefix,Seven Slaughters,Deadly Cursed,Ultimately Venerated
-Exultant Sect Prefix,Exultant,Six Desires,Seven Emotions
-Daemonia Temple Prefix,Daemonia,Everlasting,Tumultuous
+Cổ Tu thông dụng,Hồng Mông,Thái Sơ,Hỗn Độn,Thủy Chung,Tử Tiêu,Hóa Đạo,Vô Cực,Vô Thủy,Vô Chung,Thái Cực,Thái Thủy,Thái Chung,Vô Thượng,Nguyên Sơ,Cửu Thiên,Linh Thiên,Hạo Thiên,Huyền Thiên,Quỳnh Thiên,宆 Thiên,Vô Lượng,Vô Thủy,Vô Chung,Thanh Hư,Thái Hư,Huyền Hư
+Phổ Thông 1 Cấp thông dụng,Thông Truyện,Phổ Truyện,Thế Truyện
+Phổ Thông 2 Cấp thông dụng,Huyền Đan,Chân Đan,Chân Vô
+Phổ Thông 3 Cấp thông dụng,Chu Du,Tiêu Diêu,Tự Tại
+Phổ Thông 4 Cấp thông dụng,Đạo Giải,Dương Chân,Tuân Hóa
+Đan Hà Động Thiên thông dụng,Đan Hà,Thượng Thanh,Linh Bảo
+Côn Lôn Cung thông dụng,Côn Lôn,Ngọc Hư,Nguyên Thủy
+Cực Thiên Cung thông dụng,Cực Thiên,Vong Tình,Thái Thượng
+Tử Tiêu Tông thông dụng,Tử Tiêu,Thiên Địa,Âm Dương
+Huyền Nhất Đạo thông dụng,Chính Nhất,Long Hổ,Thủ Tôn
+Thanh Liên Kiếm Tông thông dụng,Thanh Liên,Thái Bạch,Tiêu Diêu
+Tê Hà Động Thiên thông dụng,Tê Hà,Ngũ Liên,Thái Thanh
+Bách Man Sơn thông dụng,Bách Man,Huyền Tẫn,Ngũ Độc
+Thất Thiên Ổ thông dụng,Thất Thiên,Địa Mẫu,Huyền Từ
+Thất Sát Ma Cung thông dụng,Thất Sát,Tuyệt Sát,Chí Tôn
+Hợp Hoan Phái thông dụng,Hợp Hoan,Lục Dục,Thất Tình
+Vạn Yêu Điện thông dụng,Vạn Yêu,Vạn Thọ,Huyên Hiêu
+
+

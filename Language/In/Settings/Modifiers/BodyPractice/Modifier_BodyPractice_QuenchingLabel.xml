@@ -1,130 +1,131 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Modifier_QuenchingLabel_ChiYi">
-			<DisplayName>Rejected</DisplayName>
+			<DisplayName>Xích Dị</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Organ">
-			<DisplayName>Basic Tempered Organ</DisplayName>
+			<DisplayName>Cơ Sở Bách Luyện Khí Quan</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Bone">
-			<DisplayName>Basic Tempered Bone</DisplayName>
+			<DisplayName>Cơ Sở Bách Luyện Cốt Cách</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Flesh">
-			<DisplayName>Basic Tempered Flesh</DisplayName>
+			<DisplayName>Cơ Sở Bách Luyện Huyết Nhục</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv1_O01_All">
-			<DisplayName>Vitalized Function</DisplayName>
+			<DisplayName>Cơ Năng Hoạt Hóa</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_O01_All">
-			<DisplayName>Dire Potential</DisplayName>
+			<DisplayName>Tuyệt Cảnh Tiềm Năng</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_O02_All">
-			<DisplayName>Innate Restoration</DisplayName>
+			<DisplayName>Tiên Thiên Phản Chiếu</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_O01_All">
-			<DisplayName>Ancestral Throwback (Organ)</DisplayName>
+			<DisplayName>Nguyên Tổ Hóa (nội tạng)</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Xia">
-			<DisplayName>Activated Function</DisplayName>
+			<DisplayName>Cơ Năng Kích Hóa</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_O01_DaYaoYuanJing">
-			<DisplayName>Bestial Organ</DisplayName>
+			<DisplayName>Yêu Thực Tạng Khí</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_O01_SiHunZhiXi">
-			<DisplayName>Void Breath</DisplayName>
+			<DisplayName>Tiềm Mặc Minh Tức</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_B01_WuHuiJingHua">
-			<DisplayName>Demonic Pattern</DisplayName>
+			<DisplayName>Tà Sinh Cốt Văn</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_O01_WuHuiJingHua">
-			<DisplayName>Internal Deformity</DisplayName>
+			<DisplayName>Nội Thể Kích Biến</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_O01_WuXingZhiJing">
-			<DisplayName>Elusive Energy</DisplayName>
+			<DisplayName>Không Hóa Chi Lực</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_O01_ZhuLongYuanJing">
-			<DisplayName>Yin-Yang Rotation</DisplayName>
+			<DisplayName>U Minh Luân Chuyển</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYangJingHua">
-			<DisplayName>Solar Essence Series</DisplayName>
+			<DisplayName>Thái Dương Tinh Hoa Hệ Liệt</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYinJingHua">
-			<DisplayName>Lunar Essence Series</DisplayName>
+			<DisplayName>Thái Âm Tinh Hoa Hệ Liệt</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A03_JieMieJingHua">
-			<DisplayName>Heavenly Unison</DisplayName>
+			<DisplayName>Thiên Địa Chi Quang Trần</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A01_TaiXuJingHua">
-			<DisplayName>Void Force</DisplayName>
+			<DisplayName>Thái Hư Thần Nguyên</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A02_TaiXuJingHua">
-			<DisplayName>Acupoint Force</DisplayName>
+			<DisplayName>Bát Cực Chân Lực</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A03_TaiXuJingHua">
-			<DisplayName>Impermanence Force</DisplayName>
+			<DisplayName>Ngũ Hành Vạn Hóa</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A01_XuanTianZiQi">
-			<DisplayName>Astral Force</DisplayName>
+			<DisplayName>Chu Thiên Tinh Huy</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A02_XuanTianZiQi">
-			<DisplayName>Enclosure Force</DisplayName>
+			<DisplayName>Tam Viên Tôn Lực</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv4_A03_XuanTianZiQi">
-			<DisplayName>Insulation Force</DisplayName>
+			<DisplayName>Ngũ Đức Tịch Kiếp</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_F01_Dong">
-			<DisplayName>Resting Blood</DisplayName>
+			<DisplayName>Trầm Miên Chi Huyết</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_B01_Dong">
-			<DisplayName>Receding Bone</DisplayName>
+			<DisplayName>Phong Tuyệt Chi Cốt</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Dong">
-			<DisplayName>Reverted Function</DisplayName>
+			<DisplayName>Cơ Năng Quy Tàng</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv3_O01_TaiYangJingHua">
-			<DisplayName>Solar Breath</DisplayName>
+			<DisplayName>Thái Dương Chi Tức</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Brain">
-			<DisplayName>Tempered Brain</DisplayName>
+			<DisplayName>Bách Luyện Não</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Eye">
-			<DisplayName>Tempered Eyes</DisplayName>
+			<DisplayName>Bách Luyện Nhãn</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Ear">
-			<DisplayName>Tempered Ears</DisplayName>
+			<DisplayName>Bách Luyện Nhĩ</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Nose">
-			<DisplayName>Tempered Nose</DisplayName>
+			<DisplayName>Bách Luyện Tị</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Mouth">
-			<DisplayName>Tempered Mouth</DisplayName>
+			<DisplayName>Bách Luyện Chủy</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Throat">
-			<DisplayName>Tempered Neck</DisplayName>
+			<DisplayName>Bách Luyện Hầu</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Heart">
-			<DisplayName>Tempered Heart</DisplayName>
+			<DisplayName>Bách Luyện Tâm</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Liver">
-			<DisplayName>Tempered Liver</DisplayName>
+			<DisplayName>Bách Luyện Can</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Spleen">
-			<DisplayName>Tempered Spleen</DisplayName>
+			<DisplayName>Lá lách luyện bách</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Lung">
-			<DisplayName>Tempered Lungs</DisplayName>
+			<DisplayName>Bách Luyện Phế</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Kidney">
-			<DisplayName>Tempered Kidneys</DisplayName>
+			<DisplayName>Bách Luyện Thận</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Stomach">
-			<DisplayName>Tempered Stomach</DisplayName>
+			<DisplayName>Bách Luyện Vị</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Intestines">
-			<DisplayName>Tempered Intestines</DisplayName>
+			<DisplayName>Bách Luyện Tràng</DisplayName>
 		</Text>
 		<Text Name="Modifier_QuenchingLabel_Lv0_Genitals">
-			<DisplayName>Tempered Phallus</DisplayName>
+			<DisplayName>Bách Luyện Dương Căn</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

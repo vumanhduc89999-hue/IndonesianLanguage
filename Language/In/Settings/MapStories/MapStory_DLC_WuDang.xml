@@ -1,48 +1,49 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="System_FightMap_RedWall">
-			<DisplayName>Observe</DisplayName>
-			<Desc>[NAME] mencoba mempelajari bagaimana bangunan ini dibangun.</Desc>
-			<Selections.0.Display>Mengamati</Selections.0.Display>
+			<DisplayName>Quan sát</DisplayName>
+			<Desc>[NAME] cố gắng tìm hiểu phương pháp xây dựng công trình này.</Desc>
+			<Selections.0.Display>Quan sát</Selections.0.Display>
 		</Text>
 		<Text Name="System_FightMap_DragonIncense">
-			<DisplayName>Make a Wish</DisplayName>
-			<Desc>[NAME] mencoba membuat permintaan dengan Dragon Incense.</Desc>
-			<Selections.0.Display>Harapan untuk Pikiran Jernih</Selections.0.Display>
-			<Selections.1.Display>Keinginan untuk Tingkat yang Lebih Tinggi</Selections.1.Display>
-			<Selections.2.Display>Harapan untuk Keberuntungan</Selections.2.Display>
-			<Selections.3.Display>Harapan untuk Pencerahan</Selections.3.Display>
-			<Selections.4.Display>Doakan Mereka Semua</Selections.4.Display>
-			<Selections.5.Display>Menyerah</Selections.5.Display>
+			<DisplayName>Cầu nguyện</DisplayName>
+			<Desc>[NAME] thử cầu nguyện tại Long Đầu Hương.</Desc>
+			<Selections.0.Display>Cầu nguyện tâm tĩnh lặng</Selections.0.Display>
+			<Selections.1.Display>Cầu nguyện tiến lên một tầng</Selections.1.Display>
+			<Selections.2.Display>Cầu nguyện gặp dữ hóa lành</Selections.2.Display>
+			<Selections.3.Display>Cầu nguyện thấu hiểu đại đạo</Selections.3.Display>
+			<Selections.4.Display>Ta muốn tất cả</Selections.4.Display>
+			<Selections.5.Display>Từ bỏ</Selections.5.Display>
 		</Text>
 		<Text Name="Story_Building_TaiZiDian">
-			<DisplayName>Interact</DisplayName>
-			<Desc>[NAME] duduk di depan meja dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
-			<Selections.0.Display>Berinteraksi</Selections.0.Display>
-			<Selections.1.Display>Menyerah</Selections.1.Display>
+			<DisplayName>Tiếp xúc</DisplayName>
+			<Desc>[NAME] ngồi xuống bên bàn, thử sử dụng thần thức giao tiếp với nó.</Desc>
+			<Selections.0.Display>Tiếp xúc</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_ZiXiaoJianZhen">
-			<DisplayName>Interact</DisplayName>
-			<Desc>[NAME] duduk di samping perisai pedang dan mencoba menggunakan persepsi untuk berkomunikasi.</Desc>
-			<Selections.0.Display>Berinteraksi</Selections.0.Display>
-			<Selections.1.Display>Menyerah</Selections.1.Display>
+			<DisplayName>Tiếp xúc</DisplayName>
+			<Desc>[NAME] ngồi xuống bên trận kiếm, thử sử dụng thần thức giao tiếp với nó.</Desc>
+			<Selections.0.Display>Tiếp xúc</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
 		</Text>
 		<Text Name="Story_Building_ZiXiaoDanLu">
-			<DisplayName>Interact</DisplayName>
-			<Desc>[NAME] duduk di dekat Tungku Alkimia dan mencoba berkomunikasi dengannya menggunakan Persepsi.</Desc>
-			<Selections.0.Display>Berinteraksi</Selections.0.Display>
-			<Selections.1.Display>Menyerah</Selections.1.Display>
+			<DisplayName>Tiếp xúc</DisplayName>
+			<Desc>[NAME] ngồi xuống bên lò đan, thử sử dụng thần thức giao tiếp với nó.</Desc>
+			<Selections.0.Display>Tiếp xúc</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
 		</Text>
 		<Text Name="Ls_CallXuanWu">
-			<DisplayName>Touch</DisplayName>
-			<Desc>Giok spiritual memiliki dua jenis cahaya, memancarkan aura Kura-kura Hitam.</Desc>
-			<Selections.0.Display>Menyentuh</Selections.0.Display>
+			<DisplayName>Vuốt ve</DisplayName>
+			<Desc>Linh Ngọc này phát sáng hai loại ánh sáng, mang khí tức của Huyền Vũ.</Desc>
+			<Selections.0.Display>Vuốt ve</Selections.0.Display>
 		</Text>
 		<Text Name="Story_Building_ZiXiaoShiBei">
-			<DisplayName>Touch</DisplayName>
-			<Desc>[NAME] menyentuh kata-kata yang terukir pada prasasti.</Desc>
-			<Selections.0.Display>Menyentuh</Selections.0.Display>
-			<Selections.1.Display>Menyerah</Selections.1.Display>
+			<DisplayName>Chạm vào</DisplayName>
+			<Desc>[NAME] dùng tay chạm vào chữ trên bia.</Desc>
+			<Selections.0.Display>Chạm vào</Selections.0.Display>
+			<Selections.1.Display>Từ bỏ</Selections.1.Display>
 		</Text>
 	</List>
 </Texts>
+

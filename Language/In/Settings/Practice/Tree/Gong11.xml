@@ -1,121 +1,122 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong11_a5">
-			<DisplayName>Lunar Form</DisplayName>
+			<DisplayName>Thái Âm Đoán Thể</DisplayName>
 		</Text>
 		<Text Name="Gong11_a5_1">
-			<DisplayName>Lesser Lunar Form</DisplayName>
+			<DisplayName>Thiếu Âm Đoán Thể</DisplayName>
 		</Text>
 		<Text Name="Gong11_a5_2">
-			<DisplayName>Lunarfrost Form</DisplayName>
+			<DisplayName>Huyền Âm Đoán Thể</DisplayName>
 		</Text>
 		<Text Name="Gong11_b1">
-			<DisplayName>Spiritravel</DisplayName>
+			<DisplayName>Thần Hành Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong11_b1_1">
-			<DisplayName>Sudden Swiftness</DisplayName>
+			<DisplayName>Thuấn Hình Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong11_b3">
-			<DisplayName>Way of the Nine Provinces</DisplayName>
+			<DisplayName>Cửu Châu Đại Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong11_b5">
-			<DisplayName>Exorcise</DisplayName>
+			<DisplayName>Tị Tà Chân Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong11_b7">
-			<DisplayName>Spectral Swordplay</DisplayName>
+			<DisplayName>U Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong11_b9">
-			<DisplayName>Earthmother</DisplayName>
+			<DisplayName>Địa Mẫu Huyền Kinh</DisplayName>
 		</Text>
 		<Text Name="Gong11_b11">
-			<DisplayName>Soul Chant</DisplayName>
+			<DisplayName>Ngưng Phách Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong11_c0">
-			<DisplayName>Soul Snatcher</DisplayName>
+			<DisplayName>Nhiếp Thần Ngự Quỷ Đại Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong11_c0_1">
-			<DisplayName>Nether Spirit Forging</DisplayName>
+			<DisplayName>Cửu U Luyện Thần</DisplayName>
 		</Text>
 		<Text Name="Gong11_c1">
-			<DisplayName>Dust Devil</DisplayName>
+			<DisplayName>Trần Bạo Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong11_c2">
-			<DisplayName>Reverie Rebirth</DisplayName>
+			<DisplayName>Huyền Tẫn Trọng Sinh</DisplayName>
 		</Text>
 		<Text Name="Gong11_c3">
-			<DisplayName>The Eight Extremes</DisplayName>
+			<DisplayName>Bát Cực Luyện Hình</DisplayName>
 		</Text>
 		<Text Name="Gong11_c4">
-			<DisplayName>Descry</DisplayName>
+			<DisplayName>Linh Thị Thần Quan</DisplayName>
 		</Text>
 		<Text Name="Gong11_c5">
-			<DisplayName>Earthbound Teachings</DisplayName>
+			<DisplayName>Thái Hư Nguyên Cương</DisplayName>
 		</Text>
 		<Text Name="Gong11_c5_1">
-			<DisplayName>Void Aegis</DisplayName>
+			<DisplayName>Thái Hư Thần Thuẫn</DisplayName>
 		</Text>
 		<Text Name="Gong11_c6">
-			<DisplayName>Quickdraw</DisplayName>
+			<DisplayName>Thuấn Sát Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong11_c7">
-			<DisplayName>Lunar rock</DisplayName>
+			<DisplayName>Thái Âm Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong11_c7_1">
-			<DisplayName>Lesser Lunar rock</DisplayName>
+			<DisplayName>Thiếu Âm Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong11_c7_2">
-			<DisplayName>Lunarfrost Speck</DisplayName>
+			<DisplayName>Huyền Âm Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong11_c8">
-			<DisplayName>Abyssal Swell</DisplayName>
+			<DisplayName>Uyên Ngục Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong11_c8_1">
-			<DisplayName>Abyssal Rush</DisplayName>
+			<DisplayName>U Ngục Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong11_c9">
-			<DisplayName>Secret Methods of the Specter</DisplayName>
+			<DisplayName>Thông u bí truyền</DisplayName>
 		</Text>
 		<Text Name="Gong11_c10">
-			<DisplayName>Specter Refinement</DisplayName>
+			<DisplayName>Pháp Luyện U Tẩy</DisplayName>
 		</Text>
 		<Text Name="Gong11_c11">
-			<DisplayName>Spiritual Refinement</DisplayName>
+			<DisplayName>Pháp Luyện Linh Tẩy</DisplayName>
 		</Text>
 		<Text Name="Gong11_d1">
-			<DisplayName>Earthbound Qi</DisplayName>
+			<DisplayName>Khôn Nguyên Chân Khí</DisplayName>
 		</Text>
 		<Text Name="Gong11_d1_1">
-			<DisplayName>Earthbound Qi</DisplayName>
+			<DisplayName>Khôn Nguyên Chân Khí</DisplayName>
 		</Text>
 		<Text Name="Gong11_d1_2">
-			<DisplayName>Earthbound Qi</DisplayName>
+			<DisplayName>Khôn Nguyên Chân Khí</DisplayName>
 		</Text>
 		<Text Name="Gong11_d1_3">
-			<DisplayName>Earthbound Qi</DisplayName>
+			<DisplayName>Khôn Nguyên Chân Khí</DisplayName>
 		</Text>
 		<Text Name="Gong11_d3">
-			<DisplayName>Notes on Moral Integrity</DisplayName>
+			<DisplayName>Hậu Đức Thiên</DisplayName>
 		</Text>
 		<Text Name="Gong11_d5">
-			<DisplayName>Void Worship</DisplayName>
+			<DisplayName>Hư Không Nghệ Thần Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong11_d7">
-			<DisplayName>Annihila Thrust</DisplayName>
+			<DisplayName>Hoại Diệt Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong11_d7_1">
-			<DisplayName>Unus</DisplayName>
+			<DisplayName>Nhất Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong11_d7_2">
-			<DisplayName>Legacy Artifact: Unus</DisplayName>
+			<DisplayName>Bí Bảo: Nhất Kiếm</DisplayName>
 		</Text>
 		<Text Name="Gong11_d9">
-			<DisplayName>Charismatic</DisplayName>
+			<DisplayName>Tái tạo hình thần.</DisplayName>
 		</Text>
 		<Text Name="Gong11_e4">
-			<DisplayName>Eureka Pill</DisplayName>
+			<DisplayName>Thiên Đạo Thần Đan</DisplayName>
 		</Text>
 		<Text Name="Gong11_e8">
-			<DisplayName>Taoist Artifact</DisplayName>
+			<DisplayName>Thiên Đạo Thần Khí</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

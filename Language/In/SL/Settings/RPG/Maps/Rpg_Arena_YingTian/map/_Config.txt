@@ -705,4 +705,5 @@
 /Settings/RPG/Maps/Rpg_Arena_YingTian/map.txt	Things.Things.1447._hd.Ss.1	应天台	1447.1	_ReplaceThingName
 /Settings/RPG/Maps/Rpg_Arena_YingTian/map.txt	RPGInfo.Objects.1443.opts.0.custom.displayName	共鸣	1443.0	
 /Settings/RPG/Maps/Rpg_Arena_YingTian/map.txt	RPGInfo.MapInfo.Title	应天台	-1	
-/Settings/RPG/Maps/Rpg_Arena_YingTian/map.txt	RPGInfo.MapInfo.Desc	逐应天之巅	-1	
+/Settings/RPG/Maps/Rpg_Arena_YingTian/map.txt	RPGInfo.MapInfo.Desc	逐应天之巅	-1
+

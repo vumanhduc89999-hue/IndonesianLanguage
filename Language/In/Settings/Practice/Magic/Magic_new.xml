@@ -1,144 +1,145 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="BuildMine">
-			<DisplayName>Mountain Shaping</DisplayName>
-			<Desc>Konsumsi kekuatan psikis dalam jumlah besar untuk mengeluarkan mineral dari bawah tanah.</Desc>
-			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
+			<DisplayName>Tạo Sơn Thuật</DisplayName>
+			<Desc>Tiêu hao lượng lớn linh lực, kéo các khoáng sản sâu trong lòng đất lên bề mặt.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
 		</Text>
 		<Text Name="BuildRain">
-			<DisplayName>Timely Rain</DisplayName>
-			<Desc>Memanggil hujan di area tertentu, memadamkan api dan sedikit meningkatkan laju pertumbuhan tanaman.</Desc>
-			<TargetDesc>Pilih lokasi.</TargetDesc>
+			<DisplayName>Cam Lâm Thuật</DisplayName>
+			<Desc>Gọi một trận mưa nhỏ trong một khu vực, có thể dập tắt lửa và tăng nhẹ tốc độ sinh trưởng của cây cối.</Desc>
+			<TargetDesc>Vui lòng chọn một địa điểm</TargetDesc>
 		</Text>
 		<Text Name="Prophesy">
-			<DisplayName>Universal Foresight.</DisplayName>
-			<Desc>Konsumsilah umur untuk menghitung jalan surga, berusaha memperoleh kemampuan melihat ke depan di bulan berikutnya. Semakin tinggi Pencapaian, Kecerdasan, dan Keberuntungan Anda, semakin tinggi tingkat keberhasilannya.</Desc>
+			<DisplayName>Chu Thiên Thần Toán</DisplayName>
+			<Desc>Tiêu hao tuổi thọ để suy đoán thiên cơ, cố gắng đạt được khả năng biết trước trong một tháng tới. Đạo hạnh, ngộ tính, cơ duyên càng cao, tỷ lệ thành công càng lớn.</Desc>
 		</Text>
 		<Text Name="Prophesy_MapStory">
-			<DisplayName>Derivative Calculation</DisplayName>
-			<Desc>Konsumsilah umur untuk menghitung jalan surga, berusaha mendapatkan sebuah rahasia. Semakin tinggi pencapaian, kecerdasan, dan keberuntungan Anda, semakin tinggi tingkat keberhasilannya.</Desc>
+			<DisplayName>Đại Diễn Thần Toán</DisplayName>
+			<Desc>Tiêu hao tuổi thọ để suy đoán thiên cơ, cố gắng đạt được một bí ẩn. Đạo hạnh, ngộ tính, cơ duyên càng cao, tỷ lệ thành công càng lớn.</Desc>
 		</Text>
 		<Text Name="BuildSea">
-			<DisplayName>Lake Shaping</DisplayName>
-			<Desc>Lakukan keajaiban dan ubah suatu area menjadi satu dengan perairan dangkal.</Desc>
-			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
+			<DisplayName>Khai Hồ Thuật</DisplayName>
+			<Desc>Thi triển thần thông, biến một khu vực thành nước nông.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
 		</Text>
 		<Text Name="BuildLand">
-			<DisplayName>Land Shaping</DisplayName>
-			<Desc>Lakukan keajaiban dan ubah suatu area menjadi daratan.</Desc>
-			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
+			<DisplayName>Tạo Lục Thuật</DisplayName>
+			<Desc>Thi triển thần thông, biến một khu vực thành đất.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
 		</Text>
 		<Text Name="BuildLing">
-			<DisplayName>Spiritual Soil of Creator</DisplayName>
-			<Desc>Lakukan keajaiban yang menstimulasi Benih Keberuntungan secara maksimal dan mengubah suatu area menjadi Tanah Spiritual.</Desc>
-			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
+			<DisplayName>Linh thổ sáng tạo</DisplayName>
+			<Desc>Sử dụng bí pháp để kích hoạt một lần linh hiệu của hạt ngọc tạo hóa, biến một khu vực thành linh thổ.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
 		</Text>
 		<Text Name="BuildLingWater">
-			<DisplayName>Destiny Pool</DisplayName>
-			<Desc>Lakukan keajaiban yang menstimulasi Benih Keberuntungan secara maksimal dan mengubah suatu area menjadi Air Spiritual.</Desc>
-			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
+			<DisplayName>Linh trì tạo hóa</DisplayName>
+			<Desc>Sử dụng bí pháp để kích hoạt một lần linh hiệu của hạt ngọc tạo hóa, biến một khu vực thành linh thủy.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
 		</Text>
 		<Text Name="BuildFertileSoil">
-			<DisplayName>Fertile Soil</DisplayName>
-			<Desc>Lakukan keajaiban yang menstimulasi Pasir Keberuntungan secara maksimal dan mengubah suatu area menjadi Tanah Subur.</Desc>
-			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
+			<DisplayName>Đất màu sáng tạo</DisplayName>
+			<Desc>Sử dụng bí pháp để kích hoạt một hạt cát ngọc tạo hóa, biến một khu vực thành đất màu mỡ.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
 		</Text>
 		<Text Name="FengshuiItemOpen">
-			<DisplayName>Feng Shui Identifying</DisplayName>
-			<Desc>Konsumsi batu roh dan aktifkan Relik untuk mengidentifikasi sifatnya.</Desc>
-			<TargetDesc>Pilih Relik yang tidak dikenal.</TargetDesc>
+			<DisplayName>Phong Thủy Giám Định</DisplayName>
+			<Desc>Tiêu hao linh thạch để kích hoạt vật trấn phong thủy, xác định đặc tính của nó.</Desc>
+			<TargetDesc>Vui lòng chọn một vật trấn phong thủy chưa được xác định.</TargetDesc>
 		</Text>
 		<Text Name="FengshuiItemCreate">
-			<DisplayName>Focused Feng Shui</DisplayName>
-			<Desc>Mengkonsumsi esensi darah untuk membuat suatu barang menjadi Relik Feng Shui. Namun, karena belum teruji oleh waktu, Relik yang dihasilkan oleh keterampilan ini relatif lemah, dan tidak dapat menjadi Relik Roh. \N[color=#FF0000]Seiring dengan berkembangnya cara-cara Surga seiring berjalannya waktu, Keajaiban ini tampaknya telah kehilangan keefektifannya.[/color]</Desc>
-			<TargetDesc>Pilih item yang bukan Relik.</TargetDesc>
+			<DisplayName>Phong Thủy Ngưng Luyện</DisplayName>
+			<Desc>Tiêu hao tinh huyết bản nguyên để ban cho một vật phẩm thuộc tính vật trấn phong thủy. Tuy nhiên, do chưa được luyện qua thời gian, vật trấn phong thủy tạo ra bằng pháp này có hiệu quả yếu và không thể trở thành vật trấn phong thủy thông linh.\n[color=#FF0000]Theo sự biến đổi thiên cơ, thần thông này dường như đã mất tác dụng[/color].</Desc>
+			<TargetDesc>Vui lòng chọn một đạo cụ không phải vật trấn phong thủy</TargetDesc>
 		</Text>
 		<Text Name="LingXiZhou">
-			<DisplayName>Incantation of Consonance</DisplayName>
-			<Desc>Dengan berkomunikasi dengan kesadaran spiritual, cobalah membujuk lawan untuk bergabung dengan Anda. Semakin tinggi pencapaian Anda, semakin besar perbedaan antara keadaan dan Persepsi Anda dan lawan, semakin mudah untuk berhasil. Target dengan pengalaman Budidaya harus berada dalam keadaan tidak sadar. Hanya dapat digunakan sekali pada setiap target.</Desc>
-			<TargetDesc>Pilih musuh yang belum menggunakan Incantation of Consonance.</TargetDesc>
+			<DisplayName>Linh Tê Chú</DisplayName>
+			<Desc>Sử dụng thần niệm để cảm ứng thần niệm của đối phương, cố gắng thuyết phục họ gia nhập phe ta. Đạo hạnh bản thân càng cao, chênh lệch cảnh giới và cảm giác giữa hai bên càng lớn, tỷ lệ thành công càng cao. Nếu mục tiêu có tu vi, họ phải ở trạng thái bất tỉnh. Chỉ có thể sử dụng một lần trên cùng một mục tiêu.</Desc>
+			<TargetDesc>Vui lòng chọn một kẻ địch chưa bị sử dụng chú linh hạc.</TargetDesc>
 		</Text>
 		<Text Name="XinYinJue">
-			<DisplayName>Chant of Resonance</DisplayName>
-			<Desc>Terhubung dan beresonansi dengan pikiran masing-masing, cobalah membujuk lawan untuk bergabung di pihak Anda. Semakin tinggi pencapaian Anda, semakin besar perbedaan antara kondisi Anda dan lawan, semakin mudah untuk berhasil. Tingkat keberhasilan secara signifikan lebih tinggi jika kedua belah pihak memiliki Sifat Kedewasaan yang serupa atau saudara sedarah. Target dengan pengalaman Budidaya harus berada dalam keadaan tidak sadar. Ini adalah sihir yang sangat berisiko. Jika gagal, targetnya akan mati dan Anda akan terluka.</Desc>
-			<TargetDesc>Pilih musuh.</TargetDesc>
+			<DisplayName>Tâm Ấn Quyết</DisplayName>
+			<Desc>Sử dụng tâm tương thông để tạo cộng hưởng, cố gắng thuyết phục đối phương gia nhập phe ta. Đạo hạnh bản thân càng cao, chênh lệch cảnh giới giữa hai bên càng lớn, tỷ lệ thành công càng cao. Nếu hai bên có đặc tính sinh ra hoặc lịch sử tương tự hoặc quan hệ họ hàng, tỷ lệ thành công tăng đáng kể. Nếu mục tiêu có tu vi, họ phải ở trạng thái bất tỉnh. Pháp này rất nguy hiểm, nếu thất bại, mục tiêu sẽ chết, bản thân cũng bị thương.</Desc>
+			<TargetDesc>Vui lòng chọn một kẻ địch</TargetDesc>
 		</Text>
 		<Text Name="TianMoWu">
-			<DisplayName>Celestial Demon Dance</DisplayName>
-			<Desc>Lakukan Tarian Setan Surgawi dan ubah target ke sisi Anda. Seiring berjalannya waktu, kemungkinan target terbangun meningkat. Semakin besar perbedaan antara Keadaan dan Karisma Anda dan lawan, semakin rendah kemungkinan untuk terbangun. Target dengan pengalaman Budidaya harus berada dalam keadaan tidak sadar. Pikiran target rusak setiap kali sihir ini dilakukan.</Desc>
-			<TargetDesc>Pilih musuh.</TargetDesc>
+			<DisplayName>Thiên Ma Vũ</DisplayName>
+			<Desc>Thi triển thiên ma vũ, chuyển hóa mục tiêu sang phe ta. Theo thời gian trôi qua, khả năng mục tiêu tỉnh táo dần tăng. Chênh lệch cảnh giới và mị lực giữa hai bên càng lớn, khả năng tỉnh táo càng thấp. Nếu mục tiêu có tu vi, họ phải ở trạng thái bất tỉnh. Pháp này mỗi lần thi triển sẽ làm tổn hại thần trí của mục tiêu.</Desc>
+			<TargetDesc>Vui lòng chọn một kẻ địch</TargetDesc>
 		</Text>
 		<Text Name="WuYinKeShen">
-			<DisplayName>Five Spiritual Imprints</DisplayName>
-			<Desc>Cuci otak target dengan sihir yang kuat, ubah ke sisi Anda untuk jangka waktu tertentu. Semakin besar perbedaan antara Negara dan Intelijen Anda dan lawan, semakin lama hal itu akan bertahan. Target dengan pengalaman Budidaya harus berada dalam keadaan tidak sadar. Durasi sihir menjadi lebih lama setiap kali dilakukan, namun akan menyebabkan kerusakan yang tidak dapat diperbaiki pada Persepsi target.</Desc>
-			<TargetDesc>Pilih musuh.</TargetDesc>
+			<DisplayName>Ngũ Ấn Khắc Thần</DisplayName>
+			<Desc>Sử dụng pháp thuật bá đạo để cưỡng ép tẩy não, chuyển hóa mục tiêu sang phe ta trong một thời gian. Chênh lệch cảnh giới và ngộ tính giữa hai bên càng lớn, thời gian duy trì càng dài. Nếu mục tiêu có tu vi, họ phải ở trạng thái bất tỉnh. Pháp này mỗi lần thi triển sẽ kéo dài thời gian duy trì rất nhiều, nhưng sẽ gây tổn hại không thể phục hồi cho thần thức của mục tiêu.</Desc>
+			<TargetDesc>Vui lòng chọn một kẻ địch</TargetDesc>
 		</Text>
 		<Text Name="FenShenZhiShu">
-			<DisplayName>Spirit Splitting</DisplayName>
-			<Desc>Memanipulasi Roh Primordial Anda dan memaksanya untuk berpisah untuk mendapatkan sub-roh tambahan. Anda akan kehilangan Max Qi dalam proses ini dan menua dengan cepat. Semakin sering Anda melakukan pemisahan, semakin tinggi harga yang Anda bayar.</Desc>
+			<DisplayName>Phân Thần Chi Thuật</DisplayName>
+			<Desc>Vận hành nguyên thần bản mệnh, cưỡng ép phân tách để tạo thêm một phân thần. Trong quá trình này, giới hạn linh khí tối đa sẽ giảm và cơ thể nhanh chóng lão hóa. Số lần sử dụng phân thần thuật càng nhiều, cái giá phải trả càng lớn.</Desc>
 		</Text>
 		<Text Name="LinghunKaowen">
-			<DisplayName>Soul Interrogation</DisplayName>
-			<Desc>Lakukan Interogasi Jiwa pada karakter yang sekarat untuk mencoba mempelajari rahasia mereka.</Desc>
-			<TargetDesc>Pilih karakter yang perlu diinterogasi.</TargetDesc>
+			<DisplayName>Hỏi cung linh hồn</DisplayName>
+			<Desc>Có thể thực hiện tra khảo linh hồn đối với nhân vật đang hấp hối, cố gắng lấy được bí mật của đối phương.</Desc>
+			<TargetDesc>Vui lòng chọn nhân vật cần tra khảo.</TargetDesc>
 		</Text>
 		<Text Name="LiuRenShensuan">
-			<DisplayName>Astrological Foresight</DisplayName>
-			<Desc>Pilih karakter untuk mencoba mengetahui keberadaannya. Semakin tinggi Pencapaian Anda dan semakin banyak informasi yang Anda miliki, semakin tinggi pula tingkat keberhasilan keberadaan target pembelajaran.</Desc>
+			<DisplayName>Lục Nhâm Thần Toán</DisplayName>
+			<Desc>Chọn một nhân vật, cố gắng lấy được hành tung của họ. Đạo hạnh càng cao, thông tin thu được càng nhiều, tỷ lệ thành công càng cao.</Desc>
 		</Text>
 		<Text Name="Linghunwenzhong">
-			<DisplayName>Divinity Tracing</DisplayName>
-			<Desc>Pilih karakter untuk mencoba mengetahui keberadaannya. Semakin banyak Divine Resident dan informasi yang Anda miliki, semakin tinggi tingkat keberhasilan mempelajari keberadaan target.</Desc>
+			<DisplayName>Pháp truy tung thần linh.</DisplayName>
+			<Desc>Chọn một nhân vật, cố gắng lấy được hành tung của họ. Số lượng thần dân càng nhiều, thông tin thu được càng nhiều, tỷ lệ thành công càng cao.</Desc>
 		</Text>
 		<Text Name="YouTongLing_Item">
-			<DisplayName>Darksoul Genesis</DisplayName>
-			<Desc>Harganya 7 Permata Jiwa Penderitaan, 3 Permata Jiwa, dan 1 Permata Jiwa Primordial, cobalah berkomunikasi dan menerangi item target melalui kekuatan psikis. Hasil iluminasi memerlukan waktu untuk muncul. Item tersebut tidak dapat disinari dengan kekuatan psikis lagi saat berada dalam sesi iluminasi. Semakin tinggi pencapaian perapal mantra, dan semakin sering item tersebut diterangi, semakin mudah item tersebut berhasil diterangi.</Desc>
-			<TargetDesc>Pilih sebuah item.</TargetDesc>
+			<DisplayName>Huyền Hồn Tạo Mệnh</DisplayName>
+			<Desc>Tiêu hao 7 viên u bạch, 3 viên linh phách và 1 viên nguyên linh chi bạch, cố gắng thông linh vật phẩm mục tiêu. Kết quả thông linh cần một thời gian mới xuất hiện. Vật phẩm đang trong quá trình thông linh không thể bị thông linh lần nữa. Đạo hạnh của người thi triển càng cao, số lần vật phẩm được thông linh càng nhiều, xác suất thành công càng cao.</Desc>
+			<TargetDesc>Vui lòng chọn một vật phẩm.</TargetDesc>
 		</Text>
 		<Text Name="LingTongLing_Building">
-			<DisplayName>Lifeforce Genesis</DisplayName>
-			<Desc>Biaya 10 tahun Umur dan 1 Permata Jiwa Primordial, cobalah berkomunikasi dan menerangi bangunan target melalui kekuatan psikis. Hasil iluminasi memerlukan waktu untuk muncul. Bangunan tidak dapat diterangi lagi dengan kekuatan batin saat berada dalam sesi penerangan. Semakin tinggi pencapaian perapal mantra, dan semakin sering bangunan tersebut diterangi, semakin mudah bangunan tersebut berhasil diterangi.</Desc>
-			<TargetDesc>Pilih sebuah bangunan.</TargetDesc>
+			<DisplayName>Mệnh Hỏa Trúc Linh</DisplayName>
+			<Desc>Tiêu hao 10 năm mệnh nguyên và 1 viên nguyên linh chi bạch, cố gắng thông linh một tòa kiến trúc mục tiêu. Kết quả thông linh cần một thời gian mới xuất hiện. Kiến trúc đang trong quá trình thông linh không thể bị thông linh lần nữa. Đạo hạnh của người thi triển càng cao, số lần kiến trúc được thông linh càng nhiều, xác suất thành công càng cao.</Desc>
+			<TargetDesc>Vui lòng chọn một kiến trúc.</TargetDesc>
 		</Text>
 		<Text Name="ZaoHuaSuTi">
-			<DisplayName>Body of Genesis</DisplayName>
-			<Desc>Biaya 1 Fortune Seed, meremajakan target kembali ke status saat berusia 14 tahun, dan memulihkan seluruh bagian tubuh yang hilang. Jika digunakan pada roh yang hidup, itu akan menciptakan tubuh baru untuknya.</Desc>
-			<TargetDesc>Pilih target.</TargetDesc>
+			<DisplayName>Tạo Hóa Tố Thể</DisplayName>
+			<Desc>Tiêu hao một viên ngọc tạo hóa, tái tạo tuổi của mục tiêu về trạng thái 14 tuổi và phục hồi toàn bộ bộ phận cơ thể bị mất. Nếu sử dụng trên tinh quái, sẽ tạo ra một cơ thể hoàn toàn mới cho nó.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
 		</Text>
 		<Text Name="DianHua">
-			<DisplayName>Qi of Genesis</DisplayName>
-			<Desc>Merapal mantra untuk mensimulasikan berbagai perubahan alam dan membuat hewan merasakan kehebatan ciptaan untuk membangkitkan kecerdasannya. Mantra ini berbahaya bagi Pengakuan Iman Surga dan menghabiskan umur.</Desc>
-			<TargetDesc>Pilih target.</TargetDesc>
+			<DisplayName>Hơi thở của tạo hóa</DisplayName>
+			<Desc>Thi triển pháp thuật mô phỏng những biến hóa của thiên đạo, khiến động vật cảm nhận được sự huyền diệu của tạo hóa, thúc đẩy linh trí của chúng thức tỉnh. Hành động này làm tổn hại thiên đạo, tiêu hao tuổi thọ.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
 		</Text>
 		<Text Name="Magic_Angry">
-			<DisplayName>Understanding: Resentment</DisplayName>
-			<Desc>Menggunakan Wood Qi untuk membuat hewan merasa kesal untuk membangkitkan kecerdasannya. Mantra ini berbahaya bagi Pengakuan Iman Surga dan menghabiskan umur.</Desc>
-			<TargetDesc>Pilih target.</TargetDesc>
+			<DisplayName>Thông tâm: Phẫn hận</DisplayName>
+			<Desc>Sử dụng linh khí thuộc tính mộc, làm động vật sinh ra cảm xúc phẫn hận, thúc đẩy linh trí của chúng thức tỉnh. Hành động này làm tổn hại thiên đạo, tiêu hao tuổi thọ.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
 		</Text>
 		<Text Name="Magic_Happy">
-			<DisplayName>Understanding: Joy</DisplayName>
-			<Desc>Menggunakan Fire Qi untuk membuat hewan merasakan kegembiraan untuk membangkitkan kecerdasannya. Mantra ini berbahaya bagi Pengakuan Iman Surga dan menghabiskan umur.</Desc>
-			<TargetDesc>Pilih target.</TargetDesc>
+			<DisplayName>Thông tâm: Vui vẻ.</DisplayName>
+			<Desc>Sử dụng linh khí thuộc tính hỏa, làm động vật sinh ra cảm xúc vui vẻ, thúc đẩy linh trí của chúng thức tỉnh. Hành động này làm tổn hại thiên đạo, tiêu hao tuổi thọ.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
 		</Text>
 		<Text Name="Magic_Miss">
-			<DisplayName>Understanding: Thoughts</DisplayName>
-			<Desc>Menggunakan Qi Bumi untuk membuat hewan tersebut memiliki pemikiran untuk membangkitkan kecerdasannya. Mantra ini berbahaya bagi Pengakuan Iman Surga dan menghabiskan umur.</Desc>
-			<TargetDesc>Pilih target.</TargetDesc>
+			<DisplayName>Thông tâm: Tưởng nhớ.</DisplayName>
+			<Desc>Sử dụng linh khí thuộc tính Thổ, làm cho động vật sinh ra cảm xúc tưởng niệm, thúc đẩy sự thức tỉnh linh trí. Hành động này gây tổn thương đến thiên đạo, tiêu hao thọ nguyên.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
 		</Text>
 		<Text Name="Magic_Afraid">
-			<DisplayName>Understanding: Fear</DisplayName>
-			<Desc>Menggunakan Qi Air untuk membuat hewan takut untuk membangkitkan kecerdasannya. Mantra ini berbahaya bagi Pengakuan Iman Surga dan menghabiskan umur.</Desc>
-			<TargetDesc>Pilih target.</TargetDesc>
+			<DisplayName>Thông tâm: Sợ hãi</DisplayName>
+			<Desc>Sử dụng linh khí thuộc tính Thủy, làm cho động vật sinh ra cảm xúc sợ hãi, thúc đẩy sự thức tỉnh linh trí. Hành động này gây tổn thương đến thiên đạo, tiêu hao thọ nguyên.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
 		</Text>
 		<Text Name="Magic_Worry">
-			<DisplayName>Understanding: Anxiety</DisplayName>
-			<Desc>Menggunakan Metal Qi untuk membuat hewan tersebut memiliki kegelisahan untuk membangkitkan kecerdasannya. Mantra ini berbahaya bagi Pengakuan Iman Surga dan menghabiskan umur.</Desc>
-			<TargetDesc>Pilih target.</TargetDesc>
+			<DisplayName>Thông tâm: Lo lắng</DisplayName>
+			<Desc>Sử dụng linh khí thuộc tính Kim, làm cho động vật sinh ra cảm xúc lo lắng, thúc đẩy sự thức tỉnh linh trí. Hành động này gây tổn thương đến thiên đạo, tiêu hao thọ nguyên.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
 		</Text>
 		<Text Name="Magic_YuanLing">
-			<DisplayName>Heaven-mending Chant</DisplayName>
-			<Desc>Harga 1 Permata Jiwa Primordial. Gunakan pada inkubasi artefak untuk segera memenuhi kondisi aktivasi.</Desc>
-			<TargetDesc>Pilih inkubasi artefak.</TargetDesc>
+			<DisplayName>Nguyên Linh Bổ Thiên Quyết</DisplayName>
+			<Desc>Sử dụng trên phôi bảo vật bí mật, tiêu hao 1 viên Nguyên Linh Chi Phách, làm thỏa mãn điều kiện kích hoạt ngay lập tức.</Desc>
+			<TargetDesc>Vui lòng chọn một phôi pháp bảo</TargetDesc>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,33 +1,34 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_Flour" sParam="Item">
-			<ThingName>Flour</ThingName>
-			<Desc>Sekantong tepung. Bahan masakan.</Desc>
-			<Item.FabaoSuffix>Particle, Powder, Bag</Item.FabaoSuffix>
+			<ThingName>Bột mì</ThingName>
+			<Desc>Một túi bột mì, nguyên liệu nấu ăn.</Desc>
+			<Item.FabaoSuffix>Bột, Tán, Túi</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Pear" sParam="Item">
-			<ThingName>Pear</ThingName>
-			<Desc>Sekotak buah pir.</Desc>
-			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball, Dome</Item.FabaoSuffix>
-			<From>Plant</From>
+			<ThingName>Lê</ThingName>
+			<Desc>Một giỏ lê.</Desc>
+			<Item.FabaoSuffix>Quả, châu, viên, cầu, bao</Item.FabaoSuffix>
+			<From>Thực vật</From>
 		</Text>
 		<Text Name="Item_Wheat" sParam="Item">
-			<ThingName>Wheat</ThingName>
-			<Desc>Setumpuk gandum.</Desc>
-			<Item.FabaoSuffix>Cord, Thread</Item.FabaoSuffix>
-			<From>Field or Adventure</From>
+			<ThingName>Lúa mì</ThingName>
+			<Desc>Một bó lúa mì.</Desc>
+			<Item.FabaoSuffix>Dây, Tơ</Item.FabaoSuffix>
+			<From>Ruộng hoặc Lịch luyện</From>
 		</Text>
 		<Text Name="Item_Mushroom" sParam="Item">
-			<ThingName>Mushroom</ThingName>
-			<Desc>Sekeranjang jamur.</Desc>
-			<Item.FabaoSuffix>Basket, Mushroom</Item.FabaoSuffix>
-			<From>Field</From>
+			<ThingName>Nấm hương</ThingName>
+			<Desc>Một rổ nấm hương.</Desc>
+			<Item.FabaoSuffix>Rổ, Nấm</Item.FabaoSuffix>
+			<From>Ruộng</From>
 		</Text>
 		<Text Name="Item_Lotusroot" sParam="Item">
-			<ThingName>Lotus Root</ThingName>
-			<Desc>Bagian dari akar teratai.</Desc>
-			<Item.FabaoSuffix>Lotus Root</Item.FabaoSuffix>
-			<From>Field</From>
+			<ThingName>Ngó sen</ThingName>
+			<Desc>Một đoạn ngó sen.</Desc>
+			<Item.FabaoSuffix>Sen</Item.FabaoSuffix>
+			<From>Ruộng</From>
 		</Text>
 	</List>
 </Texts>
+

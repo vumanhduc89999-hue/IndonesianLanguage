@@ -1,18 +1,19 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LostPart">
-			<DisplayName>Lost Item</DisplayName>
+			<DisplayName>Vật Bị Lạc</DisplayName>
 		</Text>
 		<Text Name="SYS_DamageMethod">
-			<DisplayName>Injury Remold Spell</DisplayName>
+			<DisplayName>Phương Pháp Luyện Thể Khi Bị Thương</DisplayName>
 		</Text>
 		<Text Name="SYS_RebuildMethod">
-			<DisplayName>Reconstruction Spell</DisplayName>
-			<Desc>Merekonstruksi bagian yang hilang.</Desc>
+			<DisplayName>Phương Pháp Tái Tạo</DisplayName>
+			<Desc>Tái tạo bộ phận đã mất</Desc>
 		</Text>
 		<Text Name="SYS_yishan">
-			<DisplayName>Spark of Inspiration</DisplayName>
-			<Desc>Percikan Inspirasi</Desc>
+			<DisplayName>Linh quang lóe sáng</DisplayName>
+			<Desc>Linh quang lóe sáng</Desc>
 		</Text>
 	</List>
 </Texts>
+

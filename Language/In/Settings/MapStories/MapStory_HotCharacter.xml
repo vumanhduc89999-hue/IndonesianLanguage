@@ -1,115 +1,116 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="HotStory_Fun_LingWu">
-			<DisplayName>Comprehension</DisplayName>
-			<Desc>[NAME] mendapat inspirasi!</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
-			<Selections.1.Display>Memperoleh Pemahaman</Selections.1.Display>
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
+			<Selections.1.Display>Có điều lĩnh hội</Selections.1.Display>
 		</Text>
 		<Text Name="HotStory_Fun_LingWu_DuShu">
-			<DisplayName>Search</DisplayName>
-			<Desc>Saat membaca buku-buku tebal kuno, [NAME] menemukan sesuatu yang tidak biasa.</Desc>
-			<Selections.0.Display>Membuat terobosan baru</Selections.0.Display>
+			<DisplayName>Phát hiện</DisplayName>
+			<Desc>[NAME] khi lật xem cổ thư, đột nhiên phát hiện một chút bất thường.</Desc>
+			<Selections.0.Display>Có điều phát hiện</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingWu">
-			<DisplayName>Comprehension</DisplayName>
-			<Desc>[NAME] mendapat inspirasi!</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingGan">
-			<DisplayName>Comprehension</DisplayName>
-			<Desc>[NAME] mendapat inspirasi!</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Work_LingWu">
-			<DisplayName>Comprehension</DisplayName>
-			<Desc>[NAME] mendapat inspirasi!</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Work_LingWu_Feed">
-			<DisplayName>Comprehension</DisplayName>
-			<Desc>[NAME] mendapat inspirasi!</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingWu_CookingFailed">
-			<DisplayName>Comprehension</DisplayName>
-			<Desc>[NAME] mendapat inspirasi!</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Make_LingWu_CookingSucceed">
-			<DisplayName>Comprehension</DisplayName>
-			<Desc>[NAME] mendapat inspirasi!</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_LingWu">
-			<DisplayName>Comprehension</DisplayName>
-			<Desc>[NAME] mendapat inspirasi!</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Lĩnh hội</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Brokening">
-			<DisplayName>Breakthrough Epiphany</DisplayName>
-			<Desc>[NAME] mulai memahami Pengakuan Iman yang lebih besar berkat terobosan ini.</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Đột phá cảm ngộ</DisplayName>
+			<Desc>[NAME] trong lúc đột phá đã cảm ngộ được một loại đại đạo nào đó giữa trời đất.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_BrokenSucceed">
-			<DisplayName>Epiphany</DisplayName>
-			<Desc>[NAME] mulai memahami Pengakuan Iman yang lebih besar berkat terobosan ini.</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Cảm ngộ</DisplayName>
+			<Desc>[NAME] khi đột phá thành công đã cảm ngộ được một loại đại đạo nào đó giữa trời đất.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_BrokenFailed">
-			<DisplayName>Epiphany</DisplayName>
-			<Desc>[NAME] mulai memahami Pengakuan Iman yang lebih besar meskipun gagal melakukan terobosan.</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Cảm ngộ</DisplayName>
+			<Desc>[NAME] sau khi đột phá thất bại đã cảm ngộ được một loại đại đạo nào đó giữa trời đất.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Golding">
-			<DisplayName>Core Shaping Epiphany</DisplayName>
-			<Desc>[NAME] memasuki Keadaan Terbebaskan saat pembentukan inti.</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Kết đan cảm ngộ</DisplayName>
+			<Desc>[NAME] khi kết đan đã bước vào cảnh giới thiên nhân hợp nhất.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_GoldSucceed">
-			<DisplayName>Epiphany</DisplayName>
-			<Desc>[NAME] memahami beberapa pemahaman setelah menyelesaikan pembentukan inti.</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Cảm ngộ</DisplayName>
+			<Desc>[NAME] khi kết đan thành công đã bắt được một tia linh quang.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_ThunderSucceed">
-			<DisplayName>Tribulation Epiphany</DisplayName>
-			<Desc>[NAME] selamat dari kesengsaraan dan memperoleh wawasan tentang misteri alam.</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Độ kiếp cảm ngộ</DisplayName>
+			<Desc>[NAME] khi độ kiếp thành công đã lén nắm bắt được một tia thiên cơ.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningDan">
-			<DisplayName>Alchemy Epiphany</DisplayName>
-			<Desc>[NAME] mendapat pencerahan saat menggunakan alkimia.</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Luyện đan cảm ngộ</DisplayName>
+			<Desc>[NAME] trong lúc luyện đan bỗng nhiên linh cảm dồi dào, có điều cảm ngộ.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningDanFailed">
-			<DisplayName>Alchemy Epiphany</DisplayName>
-			<Desc>[NAME] memperoleh pemahaman meskipun gagal menggunakan Alkimia.</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Luyện đan cảm ngộ</DisplayName>
+			<Desc>[NAME] sau khi luyện đan thất bại lại có chút ngộ ra điều gì đó.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_Refining">
-			<DisplayName>Artifact Crafting Epiphany</DisplayName>
-			<Desc>[NAME] mendapat pencerahan saat menggunakan Artifact Crafting.</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Luyện khí cảm ngộ</DisplayName>
+			<Desc>[NAME] trong lúc luyện khí bỗng nhiên linh cảm dồi dào, có điều cảm ngộ.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningGod">
-			<DisplayName>Artifact Crafting Epiphany</DisplayName>
-			<Desc>[NAME] mendapat inspirasi!</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Luyện khí cảm ngộ</DisplayName>
+			<Desc>[NAME] linh quang lóe sáng!</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Practice_RefiningFailed">
-			<DisplayName>Artifact Crafting Epiphany</DisplayName>
-			<Desc>[NAME] memperoleh pemahaman meskipun gagal menggunakan Artifact Crafting.</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Luyện khí cảm ngộ</DisplayName>
+			<Desc>[NAME] sau khi luyện khí thất bại lại có chút ngộ ra điều gì đó.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_Fei_LingWu">
-			<DisplayName>Sudden Inspiration</DisplayName>
-			<Desc>[NAME] tiba-tiba mendapat pencerahan saat bermain dengan Fei.</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Linh cảm bất ngờ</DisplayName>
+			<Desc>[NAME] trong lúc chơi đùa với Phi, đột nhiên có điều cảm ngộ, thậm chí lĩnh hội được điều gì đó từ Phi.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 		<Text Name="HotStory_LuShu_LingWu">
-			<DisplayName>Sudden Inspiration</DisplayName>
-			<Desc>[NAME] tiba-tiba mendapat pencerahan saat bermain dengan Lushu.</Desc>
-			<Selections.0.Display>Memperoleh Pemahaman</Selections.0.Display>
+			<DisplayName>Linh cảm bất ngờ</DisplayName>
+			<Desc>[NAME] trong lúc chơi đùa với Lộc Thục, đột nhiên có điều cảm ngộ, thậm chí lĩnh hội được điều gì đó từ Lộc Thục.</Desc>
+			<Selections.0.Display>Có điều lĩnh hội</Selections.0.Display>
 		</Text>
 	</List>
 </Texts>
+

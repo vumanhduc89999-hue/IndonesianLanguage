@@ -1,155 +1,156 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LingUpWave_Sp">
-			<DisplayName>Qi Frenzy</DisplayName>
-			<StoryDesc>Kekuatan Qi meningkat dan melimpah di seluruh negeri.</StoryDesc>
+			<DisplayName>Linh khí cuồng triều</DisplayName>
+			<StoryDesc>Trong bùng nổ linh khí</StoryDesc>
 		</Text>
 		<Text Name="FireRain">
-			<DisplayName>Moderate Rain</DisplayName>
+			<DisplayName>Mưa vừa</DisplayName>
 		</Text>
 		<Text Name="Rainstorm_Teach">
-			<DisplayName>Rainstorm</DisplayName>
-			<StoryDesc>Hujan badai mendatangkan malapetaka.</StoryDesc>
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Trong cơn mưa lớn như thác đổ</StoryDesc>
 		</Text>
 		<Text Name="Rainstorm_Teach2">
-			<DisplayName>Rainstorm</DisplayName>
-			<StoryDesc>Hujan badai mendatangkan malapetaka.</StoryDesc>
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Trong cơn mưa lớn như thác đổ</StoryDesc>
 		</Text>
 		<Text Name="LightningStorm_Hack">
-			<DisplayName>Thunderstorm</DisplayName>
-			<StoryDesc>Karena campur tangan suatu kekuatan yang tidak diketahui, badai petir muncul entah dari mana.</StoryDesc>
+			<DisplayName>Bão sấm sét</DisplayName>
+			<StoryDesc>Đảo ngược nhân quả, có thiên hòa.</StoryDesc>
 		</Text>
 		<Text Name="Rainstorm_AllSeason">
-			<DisplayName>Rainstorm</DisplayName>
-			<StoryDesc>Hujan badai mendatangkan malapetaka.</StoryDesc>
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Trong cơn mưa lớn như thác đổ</StoryDesc>
 		</Text>
 		<Text Name="Fohn_AllSeason">
-			<DisplayName>Foehn Wind</DisplayName>
-			<StoryDesc>Angin hangat dan kering bertiup.</StoryDesc>
+			<DisplayName>Gió nóng cháy</DisplayName>
+			<StoryDesc>Trong gió nóng cháy bỏng</StoryDesc>
 		</Text>
 		<Text Name="DustStorm_AllSeason">
-			<DisplayName>Dust Storm</DisplayName>
-			<StoryDesc>Langit meredup saat debu dan pasir memenuhi udara.</StoryDesc>
+			<DisplayName>Bão cát</DisplayName>
+			<StoryDesc>Trong cơn cát vàng bay đầy trời</StoryDesc>
 		</Text>
 		<Text Name="Miasma_AllSeason">
-			<DisplayName>Noxious Air</DisplayName>
-			<StoryDesc>Suasana berbahaya menyebar.</StoryDesc>
+			<DisplayName>Khí độc</DisplayName>
+			<StoryDesc>Trong khí độc tràn ngập</StoryDesc>
 		</Text>
 		<Text Name="LightningStorm_AllSeason">
-			<DisplayName>Thunderstorm</DisplayName>
-			<StoryDesc>Guntur menggelegar melintasi daratan saat kilat menari di antara awan.</StoryDesc>
+			<DisplayName>Bão sấm sét</DisplayName>
+			<StoryDesc>Trong cơn bão sấm sét, trong tia chớp điên cuồng</StoryDesc>
 		</Text>
 		<Text Name="JinLingMiMan">
-			<DisplayName>Metal Qi Swell</DisplayName>
-			<StoryDesc>Elemen Logam Qi meresap ke udara.</StoryDesc>
+			<DisplayName>Kim linh tràn ngập</DisplayName>
+			<StoryDesc>Trong linh khí thuộc tính kim tràn ngập</StoryDesc>
 		</Text>
 		<Text Name="MuLingMiMan">
-			<DisplayName>Wood Qi Swell</DisplayName>
-			<StoryDesc>Elemen Kayu Qi meresap ke udara.</StoryDesc>
+			<DisplayName>Mộc linh tràn ngập</DisplayName>
+			<StoryDesc>Trong linh khí thuộc tính mộc tràn ngập</StoryDesc>
 		</Text>
 		<Text Name="ShuiLingMiMan">
-			<DisplayName>Water Qi Swell</DisplayName>
-			<StoryDesc>Elemen Air Qi meresap ke udara.</StoryDesc>
+			<DisplayName>Thủy linh tràn ngập</DisplayName>
+			<StoryDesc>Trong linh khí thuộc tính thủy tràn ngập</StoryDesc>
 		</Text>
 		<Text Name="HuoLingMiMan">
-			<DisplayName>Fire Qi Swell</DisplayName>
-			<StoryDesc>Elemen Api Qi meresap ke udara.</StoryDesc>
+			<DisplayName>Hỏa linh tràn ngập</DisplayName>
+			<StoryDesc>Trong linh khí thuộc tính hỏa tràn ngập</StoryDesc>
 		</Text>
 		<Text Name="TuLingMiMan">
-			<DisplayName>Earth Qi Swell</DisplayName>
-			<StoryDesc>Elemen Tanah Qi meresap ke udara.</StoryDesc>
+			<DisplayName>Thổ linh tràn ngập</DisplayName>
+			<StoryDesc>Trong linh khí thuộc tính thổ tràn ngập</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave_Big">
-			<DisplayName>Qi Tide</DisplayName>
-			<StoryDesc>Qi membanjiri udara di sekelilingnya.</StoryDesc>
+			<DisplayName>Linh khí dâng trào</DisplayName>
+			<StoryDesc>Trong linh khí dâng trào</StoryDesc>
 		</Text>
 		<Text Name="LingRarefiedWave_Big">
-			<DisplayName>Qi Deficiency</DisplayName>
-			<StoryDesc>Kurangnya Qi.</StoryDesc>
+			<DisplayName>Linh khí cạn kiệt</DisplayName>
+			<StoryDesc>Trong linh khí cạn kiệt</StoryDesc>
 		</Text>
 		<Text Name="Weather_Boss_Drought">
-			<DisplayName>Extreme Heat</DisplayName>
-			<StoryDesc>Suhu yang sangat tinggi.</StoryDesc>
+			<DisplayName>Nhiệt độ cao bất thường</DisplayName>
+			<StoryDesc>Trong nhiệt độ cao bất thường</StoryDesc>
 		</Text>
 		<Text Name="Weather_Boss_HighTemp">
-			<DisplayName>Prolonged Drought</DisplayName>
-			<StoryDesc>Kekeringan ini sepertinya semakin parah.</StoryDesc>
+			<DisplayName>Hạn hán gia tăng</DisplayName>
+			<StoryDesc>Trong hạn hán ngày càng nghiêm trọng</StoryDesc>
 		</Text>
 		<Text Name="DimCave">
-			<DisplayName>Cave</DisplayName>
-			<StoryDesc>Itu adalah gua yang gelap.</StoryDesc>
+			<DisplayName>Hang động</DisplayName>
+			<StoryDesc>Hang động u ám</StoryDesc>
 		</Text>
 		<Text Name="ForestRain">
-			<DisplayName>Raining</DisplayName>
-			<StoryDesc>Hujan turun di hutan hujan.</StoryDesc>
+			<DisplayName>Mưa rơi</DisplayName>
+			<StoryDesc>Rừng mưa đang có mưa</StoryDesc>
 		</Text>
 		<Text Name="LightSnow_Fov">
-			<DisplayName>Light Snow</DisplayName>
-			<StoryDesc>Salju tipis menggantung di udara dan menghiasi daratan dengan kilau berkilauan.</StoryDesc>
+			<DisplayName>Tuyết nhỏ</DisplayName>
+			<StoryDesc>Tuyết nhỏ bay bay, sợi bạc đầy trời, tuyết nhỏ rơi lả tả</StoryDesc>
 		</Text>
 		<Text Name="SunSet">
-			<DisplayName>Sunset Glows</DisplayName>
-			<StoryDesc>Matahari Terbenam Bersinar</StoryDesc>
+			<DisplayName>Hoàng hôn</DisplayName>
+			<StoryDesc>Hoàng hôn</StoryDesc>
 		</Text>
 		<Text Name="DustPlace">
-			<DisplayName>Dust Storm</DisplayName>
-			<StoryDesc>Langit meredup saat debu dan pasir memenuhi udara.</StoryDesc>
+			<DisplayName>Bão cát</DisplayName>
+			<StoryDesc>Trong cơn cát vàng bay đầy trời</StoryDesc>
 		</Text>
 		<Text Name="EverSnow">
-			<DisplayName>Light Snow</DisplayName>
-			<StoryDesc>Salju tipis menggantung di udara dan menghiasi daratan dengan kilau berkilauan.</StoryDesc>
+			<DisplayName>Tuyết nhỏ</DisplayName>
+			<StoryDesc>Tuyết nhỏ bay bay, sợi bạc đầy trời, tuyết nhỏ rơi lả tả</StoryDesc>
 		</Text>
 		<Text Name="Weather_Magic_ZhenShuiJieJie">
-			<DisplayName>Qi Aquasphere</DisplayName>
-			<StoryDesc>Ada area di dalam Qi Aquasphere.</StoryDesc>
+			<DisplayName>Cửu Âm Chân Thủy Giới</DisplayName>
+			<StoryDesc>Trong giới Cửu Âm Chân Thủy</StoryDesc>
 		</Text>
 		<Text Name="Weather_Magic_BeiDouJianJie">
-			<DisplayName>Grand Chariot Bladezone</DisplayName>
-			<StoryDesc>Ada area di dalam Grand Chariot Bladezone.</StoryDesc>
+			<DisplayName>Bắc Đẩu Kiếm Giới</DisplayName>
+			<StoryDesc>Trong giới Bắc Đẩu Kiếm</StoryDesc>
 		</Text>
 		<Text Name="Weather_Magic_ZhenHuoJieJie">
-			<DisplayName>Qi Ignosphere</DisplayName>
-			<StoryDesc>Ada area di dalam Qi Ignosphere.</StoryDesc>
+			<DisplayName>Cửu Dương Thần Hỏa Giới</DisplayName>
+			<StoryDesc>Trong giới Cửu Dương Thần Hỏa</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave_Mutation">
-			<DisplayName>Burst of Qi</DisplayName>
-			<StoryDesc>Kekuatan Qi meningkat dan melimpah di seluruh negeri</StoryDesc>
+			<DisplayName>Linh khí bùng nổ</DisplayName>
+			<StoryDesc>Trong bùng nổ linh khí</StoryDesc>
 		</Text>
 		<Text Name="Yang_Mutation">
 			<DisplayName>Place of Extreme Yang</DisplayName>
-			<StoryDesc>Tempat Yang Tertinggi</StoryDesc>
+			<StoryDesc>Chí Dương Chi Địa</StoryDesc>
 		</Text>
 		<Text Name="Yin_Mutation">
 			<DisplayName>Place of Extreme Yin</DisplayName>
-			<StoryDesc>Tempat Yin Tertinggi</StoryDesc>
+			<StoryDesc>Địa chí âm</StoryDesc>
 		</Text>
 		<Text Name="MouldRains_Mutation">
-			<DisplayName>Rainy Season</DisplayName>
-			<StoryDesc>Hujan berkepanjangan mengguyur daratan</StoryDesc>
+			<DisplayName>Mùa mưa</DisplayName>
+			<StoryDesc>Trong mưa phùn kéo dài, trong mưa phùn dai dẳng</StoryDesc>
 		</Text>
 		<Text Name="Drought_Mutation">
-			<DisplayName>Drought</DisplayName>
-			<StoryDesc>Matahari membakar seluruh bagian bawah dengan tatapannya yang berapi-api</StoryDesc>
+			<DisplayName>Hạn hán</DisplayName>
+			<StoryDesc>Trong ánh nắng gay gắt</StoryDesc>
 		</Text>
 		<Text Name="Rainstorm_Mutation">
-			<DisplayName>Rainstorm</DisplayName>
-			<StoryDesc>Hujan badai mendatangkan malapetaka</StoryDesc>
+			<DisplayName>Bão lớn</DisplayName>
+			<StoryDesc>Trong cơn mưa lớn như thác đổ</StoryDesc>
 		</Text>
 		<Text Name="DustStorm_Mutation">
-			<DisplayName>Dust Devil</DisplayName>
-			<StoryDesc>Langit meredup saat debu dan pasir memenuhi udara</StoryDesc>
+			<DisplayName>Bão cát</DisplayName>
+			<StoryDesc>Trong cơn cát vàng bay đầy trời</StoryDesc>
 		</Text>
 		<Text Name="Miasma_Mutation">
-			<DisplayName>Noxious Air</DisplayName>
-			<StoryDesc>Suasana berbahaya menyebar</StoryDesc>
+			<DisplayName>Khí độc</DisplayName>
+			<StoryDesc>Trong khí độc tràn ngập</StoryDesc>
 		</Text>
 		<Text Name="LightningStormNoLong_Mutation">
-			<DisplayName>Thunderstorm</DisplayName>
-			<StoryDesc>Guntur menggelegar melintasi daratan saat kilat menari di antara awan</StoryDesc>
+			<DisplayName>Bão sấm</DisplayName>
+			<StoryDesc>Trong cơn bão sấm sét, trong tia chớp điên cuồng</StoryDesc>
 		</Text>
 		<Text Name="FohnNoFeng_Mutation">
-			<DisplayName>Foehn Wind</DisplayName>
-			<StoryDesc>Angin hangat dan kering bertiup</StoryDesc>
+			<DisplayName>Gió nóng</DisplayName>
+			<StoryDesc>Trong gió nóng cháy bỏng</StoryDesc>
 		</Text>
 	</List>
 </Texts>
+

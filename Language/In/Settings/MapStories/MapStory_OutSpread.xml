@@ -1,48 +1,49 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="OutSpread_Start">
-			<DisplayName>Rebuild the Agency's Power.</DisplayName>
-			<Desc>Semua orang di sini dulunya memuja Sekte Taiyi, sekarang tidak ada yang menyembah.</Desc>
-			<Selections.0.Display>Tanyakan alasannya</Selections.0.Display>
+			<DisplayName>Tái thiết lực lượng đại diện</DisplayName>
+			<Desc>Người dân nơi này trước đây đều thờ phụng môn phái Thái Nhất, giờ không còn ai để thờ phụng, nhiều người đã mất đi nghề nghiệp.</Desc>
+			<Selections.0.Display>Hỏi cho rõ ràng</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_Accelerate">
-			<DisplayName>Manual Labor</DisplayName>
-			<Desc>[NAME] mengawasi tenaga kerja.</Desc>
-			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+			<DisplayName>Sự kiện lao động</DisplayName>
+			<Desc>Đại diện [NAME] giám sát lao động trở về.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_TreasureHunt">
-			<DisplayName>Treasure Hunt</DisplayName>
-			<Desc>[NAME] berburu harta karun.</Desc>
-			<Selections.0.Display>Periksa hasilnya</Selections.0.Display>
+			<DisplayName>Sự kiện tìm báu vật</DisplayName>
+			<Desc>Đại diện [NAME] tìm báu vật trở về.</Desc>
+			<Selections.0.Display>Xem kết quả</Selections.0.Display>
 		</Text>
 		<Text Name="Outs1">
-			<DisplayName>En route</DisplayName>
-			<Desc>[NAME] dirampok.</Desc>
-			<Selections.0.Display>Hadiahkan mereka Batu Roh</Selections.0.Display>
-			<Selections.1.Display>Membujuk</Selections.1.Display>
+			<DisplayName>Trên đường đi</DisplayName>
+			<Desc>Đại diện [NAME] gặp phải cướp bóc.</Desc>
+			<Selections.0.Display>Tặng một ít linh thạch</Selections.0.Display>
+			<Selections.1.Display>Thuyết phục</Selections.1.Display>
 		</Text>
 		<Text Name="Outs2">
-			<DisplayName>En route</DisplayName>
-			<Desc>[NAME] menemui beberapa pengungsi. Sayang sekali, mereka tidak punya rumah untuk kembali.</Desc>
-			<Selections.0.Display>Hadiahkan mereka Batu Roh</Selections.0.Display>
-			<Selections.1.Display>Membujuk</Selections.1.Display>
+			<DisplayName>Trên đường đi</DisplayName>
+			<Desc>Đại diện [NAME] gặp một nhóm dân lưu lạc. Họ không có nhà để về, rất đáng thương.</Desc>
+			<Selections.0.Display>Tặng một ít linh thạch</Selections.0.Display>
+			<Selections.1.Display>Thuyết phục</Selections.1.Display>
 		</Text>
 		<Text Name="Outs3">
-			<DisplayName>En route</DisplayName>
-			<Desc>[NAME] menemui beberapa petani yang diintimidasi oleh beberapa individu petani.</Desc>
-			<Selections.0.Display>Hadiahkan mereka Batu Roh</Selections.0.Display>
-			<Selections.1.Display>Membujuk</Selections.1.Display>
-			<Selections.2.Display>Berpura-pura tidak melihat apa pun</Selections.2.Display>
+			<DisplayName>Trên đường đi</DisplayName>
+			<Desc>Đại diện [NAME] gặp vài tán tu đang bắt nạt một số nông dân.</Desc>
+			<Selections.0.Display>Tặng một ít linh thạch</Selections.0.Display>
+			<Selections.1.Display>Thuyết phục</Selections.1.Display>
+			<Selections.2.Display>Giả vờ không nhìn thấy</Selections.2.Display>
 		</Text>
 		<Text Name="CollectFaith">
-			<DisplayName>Gather Belief</DisplayName>
-			<Desc>Ada orang percaya di sini, kita bisa mengumpulkan kepercayaan.</Desc>
-			<Selections.0.Display>Perolehan</Selections.0.Display>
+			<DisplayName>Thu thập tín ngưỡng</DisplayName>
+			<Desc>Ở nơi này có tín đồ của chúng ta, có thể thu thập tín ngưỡng.</Desc>
+			<Selections.0.Display>Thu thập</Selections.0.Display>
 		</Text>
 		<Text Name="OutSpread_GoodMood">
-			<DisplayName>Green Pagoda</DisplayName>
-			<Desc>Para murid dapat bersenang-senang di Pagoda Hijau.</Desc>
-			<Selections.0.Display>Santai</Selections.0.Display>
+			<DisplayName>Lục Lâu Phường</DisplayName>
+			<Desc>Lục Lâu Phường là nơi để các đệ tử tu tiên giải trí.</Desc>
+			<Selections.0.Display>Giải trí</Selections.0.Display>
 		</Text>
 	</List>
 </Texts>
+

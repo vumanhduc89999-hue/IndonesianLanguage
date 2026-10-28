@@ -911,11 +911,13 @@
 天苍 236年第65日,通过从回忆获取的理智，对非常思念的感知，对秋季的认知，产生了一点灵智碎片。
 天苍 238年第2日,通过从被捕猎获取的理智，对非常愤怒的感知，对秋季的认知，产生了一点灵智碎片。
 天苍 245年第26日,通过从聆听琴声获取的理智，对有点思念的感知，对门的认知，产生了一点灵智碎片。
-天苍 245年第78日,通过从看巨石获取的理智，对平静的感知，对雷的认知，产生了一点灵智碎片。	561.1	
+天苍 245年第78日,通过从看巨石获取的理智，对平静的感知，对雷的认知，产生了一点灵智碎片。
+	561.1	
 /Settings/RPG/Maps/Rpg_Tower_18/map.txt	Things.Things.561.Titles.0.title	沙漠之母·万磁之吞噬者	561.0	
 /Settings/RPG/Maps/Rpg_Tower_18/map.txt	Skills.SkillDefs.TDamageSkill-558.DisplayName	南海十二都天诀	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_18/map.txt	Skills.SkillDefs.TDamageSkill-559.DisplayName	惊波流光	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_18/map.txt	Skills.SkillDefs.TDamageSkill-560.DisplayName	哈家开天真言	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_18/map.txt	Skills.SkillDefs.TSheildSkill-225.DisplayName	冷月金钟	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_18/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param1	我沉眠于地心亿万年，然而红尘的纷争唤醒了我。我既应召而来，世界也该付出代价！	0	
-/Settings/RPG/Maps/Rpg_Tower_18/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param2	沙漠啊，我的孩子！扬起你的灰尘，遮蔽太阳的光芒吧！	0	
+/Settings/RPG/Maps/Rpg_Tower_18/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param2	沙漠啊，我的孩子！扬起你的灰尘，遮蔽太阳的光芒吧！	0
+

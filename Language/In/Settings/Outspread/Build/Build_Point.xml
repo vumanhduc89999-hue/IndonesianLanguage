@@ -1,28 +1,29 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Farm">
-			<DisplayName>Field</DisplayName>
-			<Desc>Lahan pertanian di alam fana. Menghasilkan gandum.</Desc>
+			<DisplayName>Ruộng</DisplayName>
+			<Desc>Ruộng đồng ở nhân gian, sản xuất lúa mì.</Desc>
 		</Text>
 		<Text Name="Mine">
-			<DisplayName>Mine</DisplayName>
-			<Desc>Tambang di alam fana. Menghasilkan batu coklat.</Desc>
+			<DisplayName>Mỏ</DisplayName>
+			<Desc>Mỏ ở nhân gian, sản xuất đá nâu.</Desc>
 		</Text>
 		<Text Name="Lumber">
-			<DisplayName>Logging Camp</DisplayName>
-			<Desc>Penebangan kamp di alam fana. Menghasilkan kayu.</Desc>
+			<DisplayName>Xưởng Gỗ</DisplayName>
+			<Desc>Xưởng gỗ ở nhân gian, sản xuất gỗ nguyên liệu.</Desc>
 		</Text>
 		<Text Name="LingMine">
-			<DisplayName>Spirit Stone Mine</DisplayName>
-			<Desc>Batu roh menambang di alam fana. Menghasilkan batu roh.</Desc>
+			<DisplayName>Mỏ Linh Thạch</DisplayName>
+			<Desc>Mỏ khai thác linh thạch ở nhân gian, sản xuất linh thạch.</Desc>
 		</Text>
 		<Text Name="Statue">
-			<DisplayName>Statue</DisplayName>
-			<Desc>Patung dewa. Setelah dibangun, jika seorang murid Shendao membangun Kuil Keajaiban di Alam Ilahi, Anda dapat menunjuk murid tersebut untuk dirasuki di sini.</Desc>
+			<DisplayName>Tượng điêu khắc</DisplayName>
+			<Desc>Tượng của một vị thần nào đó, sau khi xây dựng, nếu đệ tử thần tu đã xây dựng Diễn Diệu Đường trong thần quốc, có thể chỉ định đệ tử đó nhập thân tại đây.</Desc>
 		</Text>
 		<Text Name="Arena">
-			<DisplayName>Dojo</DisplayName>
-			<Desc>Dojo. Setelah dibangun, tempat ini dapat digunakan untuk latihan oleh para murid yang ditempatkan di sini.</Desc>
+			<DisplayName>Diễn Võ Trường</DisplayName>
+			<Desc>Diễn Võ Trường, sau khi xây dựng, đệ tử trú tại đây có thể vào để luyện tập và giao lưu võ thuật với nhau.</Desc>
 		</Text>
 	</List>
 </Texts>
+

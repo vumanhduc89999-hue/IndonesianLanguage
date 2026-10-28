@@ -81,3 +81,4 @@
 /Settings/TeachFile/XL-01.osave	Esoterica.Data.10.DisplayName	忘情佛心记	10	_ReplaceEsotericaName
 /Settings/TeachFile/XL-01.osave	Skill.SkillDefs.TFabaoSkill-1.DisplayName	化影诀	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/XL-01.osave	Skill.SkillDefs.TSheildSkill-1.DisplayName	太乙不朽神雷	-1	_ReplaceSkillDisplaceName
+

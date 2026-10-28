@@ -1,129 +1,130 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Esoterica_SYS_LOST">
-			<DisplayName>Empty</DisplayName>
-			<Desc>Sebuah bangunan hilang yang tidak dikenali oleh siapa pun. \n(Kosong)</Desc>
-			<EffectDesc>Tidak ada</EffectDesc>
+			<DisplayName>Mô-đun bị mất</DisplayName>
+			<Desc>Vật bị thất lạc, không ai biết đây là gì.\n(Mô-đun bị mất)</Desc>
+			<EffectDesc>Không có</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui1">
-			<DisplayName>Wild Punch</DisplayName>
-			<Desc>Panduan rahasia ajaib dari zaman modern, memungkinkan seseorang mencapai peremajaan fisik.</Desc>
-			<EffectDesc>Meningkatkan Persepsi sebesar 10%.\nMeningkatkan Kecerdasan sebesar 10%.\nMeningkatkan Keberuntungan sebesar 10%.</EffectDesc>
+			<DisplayName>Quyền Bóng Hoang Dã</DisplayName>
+			<Desc>Bí kíp thần bí từ thời hiện đại, có thể thay đổi thể chất.</Desc>
+			<EffectDesc>Tăng thần thức 1 phần\nTăng sự giác ngộ 1 phần\nTăng cơ duyên 1 phần</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui2">
-			<DisplayName>Awakened Heart</DisplayName>
-			<Desc>Panduan rahasia ajaib dari zaman modern, memungkinkan seseorang memusatkan Qi di kepalanya, menstimulasi proses berpikir dan meningkatkan Kecerdasan. Dan...</Desc>
-			<EffectDesc>Meningkatkan Persepsi sebesar 10%.\nMeningkatkan Kecerdasan sebesar 10%.</EffectDesc>
+			<DisplayName>Xuân Về Đất</DisplayName>
+			<Desc>Bí kíp kỳ diệu từ thời hiện đại, có thể tụ linh khí ở đầu, giúp suy nghĩ linh hoạt, tăng sự giác ngộ. Tiện thể…</Desc>
+			<EffectDesc>Tăng thần thức 1 phần\nTăng sự giác ngộ 1 phần</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui3">
-			<DisplayName>Incredible Force</DisplayName>
-			<Desc>Teknik pamungkas yang unik untuk Dugu Xing, memungkinkan seseorang tiba-tiba meledak dengan kekuatan luar biasa.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Kekuatan Luar Biasa\nTeknik pamungkas yang unik untuk Dugu Xing, memungkinkan seseorang tiba-tiba meledak dengan kekuatan luar biasa.[/color][/size]</EffectDesc>
+			<DisplayName>Sức Mạnh Bùng Nổ</DisplayName>
+			<Desc>Tuyệt kỹ độc môn của Độc Cô Tinh, có thể bùng nổ sức mạnh lớn đột ngột.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Sức Mạnh Bùng Nổ\nTuyệt kỹ độc môn của Độc Cô Tinh, có thể bùng nổ sức mạnh lớn đột ngột.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui4">
-			<DisplayName>Kunlun Immortal's Law</DisplayName>
-			<Desc>Teknik rahasia yang diwariskan dari makhluk abadi yang tidak diketahui di Gunung Kunlun, teknik ini meningkatkan Kecerdasan dan Konstitusi seseorang.</Desc>
-			<EffectDesc>Meningkatkan Kecerdasan sebesar 10%.\nMeningkatkan Konstitusi sebesar 10%.</EffectDesc>
+			<DisplayName>Tiên Pháp Côn Luân</DisplayName>
+			<Desc>Bí pháp do một tiên nhân không tên của Côn Luân truyền lại, có thể tăng sự giác ngộ và căn cơ.</Desc>
+			<EffectDesc>Tăng sự giác ngộ 1 phần\nTăng căn cơ 1 phần</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_LunHui5">
-			<DisplayName>Prayer Talisman</DisplayName>
-			<Desc>Mantra yang membuat orang merasa aman dan bahagia.</Desc>
-			<EffectDesc>Buka Kunci Jimat: \nJimat Doa</EffectDesc>
+			<DisplayName>Phù Thần Thần</DisplayName>
+			<Desc>Phù chú mang lại cảm giác an lành và hạnh phúc.</Desc>
+			<EffectDesc>Mở khóa bản đồ phù chú:\nPhù Thần Thần</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_DanXia1">
-			<DisplayName>Evening Glow of Pines</DisplayName>
-			<Desc>Skill ajaib yang terinspirasi dari pemandangan tebing hijau di Mt. Sunshade, meningkatkan Spell damage seseorang.</Desc>
-			<EffectDesc>Meningkatkan kerusakan Mantra</EffectDesc>
+			<DisplayName>Bóng Tùng Ngàn Hào Quang</DisplayName>
+			<Desc>Kỳ thuật lĩnh ngộ từ cảnh sắc tuyệt vời của núi Đan Hà, có thể tăng sát thương pháp thuật.</Desc>
+			<EffectDesc>Tăng sát thương pháp thuật</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_DanXia2">
-			<DisplayName>Violet Clouds</DisplayName>
-			<Desc>Teknik ajaib yang terinspirasi oleh pemandangan tebing hijau di Gunung Sunshade, latihan jangka panjang akan menyesuaikan Keadaan Mental seseorang dan menstabilkan Qi purba seseorang.</Desc>
-			<EffectDesc>Meningkatkan Kondisi Mental.\nMemperpanjang Umur.</EffectDesc>
+			<DisplayName>Mây Tím Đan Tiêu</DisplayName>
+			<Desc>Tâm pháp lĩnh ngộ từ cảnh sắc tuyệt vời của núi Đan Hà, tu luyện lâu dài có thể điều chỉnh tâm cảnh, ổn định nguyên khí.</Desc>
+			<EffectDesc>Tăng tâm cảnh\nTăng tuổi thọ</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_DengXian1">
-			<DisplayName>Secret Eastern Codex (Purple Star Sword)</DisplayName>
-			<Desc>Keterampilan pedang terhebat yang ditemukan oleh Kaisar Abadi dari Timur. Manfaatkan kekuatan kekaisaran yang berdiam di Bintang Ungu dengan roh primordial Anda dan integrasikan ke dalam aura pedang, sehingga benar-benar tak terbendung. Volume ini juga mencatat resep kerajinan Borealis, Artefak Warisan yang ditemukan oleh Kaisar Abadi dari Timur.</Desc>
-			<EffectDesc>Meningkatkan Kekuatan Artefak secara signifikan.\n Memperoleh Artefak Lama: \nBorealis</EffectDesc>
+			<DisplayName>Bí Điển Đông Hoa-Kiếm Tử Vi</DisplayName>
+			<Desc>Kiếm pháp tuyệt thế do Đông Hoa Đế Quân sáng tạo, lấy ý chí hoàng cực của sao Tử Vi dung nhập kiếm khí, phá hủy mọi vật. Quyển sách này còn ghi phương pháp luyện chế bảo vật bí mật của đạo môn do Đông Hoa Đế Quân sáng tạo, Kiếm Phân Quang Thái Ất.</Desc>
+			<EffectDesc>Tăng uy lực pháp bảo\nHọc được bảo vật:\nKiếm Phân Quang Thái Ất</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_JiuHua">
-			<DisplayName>Codex of Dragon and Phoenix</DisplayName>
-			<Desc>Teknik rahasia ditemukan oleh orang bijak kuno, yang terinspirasi dengan menganalisis cara Qi batin beredar di dalam naga dan burung phoenix. Menguasai teknik ini memungkinkan seseorang untuk mengubah tubuh fana menjadi naga dan phoenix, meningkatkan kualitas fisik.</Desc>
-			<EffectDesc>Meningkatkan Persepsi sebesar 10%.\nMeningkatkan Konstitusi sebesar 10%.\nMeningkatkan Karisma sebesar 10%.\nMeningkatkan Kecerdasan sebesar 10%.\nMemperpanjang Umur.</EffectDesc>
+			<DisplayName>Bảo Điển Long Phượng</DisplayName>
+			<Desc>Bí pháp lĩnh ngộ từ việc phân tích đường vận hành khí mạch bên trong cơ thể Long Phượng của cổ nhân. Học được pháp này có thể biến thân thể phàm nhân thành cơ thể Long Phượng, tăng toàn diện tố chất cơ thể.</Desc>
+			<EffectDesc>Tăng thần thức 1 phần\nTăng căn cơ 1 phần\nTăng sức hút 1 phần\nTăng sự giác ngộ 1 phần\nTăng tuổi thọ</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongHu1">
-			<DisplayName>Flowing Sword Will</DisplayName>
-			<Desc>Sword Will terinspirasi dari mengamati pemandangan pelangi putih yang membelah bebatuan di Air Terjun Skypass di Gunung Tiger Paw. Mengintegrasikannya ke dalam keterampilan pedang Anda akan meningkatkan kekuatan dampak Artefak secara besar-besaran.</Desc>
-			<EffectDesc>Meningkatkan Dampak Artefak</EffectDesc>
+			<DisplayName>Ý Kiếm Dòng Chảy</DisplayName>
+			<Desc>Ý kiếm lĩnh ngộ từ cảnh sắc thác nước trắng xóa của núi Long Hổ, dung nhập vào kiếm pháp có thể tăng mạnh lực xung kích của pháp bảo.</Desc>
+			<EffectDesc>Tăng lực xung kích của pháp bảo</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongHu2">
-			<DisplayName>Flying Creek</DisplayName>
-			<Desc>Teknik pernapasan yang terinspirasi dari mengamati pemandangan di Air Terjun Skypass di Gunung Tiger Paw, akan meningkatkan Tingkat Pemulihan Qi Anda.</Desc>
-			<EffectDesc>Meningkatkan tingkat pemulihan Qi</EffectDesc>
+			<DisplayName>Tâm Pháp Dòng Chảy</DisplayName>
+			<Desc>Thuật thở lĩnh ngộ từ cảnh sắc thác nước liên tục không ngừng của núi Long Hổ, có thể tăng tốc độ phục hồi linh khí.</Desc>
+			<EffectDesc>Tăng tốc độ phục hồi linh khí</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ChiLianYuan">
-			<DisplayName>Craftsmanship of Earthly Fire</DisplayName>
-			<Desc>Metode kerajinan rahasia yang diturunkan dari abadi kuno Nangong Hong, menggunakannya sangat meningkatkan Tingkat Keberhasilan saat membuat artefak. \n[color=#CCFF66]Ini sebagai apresiasi kepada pemain pertama yang berhasil Selamat dari Kesengsaraan: Istana Zamrud[/color]</Desc>
-			<EffectDesc>Meningkatkan Tingkat Keberhasilan secara signifikan saat membuat artefak.</EffectDesc>
+			<DisplayName>Phương Pháp Luyện Bảo Khôn Ly</DisplayName>
+			<Desc>Bí truyền thuật luyện khí của cổ tiên Nam Cung Hồng, luyện bảo bằng thuật này có thể tăng lớn tỷ lệ thành công.\n[color=#D06508]Đặc biệt cảm ơn người chơi đầu tiên vượt qua kiếp nạn trong trò chơi này: Quỳnh Lâu[/color]</Desc>
+			<EffectDesc>Tăng lớn tỷ lệ thành công luyện chế pháp bảo</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ChiLianYuan1">
-			<DisplayName>Secret Record of Nangong's Tribulation Survival</DisplayName>
-			<Desc>Serangkaian metode yang dirangkum oleh abadi kuno Nangong Hong sebelum dia naik. Mempraktikkannya memungkinkan seseorang untuk mengelabui jalan surga, meningkatkan landasan kultivator. \n[color=#CCFF66]Ini sebagai apresiasi kepada pemain pertama yang berhasil Selamat dari Kesengsaraan: Istana Zamrud[/color]</Desc>
-			<EffectDesc>Meningkatkan Persepsi sebesar 10%.\nMeningkatkan Kecerdasan sebesar 10%.</EffectDesc>
+			<DisplayName>Bí Lục Nam Cung Độ Nạn Bí Truyền</DisplayName>
+			<Desc>Bộ bí pháp do cổ tiên Nam Cung Hồng tổng kết trước khi phi thăng, tu luyện có thể thay đổi trời đất, tăng căn cơ tu hành của người tu luyện.\n[color=#D06508]Đặc biệt cảm ơn người chơi đầu tiên vượt qua kiếp nạn trong trò chơi này: Quỳnh Lâu[/color]</Desc>
+			<EffectDesc>Tăng thần thức 1 phần\nTăng sự giác ngộ 1 phần</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_XuanKong">
-			<DisplayName>Way of Heavenly Fortune</DisplayName>
-			<Desc>Teknik menentang surga dan membalikkan nasib yang ditemukan oleh Yuan Ruoxue abadi kuno yang mendapatkan inspirasinya dari Kesengsaraan Surgawi itu sendiri. Sangat meningkatkan Keberuntungan. \n[color=#CCFF66]Ini sebagai apresiasi kepada pemain pertama yang berhasil menantang takdir dengan karakter dengan talenta paling rendah, yang akhirnya membentuk Inti Tingkat I dan naik: Sebenarnya bukan saya[/color]</Desc>
-			<EffectDesc>Meningkatkan Keberuntungan sebesar 20%.</EffectDesc>
+			<DisplayName>Phương Pháp Hóa Vận Thiên Cơ</DisplayName>
+			<Desc>Bí pháp nghịch thiên lĩnh ngộ từ kiếp nạn của cổ tiên Viên Nhược Tuyết, có thể tăng lớn cơ duyên.\n[color=#D06508]Kỷ niệm người chơi đầu tiên trong trò chơi này đã nghịch thiên cải mệnh với tư chất thấp nhất, kết đan nhất phẩm và cuối cùng phi thăng: Thật Ra Không Phải Ta[/color]</Desc>
+			<EffectDesc>Tăng cơ duyên 2 phần</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ShanHeJue">
-			<DisplayName>Chant of Mountains and Rivers</DisplayName>
-			<Desc>Teknik rahasia yang ditemukan oleh Celestial Patriark yang terinspirasi oleh peredaran Dragon's Vein, mencakup beberapa cara untuk membangun kembali medan dengan memanfaatkan Fortune Seed.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: \nPembentukan Danau\nPembentukan Tanah\nTanah Spiritual Pencipta\nKolam Spiritual Pencipta\nTanah Subur\nDapatkan Resep Ramuan: \nBenih Roh\nPasir Keberuntungan\nBuka Kunci Bangunan: \nKolam Giok Pencipta[/color][/size]</EffectDesc>
+			<DisplayName>Bí Quyết Sơn Hà</DisplayName>
+			<Desc>Bí pháp lĩnh ngộ từ vận hành long mạch của Tổ Sư Thiên Cực, ghi lại những phương pháp kỳ diệu tái tạo sông núi bằng Ngọc Tử Tạo Hóa.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông:\n  Thuật Mở Hồ\n  Thuật Tạo Lục\n  Linh thổ Tạo Hóa\n  Hồ Linh Tạo Hóa\n  Đất Phì Tạo Hóa\nHọc được đơn phương:\n  Hạt Nguồn Linh\n  Cát Ngọc Tạo Hóa\nMở khóa kiến trúc:\n  Hồ Ngọc Tạo Hóa[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_LongDan">
-			<DisplayName>Dragon Spirit Soul</DisplayName>
-			<Desc>Teknik rahasia yang mengambil inspirasi dari pecahan ingatan Naga Banjir.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nDragon Elixir\nSangat meningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Long hồn chân linh pháp</DisplayName>
+			<Desc>Bí pháp lĩnh ngộ từ mảnh ký ức của giao long.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được đơn phương:\nĐan Long Hồn Chân Linh\nTăng lớn uy lực pháp bảo từ gốc rễ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FengDan">
-			<DisplayName>Phoenix Spirit Soul</DisplayName>
-			<Desc>Teknik rahasia yang mengambil inspirasi dari fragmen memori Phoenix.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nPhoenix Elixir\nSangat meningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
+			<DisplayName>Phương Pháp Phượng Hồn Chân Linh</DisplayName>
+			<Desc>Bí pháp lĩnh ngộ từ mảnh ký ức của hung phượng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được đơn phương:\nĐan Phượng Hồn Chân Linh\nTăng lớn uy lực thuật pháp từ gốc rễ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_ZhuLongDan">
-			<DisplayName>Yin &amp; Yang Spirit</DisplayName>
-			<Desc>Teknik rahasia yang mengambil inspirasi dari pecahan memori Torch Dragon.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nBalance Spirit Pill\n Dapatkan metode pembuatan Artefak Warisan: \nDraconic Tablet\nSecara mendasar meningkatkan Kekuatan Penghalang dengan margin yang signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Âm Dương Chân Linh Pháp</DisplayName>
+			<Desc>Bí pháp lĩnh ngộ từ mảnh ký ức của Chúc Long.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được Đan phương:\nÂm Dương Chân Linh Đan\nHọc được Bí bảo:\nLong Tâm Âm Dương Khuê\nTăng mạnh độ bền của hộ thuẫn từ gốc[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen1">
-			<DisplayName>Qi of Triple Purity</DisplayName>
-			<Desc>Hukum Rahasia Roh Ditempa dari aliran kepercayaan kuno, dianggap sudah lama hilang. Budidaya metode ini akan memecah Roh Primordial seseorang, menciptakan tiga sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan tiga sub-spirit.[/color][/size]</EffectDesc>
+			<DisplayName>Nhất Khí Hóa Tam Thanh</DisplayName>
+			<Desc>Bí pháp luyện thần của Đạo môn thượng cổ, đã thất truyền từ lâu. Tu luyện thuật này có thể phân hóa nguyên thần, tạo ra ba phân thần.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng ba đạo nguyên thần phân thân[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen2">
-			<DisplayName>Apparition of Three Corpses: Good Self Slaying</DisplayName>
-			<Desc>Jurus rahasia pemisahan roh ditemukan oleh para penggarap kuno berdasarkan metode membunuh tiga mayat untuk mencapai pencerahan. Praktisi panduan ini dapat memanfaatkan kesadaran baik diri sendiri sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
+			<DisplayName>Tam Thi Phân Thần Pháp: Thiện Ngã Chi Trảm</DisplayName>
+			<Desc>Bí thuật phân thần được sáng tạo dựa trên pháp môn chém ba thi để thành đạo của tu sĩ thượng cổ. Tu luyện cuốn sách này có thể dẫn dắt thiện niệm của bản thân để phân ra một nguyên thần phân thần.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thêm một phân thần nguyên thần[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen3">
-			<DisplayName>Apparition of Three Corpses: Evil Self Slaying</DisplayName>
-			<Desc>Jurus rahasia pemisahan roh ditemukan oleh para penggarap kuno berdasarkan metode membunuh tiga mayat untuk mencapai pencerahan. Praktisi panduan ini dapat memanfaatkan kesadaran jahatnya sendiri sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
+			<DisplayName>Tam Thi Phân Thần Pháp: Ác Ngã Chi Trảm</DisplayName>
+			<Desc>Bí thuật phân thần được sáng tạo dựa trên pháp môn chém ba thi để thành đạo của tu sĩ thượng cổ. Tu luyện cuốn sách này có thể dẫn dắt ác niệm của bản thân để phân ra một nguyên thần phân thần.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thêm một phân thần nguyên thần[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_FenShen4">
-			<DisplayName>Apparition of Three Corpses: True Self Slaying</DisplayName>
-			<Desc>Jurus rahasia pemisahan roh ditemukan oleh para penggarap kuno berdasarkan metode membunuh tiga mayat untuk mencapai pencerahan. Praktisi panduan ini dapat memanfaatkan kesadaran endogennya sendiri sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan satu sub-roh.[/color][/size]</EffectDesc>
+			<DisplayName>Tam Thi Phân Thần Pháp: Bản Ngã Chi Trảm</DisplayName>
+			<Desc>Bí thuật phân thần được sáng tạo dựa trên pháp môn chém ba thi để thành đạo của tu sĩ thượng cổ. Tu luyện cuốn sách này có thể dẫn dắt bản ngã niệm của bản thân để phân ra một nguyên thần phân thần.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thêm một phân thần nguyên thần[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_YanHuangTongShi">
-			<DisplayName>A Comprehensive History of Serica</DisplayName>
-			<Desc>Buku yang mencakup lima ribu tahun sejarah negara Serica. Tercatat berbagai macam konten yang luas, di dalamnya terdapat banyak aliran pemikiran yang sangat inspiratif untuk dikembangkan.</Desc>
-			<EffectDesc>Meningkatkan Kecerdasan sebesar 20%.\nMeningkatkan Qi Sense sebesar 5.</EffectDesc>
+			<DisplayName>Lịch Sử Thông Giám Viêm Hoàng</DisplayName>
+			<Desc>Lịch sử năm nghìn năm của quốc gia Viêm Hoàng, ghi chép nội dung phong phú và sâu sắc, nhiều tư tưởng trong đó có thể mang lại sự khai sáng lớn cho tu hành.</Desc>
+			<EffectDesc>Tăng 20% ngộ tính\nTăng 5 điểm khí cảm</EffectDesc>
 		</Text>
 		<Text Name="Other_Esoterica_QuQiJue">
-			<DisplayName>Five Qi Dispel</DisplayName>
-			<Desc>Dikatakan sebagai teknik rahasia alkemis kuno yang tidak lengkap, mencatat beberapa spekulasi tentang Alkimia Qi. Energi ini tidak berwarna, tidak berasa, dan tidak berbentuk, sehingga sangat sulit untuk diamati. Selain itu, karena kelebihan dan kekurangan Alkimia Qi tidak sepenuhnya dipahami, prinsip lima elemen yang saling mengalahkan digunakan untuk menciptakan kemampuan ilahi yang sepenuhnya membubarkan Alkimia Qi di tempat kejadian.</Desc>
-			<EffectDesc>[size=18][color=#CCFF66]Pelajari Keajaiban: \nPenghilangan Lima Qi[/color][/size]</EffectDesc>
+			<DisplayName>Ngũ Khí Phá Hà</DisplayName>
+			<Desc>Tương truyền là bí kỹ tàn khuyết của đan sư thượng cổ, ghi chép một phần suy đoán về đan khí. Loại năng lượng này không màu không mùi không hình, cực khó quan sát, lại do không hoàn toàn biết rõ đan khí có lợi hại gì, bèn lợi dụng lý thuyết ngũ hành tương khắc, sáng tạo ra thần thông có thể xua tan hoàn toàn đan khí trong cảnh giới đó.</Desc>
+			<EffectDesc>[size=18][color=#CCFF66]Học được thần thông:\n  Ngũ Khí Phá Hà[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,57 +1,58 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mood_Sys_Lost">
-			<DisplayName>[Empty]</DisplayName>
-			<Desc>Kosong</Desc>
+			<DisplayName>[Mất tích]</DisplayName>
+			<Desc>Mất mô-đun</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_Disappointment">
-			<DisplayName>Disappointing Branch Leader</DisplayName>
-			<Desc>Bahkan orang setingkat ini bisa menjadi Pemimpin Cabang? Kurasa bahkan aku bisa menjadi Pemimpin Cabang jika terus begini...</Desc>
-			<StoryDesc>Merasa mudah untuk merasa tidak puas dengan Pemimpin Cabang yang mengecewakan</StoryDesc>
+			<DisplayName>Đường chủ kém cỏi.</DisplayName>
+			<Desc>Trình độ của người này mà cũng làm đường chủ? Ta lên cũng được...</Desc>
+			<StoryDesc>Vì năng lực kém cỏi của đường chủ mà không hài lòng.</StoryDesc>
 		</Text>
 		<Text Name="Mood_Sys_School_ZhangMen1">
-			<DisplayName>A New Leader</DisplayName>
-			<Desc>Saya sangat senang [TXT] telah menjadi Pemimpin Sekte kami!</Desc>
+			<DisplayName>Chưởng môn nhậm chức.</DisplayName>
+			<Desc>[TXT] đã trở thành chưởng môn, thật sự rất vui vì điều này!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_ZhangMen2">
-			<DisplayName>A New Leader</DisplayName>
-			<Desc>[TXT] telah menjadi Pemimpin Sekte kami, ini mengerikan!</Desc>
+			<DisplayName>Chưởng môn nhậm chức.</DisplayName>
+			<Desc>[TXT] đã trở thành chưởng môn, thật là tệ hại!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_ZhangMen3">
-			<DisplayName>Dismissed</DisplayName>
-			<Desc>Saya pikir saya masih bisa menjabat sebagai Pemimpin Sekte...</Desc>
+			<DisplayName>Bị bãi nhiệm.</DisplayName>
+			<Desc>Ta nghĩ ta vẫn có thể tiếp tục làm chưởng môn này...</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_ZhangMen4">
-			<DisplayName>Resigning as Sect Leader</DisplayName>
-			<Desc>Sayangnya, [TXT] tidak lagi menjadi Pemimpin Sekte kami!</Desc>
+			<DisplayName>Chưởng môn rời chức.</DisplayName>
+			<Desc>[TXT] không còn là chưởng môn của chúng ta nữa, thật tiếc!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_ZhangMen5">
-			<DisplayName>Resigning as Sect Leader</DisplayName>
-			<Desc>[TXT] tidak lagi menjadi Pemimpin Sekte kami...ini bagus!</Desc>
+			<DisplayName>Chưởng môn rời chức.</DisplayName>
+			<Desc>[TXT] không còn là chưởng môn của chúng ta nữa, thật là tốt quá!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_TangZhu0">
-			<DisplayName>Becoming Branch Leader</DisplayName>
-			<Desc>Saya telah menjadi Pemimpin Cabang...Saya harus melakukan yang terbaik untuk memenuhi posisi ini!</Desc>
+			<DisplayName>Trở thành đường chủ.</DisplayName>
+			<Desc>Ta đã trở thành đường chủ của một đường, nhất định sẽ tận tâm tận lực!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_TangZhu1">
-			<DisplayName>Branch Leader in Office</DisplayName>
-			<Desc>Saya sangat senang [TXT] telah menjadi Pemimpin Cabang!</Desc>
+			<DisplayName>Đường chủ nhậm chức.</DisplayName>
+			<Desc>[TXT] đã trở thành đường chủ, thật sự rất vui vì điều này!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_TangZhu2">
-			<DisplayName>Branch Leader in Office</DisplayName>
-			<Desc>Bahkan [TXT] sudah menjadi Pemimpin Cabang? Saya kira siapa pun bisa menjadi Pemimpin Cabang jika terus begini.</Desc>
+			<DisplayName>Đường chủ nhậm chức.</DisplayName>
+			<Desc>[TXT] cũng có thể trở thành đường chủ? Thật là bực mình!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_TangZhu3">
-			<DisplayName>Dismissed</DisplayName>
-			<Desc>Saya merasa bahwa saya dapat melanjutkan sebagai Pemimpin Cabang... mendedikasikan diri saya pada Sekte...</Desc>
+			<DisplayName>Bị bãi nhiệm.</DisplayName>
+			<Desc>Ta nghĩ ta vẫn có thể tiếp tục làm đường chủ này... cống hiến cho môn phái.</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_TangZhu4">
-			<DisplayName>Resigning as Branch Leader</DisplayName>
-			<Desc>Saya tidak percaya [TXT] tidak lagi menjadi Pemimpin Cabang kami!</Desc>
+			<DisplayName>Đường chủ rời chức.</DisplayName>
+			<Desc>[TXT] không còn là đường chủ của chúng ta nữa, thật sự rất buồn!</Desc>
 		</Text>
 		<Text Name="Mood_Sys_School_TangZhu5">
-			<DisplayName>Resigning as Branch Leader</DisplayName>
-			<Desc>Akhirnya, [TXT] tidak lagi menjadi Pemimpin Cabang kami!</Desc>
+			<DisplayName>Đường chủ rời chức.</DisplayName>
+			<Desc>[TXT] không còn là đường chủ của chúng ta nữa, thật là đáng mừng!</Desc>
 		</Text>
 	</List>
 </Texts>
+

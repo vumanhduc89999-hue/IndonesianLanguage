@@ -2588,4 +2588,5 @@
 /Settings/TeachFile/JJ-07.osave	Zhens.m_mapZhenShape.4.ShapeName	八门玄金天劫剑阵	4	_ReplaceShapeName
 /Settings/TeachFile/JJ-07.osave	Zhens.m_mapZhenShape.4.Descript	传闻此阵以八门之理成阵，进可杀伐，退可护身，非常玄妙。	4	
 /Settings/TeachFile/JJ-07.osave	Zhens.m_mapZhenShape.5.ShapeName	成阵	5	_ReplaceShapeName
-    （触发秘闻，请前往[color=#D06508]天下[/color]面板，点击右下角的秘闻按钮查看秘闻。点击秘闻可以转移到秘闻所在地，如果地点未解锁，则需要多多历练以解锁新的地点。）	0.1			
+    （触发秘闻，请前往[color=#D06508]天下[/color]面板，点击右下角的秘闻按钮查看秘闻。点击秘闻可以转移到秘闻所在地，如果地点未解锁，则需要多多历练以解锁新的地点。）	0.1
+

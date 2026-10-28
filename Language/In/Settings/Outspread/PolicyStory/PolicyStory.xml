@@ -1,164 +1,165 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="PolicyStory_TreeEXP">
-			<DisplayName>Study Nature</DisplayName>
-			<Desc>Anda telah cukup belajar dari Pengakuan Iman Surga, dan perolehan Anda dapat dibekukan menjadi pil sekarang.</Desc>
+			<DisplayName>Thu Thập Thiên Đạo</DisplayName>
+			<Desc>Thiên Đạo đã thu thập đầy, có thể ngưng kết thành đan.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give1">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] memimpin para murid ke jalan dan membagikan makanan kepada orang yang lewat.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn dắt các đệ tử ra phố, phân phát thực phẩm cho người qua đường.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give2">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Banyak pengemis yang meminta uang di pinggir jalan.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn dắt các đệ tử ra phố, bắt đầu bố thí. Thấy bên đường có nhiều người ăn xin đang xin ăn.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give3">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat jembatan batu telah runtuh, dan orang-orang tidak lagi bisa lewat sini.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn dắt các đệ tử ra phố, bắt đầu bố thí. Thấy một cây cầu đá đã sụp đổ, người dân không thể qua lại đây.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give4">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua penduduk desa bertengkar karena seekor anjing.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn dắt các đệ tử ra phố, bắt đầu bố thí. Thấy hai người dân đang tranh cãi không ngừng về một con chó.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give5">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua pria muda sedang berebut seorang wanita.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn dắt các đệ tử ra phố, bắt đầu bố thí. Thấy hai công tử đang đánh nhau dữ dội để tranh giành một người phụ nữ.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give6">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat dua pria besar berkelahi satu sama lain. Seorang pejalan kaki menjelaskan bahwa penyebabnya adalah karena salah satu laki-laki menanam pohon, namun laki-laki lainnya memetik dan memakan buahnya.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn dắt các đệ tử ra phố, bắt đầu bố thí. Thấy hai người đàn ông đang đánh nhau, hỏi người khác thì biết một bên trồng cây, bên kia hái ăn.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give7">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] sedang bersiap untuk melakukan kegiatan amal, ketika seorang wanita berpakaian indah mendekati tempat agen sambil menangis, dan mengatakan anaknya hilang.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] đang chuẩn bị đi bố thí, bất ngờ có một người phụ nữ mặc trang phục lộng lẫy khóc lóc đi đến nơi ở của đại diện, nói rằng con của bà ta bị mất tích.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give8">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] sedang bersiap untuk melakukan pekerjaan amal, ketika seorang pria bergegas ke aula memohon kepada agen untuk menyelamatkan istrinya yang sekarat.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] đang chuẩn bị đi bố thí, bất ngờ có một người đàn ông xông vào điện, cầu xin đại diện cứu Phu nhân ông ta đang sắp chết vì bệnh.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give9">
-			<DisplayName>Special Event</DisplayName>
-			<Desc>[NAME] telah mengembara ke tempat yang agak jauh dan mulai memberi sedekah. Sekelompok bandit kebetulan lewat.</Desc>
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện [NAME] đi đến một nơi hơi hẻo lánh, bắt đầu bố thí. Lúc này có một nhóm cướp đi ngang qua.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give10">
-			<DisplayName>Special Event</DisplayName>
-			<Desc>Agen [NAME] menemukan pasukan {0}, dan melihat bahwa mereka sedang memberikan sedekah kepada orang yang lewat.</Desc>
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện [NAME] trên đường làm việc đi qua lãnh địa của {0}, phát hiện họ đang bố thí.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give11">
-			<DisplayName>Special Event</DisplayName>
-			<Desc>Agen [NAME] menemukan kekuatan {0}, dan melihat bahwa mereka sedang berkhotbah.</Desc>
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện [NAME] trên đường làm việc đi qua lãnh địa của {0}, phát hiện họ đang truyền đạo.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give12">
-			<DisplayName>Special Event</DisplayName>
-			<Desc>Agen [NAME] bertemu dengan pasukan {0}, dan melihat bahwa mereka sedang mengadakan upacara puasa.</Desc>
+			<DisplayName>Sự kiện đặc biệt</DisplayName>
+			<Desc>Đại diện [NAME] trên đường làm việc đi qua lãnh địa của {0}, phát hiện họ đang thực hiện giới luật ăn uống.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give13">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka menemukan sebuah rumah kayu rusak, pemiliknya cacat dan tidak mampu memperbaikinya.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn các đệ tử ra phố, bắt đầu bố thí. Đi ngang qua một căn nhà gỗ hư hỏng, chủ nhân của nó bị tàn tật, không thể sửa chữa.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give14">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat seorang pria berkostum asing menipu orang yang lewat.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn các đệ tử ra phố, bắt đầu bố thí. Thấy một người mặc trang phục dị tộc đang giả thần giả quỷ.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give15">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melewati dua kedai minuman yang saling berhadapan di seberang jalan, di mana para pelayannya sedang berdebat tentang masalah bisnis.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn các đệ tử ra phố, bắt đầu bố thí. Đi ngang qua hai quán rượu đối diện nhau, nhân viên của hai quán đang tranh cãi vì chuyện làm ăn.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give16">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka bertemu dengan sekelompok pengungsi.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn dắt các đệ tử ra phố, bắt đầu bố thí. Họ gặp một nhóm người tị nạn chạy nạn đến.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give17">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka melihat seorang pria sekarat yang sakit parah di pinggir jalan, yang memohon kepada agen tersebut untuk melepaskannya dari kesengsaraannya.</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn dắt các đệ tử ra phố, bắt đầu bố thí. Thấy bên đường có một người bệnh nặng sắp chết, cầu xin đại diện giải thoát cho ông ta.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Give18">
-			<DisplayName>Charity</DisplayName>
-			<Desc>[NAME] memimpin para murid ke jalan dan mulai memberikan sedekah kepada orang yang lewat. Mereka secara tidak sengaja menyentuh seorang lelaki tua di tengah kerumunan, yang langsung terjatuh ke tanah dan mulai berteriak, "Aduh! Kakiku patah! Ini dia!"</Desc>
+			<DisplayName>Sự kiện bố thí</DisplayName>
+			<Desc>Đại diện [NAME] dẫn dắt các đệ tử ra phố, bắt đầu bố thí. Trong đám đông, họ vô tình va phải một ông lão, ông ta bất ngờ ngã xuống đất, lớn tiếng kêu: "Ôi trời! Chân ta gãy rồi! Chính là người này!".</Desc>
 		</Text>
 		<Text Name="PolicyStory_Product1">
-			<DisplayName>Manual Labor</DisplayName>
-			<Desc>Itu adalah hari yang baik. [NAME] memutuskan untuk mengawasi persalinan.</Desc>
+			<DisplayName>Sự kiện lao động</DisplayName>
+			<Desc>Ngày hôm đó trời đẹp, đại diện [NAME] quyết định đi giám sát lao động.</Desc>
 		</Text>
 		<Text Name="PolicyStory_TreasureHunt">
-			<DisplayName>Treasure Hunt</DisplayName>
-			<Desc>[NAME] membuat ramalan dan memutuskan untuk mengajak murid-muridnya berburu harta karun.</Desc>
+			<DisplayName>Sự kiện tìm báu vật</DisplayName>
+			<Desc>Đại diện [NAME] tính toán một chút, quyết định dẫn đệ tử đi tìm bảo vật.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Sermon1">
-			<DisplayName>Preaching</DisplayName>
-			<Desc>Hari ini, [NAME] sedang berdiri di pinggir jalan dekat tempat mereka dan bersiap untuk berkhotbah.</Desc>
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Ngày hôm đó, đại diện [NAME] đứng trên con phố lớn trước cửa, chuẩn bị truyền đạo.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Sermon2">
-			<DisplayName>Preaching</DisplayName>
-			<Desc>Hari ini, [NAME] sedang berkhotbah ketika seseorang mendatangi mereka dan berteriak: "Omong kosong!"</Desc>
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Ngày hôm đó, đại diện [NAME] đang giảng kinh truyền đạo. Bất ngờ có một người bước lên phía trước, lớn tiếng nói: “Hoàn toàn vô lý!”</Desc>
 		</Text>
 		<Text Name="PolicyStory_Sermon3">
-			<DisplayName>Preaching</DisplayName>
-			<Desc>Hari ini, [NAME] sedang berkhotbah ketika seorang ulama mendatangi mereka dan mengatakan apa pun yang dikatakan agen itu salah.</Desc>
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Ngày hôm đó, đại diện [NAME] đang giảng kinh truyền đạo. Bất ngờ có một người học giả bước lên phía trước, nói rằng đại diện giảng không đúng, tóm lại là có vấn đề.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Sermon4">
-			<DisplayName>Preaching</DisplayName>
-			<Desc>Itu adalah hari yang cerah, dan [NAME] sedang berkhotbah. Seorang wanita paruh baya terus bertepuk tangan dengan cara yang menjengkelkan, tapi dia bukanlah pengikutnya.</Desc>
+			<DisplayName>Truyền đạo</DisplayName>
+			<Desc>Hôm nay thời tiết trong lành, đại diện [NAME] đang giảng kinh truyền đạo. Trong đám đông, có một bà cụ liên tục vỗ tay khen ngợi, gây khó chịu, nhưng bà ấy không phải là tín đồ.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Secret1">
-			<DisplayName>Plotting</DisplayName>
-			<Desc>Itu adalah hari yang cerah, dan [NAME] berjalan ke paviliun rahasia untuk membuat plot.</Desc>
+			<DisplayName>Mưu Đồ</DisplayName>
+			<Desc>Hôm nay thời tiết trong lành, đại diện [NAME] bước vào Mật Các, chuẩn bị thực hiện một âm mưu.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Secret2">
-			<DisplayName>Plotting</DisplayName>
-			<Desc>[NAME] mengetahui bahwa {0} sedang memberi sedekah dan memutuskan untuk ikut campur.</Desc>
+			<DisplayName>Mưu Đồ</DisplayName>
+			<Desc>Đại diện [NAME] phát hiện {0} đang bố thí, quyết định gây rối.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Secret3">
-			<DisplayName>Plotting</DisplayName>
-			<Desc>[NAME] menemukan bahwa {0} sedang bersiap untuk berkhotbah...sebuah ide muncul di benakku seperti sambaran petir.</Desc>
+			<DisplayName>Mưu Đồ</DisplayName>
+			<Desc>Đại diện [NAME] phát hiện {0} đang truyền đạo, nhíu mày, nghĩ ra kế sách.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Secret4">
-			<DisplayName>Plotting</DisplayName>
-			<Desc>[NAME] mengetahui bahwa {0} sedang mengadakan upacara puasa. Agen memutuskan untuk ikut campur.</Desc>
+			<DisplayName>Mưu Đồ</DisplayName>
+			<Desc>Đại diện [NAME] phát hiện {0} đang thực hiện giới luật ăn uống. Đại diện quyết định đi gây rối.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Disp1">
-			<DisplayName>Abstinence</DisplayName>
-			<Desc>Itu adalah hari yang cerah, dan [NAME] berada di Kuil Disiplin mempersiapkan Pantang.</Desc>
+			<DisplayName>Thụ Giới</DisplayName>
+			<Desc>Hôm nay trời nắng đẹp, đại diện [NAME] ở Giới Luật Viện, chuẩn bị thực hiện một lần thụ giới.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Disp2">
-			<DisplayName>Abstinence</DisplayName>
-			<Desc>[NAME] melihat bahwa semua orang menjalani gaya hidup mewah dan memutuskan untuk melakukan Pantang.</Desc>
+			<DisplayName>Thụ Giới</DisplayName>
+			<Desc>Đại diện [NAME] thấy thế gian vui chơi thâu đêm, không biết chán, quyết định tổ chức lễ thọ giới.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Disp3">
-			<DisplayName>Abstinence</DisplayName>
-			<Desc>[NAME] melihat orang kaya hidup mewah sementara orang miskin mati di pinggir jalan, dan memutuskan untuk berpantang.</Desc>
+			<DisplayName>Thụ Giới</DisplayName>
+			<Desc>Đại diện [NAME] thấy thế gian nhà giàu rượu thịt thừa mứa, ngoài đường người chết rét, quyết định tổ chức lễ thọ giới.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Disp4">
-			<DisplayName>Abstinence</DisplayName>
-			<Desc>[NAME] melihat bahwa penjahat sedang menjalankan kota dan kebencian memenuhi kota, dan memutuskan untuk melakukan Pantang.</Desc>
+			<DisplayName>Thụ Giới</DisplayName>
+			<Desc>Đại diện [NAME] thấy thế gian lục lâm hoành hành, đầy rẫy sát khí, quyết định tổ chức lễ thọ giới.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Disp5">
-			<DisplayName>Abstinence</DisplayName>
-			<Desc>[NAME] melihat pedagang dan perampok yang tidak jujur ​​menguasai kota, dan memutuskan untuk berpantang.</Desc>
+			<DisplayName>Thụ Giới</DisplayName>
+			<Desc>Đại diện [NAME] thấy thế gian trộm cướp lộng hành, gây ra hỗn loạn, quyết định tổ chức lễ thọ giới.</Desc>
 		</Text>
 		<Text Name="PolicyStory_OtherDisp1">
-			<DisplayName>Abstinence</DisplayName>
-			<Desc>Hari ini, [NAME] melihat itu [SCHOOL{0}] sedang berpantang.</Desc>
+			<DisplayName>Thụ Giới</DisplayName>
+			<Desc>Ngày hôm đó, đại diện [NAME] thấy [SCHOOL{0}] đang thực hiện thụ giới.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Drought">
-			<DisplayName>Disaster Relief</DisplayName>
-			<Desc>[NAME] memutuskan untuk mengatasi kekeringan.</Desc>
+			<DisplayName>Cứu trợ</DisplayName>
+			<Desc>Đại diện [NAME] quyết định xử lý hạn hán.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Flood">
-			<DisplayName>Disaster Relief</DisplayName>
-			<Desc>[NAME] memutuskan untuk menangani banjir.</Desc>
+			<DisplayName>Cứu trợ</DisplayName>
+			<Desc>Đại diện [NAME] quyết định xử lý lũ lụt.</Desc>
 		</Text>
 		<Text Name="PolicyStory_Siberia">
-			<DisplayName>Disaster Relief</DisplayName>
-			<Desc>[NAME] memutuskan untuk menghadapi gelombang dingin.</Desc>
+			<DisplayName>Cứu trợ</DisplayName>
+			<Desc>Đại diện [NAME] quyết định xử lý lạnh giá.</Desc>
 		</Text>
 		<Text Name="PolicyStory_EarthQuake">
-			<DisplayName>Disaster Relief</DisplayName>
-			<Desc>[NAME] memutuskan untuk menangani gempa tersebut.</Desc>
+			<DisplayName>Cứu trợ</DisplayName>
+			<Desc>Đại diện [NAME] quyết định xử lý động đất.</Desc>
 		</Text>
 		<Text Name="PolicyStory_God1">
-			<DisplayName>Miracle Performance</DisplayName>
-			<Desc>[NAME] memutuskan untuk membiarkan seorang murid Shendao melakukan keajaiban.</Desc>
+			<DisplayName>Thể Hiện Thần Tích</DisplayName>
+			<Desc>Đại diện [NAME] quyết định để các đệ tử tu thần thể hiện một chút thần tích.</Desc>
 		</Text>
 	</List>
 </Texts>
+

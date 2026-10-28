@@ -1,88 +1,89 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="LeftoverMaterialBase" sParam="Item">
-			<Desc>Sisa bahan yang dapat digunakan untuk meletakkan lantai atau membuat atap.</Desc>
-			<Item.FabaoSuffix>Nail, Dart, Scrap</Item.FabaoSuffix>
+			<Desc>Vật liệu nhỏ dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.FabaoSuffix>Đinh, Phiêu, Vụn</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_WoodLeftover" sParam="Item">
-			<ThingName>Wood Offcut</ThingName>
-			<Desc>Sisa bahan bangunan bercampur dengan potongan kayu. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Wood</Item.BeMaterial.NamePrefix>
+			<ThingName>Gỗ vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn gỗ, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Mộc</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_HardWoodLeftover" sParam="Item">
-			<ThingName>Goldwood Offcut</ThingName>
-			<Desc>Bahan bangunan sisa dicampur dengan potongan Goldwood. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Goldwood</Item.BeMaterial.NamePrefix>
+			<ThingName>Gỗ vụn kim ti</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn gỗ kim ti, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Gỗ kim ti</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_ParasolWoodLeftover" sParam="Item">
-			<ThingName>Phoenixwood Offcut</ThingName>
-			<Desc>Bahan bangunan sisa dicampur dengan potongan Phoenixwood. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Parasol Wood</Item.BeMaterial.NamePrefix>
+			<ThingName>Gỗ vụn ngô đồng</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn gỗ ngô đồng, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Gỗ ngô đồng</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingWoodLeftover" sParam="Item">
-			<ThingName>Spiritwood Offcut</ThingName>
-			<Desc>Bahan bangunan sisa dicampur dengan potongan Spiritwood. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Spiritwood</Item.BeMaterial.NamePrefix>
+			<ThingName>Gỗ vụn linh mộc</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn linh mộc, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Gỗ linh mộc</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_BrownRockLeftover" sParam="Item">
-			<ThingName>Brownstone Offcut</ThingName>
-			<Desc>Sisa bahan bangunan dicampur potongan batu bata. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Brownstone</Item.BeMaterial.NamePrefix>
+			<ThingName>Đá nâu vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn đá nâu, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá nâu</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_GrayRockLeftover" sParam="Item">
-			<ThingName>Graystone Offcut</ThingName>
-			<Desc>Bahan bangunan sisa dicampur dengan potongan Graystone. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Graystone</Item.BeMaterial.NamePrefix>
+			<ThingName>Đá xám vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn đá xám, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá xám</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_MarbleLeftover" sParam="Item">
-			<ThingName>Marble Offcut</ThingName>
-			<Desc>Sisa bahan bangunan dicampur potongan marmer. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Marble</Item.BeMaterial.NamePrefix>
+			<ThingName>Đá cẩm thạch vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn đá cẩm thạch, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá cẩm thạch</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_JadeLeftover" sParam="Item">
-			<ThingName>Jade Offcut</ThingName>
-			<Desc>Sisa bahan bangunan dicampur dengan potongan batu giok. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Jade</Item.BeMaterial.NamePrefix>
+			<ThingName>Đá ngọc vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn ngọc, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Đá ngọc</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SkyStoneLeftover" sParam="Item">
-			<ThingName>Holy Stone Offcut</ThingName>
-			<Desc>Sisa bahan bangunan dicampur dengan potongan Batu Suci. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Holy Stone</Item.BeMaterial.NamePrefix>
+			<ThingName>Thiên trụ thạch vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn Thiên trụ thạch, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Thiên trụ thạch</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingStoneLeftover" sParam="Item">
-			<ThingName>Spirit Stone Offcut</ThingName>
-			<Desc>Sisa bahan bangunan dicampur dengan potongan batu roh. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Spirit Stone</Item.BeMaterial.NamePrefix>
+			<ThingName>Linh thạch vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn Linh thạch, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Linh thạch</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LingCrystalLeftover" sParam="Item">
-			<ThingName>Spirit Crystal Offcut</ThingName>
-			<Desc>Bahan bangunan sisa dicampur dengan potongan Spirit Crystal. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Spirit Crystal</Item.BeMaterial.NamePrefix>
+			<ThingName>Tinh linh vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn tinh linh, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Tinh linh</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_IronRockLeftover" sParam="Item">
-			<ThingName>Iron Offcut</ThingName>
-			<Desc>Sisa bahan bangunan bercampur dengan potongan besi. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Iron</Item.BeMaterial.NamePrefix>
+			<ThingName>Quặng sắt vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn sắt, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Sắt chế</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_CopperRockLeftover" sParam="Item">
-			<ThingName>Igneocopper Offcut</ThingName>
-			<Desc>Sisa bahan bangunan dicampur dengan potongan Igneocopper. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Igneocopper</Item.BeMaterial.NamePrefix>
+			<ThingName>Hoả Đồng vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn Hoả Đồng, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Hoả Đồng</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SilverRockLeftover" sParam="Item">
-			<ThingName>Ice Crystal Offcut</ThingName>
-			<Desc>Sisa bahan bangunan dicampur dengan potongan Ice Crystal. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Ice Crystal</Item.BeMaterial.NamePrefix>
+			<ThingName>Tinh hàn vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn tinh hàn, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Tinh hàn</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_DarksteelRockLeftover" sParam="Item">
-			<ThingName>Darksteel Offcut</ThingName>
-			<Desc>Bahan bangunan sisa dicampur dengan potongan Darksteel. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Darksteel</Item.BeMaterial.NamePrefix>
+			<ThingName>Huyền thiết vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn huyền thiết, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Huyền thiết</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_StarEssenceLeftover" sParam="Item">
-			<ThingName>Lumina Core Offcut</ThingName>
-			<Desc>Bahan bangunan sisa dicampur dengan potongan inti lumina. Dapat digunakan untuk meletakkan lantai atau membangun atap.</Desc>
-			<Item.BeMaterial.NamePrefix>Lumina Core</Item.BeMaterial.NamePrefix>
+			<ThingName>Tinh tủy vụn</ThingName>
+			<Desc>Vật liệu xây dựng pha lẫn vụn Tinh tủy, có thể dùng để lát sàn hoặc xây mái hiên.</Desc>
+			<Item.BeMaterial.NamePrefix>Tinh tủy</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>
+

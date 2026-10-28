@@ -181,4 +181,5 @@
 /Settings/RPG/Maps/Rpg_Tower_10/map.txt	Things.Things.274.PropertyMgr._hd.RelationData.Cache.1.SName	凌珍	274.1	_ReplaceNpcNameInRelationData
 /Settings/RPG/Maps/Rpg_Tower_10/map.txt	Things.Things.274.Titles.0.title	最初者	274.0	
 /Settings/RPG/Maps/Rpg_Tower_10/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param1	哟？难得有外人前来？稀客稀客!	1	
-/Settings/RPG/Maps/Rpg_Tower_10/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param2	来来来，让我打一拳先，这个鬼地方，真是闷出鸟了！	1	
+/Settings/RPG/Maps/Rpg_Tower_10/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param2	来来来，让我打一拳先，这个鬼地方，真是闷出鸟了！	1
+

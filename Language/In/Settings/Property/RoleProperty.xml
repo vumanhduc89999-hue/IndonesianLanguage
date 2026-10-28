@@ -1,133 +1,134 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LeadExperienceAddtion">
-			<DisplayName>Background Bonus</DisplayName>
+			<DisplayName>Tăng điểm kinh nghiệm.</DisplayName>
 		</Text>
 		<Text Name="BaseWorkSpeed">
-			<DisplayName>Basic Work Efficiency</DisplayName>
-			<DisplayValue>{0}/sec</DisplayValue>
-			<Desc>Kecepatan kerja dasar suatu karakter. Menunjukkan jumlah pekerjaan yang dapat mereka selesaikan per detik.</Desc>
-			<FunctionKind>Produce Stats</FunctionKind>
+			<DisplayName>Tốc độ làm việc cơ bản.</DisplayName>
+			<DisplayValue>{0} điểm/giây</DisplayValue>
+			<Desc>Tốc độ làm việc cơ bản của nhân vật, hoàn thành bao nhiêu công việc mỗi giây.</Desc>
+			<FunctionKind>Thuộc tính sản xuất.</FunctionKind>
 		</Text>
 		<Text Name="BaseEmotionAddV">
-			<DisplayName>Base Mood Value</DisplayName>
-			<DisplayValue>{0}</DisplayValue>
-			<Desc>Nilai mood dasar karakter.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<DisplayName>Giá trị cơ bản của tâm trạng.</DisplayName>
+			<DisplayValue>{0} điểm</DisplayValue>
+			<Desc>Giá trị cơ bản của tâm trạng nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
 		</Text>
 		<Text Name="MaxAge">
-			<DisplayName>Lifespan</DisplayName>
-			<DisplayValue>{0}</DisplayValue>
-			<Desc>Usia tertinggi yang dapat dijalani oleh karakter tersebut.</Desc>
+			<DisplayName>Thọ nguyên</DisplayName>
+			<DisplayValue>{0} năm</DisplayValue>
+			<Desc>Tuổi thọ tối đa mà nhân vật có thể đạt được.</Desc>
 		</Text>
 		<Text Name="AgeCostSpeed">
-			<DisplayName>Lifespan Diminish Rate</DisplayName>
-			<Desc>Kecepatan berlalunya kehidupan karakter.</Desc>
+			<DisplayName>Tốc độ hao mòn tuổi thọ.</DisplayName>
+			<Desc>Tốc độ hao mòn tự nhiên của tuổi thọ nhân vật.</Desc>
 		</Text>
 		<Text Name="VisionRadius">
-			<DisplayName>Perception Radius</DisplayName>
-			<DisplayValue>{0:N2}m</DisplayValue>
-			<Desc>Jarak maksimum di mana karakter dapat melihat sekelilingnya.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<DisplayName>Phạm vi cảm nhận.</DisplayName>
+			<DisplayValue>{0:N2} mét</DisplayValue>
+			<Desc>Phạm vi cảm nhận môi trường xung quanh của nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
 		</Text>
 		<Text Name="MoveSpeed">
-			<DisplayName>Move Speed</DisplayName>
-			<DisplayValue>{0:N2}m/sec</DisplayValue>
-			<Desc>Kecepatan gerak karakter.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<DisplayName>Tốc độ di chuyển</DisplayName>
+			<DisplayValue>{0:N2} mét/giây</DisplayValue>
+			<Desc>Tốc độ di chuyển của nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
 		</Text>
 		<Text Name="ComfyTMin">
-			<DisplayName>Lowest Ideal Temperature</DisplayName>
-			<Desc>Suhu terendah di mana karakter merasa nyaman.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<DisplayName>Nhiệt độ thoải mái tối thiểu.</DisplayName>
+			<Desc>Nhiệt độ tối thiểu mà nhân vật cảm thấy thoải mái.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
 		</Text>
 		<Text Name="ComfyTMax">
-			<DisplayName>Highest Ideal Temperature</DisplayName>
-			<Desc>Suhu tertinggi di mana karakter merasa nyaman.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<DisplayName>Nhiệt độ thoải mái tối đa.</DisplayName>
+			<Desc>Nhiệt độ tối đa mà nhân vật cảm thấy thoải mái.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
 		</Text>
 		<Text Name="ToleranceTMin">
-			<DisplayName>Lowest Temperature Tolerance</DisplayName>
-			<Desc>Suhu terendah yang tidak mempengaruhi kesehatan karakter.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<DisplayName>Nhiệt độ giới hạn tối thiểu.</DisplayName>
+			<Desc>Nhiệt độ tối thiểu không ảnh hưởng đến sức khỏe của nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
 		</Text>
 		<Text Name="ToleranceTMax">
-			<DisplayName>Highest Temperature Tolerance</DisplayName>
-			<Desc>Suhu tertinggi yang tidak mempengaruhi kesehatan karakter.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<DisplayName>Nhiệt độ giới hạn tối đa.</DisplayName>
+			<Desc>Nhiệt độ tối đa không ảnh hưởng đến sức khỏe của nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
 		</Text>
 		<Text Name="RecoveryPower">
-			<DisplayName>Natural Resilience</DisplayName>
-			<DisplayValue>{0}%/sec</DisplayValue>
-			<Desc>Tingkat pemulihan alami karakter dari penyakit dan cedera.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<DisplayName>Khả năng tự phục hồi.</DisplayName>
+			<DisplayValue>{0}％/giây</DisplayValue>
+			<Desc>Tốc độ tự phục hồi thương tổn của nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
 		</Text>
 		<Text Name="PainTolerance">
-			<DisplayName>Pain Tolerance</DisplayName>
-			<Desc>Tingkat rasa sakit maksimum yang dapat ditoleransi oleh karakter.</Desc>
-			<FunctionKind>Base Stats</FunctionKind>
+			<DisplayName>Giới hạn chịu đau.</DisplayName>
+			<Desc>Mức độ chịu đựng đau đớn của nhân vật.</Desc>
+			<FunctionKind>Thuộc tính cơ bản</FunctionKind>
 		</Text>
 		<Text Name="IntelligenceSkillEXPConstant">
-			<DisplayName>Learning Speed</DisplayName>
-			<Desc>Jumlah pengalaman yang didapat karakter dari latihan. Juga mempengaruhi kecepatan Penggarap Inti Emas mendapatkan inspirasi.</Desc>
-			<FunctionKind>Cultivation Stats</FunctionKind>
+			<DisplayName>Tốc độ học tập.</DisplayName>
+			<Desc>Tốc độ nhân vật nhận được kinh nghiệm từ thực tiễn, cũng ảnh hưởng đến tốc độ nhận thức của người tu luyện pháp kim đan.</Desc>
+			<FunctionKind>Thuộc Tính Tu Luyện.</FunctionKind>
 		</Text>
 		<Text Name="EmotionAmplificationFactor">
-			<DisplayName>Mood Multiplier</DisplayName>
+			<DisplayName>Hệ số phóng đại cảm xúc.</DisplayName>
 		</Text>
 		<Text Name="FavourChangeSpeedRate">
-			<DisplayName>Favor Changing Rate</DisplayName>
+			<DisplayName>Tốc độ thay đổi độ yêu thích.</DisplayName>
 		</Text>
 		<Text Name="NightmareHappenPercent">
-			<DisplayName>Nightmare Occurring Chance</DisplayName>
-			<Desc>Peluang karakter mengalami mimpi buruk.</Desc>
+			<DisplayName>Tỷ lệ xảy ra ác mộng.</DisplayName>
+			<Desc>Tỷ lệ xảy ra ác mộng khi nhân vật ngủ.</Desc>
 		</Text>
 		<Text Name="NiceDreamHappenPercent">
-			<DisplayName>Sweetdream Occurring Chance</DisplayName>
-			<Desc>Peluang karakter untuk mendapatkan mimpi indah.</Desc>
+			<DisplayName>Tỷ lệ xảy ra giấc mơ đẹp.</DisplayName>
+			<Desc>Tỷ lệ xảy ra giấc mơ đẹp khi nhân vật ngủ.</Desc>
 		</Text>
 		<Text Name="FatigueConsumeConstant">
-			<DisplayName>Energy Consumption Bonus</DisplayName>
-			<Desc>Bonus konsumsi energi karakter.</Desc>
+			<DisplayName>Tăng tiêu hao tinh lực.</DisplayName>
+			<Desc>Tỷ lệ tiêu hao tinh lực của nhân vật.</Desc>
 		</Text>
 		<Text Name="FatigueRecoveryConstant">
-			<DisplayName>Energy Replenishment Bonus</DisplayName>
-			<Desc>Bonus pengisian energi karakter.</Desc>
+			<DisplayName>Giá trị tăng bổ sung tinh lực</DisplayName>
+			<Desc>Tỷ lệ bổ sung tinh lực của nhân vật.</Desc>
 		</Text>
 		<Text Name="NutritionConsumeConstant">
-			<DisplayName>Food Consumption Bonus</DisplayName>
-			<Desc>Bonus kecepatan konsumsi makanan karakter.</Desc>
+			<DisplayName>Tăng tiêu hao thực phẩm.</DisplayName>
+			<Desc>Tỷ lệ tiêu hao thực phẩm của nhân vật.</Desc>
 		</Text>
 		<Text Name="NutritionRecoveryConstant">
-			<DisplayName>Food Replenishment Bonus</DisplayName>
-			<Desc>Bonus pengisian makanan karakter.</Desc>
+			<DisplayName>Giá trị tăng bổ sung thức ăn</DisplayName>
+			<Desc>Tỷ lệ bổ sung thực phẩm của nhân vật.</Desc>
 		</Text>
 		<Text Name="WaterConsumeConstant">
-			<DisplayName>Water Consumption Bonus</DisplayName>
-			<Desc>Bonus konsumsi air karakter.</Desc>
+			<DisplayName>Tăng tiêu hao nước uống.</DisplayName>
+			<Desc>Tỷ lệ tiêu hao nước uống của nhân vật.</Desc>
 		</Text>
 		<Text Name="WaterRecoveryConstant">
-			<DisplayName>Water Replenishment Bonus</DisplayName>
-			<Desc>Bonus pengisian air karakter.</Desc>
+			<DisplayName>Giá trị tăng bổ sung nước uống</DisplayName>
+			<Desc>Tỷ lệ bổ sung nước uống của nhân vật.</Desc>
 		</Text>
 		<Text Name="HappyConsumeConstant">
-			<DisplayName>Recreation Consumption Bonus</DisplayName>
-			<Desc>Bonus konsumsi rekreasi karakter.</Desc>
+			<DisplayName>Tăng tiêu hao giải trí.</DisplayName>
+			<Desc>Tỷ lệ tiêu hao giải trí của nhân vật.</Desc>
 		</Text>
 		<Text Name="HappyRecoveryConstant">
-			<DisplayName>Recreation Replenishment Bonus</DisplayName>
-			<Desc>Bonus pengisian rekreasi karakter.</Desc>
+			<DisplayName>Giá trị tăng bổ sung giải trí</DisplayName>
+			<Desc>Tỷ lệ bổ sung giải trí của nhân vật.</Desc>
 		</Text>
 		<Text Name="PracticeFoodConsumeConstant">
-			<DisplayName>Essence Consumption Bonus</DisplayName>
-			<Desc>Bonus konsumsi esensi karakter.</Desc>
+			<DisplayName>Tăng tiêu hao tinh nguyên.</DisplayName>
+			<Desc>Tỷ lệ tiêu hao tinh nguyên của nhân vật.</Desc>
 		</Text>
 		<Text Name="PracticeFoodRecoveryConstant">
-			<DisplayName>Stamina Replenishment Bonus</DisplayName>
-			<Desc>Bonus pengisian esensi karakter.</Desc>
+			<DisplayName>Giá trị tăng bổ sung tinh nguyên</DisplayName>
+			<Desc>Tỷ lệ bổ sung tinh nguyên của nhân vật.</Desc>
 		</Text>
 		<Text Name="MagicDamageRecoveryPowerAddV">
-			<DisplayName>Natural Resilience for Inner Injuries</DisplayName>
+			<DisplayName>Khả năng tự phục hồi thương tổn nội môn.</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

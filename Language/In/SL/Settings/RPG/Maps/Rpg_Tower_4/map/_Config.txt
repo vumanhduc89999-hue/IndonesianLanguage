@@ -393,7 +393,8 @@
 天苍 232年第85日,通过从发呆获取的理智，对有点恐惧的感知，对雾的认知，产生了一点灵智碎片。
 天苍 236年第107日,通过从听弟子练功获取的理智，对非常恐惧的感知，对自己的认知，产生了一点灵智碎片。
 天苍 238年第111日,通过从做梦获取的理智，对平静的感知，对裤子的认知，产生了一点灵智碎片。
-天苍 244年第98日,通过从面朝北方获取的理智，对非常高兴的感知，对人的认知，产生了一点灵智碎片。	491.1	
+天苍 244年第98日,通过从面朝北方获取的理智，对非常高兴的感知，对人的认知，产生了一点灵智碎片。
+	491.1	
 /Settings/RPG/Maps/Rpg_Tower_4/map.txt	Things.Things.491.Titles.0.title	永世之奴役	491.0	
 /Settings/RPG/Maps/Rpg_Tower_4/map.txt	Skills.SkillDefs.TDamageSkill-558.DisplayName	赤霄宫覆灭	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_4/map.txt	Skills.SkillDefs.TDamageSkill-559.DisplayName	震雷流光神雷	-1	_ReplaceSkillDisplaceName
@@ -403,4 +404,5 @@
 /Settings/RPG/Maps/Rpg_Tower_4/map.txt	Skills.SkillDefs.TDamageSkill-563.DisplayName	丁火飞星	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_4/map.txt	Skills.SkillDefs.TFabaoSkill-84.DisplayName	麒麟化影诀	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_4/map.txt	RPGInfo.Objects.2.LuaPostProcessing.Param1	呼噜呼噜……这，这些宝藏……呼噜……都，都是…我，我我的！	2	
-/Settings/RPG/Maps/Rpg_Tower_4/map.txt	RPGInfo.Objects.2.LuaPostProcessing.Param2	你，你是谁？你也想抢我的宝物…？你，你你别想，别想拿！！！嗷哈哈哈哈！	2	
+/Settings/RPG/Maps/Rpg_Tower_4/map.txt	RPGInfo.Objects.2.LuaPostProcessing.Param2	你，你是谁？你也想抢我的宝物…？你，你你别想，别想拿！！！嗷哈哈哈哈！	2
+

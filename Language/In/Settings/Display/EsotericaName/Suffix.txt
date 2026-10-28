@@ -1,8 +1,10 @@
-General,Secret Law,Anthology,Instruction,Codex,Secret Scroll
-Artifact Mastery,Sword,Sword Chant,Mantra,Method,Seven Methods,Ten Methods,Thirteen Methods,Codex,Technique
-Spell,Seven Pages,Nine Volumes,Volume,Doctrine,Codex,Technique
-Protection,Doctrine,Secret Manual,Codex,Secret Scroll
-Elixir,Elixir Recipe,Pharmacopoeia,Manual,Encyclopedia
-Craft,Essentials,Secret Method,Manual,Encyclopedia
-Law,Divine Law,Doctrine,Summary,Secret Method
-Seeking Peace,Script,Book,Codex,Record
+Thông Dụng,Bí Pháp,Bí Yếu,Yêu Quyết,Bảo Điển,Mật Quyển
+Ngự Khí,Kiếm,Kiếm Quyết,Quyết,Thức,Bảy Thức,Mười Thức,Mười Ba Thức,Bảo Điển,Bí Quyết
+Thuật Pháp,Bảy Ký,Chín Quyển,Quyển,Kinh,Bảo Điển,Bí Quyết
+Hộ Thể,Kinh,Bí Sách,Bảo Điển,Mật Quyển
+Đan Dược,Đan Phương,Dược Điển,Bảo Sách,Thông Quyển
+Luyện Bảo,Đề Cương,Bí Truyền,Bảo Sách,Thông Quyển
+Công Pháp,Thần Công,Kinh,Ký Yếu,Bí Truyền
+Điều Tâm,Thư,Sách,Điển,Ký
+
+

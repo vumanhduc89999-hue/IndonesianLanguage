@@ -1,207 +1,208 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_BodyPracticeBase" sParam="Item">
-			<ThingName>Base</ThingName>
+			<ThingName>Cơ sở base</ThingName>
 		</Text>
 		<Text Name="Item_BodyPractice_TaiXu" sParam="Item">
-			<ThingName>Illusion Essence</ThingName>
-			<Desc>Energi yang ditinggalkan oleh kekuatan penciptaan sejak awal langit dan bumi. Esensi khas seperti ini sangat sulit ditemukan saat ini.</Desc>
+			<ThingName>Tinh hoa Thái Hư</ThingName>
+			<Desc>Tàn dư từ sức mạnh sáng tạo khi trời đất khai mở, loại tinh hoa đặc biệt này rất khó thu thập trong hậu thế.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_XuanTian" sParam="Item">
-			<ThingName>Nimbus Essence</ThingName>
-			<Desc>Energi yang ditinggalkan oleh kekuatan penciptaan sejak awal langit dan bumi. Esensi khas seperti ini sangat sulit ditemukan saat ini.</Desc>
+			<ThingName>Huyền Thiên Tử Khí</ThingName>
+			<Desc>Tàn dư từ sức mạnh sáng tạo khi trời đất khai mở, loại tinh hoa đặc biệt này rất khó thu thập trong hậu thế.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_JieMie" sParam="Item">
-			<ThingName>Tribulation Essence</ThingName>
-			<Desc>Esensi dengan kekuatan pemusnahan hanya dapat dikumpulkan dalam kesengsaraan surgawi.</Desc>
+			<ThingName>Tinh hoa Kiếp Diệt</ThingName>
+			<Desc>Tinh hoa chứa sức mạnh hủy diệt, chỉ có thể thu thập trong thiên kiếp.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_JiuYang" sParam="Item">
-			<ThingName>Ignis Essence</ThingName>
-			<Desc>Energi yang paling terkondensasi di bawah terik matahari, sangat sulit dikumpulkan.</Desc>
+			<ThingName>Cửu Dương Chân Hoa</ThingName>
+			<Desc>Năng lượng tinh luyện nhất từ ánh mặt trời gay gắt, rất khó thu thập.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_XuanYue" sParam="Item">
-			<ThingName>Aqualuna Essence</ThingName>
-			<Desc>Energi paling terkondensasi di bulan yang membekukan, sangat sulit dikumpulkan.</Desc>
+			<ThingName>Huyền Nguyệt Chân Tinh</ThingName>
+			<Desc>Năng lượng tinh luyện nhất từ ánh trăng lạnh lẽo, rất khó thu thập.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_TaiYang" sParam="Item">
-			<ThingName>Solar Essence</ThingName>
-			<Desc>Essence of the Sun, hanya bisa dikumpulkan pada tengah hari.</Desc>
+			<ThingName>Tinh hoa Mặt Trời</ThingName>
+			<Desc>Tinh hoa của mặt trời, chỉ có thể thu thập vào đúng giữa trưa.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_TaiYin" sParam="Item">
-			<ThingName>Lunar Essence</ThingName>
-			<Desc>Essence of the Moon, hanya bisa dikumpulkan pada tengah malam.</Desc>
+			<ThingName>Tinh hoa Thái Âm</ThingName>
+			<Desc>Tinh hoa của mặt trăng, chỉ có thể thu thập vào lúc nửa đêm.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_EXJin" sParam="Item">
-			<ThingName>Innate Metal Essence</ThingName>
-			<Desc>Salah satu esensi primordial dari Lima Elemen, hanya dapat ditemukan di lingkungan dan item dengan elemen Logam yang sangat kuat.</Desc>
+			<ThingName>Tiên Thiên Kim Tinh</ThingName>
+			<Desc>Tinh hoa ngũ hành tiên thiên, chỉ có thể thu thập trong môi trường hoặc vật phẩm có thuộc tính kim cực kỳ đậm đặc.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_EXMu" sParam="Item">
-			<ThingName>Innate Wood Essence</ThingName>
-			<Desc>Salah satu esensi primordial dari Lima Elemen, hanya dapat ditemukan di lingkungan dan item dengan elemen Kayu yang sangat kuat.</Desc>
+			<ThingName>Tiên Thiên Mộc Tinh</ThingName>
+			<Desc>Tinh hoa ngũ hành tiên thiên, chỉ có thể thu thập trong môi trường hoặc vật phẩm có thuộc tính mộc cực kỳ đậm đặc.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_EXShui" sParam="Item">
-			<ThingName>Innate Water Essence</ThingName>
-			<Desc>Salah satu esensi primordial dari Lima Elemen, hanya dapat ditemukan di lingkungan dan item dengan elemen Air yang sangat kuat.</Desc>
+			<ThingName>Tiên Thiên Thủy Tinh</ThingName>
+			<Desc>Tinh hoa ngũ hành tiên thiên, chỉ có thể thu thập trong môi trường hoặc vật phẩm có thuộc tính thủy cực kỳ đậm đặc.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_EXHuo" sParam="Item">
-			<ThingName>Innate Fire Essence</ThingName>
-			<Desc>Salah satu esensi primordial dari Lima Elemen, hanya dapat ditemukan di lingkungan dan item dengan elemen Api yang sangat kuat.</Desc>
+			<ThingName>Tiên Thiên Hỏa Tinh</ThingName>
+			<Desc>Tinh hoa ngũ hành tiên thiên, chỉ có thể thu thập trong môi trường hoặc vật phẩm có thuộc tính hỏa cực kỳ đậm đặc.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_EXTu" sParam="Item">
-			<ThingName>Innate Earth Essence</ThingName>
-			<Desc>Salah satu esensi primordial dari Lima Elemen, hanya dapat ditemukan di lingkungan dan item dengan elemen Tanah yang sangat kuat.</Desc>
+			<ThingName>Tiên Thiên Thổ Tinh</ThingName>
+			<Desc>Tinh hoa ngũ hành tiên thiên, chỉ có thể thu thập trong môi trường hoặc vật phẩm có thuộc tính thổ cực kỳ đậm đặc.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_Jin" sParam="Item">
-			<ThingName>Metal Essence</ThingName>
-			<Desc>Salah satu esensi yang diperoleh dari Lima Elemen. Mereka dapat dikumpulkan di mana saja di dunia jika Anda hanya mencarinya.</Desc>
+			<ThingName>Kim Tinh</ThingName>
+			<Desc>Tinh hoa ngũ hành hậu thiên, phân bố khắp nơi trên thế giới, chỉ cần có tâm là có thể thu thập.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_Mu" sParam="Item">
-			<ThingName>Wood Essence</ThingName>
-			<Desc>Salah satu esensi yang diperoleh dari Lima Elemen. Mereka dapat dikumpulkan di mana saja di dunia jika Anda hanya mencarinya.</Desc>
+			<ThingName>Mộc Tinh</ThingName>
+			<Desc>Tinh hoa ngũ hành hậu thiên, phân bố khắp nơi trên thế giới, chỉ cần có tâm là có thể thu thập.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_Shui" sParam="Item">
-			<ThingName>Water Essence</ThingName>
-			<Desc>Salah satu esensi yang diperoleh dari Lima Elemen. Mereka dapat dikumpulkan di mana saja di dunia jika Anda hanya mencarinya.</Desc>
+			<ThingName>Thủy Tinh</ThingName>
+			<Desc>Tinh hoa ngũ hành hậu thiên, phân bố khắp nơi trên thế giới, chỉ cần có tâm là có thể thu thập.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_Huo" sParam="Item">
-			<ThingName>Fire Essence</ThingName>
-			<Desc>Salah satu esensi yang diperoleh dari Lima Elemen. Mereka dapat dikumpulkan di mana saja di dunia jika Anda hanya mencarinya.</Desc>
+			<ThingName>Hỏa Tinh</ThingName>
+			<Desc>Tinh hoa ngũ hành hậu thiên, phân bố khắp nơi trên thế giới, chỉ cần có tâm là có thể thu thập.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_Tu" sParam="Item">
-			<ThingName>Earth Essence</ThingName>
-			<Desc>Salah satu esensi yang diperoleh dari Lima Elemen. Mereka dapat dikumpulkan di mana saja di dunia jika Anda hanya mencarinya.</Desc>
+			<ThingName>Thổ Tinh</ThingName>
+			<Desc>Tinh hoa ngũ hành hậu thiên, phân bố khắp nơi trên thế giới, chỉ cần có tâm là có thể thu thập.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_FengShuiLing" sParam="Item">
-			<ThingName>Blessed Feng Shui Essence</ThingName>
-			<Desc>Esensi yang hanya terbentuk perlahan di tempat dengan Feng Shui paling luar biasa.</Desc>
+			<ThingName>Linh khí Phong Thủy</ThingName>
+			<Desc>Tinh hoa chỉ có thể chậm rãi ngưng tụ tại nơi phong thủy cực tốt.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_FengShuiSha" sParam="Item">
-			<ThingName>Cursed Feng Shui Essence</ThingName>
-			<Desc>Esensi yang hanya terbentuk perlahan di tempat dengan Feng Shui paling mengerikan.</Desc>
+			<ThingName>Sát lực Phong Thủy</ThingName>
+			<Desc>Tinh hoa chỉ có thể chậm rãi ngưng tụ tại nơi phong thủy cực xấu.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_Chun" sParam="Item">
-			<ThingName>Germination Essence</ThingName>
-			<Desc>Esensi yang terbentuk secara alami antara langit dan bumi seiring aliran musim, melambangkan energi yang tumbuh di musim semi.</Desc>
+			<ThingName>Tinh hoa Khởi Phát</ThingName>
+			<Desc>Tinh hoa tự nhiên sinh ra trong trời đất khi bốn mùa luân chuyển, tương ứng với sức mạnh vạn vật sinh sôi vào mùa xuân.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_Xia" sParam="Item">
-			<ThingName>Blossom Essence</ThingName>
-			<Desc>Esensi yang terbentuk secara alami antara langit dan bumi seiring aliran musim, mewakili energi kemekaran di musim panas.</Desc>
+			<ThingName>Tinh hoa Thịnh Phóng</ThingName>
+			<Desc>Tinh hoa tự nhiên sinh ra trong trời đất khi bốn mùa luân chuyển, tương ứng với sức mạnh vạn vật nở rộ vào mùa hè.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_Qiu" sParam="Item">
-			<ThingName>Withering Essence</ThingName>
-			<Desc>Esensi yang terbentuk secara alami antara langit dan bumi seiring aliran musim, melambangkan energi kemunduran di musim gugur.</Desc>
+			<ThingName>Tinh hoa Suy Vong</ThingName>
+			<Desc>Tinh hoa tự nhiên sinh ra trong trời đất khi bốn mùa luân chuyển, tương ứng với sức mạnh vạn vật lụi tàn vào mùa thu.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_Dong" sParam="Item">
-			<ThingName>Reversion Essence</ThingName>
-			<Desc>Esensi yang terbentuk secara alami antara langit dan bumi seiring aliran musim, mewakili energi kehancuran di musim dingin.</Desc>
+			<ThingName>Tinh hoa Quy Tàng</ThingName>
+			<Desc>Tinh hoa tự nhiên sinh ra trong trời đất khi bốn mùa luân chuyển, tương ứng với sức mạnh vạn vật chìm vào tĩnh lặng vào mùa đông.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_YongYe" sParam="Item">
-			<ThingName>Everlasting Essence</ThingName>
-			<Desc>Esensi misterius yang menembus ruang antara langit dan bumi di Malam Kutub. Asal usul pasti mereka tidak diketahui, seolah-olah mereka bukan milik dunia ini.</Desc>
+			<ThingName>Tinh túy Vĩnh Tịch</ThingName>
+			<Desc>Tinh hoa kỳ lạ tràn ngập trời đất trong đêm vĩnh cửu, nguồn gốc của nó là một bí ẩn, dường như không thuộc về thế giới này.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_JiaoLongYuanJing" sParam="Item">
-			<ThingName>Flood Dragon Essence</ThingName>
-			<Desc>Esensi yang mengandung misteri kehidupan Naga Banjir, yang bisa menjadi referensi bagus bagi Penggarap Fisik.</Desc>
+			<ThingName>Nguyên tinh Giao Long</ThingName>
+			<Desc>Tinh hoa chứa đựng bí ẩn sinh mệnh của giao long, rất hữu ích cho người tu luyện thể chất.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_XiongFengYuanJing" sParam="Item">
-			<ThingName>Phoenix Essence</ThingName>
-			<Desc>Essence yang mengandung misteri kehidupan Phoenix, yang bisa menjadi referensi bagus bagi Penggarap Fisik.</Desc>
+			<ThingName>Nguyên tinh Hung Phụng</ThingName>
+			<Desc>Tinh hoa chứa đựng bí ẩn sinh mệnh của hung phụng, rất hữu ích cho người tu luyện thể chất.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_ZhuLongYuanJing" sParam="Item">
-			<ThingName>Torch Dragon Essence</ThingName>
-			<Desc>Essence yang mengandung misteri kehidupan Torch Dragon, yang bisa menjadi referensi bagus bagi Penggarap Fisik.</Desc>
+			<ThingName>Nguyên tinh Chúc Long</ThingName>
+			<Desc>Tinh hoa chứa đựng bí ẩn sinh mệnh của chúc long, rất hữu ích cho người tu luyện thể chất.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_GuShouJingXue" sParam="Item">
-			<ThingName>Ancient Beast's Blood Essence</ThingName>
-			<Desc>Setetes esensi darah dari Binatang Purba, mengandung misteri tubuhnya yang kuat.</Desc>
+			<ThingName>Tinh huyết Cổ Thú</ThingName>
+			<Desc>Một giọt tinh huyết của cổ thú, chứa đựng bí ẩn về sức mạnh cơ thể của chúng.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_GuShouGuFen" sParam="Item">
-			<ThingName>Ancient Beast's Bone Essence</ThingName>
-			<Desc>Beberapa bubuk yang terbuat dari tulang Binatang Purba, mengandung misteri tubuhnya yang kuat.</Desc>
+			<ThingName>Bột xương Cổ Thú</ThingName>
+			<Desc>Một ít bột xương của cổ thú, chứa đựng bí ẩn về sức mạnh cơ thể của chúng.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_DaYaoYuanJing" sParam="Item">
-			<ThingName>Yaoguai Essence</ThingName>
-			<Desc>Esensi di dalam tubuh monster dengan budidaya yang hebat, mungkin mengandung rahasia tubuh kuat bawaan Yaoguai.</Desc>
+			<ThingName>Nguyên tinh Đại Yêu</ThingName>
+			<Desc>Tinh hoa trong cơ thể yêu thú có tu vi cao thâm, có thể chứa đựng bí mật về thể chất mạnh mẽ bẩm sinh của yêu tộc.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_ShengMingLv1" sParam="Item">
-			<ThingName>Pure Life Essence</ThingName>
-			<Desc>Esensi vitalitas murni, dapat menjadi suplemen yang bagus untuk tubuh Anda.</Desc>
+			<ThingName>Tinh hoa Sinh Cơ</ThingName>
+			<Desc>Tinh hoa sinh cơ thuần túy, tốt nhất cho việc bổ dưỡng thân thể.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_ShengMingLv2" sParam="Item">
-			<ThingName>Intrinsic Life Essence</ThingName>
-			<Desc>Secercah esensi intrinsik asli kehidupan pascakelahiran.</Desc>
+			<ThingName>Bản nguyên Sinh Mệnh</ThingName>
+			<Desc>Một tia tinh hoa bản nguyên của sinh mệnh hậu thiên.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_ShengMingLv3" sParam="Item">
-			<ThingName>Destiny Life Essence</ThingName>
-			<Desc>Nafas kehidupan yang secara alami dihasilkan antara langit dan bumi. Itu juga merupakan sumber kehidupan purba.</Desc>
+			<ThingName>Mệnh Nguyên Tạo Hóa</ThingName>
+			<Desc>Hơi thở sinh mệnh tự nhiên sinh ra trong trời đất, cũng là nguồn gốc của sinh mệnh tiên thiên.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_SiWang" sParam="Item">
-			<ThingName>Wraith Breath</ThingName>
-			<Desc>Setelah kematian suatu makhluk hidup, sebagian dari kekuatan hidup intrinsiknya akan menyebar ke langit dan bumi, sedangkan sebagian lainnya akan berubah menjadi substansi tersebut.</Desc>
+			<ThingName>Hơi thở Tử Linh</ThingName>
+			<Desc>Sau khi sinh linh tiêu vong, một phần bản nguyên sinh mệnh tan vào trời đất, phần còn lại biến dị thành vật này.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_WuHui" sParam="Item">
-			<ThingName>Filth Essence</ThingName>
-			<Desc>Meskipun asal muasal zat ini tidak jelas, zat ini juga merupakan konsentrasi energi keruh semua makhluk hidup, yang mewujudkan misteri mendalam reinkarnasi dan perubahan.</Desc>
+			<ThingName>Tinh hoa Ô Uế</ThingName>
+			<Desc>Dù nguồn gốc u ám, nhưng vật này là kết tinh từ âm khí của chúng sinh, chứa đựng huyền diệu về luân hồi và đọa biến.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_WuXing" sParam="Item">
-			<ThingName>Ethereal Essence</ThingName>
-			<Desc>Esensi yang sangat aneh, tidak terlihat dan tidak berwujud, tetapi benar-benar ada. Dapat diekstraksi dari item halus.</Desc>
+			<ThingName>Tinh hoa Vô Hình</ThingName>
+			<Desc>Một loại tinh hoa kỳ lạ, vô hình vô thể nhưng lại tồn tại thực sự, có thể chiết xuất từ những vật vô hình.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_XianDaoJingHua" sParam="Item">
-			<ThingName>Immortal Essence</ThingName>
-			<Desc>Istilah kolektif untuk produk segala jenis esensi di dunia yang diproses dengan Qi oleh para pembudidaya Inti Emas. Karena infus Qi, esensi ini tidak efektif untuk kultivator Fisik. Jika seseorang secara paksa menggunakan esensi ini untuk membentuk kembali tubuh, hal itu akan menyebabkan kemajuan budidaya bagian tubuh yang ditentukan menjadi batal karena efek tolakan Qi, sehingga mengembalikannya ke keadaan semula.</Desc>
+			<ThingName>Tinh hoa Tiên Đạo</ThingName>
+			<Desc>Tên gọi chung cho các sản phẩm được tu sĩ Kim Đan pháp tu chế tạo từ linh khí và các loại tinh hoa trong trời đất. Do bị nhiễm linh khí, các tinh hoa này không có hiệu quả với người luyện thể. Nếu ép buộc dùng vật này để luyện thể, sẽ gây ra phản ứng bài xích linh khí, khiến công phu luyện thể tại bộ phận đó tan biến và trở lại trạng thái ban đầu.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_XianSui" sParam="Item">
-			<ThingName>Immortal Marrow</ThingName>
-			<Desc>Esensi Tubuh Abadi yang dibentuk oleh seorang kultivator Inti Emas. Efek yang sangat kuat dari zat ini akan menciptakan rangsangan yang intens pada kultivator Fisik. Tidak diketahui apa yang mungkin terjadi jika seseorang menggunakannya untuk Remolding.</Desc>
+			<ThingName>Tiên Tủy</ThingName>
+			<Desc>Tinh hoa từ tiên thể do tu sĩ Kim Đan pháp tu ngưng tụ. Hiệu quả cực kỳ mạnh mẽ của vật này sẽ gây kích thích lớn cho người luyện thể, sử dụng vật này để luyện thể có thể dẫn đến những kết quả không lường trước được.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_ShenSui" sParam="Item">
-			<ThingName>Divine Marrow</ThingName>
-			<Desc>Esensi Tubuh Ilahi yang dibentuk oleh seorang kultivator Shendao. Efek yang sangat kuat dari zat ini akan menciptakan rangsangan yang intens pada kultivator Fisik. Tidak diketahui apa yang mungkin terjadi jika seseorang menggunakannya untuk Remolding.</Desc>
+			<ThingName>Thần Tủy</ThingName>
+			<Desc>Tinh hoa từ thần thể do người tu luyện Thần Đạo ngưng tụ. Hiệu quả cực kỳ mạnh mẽ của vật này sẽ gây kích thích lớn cho người luyện thể, sử dụng vật này để luyện thể có thể dẫn đến những kết quả không lường trước được.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_BaBao" sParam="Item">
-			<ThingName>Universe Essence</ThingName>
-			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah esensi yang diwujudkan dari evolusi cara-cara alam semesta.</Desc>
+			<ThingName>Tinh hoa Vũ Trụ</ThingName>
+			<Desc>Khi trời đất khai mở, vạn đạo diễn hóa. Đây là tinh hoa được hiện thực hóa từ đạo của vũ trụ.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_WanDao" sParam="Item">
-			<ThingName>Genesis Essence</ThingName>
-			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah hakikat yang terwujud dari evolusi cara penciptaan alam semesta.</Desc>
+			<ThingName>Tinh hoa Khai Thiên Địa</ThingName>
+			<Desc>Khi trời đất khai mở, vạn đạo diễn hóa. Đây là tinh hoa được hiện thực hóa từ đạo khai thiên địa.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_QiQing" sParam="Item">
-			<ThingName>Yin Yang Essence</ThingName>
-			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah esensi yang diwujudkan dari evolusi cara Yin dan Yang.</Desc>
+			<ThingName>Tinh hoa Âm Dương</ThingName>
+			<Desc>Khi trời đất khai mở, vạn đạo diễn hóa. Đây là tinh hoa được hiện thực hóa từ đạo âm dương.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_ZhouTian" sParam="Item">
-			<ThingName>Spacetime Essence</ThingName>
-			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah esensi yang diwujudkan dari evolusi cara-cara penurunan waktu.</Desc>
+			<ThingName>Tinh hoa Thời Không</ThingName>
+			<Desc>Khi trời đất mới khai mở, vạn đạo diễn hóa. Đây chính là tinh hoa được hiện hóa từ đạo diễn hóa của thời không.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_XuanYang" sParam="Item">
-			<ThingName>Begin-end Essence</ThingName>
-			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah esensi yang diwujudkan dari evolusi cara awal dan akhir.</Desc>
+			<ThingName>Tinh hoa của sự bắt đầu và kết thúc</ThingName>
+			<Desc>Khi trời đất mới khai mở, vạn đạo diễn hóa. Đây chính là tinh hoa được hiện hóa từ đạo diễn hóa của sự bắt đầu và kết thúc.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_Jian" sParam="Item">
-			<ThingName>Life-death Essence</ThingName>
-			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah hakikat yang terwujud dari evolusi cara hidup dan mati.</Desc>
+			<ThingName>Tinh hoa sinh diệt</ThingName>
+			<Desc>Khi trời đất mới khai mở, vạn đạo diễn hóa. Đây chính là tinh hoa được hiện hóa từ đạo diễn hóa của sinh diệt.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_LingYu" sParam="Item">
-			<ThingName>Thriving Essence</ThingName>
-			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Ini adalah hakikat yang diwujudkan dari evolusi cara berkembangnya makhluk hidup.</Desc>
+			<ThingName>Tinh hoa vạn linh sinh phát</ThingName>
+			<Desc>Khi trời đất mới khai mở, vạn đạo diễn hóa. Đây chính là tinh hoa được hiện hóa từ đạo diễn hóa của vạn linh sinh phát.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_WanGu" sParam="Item">
-			<ThingName>Nullification Essence</ThingName>
-			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah hakikat yang terwujud dari evolusi cara-cara penghapusan waktu.</Desc>
+			<ThingName>Tinh hoa thời không suy tàn</ThingName>
+			<Desc>Khi trời đất mới khai mở, vạn đạo diễn hóa. Đây chính là tinh hoa được hiện hóa từ đạo diễn hóa của thời không suy tàn.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_XuanCi" sParam="Item">
-			<ThingName>Desolation Essence</ThingName>
-			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah hakikat yang terwujud dari evolusi cara-cara kehancuran alam semesta.</Desc>
+			<ThingName>Thiên địa quy tịch</ThingName>
+			<Desc>Khi trời đất mới khai mở, vạn đạo diễn hóa. Đây chính là tinh hoa được hiện hóa từ đạo diễn hóa của trời đất quy về tĩnh lặng.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_QiSha" sParam="Item">
-			<ThingName>Obliteration Essence</ThingName>
-			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah esensi yang terwujud dari evolusi cara pemusnahan makhluk hidup.</Desc>
+			<ThingName>Tinh hoa diệt vong</ThingName>
+			<Desc>Khi trời đất mới khai mở, vạn đạo diễn hóa. Đây chính là tinh hoa được hiện hóa từ đạo diễn hóa của vạn vật diệt vong.</Desc>
 		</Text>
 		<Text Name="Item_BodyPractice_XuanYin" sParam="Item">
-			<ThingName>Destiny Essence</ThingName>
-			<Desc>Pada awalnya, saat terciptanya kosmos, segala sesuatu berevolusi. Inilah hakikat yang terwujud dari evolusi cara penciptaan dan pembentukan.</Desc>
+			<ThingName>Tinh hoa tạo hóa</ThingName>
+			<Desc>Khi trời đất mới khai mở, vạn đạo diễn hóa. Đây chính là tinh hoa được hiện hóa từ đạo diễn hóa của tạo hóa.</Desc>
 		</Text>
 	</List>
 </Texts>
+

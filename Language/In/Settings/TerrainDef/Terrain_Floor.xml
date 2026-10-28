@@ -1,17 +1,18 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FloorBase">
-			<DisplayName>Flooring</DisplayName>
-			<StoryDesc>Itu ada dalam sebuah Sekte</StoryDesc>
+			<DisplayName>Sàn nhà</DisplayName>
+			<StoryDesc>Trong môn phái</StoryDesc>
 		</Text>
 		<Text Name="WoodFloor1">
-			<DisplayName>Wood Flooring</DisplayName>
+			<DisplayName>Sàn gỗ</DisplayName>
 		</Text>
 		<Text Name="WoodFloor2">
-			<DisplayName>Wood Flooring</DisplayName>
+			<DisplayName>Sàn gỗ</DisplayName>
 		</Text>
 		<Text Name="Carpet1">
-			<StoryDesc>Letaknya di karpet merah yang megah dan lembut</StoryDesc>
+			<StoryDesc>Trên thảm đỏ, trên thảm đỏ lộng lẫy, trên thảm đỏ mềm mại</StoryDesc>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,22 +1,23 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Bear_1">
-			<Prefix>Anarchic</Prefix>
-			<Suffix>Organ</Suffix>
-			<Desc>Tubuh rahasia yang diturunkan dari garis keturunan beruang purba Yaoguai yang menggunakan energi untuk membentuk kembali jantung dan paru-paru. Setelah tercapai, dapat menghasilkan True Qi secara terus menerus.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan tingkat pemulihan True Qi badan rahasia secara moderat.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Secara drastis meningkatkan tingkat pemulihan True Qi badan rahasia.</Levels.1.Desc>
-			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
-			<Levels.2.Desc>Meningkatkan tingkat pemulihan True Qi tubuh rahasia dalam jumlah besar.</Levels.2.Desc>
+			<Prefix>Hỗn Thiên Khí</Prefix>
+			<Suffix>Nội Tạng</Suffix>
+			<Desc>Bí thể truyền từ dòng máu Hùng Yêu thời cổ đại, sử dụng lực thiên kiếp để luyện tim và phổi, khi luyện thành có thể tạo ra chân khí không ngừng.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình khả năng hồi phục chân khí của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh khả năng hồi phục chân khí của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng cực mạnh khả năng hồi phục chân khí của bí thể</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Bear_2">
-			<Prefix>Annihilation</Prefix>
-			<Suffix>Claw</Suffix>
-			<Desc>Sebuah tubuh rahasia yang diturunkan dari garis keturunan beruang purba Yaoguai yang menggunakan Kekuatan Penghancur dalam Kesengsaraan Surgawi untuk membentuk kembali cakarnya. Begitu kuatnya sehingga bisa memusnahkan segalanya.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah besar.</Levels.0.Desc>
+			<Prefix>Chống Trời Phá Diệt</Prefix>
+			<Suffix>Vuốt</Suffix>
+			<Desc>Bí thể truyền từ dòng máu Hùng Yêu thời cổ đại, sử dụng lực phá diệt trong thiên kiếp để luyện hai vuốt, có sức mạnh phá diệt vạn tượng.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng cực mạnh sức mạnh cơ bản của bí thể</Levels.0.Desc>
 		</Text>
 	</List>
 </Texts>
+

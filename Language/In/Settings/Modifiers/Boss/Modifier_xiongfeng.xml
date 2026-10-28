@@ -1,41 +1,42 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Boss_Xiongfeng">
-			<DisplayName>Phoenix</DisplayName>
+			<DisplayName>Phượng hung</DisplayName>
 		</Text>
 		<Text Name="Boss_XiongfengFight">
-			<DisplayName>Phoenix</DisplayName>
+			<DisplayName>Phượng hung</DisplayName>
 		</Text>
 		<Text Name="Boss_Xiongfeng_Part">
-			<DisplayName>Phoenix Body Part</DisplayName>
+			<DisplayName>Vị trí phượng hung</DisplayName>
 		</Text>
 		<Text Name="Boss_Xiongfeng_huoling">
-			<DisplayName>Power of Fire Spirit</DisplayName>
-			<Desc>Phoenix memusatkan kekuatan Roh Api hingga mencapai 100 tumpukan, yang pada saat itu ia melepaskan Bulu Api dan masuk ke dalam Bentuk Inferno.</Desc>
+			<DisplayName>Hỏa Linh Chi Lực</DisplayName>
+			<Desc>Phượng hung tích tụ lực lửa linh, đạt 100 tầng sẽ giải phóng lông vũ rực lửa và bước vào trạng thái chân diễm.</Desc>
 		</Text>
 		<Text Name="Boss_Xiongfeng_Huofeng">
-			<DisplayName>Inferno Form</DisplayName>
-			<Desc>Phoenix terus mengkonsumsi Roh Api saat berada dalam Bentuk Inferno. Ketika itu berakhir, pulihkan sisa bulu api dan pulihkan Qi.</Desc>
+			<DisplayName>Trạng thái chân diễm</DisplayName>
+			<Desc>Trạng thái chân diễm sẽ liên tục tiêu hao lửa linh, khi kết thúc sẽ thu hồi những lông vũ còn tồn tại và hồi phục linh khí.</Desc>
 		</Text>
 		<Text Name="Boss_Xiongfeng_rongjin">
-			<DisplayName>Fuse</DisplayName>
-			<Desc>Memberikan kerusakan setelah jangka waktu tertentu. Pembudidaya Non-Logam hanya menerima 1/3 dari kerusakan.</Desc>
+			<DisplayName>Nung chảy</DisplayName>
+			<Desc>Sau một khoảng thời gian sẽ gây tổn thương, người tu luyện không thuộc thuộc tính kim chỉ chịu một phần ba tổn thương.</Desc>
 		</Text>
 		<Text Name="Boss_Xiongfeng_yishang">
-			<DisplayName>Vulnerable</DisplayName>
-			<Desc>Phoenix rentan.</Desc>
+			<DisplayName>Dễ tổn thương</DisplayName>
+			<Desc>Phượng hung đang trong trạng thái dễ tổn thương.</Desc>
 		</Text>
 		<Text Name="Boss_Xiongfeng_taiyangzhiyan">
-			<DisplayName>Solar Eye</DisplayName>
+			<DisplayName>Thái Dương Chi Nhãn</DisplayName>
 		</Text>
 		<Text Name="Boss_Xiongfeng2">
-			<DisplayName>Phoenix</DisplayName>
+			<DisplayName>Phượng hung</DisplayName>
 		</Text>
 		<Text Name="Boss_Xiongfeng_Part2">
-			<DisplayName>Phoenix Body Part</DisplayName>
+			<DisplayName>Vị trí phượng hung</DisplayName>
 		</Text>
 		<Text Name="Boss_Xiongfeng_taiyangzhiyan2">
-			<DisplayName>Solar Eye</DisplayName>
+			<DisplayName>Thái Dương Chi Nhãn</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

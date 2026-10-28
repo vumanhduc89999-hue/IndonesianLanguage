@@ -1,87 +1,88 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SlightlyFear">
-			<DisplayName>A bit afraid</DisplayName>
-			<SingleFormat.0>Merasa {0} dari hewan lainnya..</SingleFormat.0>
-			<SingleFormat.1>Merasa {0} dari lingkungan baru..</SingleFormat.1>
+			<DisplayName>Có chút sợ hãi</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} đối với các loài động vật khác</SingleFormat.0>
+			<SingleFormat.1>Cảm thấy {0} đối với môi trường mới</SingleFormat.1>
 		</Text>
 		<Text Name="Fear">
-			<DisplayName>Afraid</DisplayName>
-			<SingleFormat.0>Terasa {0} dari orang-orang di sekitar..</SingleFormat.0>
+			<DisplayName>Sợ hãi</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} đối với con người xung quanh</SingleFormat.0>
 		</Text>
 		<Text Name="GreatlyFear">
-			<DisplayName>Terrified</DisplayName>
-			<SingleFormat.0>Mengingat musuh alaminya dan Merasa {0}..</SingleFormat.0>
-			<SingleFormat.1>Merasa {0} tentang temannya yang terbunuh..</SingleFormat.1>
+			<DisplayName>Rất sợ hãi</DisplayName>
+			<SingleFormat.0>Nhớ đến thiên địch, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Nhớ đến đồng loại bị sát hại, cảm thấy {0}</SingleFormat.1>
 		</Text>
 		<Text Name="SlightlyHappy">
-			<DisplayName>A bit happy</DisplayName>
-			<SingleFormat.0>Merasa {0} tentang hari yang cerah dan cerah.</SingleFormat.0>
-			<SingleFormat.1>Merasa {0} tentang sesuatu yang lezat.</SingleFormat.1>
+			<DisplayName>Có chút vui vẻ</DisplayName>
+			<SingleFormat.0>Nhớ đến ngày nắng đẹp, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Nhớ đến món ăn ngon, cảm thấy {0}</SingleFormat.1>
 		</Text>
 		<Text Name="Happy">
-			<DisplayName>Delighted</DisplayName>
-			<SingleFormat.0>Merasakan {0} di sekitarnya.</SingleFormat.0>
+			<DisplayName>Vui vẻ</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} đối với môi trường hiện tại</SingleFormat.0>
 		</Text>
 		<Text Name="GreatlyHappy">
-			<DisplayName>Ecstatic</DisplayName>
-			<SingleFormat.0>Merasa {0} tentang bertemu dengan kerabat.</SingleFormat.0>
+			<DisplayName>Rất vui vẻ</DisplayName>
+			<SingleFormat.0>Nhớ đến khoảnh khắc đoàn tụ với người thân, cảm thấy {0}</SingleFormat.0>
 		</Text>
 		<Text Name="SlightlyAnger">
-			<DisplayName>A bit ticked off</DisplayName>
-			<SingleFormat.0>Merasa {0} pada orang yang lewat.</SingleFormat.0>
+			<DisplayName>Có chút phẫn nộ</DisplayName>
+			<SingleFormat.0>Cảm thấy {0} đối với những người đi qua đôi khi</SingleFormat.0>
 		</Text>
 		<Text Name="Anger">
-			<DisplayName>Angry</DisplayName>
-			<SingleFormat.0>Merasa {0} tentang orang lain yang mengambil risiko.</SingleFormat.0>
+			<DisplayName>Phẫn nộ</DisplayName>
+			<SingleFormat.0>Nhớ lại đồng loại mạo hiểm một mình, cảm thấy {0}</SingleFormat.0>
 		</Text>
 		<Text Name="GreatlyAnger">
-			<DisplayName>Furious</DisplayName>
-			<SingleFormat.0>Merasa {0} tentang perkelahian hewan lain.</SingleFormat.0>
-			<SingleFormat.1>Merasa {0} diintimidasi.</SingleFormat.1>
+			<DisplayName>Rất phẫn nộ</DisplayName>
+			<SingleFormat.0>Nhớ đến những ngày tranh giành lãnh thổ với động vật khác, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Nhớ đến đồng loại từng bắt nạt mình, cảm thấy {0}</SingleFormat.1>
 		</Text>
 		<Text Name="SlightlyWorry">
-			<DisplayName>A bit anxious</DisplayName>
-			<SingleFormat.0>Merasa {0} pada orang asing yang lewat.</SingleFormat.0>
+			<DisplayName>Có chút lo lắng</DisplayName>
+			<SingleFormat.0>Nhớ đến người lạ đi qua, cảm thấy {0}</SingleFormat.0>
 		</Text>
 		<Text Name="Worry">
-			<DisplayName>Anxious</DisplayName>
-			<SingleFormat.0>Merasa {0} tentang sungai yang dalam.</SingleFormat.0>
-			<SingleFormat.1>Merasa {0} di tepi jurang.</SingleFormat.1>
+			<DisplayName>Lo lắng</DisplayName>
+			<SingleFormat.0>Nhớ đến dòng sông sâu không thấy đáy, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Nhớ đến chạy dọc bờ vực hẻm núi, cảm thấy {0}</SingleFormat.1>
 		</Text>
 		<Text Name="GreatlyWorry">
-			<DisplayName>Distraught</DisplayName>
-			<SingleFormat.0>Merasa {0} tentang kematian.</SingleFormat.0>
-			<SingleFormat.1>Merasa {0} seperti ditangkap manusia.</SingleFormat.1>
+			<DisplayName>Rất lo lắng</DisplayName>
+			<SingleFormat.0>Nhớ đến sinh tồn trong tự nhiên đầy nguy hiểm, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Nhớ đến từng suýt bị người săn bắt, cảm thấy {0}</SingleFormat.1>
 		</Text>
 		<Text Name="SlightlyMiss">
-			<DisplayName>A vague yearning</DisplayName>
-			<SingleFormat.0>Merasa {0} untuk beberapa angka kabur.</SingleFormat.0>
-			<SingleFormat.1>Merasa {0} untuk area yang indah.</SingleFormat.1>
+			<DisplayName>Có chút nhớ nhung</DisplayName>
+			<SingleFormat.0>Bất chợt {0} vài bóng hình mờ nhạt</SingleFormat.0>
+			<SingleFormat.1>Bất chợt {0} phong cảnh mờ nhạt</SingleFormat.1>
 		</Text>
 		<Text Name="Miss">
-			<DisplayName>yearning</DisplayName>
-			<SingleFormat.0>Merasa {0} untuk kehidupan di alam terbuka.</SingleFormat.0>
-			<SingleFormat.1>Merasa {0} untuk sahabat.</SingleFormat.1>
+			<DisplayName>Nhớ nhung</DisplayName>
+			<SingleFormat.0>Bất chợt cảm thấy {0} về những ngày sống trong tự nhiên</SingleFormat.0>
+			<SingleFormat.1>Bất chợt cảm thấy {0} về vài bóng dáng đồng loại</SingleFormat.1>
 		</Text>
 		<Text Name="GreatlyMiss">
-			<DisplayName>Desire</DisplayName>
-			<SingleFormat.0>Merasa {0} tentang kerabat masa kecil.</SingleFormat.0>
-			<SingleFormat.1>Merasa {0} tentang sungai dalam kenangan.</SingleFormat.1>
+			<DisplayName>Rất nhớ nhung</DisplayName>
+			<SingleFormat.0>Trong đầu hiện lên hình ảnh người thân, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Trong đầu hiện lên dòng suối trong veo, cảm thấy {0}</SingleFormat.1>
 		</Text>
 		<Text Name="Peace">
-			<DisplayName>Tranquil</DisplayName>
-			<SingleFormat.0>Terasa {0} saat menginjak tanah yang kokoh.</SingleFormat.0>
-			<SingleFormat.1>Merasa {0} melihat makhluk yang lewat.</SingleFormat.1>
+			<DisplayName>Bình tĩnh</DisplayName>
+			<SingleFormat.0>Chân đặt trên đất vững chắc, cảm thấy {0}</SingleFormat.0>
+			<SingleFormat.1>Nhìn những sinh linh qua lại, cảm thấy {0}</SingleFormat.1>
 		</Text>
 		<Text Name="Eruption">
-			<DisplayName>Restlessness</DisplayName>
-			<SingleFormat.0>Secara naluriah merasakan perasaan {0}.</SingleFormat.0>
+			<DisplayName>Nôn nóng</DisplayName>
+			<SingleFormat.0>Dưới sự thúc đẩy của bản năng, cảm thấy {0}</SingleFormat.0>
 		</Text>
 		<Text Name="Regret">
-			<DisplayName>Regretful</DisplayName>
-			<SingleFormat.0>Terasa {0} saat bunga plum berjatuhan.</SingleFormat.0>
-			<SingleFormat.1>Terasa {0} saat bunga plum berjatuhan.</SingleFormat.1>
+			<DisplayName>Hối hận</DisplayName>
+			<SingleFormat.0>Nhớ đến chuyện {0}, hoa mai rơi xuống</SingleFormat.0>
+			<SingleFormat.1>Nhớ đến chuyện {0}, hoa mai rơi đầy núi Nam Sơn</SingleFormat.1>
 		</Text>
 	</List>
 </Texts>
+

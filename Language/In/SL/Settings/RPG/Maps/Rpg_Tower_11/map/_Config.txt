@@ -58,4 +58,5 @@
 /Settings/RPG/Maps/Rpg_Tower_11/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param2	哎，就一定要打扰本宫沐浴嘛？那一定要小施惩戒了……	1	
 /Settings/RPG/Maps/Rpg_Tower_11/map.txt	RPGInfo.MapInfo.Title	软弱的心	-1	
 /Settings/RPG/Maps/Rpg_Tower_11/map.txt	RPGInfo.MapInfo.Desc	法宝威力和体修防御进攻强度降低	-1	
-/Settings/RPG/Maps/Rpg_Tower_11/map.txt	RPGInfo.MapInfo.EnterContent	此地原为合欢派长老在别处修建的分堂，弥漫桃花瘴气，令人浑身酥软，无力反抗。	-1	
+/Settings/RPG/Maps/Rpg_Tower_11/map.txt	RPGInfo.MapInfo.EnterContent	此地原为合欢派长老在别处修建的分堂，弥漫桃花瘴气，令人浑身酥软，无力反抗。	-1
+

@@ -1,252 +1,253 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="NI_FSZhenWu">
-			<DisplayName>Negative - Relic Channeling</DisplayName>
-			<Desc>Peninggalan Feng Shui di ruangan ini bertentangan dengan lingkungan sekitarnya; karakter di dalam ruangan akan terkena dampak negatif dan akibatnya kemampuannya melemah.</Desc>
+			<DisplayName>Nghịch-Trấn Vật Thông Linh</DisplayName>
+			<Desc>Phong thủy trong phòng xung khắc với trấn vật, nhân vật bị ảnh hưởng, năng lực bị suy yếu.</Desc>
 		</Text>
 		<Text Name="SHUN_FSZhenWu">
-			<DisplayName>Positive - Relic Channeling</DisplayName>
-			<Desc>Peninggalan Feng Shui di ruangan ini berlaku; karakter di ruangan akan terpengaruh secara positif dan sebagai hasilnya mendapatkan peningkatan kemampuan.</Desc>
+			<DisplayName>Thuận-Trấn Vật Thông Linh</DisplayName>
+			<Desc>Phong thủy trong phòng phát huy tác dụng, nhân vật bị ảnh hưởng, năng lực được tăng cường.</Desc>
 		</Text>
 		<Text Name="FSZhenWu_1">
-			<DisplayName>Overall Work Efficiency Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ làm việc toàn cục</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_2">
-			<DisplayName>Healing Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ trị liệu</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_3">
-			<DisplayName>Healing Bonus</DisplayName>
+			<DisplayName>Tăng hiệu quả trị liệu</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_4">
-			<DisplayName>Cooking Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ nấu ăn</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_5">
-			<DisplayName>Butchering Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ giết mổ</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_6">
-			<DisplayName>Butchering Yield Bonus</DisplayName>
+			<DisplayName>Tăng sản lượng giết mổ</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_7">
-			<DisplayName>Stoneworking Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ chế biến đá</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_8">
-			<DisplayName>Building Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ xây dựng</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_9">
-			<DisplayName>Farming Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ trồng trọt</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_10">
-			<DisplayName>Harvesting Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ thu hoạch</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_11">
-			<DisplayName>Harvest Yield Bonus</DisplayName>
+			<DisplayName>Tăng sản lượng thu hoạch</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_12">
-			<DisplayName>Mining Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ khai thác</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_13">
-			<DisplayName>Mining Yield Bonus</DisplayName>
+			<DisplayName>Tăng sản lượng khai thác</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_14">
-			<DisplayName>Crafting Quality Gains Bonus</DisplayName>
+			<DisplayName>Tăng giá trị chất lượng chế tạo</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_15">
-			<DisplayName>Forging Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ rèn</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_16">
-			<DisplayName>Handicraft Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ thủ công</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_17">
-			<DisplayName>Sewing Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ may vá</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_18">
-			<DisplayName>Cutting Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ cắt tỉa</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_19">
-			<DisplayName>Firefighting Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ cứu trợ thiên tai</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_20">
-			<DisplayName>Cleaning Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ dọn dẹp</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_21">
-			<DisplayName>Base Mood Value Bonus</DisplayName>
+			<DisplayName>Tăng giá trị cơ bản của tâm trạng</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_22">
-			<DisplayName>Move Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ di chuyển</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_23">
-			<DisplayName>Temperature Tolerance Bonus (Cold)</DisplayName>
+			<DisplayName>Tăng giới hạn nhiệt độ thấp nhất</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_24">
-			<DisplayName>Temperature Tolerance Bonus (Hot)</DisplayName>
+			<DisplayName>Tăng giới hạn nhiệt độ cao nhất</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_25">
-			<DisplayName>Natural Resilience Bonus</DisplayName>
+			<DisplayName>Tăng khả năng hồi phục tự nhiên</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_26">
-			<DisplayName>Pain Tolerance Bonus</DisplayName>
+			<DisplayName>Tăng giới hạn chịu đau</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_27">
-			<DisplayName>Learning Speed Bonus</DisplayName>
+			<DisplayName>Tăng tốc độ học tập</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_28">
-			<DisplayName>Nightmare Occurring Chance Bonus</DisplayName>
+			<DisplayName>Giá trị tăng xác suất phát sinh ác mộng</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_29">
-			<DisplayName>Sweetdream Occurring Chance Bonus</DisplayName>
+			<DisplayName>Giá trị tăng xác suất phát sinh giấc mơ đẹp</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_30">
-			<DisplayName>Energy Consumption Rate Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tốc độ tiêu hao tinh lực</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_31">
-			<DisplayName>Energy Replenishment Bonus</DisplayName>
+			<DisplayName>Giá trị tăng bổ sung tinh lực</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_32">
-			<DisplayName>Food Consumption Rate Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tốc độ tiêu hao thức ăn</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_33">
-			<DisplayName>Food Consumption Rate Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tốc độ tiêu hao thức ăn</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_34">
-			<DisplayName>Food Replenishment Bonus</DisplayName>
+			<DisplayName>Giá trị tăng bổ sung thức ăn</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_35">
-			<DisplayName>Water Consumption Rate Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tốc độ tiêu hao nước uống</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_36">
-			<DisplayName>Water Replenishment Bonus</DisplayName>
+			<DisplayName>Giá trị tăng bổ sung nước uống</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_37">
-			<DisplayName>Recreation Consumption Rate Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tốc độ tiêu hao giải trí</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_38">
-			<DisplayName>Recreation Replenishment Bonus</DisplayName>
+			<DisplayName>Giá trị tăng bổ sung giải trí</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_39">
-			<DisplayName>Stamina Refinement Speed Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tốc độ luyện hóa tinh nguyên</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_40">
-			<Desc>Bonus Pengisian Stamina</Desc>
+			<Desc>Giá trị tăng bổ sung tinh nguyên</Desc>
 		</Text>
 		<Text Name="FSZhenWu_41">
-			<DisplayName>Potential Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tiềm năng</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_42">
-			<DisplayName>Cultivation Speed Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tốc độ tu luyện</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_43">
-			<DisplayName>Mental State Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tâm cảnh</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_44">
-			<DisplayName>Comprehension Chance Bonus</DisplayName>
+			<DisplayName>Giá trị tăng xác suất lĩnh hội</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_45">
-			<DisplayName>Artifact Crafting Speed Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tốc độ luyện chế pháp bảo</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_46">
-			<DisplayName>Artifact Crafting Success Rate Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tỷ lệ thành công luyện chế pháp bảo</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_47">
-			<DisplayName>Artifact Crafting Grade Bonus</DisplayName>
+			<DisplayName>Giá trị tăng phẩm cấp pháp bảo luyện chế</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_48">
-			<DisplayName>Artifact Crafting Quality Bonus</DisplayName>
+			<DisplayName>Giá trị tăng chất lượng pháp bảo luyện chế</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_49">
-			<DisplayName>Grand Artifacts Chance Bonus</DisplayName>
+			<DisplayName>Giá trị tăng xác suất luyện thành thần khí</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_50">
-			<DisplayName>Alchemy Speed Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tốc độ luyện chế đan dược</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_51">
-			<DisplayName>Alchemy Success Rate Bonus</DisplayName>
+			<DisplayName>Giá trị tăng tỷ lệ thành công luyện chế đan dược</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_52">
-			<DisplayName>Alchemy Yield Bonus</DisplayName>
+			<DisplayName>Giá trị tăng sản lượng luyện chế đan dược</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_53">
-			<DisplayName>Breakthrough Chance Bonus</DisplayName>
+			<DisplayName>Giá trị tăng xác suất Dột phá bình cảnh</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_54">
-			<DisplayName>Attainment Bonus</DisplayName>
+			<DisplayName>Giá trị tăng đạo hạnh</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_55">
-			<DisplayName>Accuracy in Battles</DisplayName>
+			<DisplayName>Độ chính xác trong chiến đấu</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_56">
-			<DisplayName>Dodge in Battles</DisplayName>
+			<DisplayName>Né tránh trong chiến đấu</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_57">
-			<DisplayName>Perception</DisplayName>
+			<DisplayName>Thần thức</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_58">
-			<DisplayName>Constitution</DisplayName>
+			<DisplayName>Căn cốt</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_59">
-			<DisplayName>Charisma</DisplayName>
+			<DisplayName>Mị lực</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_60">
-			<DisplayName>Intelligence</DisplayName>
+			<DisplayName>Ngộ tính</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_61">
-			<DisplayName>Luck</DisplayName>
+			<DisplayName>Cơ duyên</DisplayName>
 		</Text>
 		<Text Name="FSZhenWu_62">
-			<DisplayName>Five Attributes</DisplayName>
+			<DisplayName>Ngũ chiều</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_1a">
-			<DisplayName>Morality Seal</DisplayName>
+			<DisplayName>Ấn Đạo Đức</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_1b">
-			<DisplayName>Primordial Seal</DisplayName>
+			<DisplayName>Ấn Nguyên Thủy</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_1c">
-			<DisplayName>Mystical Seal</DisplayName>
+			<DisplayName>Ấn Linh Bảo</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_2">
-			<DisplayName>Celestial Pagoda</DisplayName>
+			<DisplayName>Tháp Thiên Công</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_3">
-			<DisplayName>Spirit Pagoda</DisplayName>
+			<DisplayName>Tháp Vạn Linh</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_4">
-			<DisplayName>Yin Vessel</DisplayName>
+			<DisplayName>Bình Hội Âm</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_5">
-			<DisplayName>Ceremonial Cauldron</DisplayName>
+			<DisplayName>Đỉnh Thập Châu</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_6">
-			<DisplayName>Spirit Stela</DisplayName>
+			<DisplayName>Bia Linh Không Chữ</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_7">
-			<DisplayName>Stone Lion</DisplayName>
+			<DisplayName>Sư Tử Tị Tà</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_8">
-			<DisplayName>Mount Buzhou Stone</DisplayName>
+			<DisplayName>Nguyên Thạch Bất Chu</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_9">
-			<DisplayName>Yin Yang Board</DisplayName>
+			<DisplayName>Bảng Tam Tài Âm Dương</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_10">
-			<DisplayName>Records of the Immortal Dishes</DisplayName>
+			<DisplayName>Lục Quần Tiên</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_11">
-			<DisplayName>Divine Sign Chart</DisplayName>
+			<DisplayName>Phổ Tiên Cơ</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_12">
-			<DisplayName>Enchantment Talisman</DisplayName>
+			<DisplayName>Phù Khóa Âm</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_13">
-			<DisplayName>Mystical Sword</DisplayName>
+			<DisplayName>Kiếm Linh Bảo</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_14">
-			<DisplayName>Tushita Gourd</DisplayName>
+			<DisplayName>Hồ Lô Đâu Suất</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_15">
-			<DisplayName>Crimsagon Rod</DisplayName>
+			<DisplayName>Căn Rồng Đỏ</DisplayName>
 		</Text>
 		<Text Name="SP_FSZhenWu_16">
-			<DisplayName>Holy Grace</DisplayName>
+			<DisplayName>Huệ Quang</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

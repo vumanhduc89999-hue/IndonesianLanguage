@@ -38,3 +38,4 @@
 /Assets/Resources/FightMap/School_QiSha/map.txt	OtherItem.18._hd.Ss.1	碧光荡魔剑	18.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_QiSha/map.txt	OtherItem.19.Fabao.OName	金丝木剑	19	_ReplaceFabaoOName
 /Assets/Resources/FightMap/School_QiSha/map.txt	OtherItem.19._hd.Ss.1	碧光万骨剑	19.1	_ReplaceThingName
+

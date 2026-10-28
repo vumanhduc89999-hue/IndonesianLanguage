@@ -1,92 +1,93 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="YaoGuai_Experiences0">
-			<DisplayName>Intelligent Beast</DisplayName>
-			<Desc>Anda dulunya hanyalah binatang buas yang hidup di gunung Sekte Taiyi. Diterangi oleh Qi Surga Duniawi selama berhari-hari dan malam, Anda secara bertahap menjadi sadar. Pada malam kehancuran, ancaman hidup dan mati memaksamu untuk secara spontan melewati batas terakhir dan setengah berubah wujud menjadi binatang iblis.\n Karena rasa terima kasih terhadap Sekte Taiyi serta naluri, sepanjang hidupmu, kamu telah menjadi penerima manfaat di tempat perlindungan mereka, kamu melancarkan serangan terakhir terhadap para penyerbu. Namun berkat keberuntungan, upaya bunuh diri Anda tertangkap oleh mata sesepuh Taiyi yang sedang sekarat.\n Mendambakan harapan, sesepuh ini mengumpulkan kekuatan dan mewariskan kepada Anda melalui sihir banyak kenangan dan perbekalan yang awalnya dimaksudkan untuk digunakan muridnya untuk melarikan diri, dan untuk sementara menanamkan gagasan melarikan diri ke dalam otak Anda. Didorong oleh keyakinan yang tertanam ini, Anda berlari menyelamatkan diri dan berhasil melarikan diri dari Sekte Taiyi.</Desc>
+			<DisplayName>Yêu thú thông linh</DisplayName>
+			<Desc>      Ngươi vốn là một con dã thú trong núi của Thái Nhất Môn, nhờ linh khí nơi động thiên phúc địa ngày đêm hun đúc mà dần dần sinh ra ý thức. Trong đêm diệt môn, khi mối đe dọa sinh tử cận kề, ngươi cuối cùng đã tự mình bước ra bước cuối cùng, thức tỉnh linh trí, bán hóa hình thành yêu.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences1">
-			<DisplayName>Legacy of Sixteen-steps</DisplayName>
-			<Desc>Tetua Sekte Taiyi yang sekarat berasal dari Sekolah Enam Belas Langkah, jadi di antara kenangan yang diteruskan kepada Anda ada Hukum Enam Belas Langkah Tertinggi, yang merupakan salah satu Hukum sebenarnya dari Sekte Taiyi.\n\n\n[size=14]Hukum Pembuka: [color=#D06508]Hukum Enam Belas Langkah Tertinggi[/color]\nStatistik yang Diperlukan: Konstitusi Tinggi, Karisma Biasa-biasa saja, Biasa-biasa saja Intelijen.[/size]</Desc>
+			<DisplayName>Thái Hòa truyền thừa</DisplayName>
+			<Desc>Vị trưởng lão Thái Nhất Môn trọng thương hấp hối đó xuất thân từ Thái Hòa Phong. Trong ký ức truyền cho ngươi có chứa một phần chân pháp ngũ hành của Thái Nhất Môn-"Thái Hòa Thập Lục Động Thiên".</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences2">
-			<DisplayName>Legacy of Plough</DisplayName>
-			<Desc>Tetua Sekte Taiyi yang sekarat berasal dari Sekolah Bajak, jadi di antara kenangan yang diwariskan kepada Anda ada Hukum Kebijaksanaan Kereta Besar, yang merupakan salah satu Hukum sebenarnya dari Sekte Taiyi.\n\n\n[size=14]Hukum Buka Kunci: [color=#D06508]Hukum Kebijaksanaan Kereta Besar[/color]\nStatistik yang Diperlukan: Persepsi Tinggi, Konstitusi Biasa-biasa saja, Biasa-biasa saja Intelijen.[/size]</Desc>
+			<DisplayName>Bắc Đẩu truyền thừa</DisplayName>
+			<Desc>Vị trưởng lão Thái Nhất Môn trọng thương hấp hối đó xuất thân từ Bắc Đẩu Phong. Trong ký ức truyền cho ngươi có chứa một phần chân pháp ngũ hành của Thái Nhất Môn-"Bắc Đẩu Động Tâm Kiếp Pháp".</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences3">
-			<DisplayName>Legacy of Reincarnation</DisplayName>
-			<Desc>Tetua Sekte Taiyi yang sekarat berasal dari Sekolah Reinkarnasi, jadi di antara kenangan yang diteruskan kepada Anda ada Hukum Reinkarnasi Enam Jalan, yang merupakan salah satu Hukum sebenarnya dari Sekte Taiyi.\n\n\n[size=14]Hukum Pembuka: [color=#D06508]Hukum Reinkarnasi Enam Jalan[/color]\nStatistik yang Diperlukan: Konstitusi Biasa-biasa saja, Persepsi Tinggi, Tinggi Intelijen.[/size]</Desc>
+			<DisplayName>Luân Hồi truyền thừa</DisplayName>
+			<Desc>Vị trưởng lão Thái Nhất Môn trọng thương hấp hối đó xuất thân từ Luân Hồi Phong. Trong ký ức truyền cho ngươi có chứa một phần chân pháp ngũ hành của Thái Nhất Môn-"Trường Sinh Lục Đạo Luân Hồi Kinh".</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences4">
-			<DisplayName>Legacy of True Sun</DisplayName>
-			<Desc>Tetua Sekte Taiyi yang sekarat berasal dari Sekolah Matahari Sejati, jadi di antara kenangan yang diteruskan kepada Anda ada Hukum Pemurnian Matahari Sejati, yang merupakan salah satu Hukum sejati dari Sekte Taiyi.\n\n\n[size=14]Buka Hukum: [color=#D06508]Hukum Pemurnian Matahari Sejati[/color]\nStatistik yang Diperlukan: Persepsi Biasa-biasa saja, Konstitusi Biasa-biasa saja, Karisma Biasa-biasa saja, Kecerdasan Biasa Saja, Keberuntungan Biasa Saja.[/size]</Desc>
+			<DisplayName>Tam Dương truyền thừa</DisplayName>
+			<Desc>Vị trưởng lão Thái Nhất Môn trọng thương hấp hối đó xuất thân từ Tam Dương Phong. Trong ký ức truyền cho ngươi có chứa một phần chân pháp ngũ hành của Thái Nhất Môn-"Tam Dương Tam Muội Bính Đinh Luyện Hỏa Quyết".</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences5">
-			<DisplayName>Legacy of Sunflower</DisplayName>
-			<Desc>Tetua Sekte Taiyi yang sekarat berasal dari Sekolah Bunga Matahari, jadi di antara kenangan yang diwariskan kepada Anda ada Hukum Pemurnian Bunga Matahari, yang merupakan salah satu Hukum sebenarnya dari Sekte Taiyi.\n\n\n[size=14]Hukum Pembuka: [color=#D06508]Hukum Pemurnian Bunga Matahari[/color]\nStatistik yang Diperlukan: Persepsi Tinggi, Karisma Tinggi, Tinggi Intelijen.[/size]</Desc>
+			<DisplayName>Quỳ Hoa truyền thừa</DisplayName>
+			<Desc>Vị trưởng lão Thái Nhất Môn trọng thương hấp hối đó xuất thân từ Quỳ Hoa Phong. Trong ký ức truyền cho ngươi có chứa một phần chân pháp ngũ hành của Thái Nhất Môn-"Quỳ Hoa Luyện Thần Đại Pháp".</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences6">
-			<DisplayName>Legacy of Body Refinement</DisplayName>
-			<Desc>Tetua Sekte Taiyi yang sekarat mahir dalam semua jenis warisan kuno. Oleh karena itu, setelah melihatmu membangunkan binatang yang cerdas, tetua itu menyertakan isi Tubuh Kesatuan Purba di antara kenangan yang diteruskan kepadamu, yang merupakan Hukum kuno penyempurnaan tubuh.\n\n\n[size=14]Hukum Pembuka: [color=#D06508]Badan Kesatuan Primordial[/color]\nHukum ini sangat sulit pada tahap awal, tidak direkomendasikan untuk pemula.[/size]</Desc>
+			<DisplayName>Luyện thể truyền thừa</DisplayName>
+			<Desc>Vị trưởng lão Thái Nhất Môn trọng thương hấp hối đó tinh thông các truyền thừa cổ đại. Khi thấy ngươi thức tỉnh bằng yêu thân, ông ta đã truyền cho ngươi một công pháp luyện thể thời thượng cổ-"Thái Cổ Hình Ý Lục Hợp Chân Thể".</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences23">
-			<DisplayName>Luck with Artifact Room</DisplayName>
-			<Desc>Pada malam kehancuran, Anda melewati Ruang Artefak dalam perjalanan untuk melarikan diri. Dipengaruhi oleh kenangan yang tertanam dalam diri Anda, secara naluriah Anda merasa ada sesuatu yang penting di sana. Jadi, Anda mempertaruhkan hidup Anda untuk menyusup ke dalam dan membawa pergi beberapa artefak berharga.\n\n\n[size=14]Sumber daya awal ditambahkan: [color=#D06508]Artefak Tingkat Lanjut[/color].[/size]</Desc>
+			<DisplayName>Khí lư cơ duyên</DisplayName>
+			<Desc>Trong đêm diệt môn, trên đường đào thoát, ngươi đi ngang qua khí lư. Bị ảnh hưởng bởi ký ức được truyền, ngươi bản năng cảm thấy nơi này có thể có thứ gì đó quan trọng, liều mình lẻn vào, mang theo vài món pháp bảo quý giá.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences24">
-			<DisplayName>Luck with Elixir Room</DisplayName>
-			<Desc>Pada malam kehancuran, Anda melewati Ruang Elixir dalam perjalanan untuk melarikan diri. Dipengaruhi oleh kenangan yang tertanam dalam diri Anda, secara naluriah Anda merasa ada sesuatu yang penting di sana. Jadi, Anda mempertaruhkan hidup Anda untuk menyusup ke dalam dan membawa beberapa botol ramuan yang sangat berharga.\n\n\n[size=14]Sumber daya awal ditambahkan: [color=#D06508]Ramuan Tingkat Lanjut[/color].[/size]</Desc>
+			<DisplayName>Dược lư cơ duyên</DisplayName>
+			<Desc>Trong đêm diệt môn, trên đường đào thoát, ngươi đi ngang qua dược lư. Bị ảnh hưởng bởi ký ức được truyền, ngươi bản năng cảm thấy nơi này có thể có thứ gì đó quan trọng, liều mình lẻn vào, mang theo vài bình đan dược quý giá.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences25">
-			<DisplayName>Luck with Manual Pavilion</DisplayName>
-			<Desc>Pada malam kehancuran, Anda melewati Paviliun Manual dalam perjalanan untuk melarikan diri. Dipengaruhi oleh kenangan yang tertanam dalam diri Anda, secara naluriah Anda merasa ada sesuatu yang penting di sana. Jadi, Anda mempertaruhkan hidup Anda untuk menyusup ke dalam dan membawa beberapa manual berharga.\n\n\n[size=14]Sumber daya awal ditambahkan: [color=#D06508]Manual Lanjutan[/color].[/size]</Desc>
+			<DisplayName>Kinh lầu cơ duyên</DisplayName>
+			<Desc>Trong đêm diệt môn, trên đường đào thoát, ngươi đi ngang qua tàng kinh các. Bị ảnh hưởng bởi ký ức được truyền, ngươi bản năng cảm thấy nơi này có thể có thứ gì đó quan trọng, liều mình lẻn vào, mang theo vài cuốn bí tịch quý giá.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences26">
-			<DisplayName>Luck with Talisman Room</DisplayName>
-			<Desc>Pada malam kehancuran, Anda melewati Ruang Jimat dalam perjalanan untuk melarikan diri. Dipengaruhi oleh kenangan yang tertanam dalam diri Anda, secara naluriah Anda merasa ada sesuatu yang penting di sana. Jadi, Anda mempertaruhkan hidup Anda untuk menyusup ke dalam dan membawa pergi beberapa jimat yang sangat berharga.\n\n\n[size=14]Sumber daya awal ditambahkan: [color=#D06508]Jimat Tingkat Lanjut[/color].[/size]</Desc>
+			<DisplayName>Phù lục cơ duyên</DisplayName>
+			<Desc>Trong đêm diệt môn, trên đường đào thoát, ngươi đi ngang qua Vân Lục Phòng. Bị ảnh hưởng bởi ký ức được truyền, ngươi bản năng cảm thấy nơi này có thể có thứ gì đó quan trọng, liều mình lẻn vào, mang theo vài cuốn bí tịch quý giá và một số phù lục quý giá.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences31">
-			<DisplayName>Determined Fugitive</DisplayName>
-			<Desc>Pada malam kehancuran, Anda berkonsentrasi pada masalah pelarian dan berusaha keras menghindari makhluk hidup apa pun. Akhirnya, Anda lolos dari Taiyi sendirian.\n\n\n[size=14]Initial [color=#D06508]disciples[/color] dikurangi 2![/size]</Desc>
+			<DisplayName>Một lòng đào thoát</DisplayName>
+			<Desc>Trong đêm diệt môn, ngươi tập trung toàn bộ tâm trí vào việc đào thoát, cố gắng tránh xa mọi sinh linh còn sống, cuối cùng một mình thoát khỏi Thái Nhất Môn.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences27">
-			<DisplayName>Circumstantial Fellowship</DisplayName>
-			<Desc>Pada malam kehancuran, setelah mewarisi ingatan seorang tetua dan menganggap diri Anda sebagai murid Taiyi, Anda melarikan diri dari bahaya dan bertemu dengan sesama murid yang terbaring di tanah tak sadarkan diri. Anda memutuskan untuk membawanya bersama Anda.\n\n\n[size=14]Initial [color=#D06508]disciples[/color] dikurangi 1![/size]</Desc>
+			<DisplayName>Tình cờ gặp đồng môn</DisplayName>
+			<Desc>Trong đêm diệt môn, sau khi nhận truyền thừa ký ức từ trưởng lão và tự coi mình là đệ tử Thái Nhất Môn, ngươi tình cờ gặp một đồng môn Thái Nhất Môn bất tỉnh sau khi thoát khỏi hiểm địa. Ngươi quyết định mang theo người này cùng hành động.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences29">
-			<DisplayName>Good Samaritan</DisplayName>
-			<Desc>Pada malam kehancuran, setelah mewarisi ingatan seorang tetua dan menganggap diri Anda sebagai murid Taiyi, Anda melarikan diri dari bahaya dan bertemu satu demi satu rekan murid yang tergeletak di tanah tak sadarkan diri. Anda memutuskan untuk membawanya.\n\n\n[size=14][color=#D06508]murid[/color] awal bertambah 1![/size]</Desc>
+			<DisplayName>Nhiệt tình cứu người</DisplayName>
+			<Desc>Trong đêm diệt môn, sau khi nhận truyền thừa ký ức từ trưởng lão và tự coi mình là đệ tử Thái Nhất Môn, ngươi lần lượt tìm thấy một vài đồng môn Thái Nhất Môn mất ý thức. Ngươi quyết định mang theo họ cùng hành động.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences30">
-			<DisplayName>Determined Savior</DisplayName>
-			<Desc>Pada malam kehancuran, setelah mewarisi ingatan seorang tetua dan menganggap diri Anda sebagai murid Taiyi, Anda melarikan diri dari bahaya dan menemukan beberapa rekan murid tergeletak di tanah tak sadarkan diri. Anda memutuskan untuk membawa semuanya.\n\n\n[size=14][color=#D06508]murid[/color] awal bertambah 2![/size]</Desc>
+			<DisplayName>Một lòng cứu người</DisplayName>
+			<Desc>Trong đêm diệt môn, sau khi nhận truyền thừa ký ức từ trưởng lão và tự coi mình là đệ tử Thái Nhất Môn, ngươi tìm thấy nhiều đồng môn Thái Nhất Môn mất ý thức. Ngươi quyết định mang theo họ cùng hành động.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences8">
-			<DisplayName>Food Storage</DisplayName>
-			<Desc>Selama pelarian, didorong oleh naluri binatang, Anda mengumpulkan sejumlah besar makanan di sepanjang jalan sebagai cadangan, bahkan membunuh beberapa ular dan beruang di atasnya. \n\n\nInitial[color=#D06508]\nInitial[color=#D06508]sumber daya makanan dan minuman[/color] meningkat secara substansial.[/size]</Desc>
+			<DisplayName>Dự trữ lương thực</DisplayName>
+			<Desc>Trên đường đào thoát, bị bản năng động vật thúc đẩy, ngươi đã thu thập được nhiều loại thực phẩm làm dự trữ, thậm chí vì điều này mà giết vài con rắn và một con gấu.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences9">
-			<DisplayName>Beastly Instinct</DisplayName>
-			<Desc>Selama melarikan diri, Anda menggunakan sisa naluri binatang Anda yang tajam dan berhasil mengumpulkan banyak barang bagus di area sekitar medan perang.\n\n\nSumber daya awal ditambahkan: [color=#D06508]Treasure[/color].[/size]</Desc>
+			<DisplayName>Linh cảm yêu thú</DisplayName>
+			<Desc>Trên đường đào thoát, với bản năng nhạy bén của động vật còn sót lại, ngươi đã thu thập được một số bảo vật rơi rải rác ở vùng ngoại vi chiến trường.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences11">
-			<DisplayName>Spiritual Congeniality</DisplayName>
-			<Desc>Selama pelarian, mungkin karena merasakan roh primordial dan murni Anda, sebuah Pil Obat mujarab yang telah menyembunyikan fakta bahwa ia menjadi mahluk hidup masuk ke dalam pelukan Anda dengan sukarela, melarikan diri dari tempat kematian bersama Anda.\n\n\n[size=14]Terima 1 [color=#D06508]Pil Panacea Hidup[/color].[/size]</Desc>
+			<DisplayName>Linh tính tương hợp</DisplayName>
+			<Desc>Trên đường đào thoát, có lẽ vì cảm nhận được linh trí nguyên thủy và thuần khiết của ngươi, một viên Tạo Hóa Thần Đan trong môn phái vốn đã thông linh nhưng luôn ẩn mình đã chủ động rơi vào lòng ngươi, cùng ngươi thoát khỏi tuyệt địa.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences14">
-			<DisplayName>Elixir Relics</DisplayName>
-			<Desc>Selama pelarian, Anda bertemu dengan murid lain dari Ruang Elixir yang juga melarikan diri tetapi gagal bertahan karena luka parahnya. Dengan mata berkaca-kaca, Anda mengumpulkan relik yang ditinggalkannya.\n\n\n[size=14]Sumber daya awal [color=#D06508]obat[/color] meningkat secara signifikan.\nSumber daya awal ditambahkan: [color=#D06508]Obat Langka[/color].[/size]</Desc>
+			<DisplayName>Di vật dược lư</DisplayName>
+			<Desc>Trên đường đào thoát, ngươi gặp một đệ tử dược lư trốn thoát nhưng không may trọng thương qua đời. Ngươi rơi lệ nhận lấy di vật của người đó.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences15">
-			<DisplayName>Artifact Relics</DisplayName>
-			<Desc>Selama pelarian, Anda bertemu dengan murid lain dari Ruang Artefak yang juga melarikan diri tetapi gagal bertahan karena luka parahnya. Dengan mata berkaca-kaca, Anda mengumpulkan relik yang ditinggalkannya.\n\n\n[size=14]Sumber daya awal [color=#D06508]sumber daya material[/color] meningkat secara signifikan.\nSumber daya awal ditambahkan: [color=#D06508]Bahan Langka[/color].[/size]</Desc>
+			<DisplayName>Di vật khí lư</DisplayName>
+			<Desc>Trên đường đào thoát, ngươi gặp một đệ tử khí lư trốn thoát nhưng không may trọng thương qua đời. Ngươi rơi lệ nhận lấy di vật của người đó.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences16">
-			<DisplayName>Foreign Relics</DisplayName>
-			<Desc>Selama pelarian, Anda bertemu dengan murid lain dari Aula Luar Negeri yang juga melarikan diri tetapi gagal bertahan karena luka parahnya. Dengan mata berkaca-kaca, Anda mengumpulkan relik yang ditinggalkannya.\n\n\n[size=14]Sumber daya awal [color=#D06508]konstruksi[/color] meningkat secara signifikan.\nSumber daya awal ditambahkan: [color=#D06508]Bahan Langka[/color].[/size]</Desc>
+			<DisplayName>Di vật ngoại sự</DisplayName>
+			<Desc>Trên đường đào thoát, ngươi gặp một đệ tử ngoại sự đường trốn thoát nhưng không may trọng thương qua đời. Ngươi rơi lệ nhận lấy di vật của người đó.</Desc>
 		</Text>
 		<Text Name="YaoGuai_Experiences17">
-			<DisplayName>Manual Relics</DisplayName>
-			<Desc>Selama pelarian, Anda bertemu dengan murid lain dari Paviliun Manual yang juga melarikan diri tetapi gagal bertahan karena luka parahnya. Dengan mata berkaca-kaca, Anda mengumpulkan relik yang ditinggalkannya.\n\n\n[size=14]Sumber daya awal ditambahkan: [color=#D06508]Koleksi Jimat Dasar, Pengantar Ramuan[/color].[/size]</Desc>
+			<DisplayName>Di vật kinh lầu</DisplayName>
+			<Desc>Trên đường đào thoát, ngươi gặp một đệ tử tàng kinh các trốn thoát nhưng không may trọng thương qua đời. Ngươi rơi lệ nhận lấy di vật của người đó.</Desc>
 		</Text>
 	</List>
 </Texts>
+

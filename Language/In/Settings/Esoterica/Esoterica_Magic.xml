@@ -1,237 +1,238 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Magic_FenShenZhiShu">
-			<DisplayName>Spirit Splitting</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Pemisahan Roh\nManipulasi Roh Primordial Anda, paksa roh tersebut untuk terbelah guna mendapatkan sub-roh tambahan. Anda akan kehilangan Max Qi dalam proses ini dan menua dengan cepat. Semakin sering Anda melakukan pemisahan, semakin tinggi harga yang Anda bayar.[/color][/size]</EffectDesc>
+			<DisplayName>Phân Thần Chi Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Phân Thần Chi Thuật\nVận hành bản mệnh nguyên thần, cưỡng ép phân tách nó để có thêm một phân thần. Trong quá trình này sẽ mất đi giới hạn linh khí tối đa và nhanh chóng lão hóa. Số lần sử dụng Phân Thần Chi Thuật càng nhiều, cái giá phải trả càng lớn.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_FengshuiItemOpen">
-			<DisplayName>Feng Shui Identifying</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Mengidentifikasi Feng Shui\nKonsumsi batu roh untuk mengaktifkan relik dan mengidentifikasi sifatnya.[/color][/size]</EffectDesc>
+			<DisplayName>Phong Thủy Giám Định</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Phong Thủy Giám Định\nTiêu hao linh thạch, kích hoạt vật trấn phong thủy để nhận biết đặc tính của nó.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_GanLingShu">
-			<DisplayName>Timely Rain</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Hujan Tepat Waktu\n Memanggil hujan di area tertentu, memadamkan api dan sedikit meningkatkan laju pertumbuhan tanaman.[/color][/size]</EffectDesc>
+			<DisplayName>Cam Lâm Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Cam Lâm Thuật\nTriệu hồi một trận mưa ngọt trong một khu vực, có thể dập tắt lửa và tăng nhẹ tốc độ sinh trưởng của thực vật.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_KongZhi1">
-			<DisplayName>Incantation of Consonance</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Mantra Harmoni\n Cobalah membujuk lawan untuk bergabung dengan Anda dengan berkomunikasi kepada mereka menggunakan spiritualitas. Semakin tinggi Pencapaian Anda, dan semakin besar perbedaan antara Keadaan dan Persepsi Anda dan lawan, semakin mudah untuk berhasil. Kontrol terbalik dapat terjadi jika perbedaannya terlalu besar. Target dengan pengalaman Budidaya harus berada dalam keadaan tidak sadar. Hanya dapat digunakan satu kali pada setiap target.[/color][/size]</EffectDesc>
+			<DisplayName>Linh Tê Chú</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Linh Tê Chú\nDùng thần niệm giao cảm với thần niệm của đối phương, cố gắng thuyết phục họ gia nhập phe ta. Đạo hạnh bản thân càng cao, chênh lệch cảnh giới và cảm nhận giữa hai bên càng lớn thì tỷ lệ thành công càng cao. Nếu chênh lệch quá lớn, có thể bị phản lại. Nếu mục tiêu có tu vi, họ phải ở trạng thái hôn mê. Chỉ có thể sử dụng một lần trên cùng một mục tiêu.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_KongZhi2">
-			<DisplayName>Chant of Resonance</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Nyanyian Resonansi\n Hubungkan dan resonansi dengan pikiran satu sama lain dalam upaya membujuk lawan untuk bergabung dengan Anda. Semakin tinggi Pencapaian Anda, dan semakin besar perbedaan antara Status Anda dan lawan, semakin mudah untuk berhasil. Kontrol terbalik dapat terjadi jika perbedaannya terlalu besar. Tingkat keberhasilannya jauh lebih tinggi jika kedua belah pihak memiliki ciri-ciri dewasa atau saudara sedarah yang serupa. Target dengan pengalaman Budidaya harus berada dalam keadaan tidak sadar. Ini adalah sihir yang sangat berisiko. Jika gagal, target akan mati dan Anda akan terluka.[/color][/size]</EffectDesc>
+			<DisplayName>Tâm Ấn Quyết</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Tâm Ấn Quyết\nDùng tâm tương ứng để tạo cộng hưởng, thuyết phục đối phương gia nhập phe ta. Đạo hạnh bản thân càng cao, chênh lệch cảnh giới càng lớn thì tỷ lệ thành công càng cao. Nếu chênh lệch quá lớn, có thể bị phản lại. Nếu hai bên có đặc điểm sinh thế tương đồng hoặc quan hệ huyết thống, tỷ lệ thành công sẽ tăng đáng kể. Nếu mục tiêu có tu vi, họ phải ở trạng thái hôn mê. Pháp này cực kỳ nguy hiểm, nếu thất bại, mục tiêu sẽ chết, bản thân cũng bị thương.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_KongZhi3">
-			<DisplayName>Celestial Demon Dance</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Tarian Setan Langit\n Lakukan tarian setan langit dan ubah target ke sisi Anda. Kontrol terbalik dapat terjadi jika perbedaannya terlalu besar. Seiring berjalannya waktu, kemungkinan target terbangun meningkat. Semakin besar perbedaan antara Keadaan dan Karisma Anda dan lawan, semakin rendah kemungkinan untuk terbangun. Target dengan pengalaman Budidaya harus berada dalam keadaan tidak sadar. Pikiran target rusak setiap kali sihir ini dilakukan.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Ma Vũ</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Thiên Ma Vũ\nThi triển Thiên Ma Vũ để chuyển hóa mục tiêu sang phe ta. Nếu chênh lệch quá lớn, có thể bị phản lại. Theo thời gian, khả năng tỉnh táo của mục tiêu tăng dần. Chênh lệch cảnh giới và mị lực càng lớn, tỷ lệ tỉnh táo càng thấp. Nếu mục tiêu có tu vi, họ phải ở trạng thái hôn mê. Mỗi lần thi triển pháp này sẽ làm tổn thương thần trí của mục tiêu.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_KongZhi4">
-			<DisplayName>Five Spiritual Imprints</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Lima Jejak Spiritual\n Cuci otak target dengan sihir yang luar biasa, ubah ke sisi Anda selama jangka waktu tertentu. Kontrol terbalik dapat terjadi jika perbedaannya terlalu besar. Semakin besar perbedaan antara Negara dan Intelijen Anda dan lawan, semakin lama hal itu akan bertahan. Target dengan pengalaman Budidaya harus berada dalam keadaan tidak sadar. Durasi sihir menjadi lebih lama setiap kali dilakukan, namun akan menyebabkan kerusakan yang tidak dapat diperbaiki pada Persepsi target.[/color][/size]</EffectDesc>
+			<DisplayName>Ngũ Ấn Khắc Thần</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Ngũ Ấn Khắc Thần\nDùng pháp thuật bá đạo để cưỡng ép tẩy não, chuyển hóa mục tiêu sang phe ta trong một khoảng thời gian. Nếu chênh lệch quá lớn, có thể bị phản lại. Chênh lệch cảnh giới và ngộ tính càng lớn, thời gian duy trì càng dài. Nếu mục tiêu có tu vi, họ phải ở trạng thái hôn mê. Mỗi lần thi triển pháp này sẽ kéo dài thời gian duy trì đáng kể nhưng gây tổn thương không thể phục hồi cho thần thức của mục tiêu.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_BuildMine">
-			<DisplayName>Primeval Earth Wonder</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Pembentukan Gunung\n Konsumsi kekuatan batin dalam jumlah besar untuk mengeluarkan mineral dari bawah tanah. \nPelajari Keajaiban: Pembentukan Danau\n Lakukan keajaiban dan ubah suatu area menjadi perairan dangkal. \nPelajari Keajaiban: Pembentukan Tanah\n Lakukan keajaiban dan ubah suatu area menjadi daratan.[/color][/size]</EffectDesc>
+			<DisplayName>Nguyên Khôn Diệu Pháp</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Tạo Sơn Thuật\nTiêu hao lượng lớn linh lực để kéo khoáng sản từ sâu trong lòng đất lên bề mặt.\nHọc được thần thông: Khai Hồ Thuật\nThi triển thần thông để biến một khu vực thành vùng nước nông.\nHọc được thần thông: Tạo Lục Thuật\nThi triển thần thông để biến một khu vực thành đất liền.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_BuildMine_KaiHu">
-			<DisplayName>Lake Shaping</DisplayName>
-			<EffectDesc>[size=16][color=#D06508]Pelajari Keajaiban: Pembentukan Danau\n Lakukan keajaiban dan ubah suatu area menjadi perairan dangkal.[/color][/size]</EffectDesc>
+			<DisplayName>Khai Hồ Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Khai Hồ Thuật\nThi triển thần thông để biến một khu vực thành vùng nước nông.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_BuildMine_ZaoLu">
-			<DisplayName>Land Shaping</DisplayName>
-			<EffectDesc>[size=16][color=#D06508]Pelajari Keajaiban: Pembentukan Tanah\n Lakukan keajaiban dan ubah suatu area menjadi daratan.[/color][/size]</EffectDesc>
+			<DisplayName>Tạo Lục Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Tạo Lục Thuật\nThi triển thần thông để biến một khu vực thành đất liền.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_RebornSelf">
-			<DisplayName>Reverie Rebirth</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nPil Kelahiran Kembali\nPelajari Keajaiban: Lamunan Kelahiran Kembali\nTeknik rahasia unik dari Sekte Taiyi. Menggunakan Mutiara Jiwa sebagai katalisnya, teknik ini menghancurkan kultivasi seseorang dan membakar Inti Emas seseorang. Dengan demikian cara penciptaan dibalik dan seseorang akan bereinkarnasi sebagai makhluk fana.[/color][/size]</EffectDesc>
+			<DisplayName>Huyền Tẫn Trọng Sinh Pháp</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được đan phương:\nHuyền Tẫn Trọng Sinh Đan\nHọc được thần thông: Huyền Tẫn Trọng Sinh Pháp\nBí pháp độc môn của Thái Nhất Môn, dùng Huyền Tẫn Châu làm dẫn, tự hủy tu vi, đốt cháy Kim Đan, nghịch chuyển tạo hóa, quay về phàm thai.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_JieHuiDaoPowerUp">
-			<DisplayName>Tao Refinement</DisplayName>
-			<EffectDesc>[size=16][color=#D06508]Keajaiban yang Dipelajari: Penyempurnaan Tao\nKonsumsi satu Kesengsaraan Ashe dan gunakan pada sebuah item, memberikan peluang untuk meningkatkan tingkatan item sebanyak 1.[/color][/size]</EffectDesc>
+			<DisplayName>Pháp Luyện Đạo Tẩy</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Pháp Luyện Đạo Tẩy\nSử dụng trên một vật phẩm, tiêu hao một cục tro kiếp, có khả năng tăng cấp vật phẩm lên 1 bậc.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_SoulCrystalYouPowerUp">
-			<DisplayName>Specter Refinement</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penyempurnaan Spectre\nKonsumsi satu Permata Jiwa Penderitaan dan gunakan pada sebuah item, memberikan peluang untuk meningkatkan tingkatan item sebesar 1.[/color][/size]</EffectDesc>
+			<DisplayName>Pháp Luyện U Tẩy</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Pháp Luyện U Tẩy\nSử dụng trên một vật phẩm, tiêu hao một viên u phách, có khả năng tăng cấp vật phẩm lên 1 bậc.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_SoulCrystalLingPowerUp">
-			<DisplayName>Spiritual Refinement</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Pemurnian Spiritual\nKonsumsi satu Amber Spiritual dan gunakan pada sebuah item, memberikan peluang untuk meningkatkan Tingkat Penahanan Qi item tersebut (jika item tersebut adalah artefak, Kapasitas Qi sebagai gantinya ditingkatkan).[/color][/size]</EffectDesc>
+			<DisplayName>Pháp Luyện Linh Tẩy</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Pháp Luyện Linh Tẩy\nSử dụng trên một vật phẩm, tiêu hao một viên linh phách, có khả năng tăng khả năng chứa linh khí của vật phẩm (nếu là pháp bảo thì sẽ tăng dung lượng linh khí).[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_MakeSoulCrystal">
-			<DisplayName>Soul Chant</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Nyanyian Jiwa\nGunakan pada karakter yang belum digarap, karakter sekarat, atau Roh Hidup untuk mengumpulkan Permata Jiwa mereka. Hanya dapat digunakan satu kali pada setiap target.[/color][/size]</EffectDesc>
+			<DisplayName>Ngưng Phách Quyết</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Ngưng Phách Quyết\nSử dụng trên nhân vật không có tu vi, nhân vật sắp chết hoặc tinh quái, thu lấy phách của họ. Chỉ có thể sử dụng một lần trên cùng một đối tượng.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_MakePuppet">
-			<DisplayName>Soul Mastery</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penguasaan Jiwa\nGunakan pada tubuh mati untuk membangunkannya. Tubuh yang terbangun dapat melakukan pekerjaan fisik sederhana, dengan kualitas yang terkait dengan kondisi budidayanya saat masih hidup.[/color][/size]</EffectDesc>
+			<DisplayName>Ngự Linh Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Ngự Linh Thuật\nPhóng thích trên một cơ thể, đánh thức nó. Cơ thể được đánh thức có thể thực hiện một số công việc lao động đơn giản, phẩm chất của nó phụ thuộc vào cảnh giới trước khi chết.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_BuidPuppet">
-			<DisplayName>Ensoulment</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Ensoul\nLepaskan sebuah wadah untuk memberinya jiwa. Kapal yang dijiwai dapat melakukan pekerjaan fisik sederhana, dengan kualitas yang terkait dengan tingkatannya saat dibuat.[/color][/size]</EffectDesc>
+			<DisplayName>Phú Linh Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Phú Linh Thuật\nPhóng thích trên một con rối, ban cho nó linh tính. Con rối được ban linh tính có thể thực hiện một số công việc lao động đơn giản, phẩm chất của nó phụ thuộc vào cấp độ chế tác của con rối.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="SeachSoul">
-			<DisplayName>Soul Inquiry</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penyelidikan Jiwa\nGunakan pada karakter yang sekarat dan Anda memiliki peluang tertentu untuk mendapatkan panduan rahasia atau pengetahuan lainnya. Melakukannya di lokasi dengan Feng Shui yang jahat dapat meningkatkan peluang memperoleh informasi.[/color][/size]</EffectDesc>
+			<DisplayName>Đại Pháp Tìm Hồn</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Đại Pháp Tìm Hồn\nSử dụng trên nhân vật sắp chết, có khả năng nhận được công pháp bí kíp hoặc kiến thức khác của họ. Khi thực hiện ở nơi hung sát sẽ tăng xác suất nhận thông tin.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_ClosedDoor_1">
-			<DisplayName>Meditation</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Meditasi\nMasuk ke kondisi meditasi untuk mengembangkan diri. Dengan cepat menghabiskan umur dan stamina seseorang. Dapatkan Budidaya dengan cepat dan tingkatkan Qi maksimal.[/color][/size]</EffectDesc>
+			<DisplayName>Thuật Nhập Định</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Nhập Định\nVào trạng thái định để tu luyện, nhanh chóng tiêu hao thọ nguyên và tinh nguyên. Có thể nhanh chóng đạt được tu vi và tăng giới hạn linh khí.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbLing_Aoe_1">
-			<DisplayName>Spiritual Breath Chant</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Nyanyian Nafas Spiritual\nPergi ke lokasi yang ditentukan untuk menyerap Qi dari lingkungan.[/color][/size]</EffectDesc>
+			<DisplayName>Linh Tức Quyết</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Linh Tức Quyết\nĐến một địa điểm chỉ định để hấp thụ linh khí từ môi trường.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbLing_Live_1">
-			<DisplayName>Way of the Reaper</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Jalan Penuai\nGunakan pada makhluk hidup yang tidak memiliki pengalaman berkultivasi, habiskan umurnya untuk meningkatkan Qi Anda.[/color][/size]</EffectDesc>
+			<DisplayName>Minh Linh Chân Pháp</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Minh Linh Chân Pháp\nPhóng thích trên sinh vật sống không có tu vi, tiêu hao thọ nguyên của mục tiêu để tăng linh khí cho bản thân.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbLing_Body_1">
-			<DisplayName>Sanguine Absorption</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penyerapan Optimis\nSempurnakan tubuh dan ubah menjadi Qi Anda. Semakin tinggi keadaan tubuh saat masih hidup, semakin banyak Qi yang diperoleh.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Yêu Hóa Huyết Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Thiên Yêu Hóa Huyết Thuật\nLuyện hóa một cơ thể để chuyển hóa thành linh khí cho bản thân, cảnh giới trước khi chết của cơ thể càng cao, linh khí thu được càng nhiều.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbLing_Thing_1">
-			<DisplayName>One with Mountain</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Menyatu dengan Gunung\nGunakan pada bangunan, tumbuhan, dan mineral di peta untuk menyerap Qi mereka. Semakin banyak Qi yang dimiliki target dan semakin tinggi Qi maksimum Anda, semakin cepat kecepatan penyerapan Anda.[/color][/size]</EffectDesc>
+			<DisplayName>Thác Thể Đồng Sơn Quyết</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Thác Thể Đồng Sơn Quyết\nPhóng thích trên kiến trúc, thực vật, khoáng vật trong cảnh, có thể hấp thụ linh khí từ chúng. Mục tiêu càng có nhiều linh khí, giới hạn linh khí của bản thân càng cao, tốc độ hấp thụ càng nhanh.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbLing_Item_1">
-			<DisplayName>Palm of Absorption</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Telapak Penyerapan\nMenyerap Qi yang ada di dalam suatu benda.[/color][/size]</EffectDesc>
+			<DisplayName>Hấp Tinh Chưởng</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Hấp Tinh Chưởng\nCó thể hấp thụ linh khí chứa trong vật phẩm.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_Healing_Damage_1">
-			<DisplayName>Panacea</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Obat Mujarab\nGerakkan kekuatan Anda untuk menyembuhkan Cedera Batin target.[/color][/size]</EffectDesc>
+			<DisplayName>Hóa Thương Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Hóa Thương Thuật\nVận công để chữa trị thương tổn nội môn của một mục tiêu.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_BuildBody_1">
-			<DisplayName>Reconstruction</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Rekonstruksi\nRegenerasi anggota tubuh target, perbaiki semua bagian tubuh mereka yang hilang.[/color][/size]</EffectDesc>
+			<DisplayName>Tái Tạo Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Tái Tạo Thuật\nThực hiện tái sinh chi bị cho một mục tiêu, tái tạo tất cả các bộ phận đã mất.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_RobBodyLow_1">
-			<DisplayName>Lesser Possession</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Kepemilikan Lebih Kecil\nTeknik kepemilikan tingkat rendah. Rebut tubuh makhluk hidup yang tidak memiliki pengalaman berkultivasi. Namun, sebagian besar pengalaman kultivasi pengguna akan hilang, akibatnya menyebabkan ketidakcocokan jiwa.[/color][/size]</EffectDesc>
+			<DisplayName>Âm Thần Đoạt Xá</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Âm Thần Đoạt Xá\nPhương pháp đoạt xá cấp thấp, đoạt lấy cơ thể của một sinh vật sống không có tu vi. Nhưng sẽ mất đi nhiều khổ tu và khiến linh hồn không hòa hợp.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_RobBodyHigh_1">
-			<DisplayName>Greater Possession</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Kepemilikan Lebih Besar\nTeknik kepemilikan tingkat lanjut. Rebut sepenuhnya tubuh makhluk hidup yang tidak memiliki pengalaman budidaya, namun sebagian besar pengalaman budidaya pengguna akan hilang.[/color][/size]</EffectDesc>
+			<DisplayName>Dương Thần Đoạt Xá</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Dương Thần Đoạt Xá\nPhương pháp đoạt xá cao cấp, hoàn toàn đoạt lấy cơ thể của một sinh vật sống không có tu vi, nhưng sẽ mất đi nhiều khổ tu.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_1_1">
-			<DisplayName>Qi Absorption Cauldron</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Kuali Penyerapan Qi\nMenyerap umur makhluk hidup tanpa pengalaman kultivasi, meningkatkan pengalaman dan inspirasi kultivasi seseorang. Lebih efektif pada target dengan Fisik yang lebih baik.[/color][/size]</EffectDesc>
+			<DisplayName>Đỉnh Lô Hấp Chân Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Đỉnh Lô Hấp Chân Thuật\nHấp thụ thọ nguyên của một sinh vật sống không có tu vi để tăng tu vi cho bản thân và đồng thời đạt được tham ngộ. Thể chất của mục tiêu càng cao, hiệu quả càng mạnh.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_2_1">
-			<DisplayName>Alluring Illusion</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Ilusi Memikat\nCiptakan alam ilusi untuk merayu makhluk hidup dari ras yang sama dengan pengguna yang tidak memiliki pengalaman kultivasi lawan jenis, menyerap masa hidup mereka untuk meningkatkan pengalaman sendiri dan mendapatkan inspirasi. Lebih efektif pada target dengan Karisma lebih tinggi.[/color][/size]</EffectDesc>
+			<DisplayName>Phong Nguyệt Huyễn Cảnh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Phong Nguyệt Huyễn Cảnh\nSử dụng huyễn cảnh để mê hoặc một sinh vật sống cùng loài khác giới không có tu vi, trong huyễn cảnh đoạt lấy thọ nguyên của họ, tăng tu vi cho bản thân và đồng thời đạt được tham ngộ. Sức hấp dẫn của mục tiêu càng cao, hiệu quả càng mạnh.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_3_1">
-			<DisplayName>Soul Snatcher</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penjambret Jiwa\nRebut tubuh makhluk hidup yang tidak memiliki pengalaman kultivasi, ubah dan manfaatkan kekuatannya untuk meningkatkan pengalaman kultivasi Anda sendiri sambil mendapatkan inspirasi. Lebih efektif dengan target Intelijen yang lebih tinggi.[/color][/size]</EffectDesc>
+			<DisplayName>Nhiếp Thần Ngự Quỷ Đại Pháp</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Nhiếp Thần Ngự Quỷ Đại Pháp\nĐoạt lấy linh hồn của một sinh vật sống không có tu vi, luyện hóa để tăng tu vi cho bản thân và đồng thời đạt được tham ngộ. Ngộ tính của mục tiêu càng cao, hiệu quả càng mạnh.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_4_1">
-			<DisplayName>Celestial Demon Incarnation</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Demonisasi\nBerkomunikasi dengan alam iblis dari kesadaran Anda sendiri untuk memperoleh kecepatan kultivasi yang lebih cepat dari rata-rata. Namun pada saat yang sama, jiwa Anda akan terus-menerus dibakar oleh api iblis, dan satu-satunya cara untuk menghilangkannya adalah dengan menyiksa makhluk hidup lain, sehingga menenangkan pikiran iblis. \nPelajari Keajaiban: Peleburan Jiwa\nLakukan penyiksaan peleburan jiwa pada makhluk hidup yang tidak memiliki pengalaman kultivasi dari ras yang sama dengan penggunanya, sehingga menimbulkan rasa sakit yang luar biasa pada mereka. dan sangat menikmatinya.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Ma Hóa Thân Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Ma Hóa\nKết nối ý thức bản thân với ma giới, đạt được tốc độ tu luyện vượt trội. Nhưng đồng thời, linh hồn sẽ bị ma hỏa thiêu đốt không ngừng, chỉ có thể làm dịu ma niệm bằng cách hành hạ sinh vật sống để tìm kiếm sự an ủi.\nHọc được thần thông: Luyện Hồn\nThực hiện hình phạt luyện hồn tàn khốc lên một sinh vật cùng loài không có tu vi, khiến họ chịu đựng đau đớn lớn lao. Và từ đó đạt được niềm vui.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_5_1">
-			<DisplayName>Exploitation of External Pleasures</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Eksploitasi Kenikmatan Eksternal\nTargetkan makhluk hidup yang tidak memiliki pengalaman budidaya dari ras yang sama dengan pengguna. Jika target sedang dalam mood yang ekstrim (mood bar di atas 160 atau di bawah 40), dapatkan inspirasi dan pengalaman kultivasi darinya. Begitu mukjizat terjadi, pengaruhnya akan bertahan tanpa batas waktu. Semakin ekstrem Mood targetnya, semakin kuat pula efek keajaibannya. \nUntuk setiap target yang Anda gunakan, nilai dasar Kondisi Mental dan Suasana Hati Anda berkurang, dan target Anda menjadi lebih rentan terhadap kemarahan. Anda dapat berhenti melakukan keajaiban dengan menggunakannya kembali pada target yang sama.[/color][/size]</EffectDesc>
+			<DisplayName>Tha Hóa Tự Tại Đại Pháp</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Tha Hóa Tự Tại Đại Pháp\nThi triển pháp thuật lên một sinh vật cùng loài không có tu vi, khi mục tiêu đang ở trạng thái cảm xúc cực đoan (trên 160 hoặc dưới 40), có thể từ đó đạt được tham ngộ và tu vi. Thần thông một khi được thi triển sẽ liên tục tác động, cảm xúc của mục tiêu càng cực đoan, hiệu quả của thần thông càng mạnh.\nMỗi lần thi triển lên một mục tiêu, giá trị cơ bản của tâm trạng và tâm cảnh bản thân sẽ giảm, mục tiêu cũng sẽ dễ dàng kích động và tức giận hơn. Thi triển lại lên mục tiêu đã được thi triển có thể thu hồi thần thông.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_6_1">
-			<DisplayName>Soul Infection</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Infeksi Jiwa\nLepaskan makhluk tak terkultivasi yang sejenis dengan milik Anda, tempelkan secercah roh primordial Anda ke dalamnya dan ubah Fondasi dari target yang terinfeksi menjadi Budidaya dan Inspirasi Anda dengan jumlah yang setara setiap hari pada pukul 0:00. \nUntuk setiap unit yang Anda infeksi, pikiran Anda akan rusak dan jiwa Anda terbelah, dan target akan melemah karena parasit. Anda dapat berhenti melakukan keajaiban dengan menggunakannya kembali pada target yang sama.[/color][/size]</EffectDesc>
+			<DisplayName>Hồn Thể Ký Sinh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Hồn Thể Ký Sinh\nThi triển pháp thuật lên một sinh vật cùng loài không có tu vi, ký sinh một phần nguyên thần của bản thân lên đó, mỗi ngày lúc 0 giờ chuyển hóa toàn bộ giá trị trúc cơ của đối tượng ký sinh thành tu vi và tham ngộ tương ứng của bản thân.\nMỗi lần ký sinh lên một đơn vị, thần trí bản thân sẽ bị tổn hại do phân hồn, đối tượng ký sinh sẽ trở nên suy yếu. Thi triển lại lên mục tiêu đã được thi triển có thể thu hồi thần thông.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_7_1">
-			<DisplayName>Sacrifice Offering</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Persembahan Pengorbanan\nTawarkan makhluk hidup tanpa pengalaman kultivasi dari ras yang sama dengan pengguna sebagai pengorbanan kepada jiwa iblis, yang akan mengambil beberapa organ secara acak, dan sebagai imbalannya berikan pengguna sejumlah besar pengalaman dan inspirasi. Semakin kuat Lima Atribut target, semakin besar efek pengorbanannya.[/color][/size]</EffectDesc>
+			<DisplayName>Hiến Tế</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Hiến Tế\nHiến tế một sinh vật cùng loài không có tu vi cho ma hồn, ma hồn sẽ ngẫu nhiên lấy đi một số cơ quan của vật tế và phản hồi cho ngươi lượng lớn tu vi và tham ngộ. Thuộc tính ngũ hành của mục tiêu càng mạnh, hiệu quả hiến tế càng cao.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_8_1">
-			<DisplayName>Incantation of Mind Cleansing</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Mantra Pembersihan Pikiran\nUcapkan mantra dan berikan makhluk hidup tanpa pengalaman kultivasi dari ras yang sama dengan pengguna dengan status suasana hati yang positif.[/color][/size]</EffectDesc>
+			<DisplayName>Thanh Tâm Chú</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Thanh Tâm Chú\nThi triển pháp thuật, mang lại tâm trạng tốt cho một sinh vật cùng loài không có tu vi.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PlantGrowUp_1">
-			<DisplayName>Chant of Wood Mastery</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Nyanyian Penguasaan Kayu\nPusatkan Qi purba Anda dan masukkan ke dalam tanaman target, sehingga meningkatkan laju pertumbuhannya secara signifikan. Berlangsung 1 hari. Kurang efektif pada tanaman tingkat tinggi. Metode ini sangat merusak Qi purba Anda, gunakan dengan hati-hati.[/color][/size]</EffectDesc>
+			<DisplayName>Ngự Mộc Quyết</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Ngự Mộc Quyết\nTụ tập nguyên khí bản thân, truyền vào thực vật mục tiêu, tăng tốc độ sinh trưởng của nó đáng kể, kéo dài trong 1 ngày. Phẩm cấp thực vật càng cao, hiệu quả càng giảm. Pháp này cực kỳ tổn hại nguyên khí, cần thận trọng sử dụng.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_9_1">
-			<DisplayName>Way of Celestial Heart</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Jalan Hati Surgawi\nMenggunakan 10 tahun umur pengguna untuk meningkatkan kemampuan mereka dalam waktu singkat dan memulihkan Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Tâm Chính Pháp</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Thiên Tâm Chính Pháp\nTiêu hao thọ nguyên, tăng tạm thời năng lực bản thân và khôi phục giá trị linh khí.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_9_2">
-			<DisplayName>Inner Demons Unchained</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Setan Batin Tidak Dirantai\nGunakan Umur untuk meningkatkan kemampuan Anda dan memulihkan Qi dalam waktu singkat.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Ma Giải Thể Đại Pháp</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Thiên Ma Giải Thể Đại Pháp\nTiêu hao thọ nguyên, tăng tạm thời năng lực bản thân và khôi phục giá trị linh khí.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_AbsorbGong_10_1">
-			<DisplayName>Wise Detachment</DisplayName>
-			<Desc>Hati yang terlatih dalam cara Ketidaksadaran dapat melenyapkan semua pikiran yang mengganggu. Dengan mengembangkan metode ini, Anda memperoleh Detasemen Keajaiban yang Bijaksana, yang juga memungkinkan Anda memanfaatkan pikiran-pikiran ini dan mengarahkannya ke dalam sub-roh baru.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Detasemen Bijaksana\nMembuat mantra pada makhluk hidup yang tidak memiliki pengalaman kultivasi, menghilangkan semua status suasana hati sementaranya. \n\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
+			<DisplayName>Tuệ Kiếm Trảm Niệm</DisplayName>
+			<Desc>Với tâm quên tình mà trảm sạch tạp niệm, luyện pháp này có thể học được thần thông Tuệ Kiếm Trảm Niệm, và có thể dùng tạp niệm làm dẫn, phân hóa một sợi nguyên thần phân thần.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Tuệ Kiếm Trảm Niệm\nThi triển pháp thuật lên một sinh vật không có tu vi, loại bỏ toàn bộ cảm xúc ngắn hạn của mục tiêu.\nThêm một sợi nguyên thần phân thần.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_LingStoneMake_1">
-			<DisplayName>Spirit Stone Refinement</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Pemurnian Batu Roh\nPadatkan Qi menjadi batu roh.[/color][/size]</EffectDesc>
+			<DisplayName>Thuật Luyện Chế Linh Thạch</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Luyện Chế Linh Thạch\nKết tụ linh khí thành linh thạch.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_LingCrystalMake_1">
-			<DisplayName>Spirit Crystal Refinement</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Penyempurnaan Kristal Roh\nPadatkan Qi menjadi Kristal Roh.[/color][/size]</EffectDesc>
+			<DisplayName>Thuật Luyện Chế Linh Tinh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Luyện Chế Linh Tinh\nKết tụ linh khí thành linh tinh.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_Prophesy_1">
-			<DisplayName>Universal Foresight</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Perhitungan Siklus\nMencoba memprediksi apa yang mungkin terjadi di lokasi sekte dalam beberapa hari ke depan.[/color][/size]</EffectDesc>
+			<DisplayName>Chu Thiên Thần Toán</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Chu Thiên Thần Toán\nCố gắng dự đoán những sự kiện có thể xảy ra trong vài ngày tới tại địa điểm của môn phái.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_Prophesy_MapStory_1">
-			<DisplayName>Derivative Calculation</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Perhitungan Derivatif\nMencoba memprediksi apa yang mungkin terjadi di lokasi tertentu di masa depan.[/color][/size]</EffectDesc>
+			<DisplayName>Đại Diễn Thần Toán</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Đại Diễn Thần Toán\nThử dự đoán những sự kiện có thể xảy ra trong tương lai tại một địa điểm nhất định.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_LiuRenShensuan">
-			<DisplayName>Astrological Foresight</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Pandangan ke Depan Astrologi\nPilih karakter untuk mencoba mengetahui keberadaannya. Semakin tinggi Pencapaian Anda dan semakin banyak informasi yang Anda miliki, semakin tinggi pula tingkat keberhasilan keberadaan target pembelajaran.[/color][/size]</EffectDesc>
+			<DisplayName>Lục Nhâm Thần Toán</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Lục Nhâm Thần Toán\nChọn một nhân vật, thử tìm hiểu hành tung của họ. Đạo hạnh càng cao, thông tin thu được càng nhiều, tỷ lệ thành công càng lớn.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForRain_1">
-			<DisplayName>Rainmaking</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Tarian Hujan\nMendatangkan hujan melalui keajaiban. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+			<DisplayName>Cầu Vũ Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Cầu Vũ Thuật\nSử dụng thần thông để cầu mưa, nhưng hành động này có ảnh hưởng đến thiên đạo và sẽ làm giảm thọ nguyên.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForSun_1">
-			<DisplayName>Chant of Cloud Dispelling</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Nyanyian Pengusir Awan\nMenciptakan cuaca cerah melalui keajaiban. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+			<DisplayName>Khu Vân Quyết</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Khu Vân Quyết\nSử dụng thần thông để làm trời quang đãng, nhưng hành động này có ảnh hưởng đến thiên đạo và sẽ làm giảm thọ nguyên.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForRainstorm">
-			<DisplayName>Rainstorm</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Tarian Badai Hujan\nMenciptakan hujan badai melalui keajaiban selama musim dingin dan musim panas. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+			<DisplayName>Bạo Vũ Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Bạo Vũ Thuật\nVào mùa đông hoặc mùa hè, sử dụng thần thông để triệu hồi một trận mưa lớn, nhưng hành động này có ảnh hưởng đến thiên đạo và sẽ làm giảm thọ nguyên.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForFohn">
-			<DisplayName>Foehn Wind</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Angin Foehn\nPanggil hembusan angin foehn melalui keajaiban selama musim panas dan musim gugur. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+			<DisplayName>Phần Phong Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Phần Phong Thuật\nVào mùa hè hoặc mùa thu, sử dụng thần thông để triệu hồi một cơn gió nóng, nhưng hành động này có ảnh hưởng đến thiên đạo và sẽ làm giảm thọ nguyên.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForDustStorm">
-			<DisplayName>Dust Devil</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Setan Debu\nMenimbulkan badai debu melalui keajaiban selama musim dingin dan musim semi. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+			<DisplayName>Trần Bạo Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Trần Bạo Thuật\nVào mùa đông hoặc mùa xuân, sử dụng thần thông để triệu hồi một trận bão cát, nhưng hành động này có ảnh hưởng đến thiên đạo và sẽ làm giảm thọ nguyên.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForMiasma">
-			<DisplayName>Toxic Miasma</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Miasma Beracun\nMenimbulkan awan racun melalui keajaiban selama musim semi dan musim panas. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+			<DisplayName>Độc Chướng Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Độc Chướng Thuật\nVào mùa xuân hoặc mùa hè, sử dụng thần thông để triệu hồi một vùng sương độc, nhưng hành động này có ảnh hưởng đến thiên đạo và sẽ làm giảm thọ nguyên.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForLightningStorm">
-			<DisplayName>Thunderstorm</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Badai Petir\nMenimbulkan badai petir melalui keajaiban selama musim panas dan musim gugur. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.[/color][/size]</EffectDesc>
+			<DisplayName>Lôi Bạo Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Lôi Bạo Thuật\nVào mùa hè hoặc mùa thu, sử dụng thần thông để triệu hồi một trận bão sấm sét, nhưng hành động này có ảnh hưởng đến thiên đạo và sẽ làm giảm thọ nguyên.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_PrayForWeather">
-			<DisplayName>Scripture of Heaven Prayer</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Nyanyian Pengusir Awan\nPelajari Keajaiban: Tarian Badai Hujan\nPelajari Keajaiban: Angin Foehn\nPelajari Keajaiban: Setan Debu\nPelajari Keajaiban: Miasma Beracun\nPelajari Keajaiban: Badai Petir[/color][/size]</EffectDesc>
+			<DisplayName>Kỳ Thiên Kinh</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Khu Vân Quyết\nHọc được thần thông: Bạo Vũ Thuật\nHọc được thần thông: Phần Phong Thuật\nHọc được thần thông: Trần Bạo Thuật\nHọc được thần thông: Độc Chướng Thuật\nHọc được thần thông: Lôi Bạo Thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_Healing_Physique_1">
-			<DisplayName>Marrow Sanitization</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Sanitasi Sumsum\nLakukan pembersihan menyeluruh terhadap makhluk hidup yang tidak memiliki pengalaman budidaya, meningkatkan Konstitusi mereka setidaknya sebesar 20%. Semakin rendah nilai awalnya, semakin besar pengaruhnya. Hanya dapat dilakukan sekali pada target selama masa pakainya.[/color][/size]</EffectDesc>
+			<DisplayName>Phạt Mao Tẩy Tủy Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Phạt Mao Tẩy Tủy\nThi triển lên một sinh vật chưa có tu vi, giúp tăng cường căn cốt của họ. Giá trị ban đầu càng thấp, hiệu quả càng cao, tối thiểu tăng 20% căn cốt. Mỗi mục tiêu chỉ có thể được thi triển một lần trong đời.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_Healing_Intelligence_1">
-			<DisplayName>Enlightened Awakening</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Kebangkitan yang Tercerahkan\nMencerahkan secara menyeluruh makhluk hidup yang tidak memiliki pengalaman kultivasi, meningkatkan Kecerdasan mereka setidaknya sebesar 20%. Semakin rendah nilai awalnya, semakin besar pengaruhnya. Hanya dapat dilakukan sekali pada target selama masa pakainya.[/color][/size]</EffectDesc>
+			<DisplayName>Đề Hồ Quán Đỉnh Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Đề Hồ Quán Đỉnh\nThi triển lên một sinh vật chưa có tu vi, giúp tăng cường ngộ tính của họ. Giá trị ban đầu càng thấp, hiệu quả càng cao, tối thiểu tăng 20% ngộ tính. Mỗi mục tiêu chỉ có thể được thi triển một lần trong đời.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_Healing_Charisma_1">
-			<DisplayName>Charismatic</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Karismatik\nMerekonstruksi tubuh dan jiwa makhluk hidup tanpa pengalaman kultivasi, meningkatkan Karisma mereka setidaknya sebesar 20%. Semakin rendah nilai awalnya, semakin besar pengaruhnya. Hanya dapat dilakukan sekali pada target selama masa pakainya.[/color][/size]</EffectDesc>
+			<DisplayName>Tái Tạo Hình Thần Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Tái Tạo Hình Thần\nThi triển lên một sinh vật chưa có tu vi, giúp tăng cường mị lực của họ. Giá trị ban đầu càng thấp, hiệu quả càng cao, tối thiểu tăng 20% mị lực. Mỗi mục tiêu chỉ có thể được thi triển một lần trong đời.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_Healing_Perception_1">
-			<DisplayName>Third Eye</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Mata Ketiga\nAktifkan Mata Ketiga pada makhluk hidup yang tidak memiliki pengalaman kultivasi, meningkatkan Persepsi mereka setidaknya sebesar 20%. Semakin rendah nilai awalnya, semakin besar pengaruhnya. Hanya dapat dilakukan sekali pada target selama masa pakainya.[/color][/size]</EffectDesc>
+			<DisplayName>Khai Thiên Nhãn Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Khai Thiên Nhãn\nThi triển lên một sinh vật chưa có tu vi, giúp tăng cường thần thức của họ. Giá trị ban đầu càng thấp, hiệu quả càng cao, tối thiểu tăng 20% thần thức. Mỗi mục tiêu chỉ có thể được thi triển một lần trong đời.[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Magic_FenShenZhiShu_1">
-			<DisplayName>Spirit Splitting</DisplayName>
-			<EffectDesc>[size=16][color=#CCFF66]Pelajari Keajaiban: Pemisahan Roh\nMemungkinkan Anda memperoleh sub-roh.[/color][/size]</EffectDesc>
+			<DisplayName>Phân Thần Chi Thuật</DisplayName>
+			<EffectDesc>[size=10][color=#D06508]Học được thần thông: Phân Thần Thuật\nCó thể đạt được phân thần.[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>
+

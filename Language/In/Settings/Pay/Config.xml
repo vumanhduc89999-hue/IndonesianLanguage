@@ -1,13 +1,14 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="CosmeticPack_XiaoWuJian">
-			<Display>Demonic Furniture Appearance Bundle</Display>
+			<Display>Gói skin đồ vật nhỏ</Display>
 		</Text>
 		<Text Name="CosmeticPack_Building">
-			<Display>Huge Figures Appearance Bundle</Display>
+			<Display>Gói da kiến trúc</Display>
 		</Text>
 		<Text Name="CosmeticPack_Others">
-			<Display>Vessel/Pet/Spirit Contract Skin Bundle</Display>
+			<Display>Gói giao diện khế ước/Linh thú/Búp bê</Display>
 		</Text>
 	</List>
 </Texts>
+

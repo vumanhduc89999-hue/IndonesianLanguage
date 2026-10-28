@@ -1,18 +1,19 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FeatureModifierBase">
-			<Desc>Pengubah dihasilkan oleh sifat. Hanya penggunaan sistem. Jangan memodifikasi.</Desc>
+			<Desc>modifier do đặc tính tạo ra, hệ thống sử dụng, không được chỉnh sửa.</Desc>
 		</Text>
 		<Text Name="ExperienceModifierBase">
-			<Desc>Pengubah dihasilkan oleh latar belakang. Hanya penggunaan sistem. Jangan memodifikasi.</Desc>
+			<Desc>modifier do trải nghiệm tạo ra, hệ thống sử dụng, không được chỉnh sửa.</Desc>
 		</Text>
 		<Text Name="FeatureModifier_DongShiZhang1">
-			<DisplayName>Chairman's Motivation</DisplayName>
-			<Desc>Di bawah pengawasan Ketua Dewan, kami akan melipatgandakan upaya kami!</Desc>
+			<DisplayName>Khích lệ của Chủ tịch</DisplayName>
+			<Desc>Dưới ánh mắt của Chủ tịch, làm việc hăng hái hơn!</Desc>
 		</Text>
 		<Text Name="FeatureModifier_DongShiZhang2">
-			<DisplayName>Chairman's Motivation</DisplayName>
-			<Desc>Di bawah pengawasan Ketua Dewan, kami akan melipatgandakan upaya kami!</Desc>
+			<DisplayName>Khích lệ của Chủ tịch</DisplayName>
+			<Desc>Dưới ánh mắt của Chủ tịch, làm việc hăng hái hơn!</Desc>
 		</Text>
 	</List>
 </Texts>
+

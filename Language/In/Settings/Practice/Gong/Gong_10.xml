@@ -1,26 +1,27 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong_10_Huo">
-			<DisplayName>True Sun Refining Law</DisplayName>
-			<Desc>Salah satu unsur Hukum sebenarnya dari Sekte Taiyi. Dengan bantuan Yang Kecil, Yang Adil, dan Yang Besar, ciptakan api dari tiga kekuatan Langit, Bumi, dan Manusia. Apinya akan sangat dahsyat dan menerangi segala sesuatu yang ada di dalam Hukumnya. Namun, proses budidayanya bisa sangat berbahaya. Api sejati bahkan mungkin melenyapkan seluruh keberadaan seseorang jika budidayanya salah.</Desc>
-			<SelectDesc>Seseorang akan unggul dalam mantra ketika mengolah Hukum ini, namun terobosannya akan relatif berisiko. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
-			<Stages.0.DisplayName>Man-made Fire</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Spark</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.0.Desc>Rasakan percikan alami seseorang dan nyalakan. Ini menandai awal dari budidaya.[color=#D06508]\nGagal menyalakan percikan api dapat menyebabkan cedera meridian.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.0.Necks.1.DisplayName>Man-made Fire</Stages.0.Necks.1.DisplayName>
-			<Stages.0.Necks.1.Desc>Kumpulkan api sejati di gerbang pikiran untuk menyalakan api di pikiran seseorang dan terhubung dengan langit dan bumi.[color=#D06508]\nJika terjadi kesalahan, api yang sebenarnya akan meluap dan membakar seluruh tubuh seseorang, menyebabkan rasa sakit yang luar biasa.[/color]</Stages.0.Necks.1.Desc>
-			<Stages.1.DisplayName>Earth Fire</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Bellows</Stages.1.Necks.0.DisplayName>
-			<Stages.1.Necks.0.Desc>Gunakan tubuh seseorang sebagai penghembus untuk menyalakan api yang sebenarnya dan membentuk kembali tulang seseorang sebagai persiapan untuk membentuk Pil Api.[color=#D06508]\nJika terjadi kesalahan, api yang sebenarnya akan menyerang tulang seseorang dan menyebabkan penipisan sumsum. Berpikirlah dua kali sebelum melakukan terobosan.[/color]</Stages.1.Necks.0.Desc>
-			<Stages.1.Necks.1.DisplayName>Earth Fire</Stages.1.Necks.1.DisplayName>
-			<Stages.2.DisplayName>Heaven Fire</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Lamp Bearer</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.0.Desc>Kumpulkan seluruh semangat di hati dan nyalakan Api Hati.[color=#D06508]\nJika terjadi kesalahan, Qi akan meledak dan membakar hati seseorang. Persiapkan terlebih dahulu sebelum melakukan terobosan.[/color]</Stages.2.Necks.0.Desc>
-			<Stages.2.Necks.1.DisplayName>Skyfire</Stages.2.Necks.1.DisplayName>
-			<Stages.3.DisplayName>Divine Fire</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Spirit Illuminated</Stages.3.Necks.0.DisplayName>
-			<Stages.3.Necks.0.Desc>Mencerahkan semangat seseorang dengan berkah surga. Seseorang akan menghadapi Kesengsaraan Surgawi setelah melanggar batas ini.[color=#D06508]\nSangat sulit untuk ditembus, dan tidak akan ada Bonus XP apa pun.[/color]</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>Ascension</Stages.3.Necks.1.DisplayName>
+			<DisplayName>Tam Dương Tam Muội Bính Đinh Luyện Hỏa Quyết</DisplayName>
+			<Desc>Một trong năm chân quyết Ngũ Hành trấn phái của Thái Nhất Môn, mượn kinh lược Tam Dương (Thiếu Dương, Dương Minh, Thái Dương), ngưng tụ tam tài Thiên Địa Nhân chi hỏa, không thứ gì không cháy, cực kỳ phá hoại. Nhưng quá trình tu luyện rất nguy hiểm, một khi sơ suất, chân hỏa phản phệ, thậm chí thần hình câu diệt.</Desc>
+			<SelectDesc>Công pháp này giỏi tấn công thuật pháp, nhưng khi đột phá nút thắt cần đối mặt với rủi ro lớn. Có nên chọn tu luyện công pháp này không?</SelectDesc>
+			<Stages.0.DisplayName>Nhân Hỏa Chi Cảnh</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Hỏa Chủng</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Cảm nhận hỏa chủng bẩm sinh trong cơ thể và dẫn nó bùng cháy, đây là khởi đầu của tu luyện. [color=#D06508]\nMột khi thất bại có thể gây tổn thương kinh mạch.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Nhân Hỏa</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Lấy chân hỏa ngưng tụ Huyền Quan, thắp sáng hỏa trên đỉnh đầu, giao tiếp trời đất. [color=#D06508]\nMột khi thất bại chân hỏa tràn ra có thể gây đau đớn toàn thân máu thịt, khổ không nói hết.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.1.DisplayName>Địa Hỏa Chi Cảnh</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Thác Việt</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Sử dụng chân hỏa luyện đốt toàn bộ xương cốt, lấy thân thể làm Thác Việt, thúc đẩy thần phong, chuẩn bị cho việc ngưng luyện Địa Hỏa Chân Đan. [color=#D06508]\nMột khi thất bại chân hỏa xâm nhập xương cốt, sẽ chịu hình phạt khô tủy, cần thận trọng khi đột phá.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Địa Hỏa</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Thiên Hỏa Chi Cảnh</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Nhiên Đăng</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Sử dụng toàn bộ chân nguyên trong cơ thể ngưng tụ vào tim, thắp sáng tâm hỏa. [color=#D06508]\nMột khi thất bại sẽ gây nổ chân khí, chịu hình phạt đốt tim. Khi đột phá phải chuẩn bị đầy đủ.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Thiên Hỏa</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Thần Hỏa Chi Cảnh</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Khuy Thiên</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Lấy Nguyên Thần lĩnh hội huyền diệu của Thiên Đạo, một khi vượt qua cửa ải này, sẽ đối diện trực tiếp với thiên kiếp. [color=#D06508]\nNút thắt này rất khó vượt qua, không có kinh nghiệm cộng thêm.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Phi thăng</Stages.3.Necks.1.DisplayName>
 		</Text>
 	</List>
 </Texts>
+

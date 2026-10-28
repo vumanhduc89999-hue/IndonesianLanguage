@@ -270,3 +270,4 @@
 /Settings/RPG/Maps/Rpg_Tower_25/map.txt	Esotericals.Data.146.DisplayName	一剑	146	_ReplaceEsotericaName
 /Settings/RPG/Maps/Rpg_Tower_25/map.txt	Esotericals.Data.147.DisplayName	秘宝：一剑	147	_ReplaceEsotericaName
 /Settings/RPG/Maps/Rpg_Tower_25/map.txt	Esotericals.Data.148.DisplayName	化形通慧	148	_ReplaceEsotericaName
+

@@ -2,42 +2,43 @@
 	<List>
 		<Text Name="Mutation_TaiShi">
 			<DisplayName>Taishi</DisplayName>
-			<Desc>Mulailah permainan baru dengan 3 peristiwa Kekacauan Surgawi yang konstan.</Desc>
-			<Trigger.StartGame.Extent.Desc>Sebuah cerita baru terungkap, Taishi Heavenly Dao mengejutkan...</Trigger.StartGame.Extent.Desc>
+			<Desc>Begin a new game with 3 constant Heavenly Chaos events.</Desc>
+			<Trigger.StartGame.Extent.Desc>A new tale unfolds, the Taishi Heavenly Dao stirs...</Trigger.StartGame.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiZhong">
 			<DisplayName>Taizhong</DisplayName>
-			<Desc>Setiap 10/50/100 hari, memicu 1 Turbulensi/Yin Yang/Kekacauan Surgawi Konstan.</Desc>
-			<Trigger.Time.Days.0.Extent.Desc>Seiring berjalannya waktu, beberapa perubahan telah terjadi di dunia..</Trigger.Time.Days.0.Extent.Desc>
-			<Trigger.Time.Days.1.Extent.Desc>Seiring berjalannya waktu, dunia ini telah mengalami perubahan..</Trigger.Time.Days.1.Extent.Desc>
-			<Trigger.Time.Days.2.Extent.Desc>Seiring berjalannya waktu, dunia ini mengalami perubahan drastis...</Trigger.Time.Days.2.Extent.Desc>
+			<Desc>Every 10/50/100 days, trigger 1 Turbulence/Yin Yang/Constant Heavenly Chaos.</Desc>
+			<Trigger.Time.Days.0.Extent.Desc>As time passes, some changes have occurred in the world..</Trigger.Time.Days.0.Extent.Desc>
+			<Trigger.Time.Days.1.Extent.Desc>As time passes, this world has undergone changes..</Trigger.Time.Days.1.Extent.Desc>
+			<Trigger.Time.Days.2.Extent.Desc>As time passes, this world undergoes drastic changes...</Trigger.Time.Days.2.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiZhen">
 			<DisplayName>Taizhen</DisplayName>
-			<Desc>Setiap peningkatan 1 tingkat dalam reputasi sekte memicu 1 kekacauan surgawi Yin Yang; setiap 6 pemicu menghasilkan kekacauan surgawi yang konstan.</Desc>
+			<Desc>Each 1-level increase in sect reputation triggers 1 Yin Yang heavenly chaos; every 6 triggers result in a Constant heavenly chaos.</Desc>
 			<TriggerInfo.Desc>Sect level increased, triggering the Taizhen Heavenly Dao</TriggerInfo.Desc>
-			<Trigger.School.Score.0.Extent.Desc>Reputasi [SCHOOL] telah meningkat, memicu Taizhen Heavenly Dao...</Trigger.School.Score.0.Extent.Desc>
-			<Trigger.School.Score.1.Extent.Desc>Reputasi [SCHOOL] meningkat secara signifikan, menjadi terkenal di dunia, dan secara tak terduga mengaktifkan Taizhen, salah satu Dao Surgawi.</Trigger.School.Score.1.Extent.Desc>
+			<Trigger.School.Score.0.Extent.Desc>[SCHOOL]'s reputation has risen, triggering the Taizhen Heavenly Dao...</Trigger.School.Score.0.Extent.Desc>
+			<Trigger.School.Score.1.Extent.Desc>[SCHOOL]'s reputation significantly boosts, becoming world-renowned, and unexpectedly activating the Taizhen, one of the Heavenly Dao.</Trigger.School.Score.1.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiXu">
 			<DisplayName>Taixu</DisplayName>
-			<Desc>Terobosan setiap murid sekte memiliki peluang untuk memicu kekacauan Surgawi satu kali</Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>[NPC] baru saja memulai jalur keabadian, memicu Taixy Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>Budidaya [NPC] telah maju, memicu Taixu Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>[NPC] telah melihat sekilas jalan besar, menyebabkan pergerakan yang tidak biasa di Taixu Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>
-			<Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>[NPC] mencapai pencerahan dan naik, memicu kekacauan di Taixu Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>
+			<Desc>Each sect disciple's breakthrough has a chance to trigger Heavenly chaos once</Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>[NPC] has just embarked on the path of immortality, triggering the Taixy Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.0.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>[NPC]'s cultivation has advanced, triggering the Taixu Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.1.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>[NPC] has caught a glimpse of the great path, causing an unusual movement in the Taixu Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.2.Extent.Desc>
+			<Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>[NPC] achieves enlightenment and ascends, triggering a chaos in the Taixu Heavenly Dao...</Trigger.StageLevelChange.LevelChangeInfos.3.Extent.Desc>
 		</Text>
 		<Text Name="Mutation_TaiXuan">
 			<DisplayName>Taixuan</DisplayName>
-			<Desc>Tidak dapat memilih efek Turbulent atau Yin Yang Heavenly Chaos secara manual</Desc>
+			<Desc>Cannot manually select effects of Turbulent or Yin Yang Heavenly Chaos</Desc>
 		</Text>
 		<Text Name="Mutation_TaiYi">
 			<DisplayName>Taiyi</DisplayName>
-			<Desc>Setelah Kekacauan Surgawi yang bergejolak mulai berlaku, ada peluang untuk menyetel ulang satu efek</Desc>
+			<Desc>After the turbulent Heavenly Chaos takes effect, there's a chance to reset one effect</Desc>
 		</Text>
 		<Text Name="Mutation_TaiJi">
 			<DisplayName>Taiji</DisplayName>
-			<Desc>Saat mendapatkan Turbulent atau Yin Yang Heaven Chaos, perluas jangkauan acak dari efek chaos.</Desc>
+			<Desc>When obtaining Turbulent or Yin Yang Heaven Chaos, expand the random range of the chaos effects.</Desc>
 		</Text>
 	</List>
 </Texts>
+

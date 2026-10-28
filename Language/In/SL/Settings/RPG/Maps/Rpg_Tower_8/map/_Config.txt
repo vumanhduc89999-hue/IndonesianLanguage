@@ -359,4 +359,5 @@
 /Settings/RPG/Maps/Rpg_Tower_8/map.txt	Skills.SkillDefs.TDamageSkill-561.DisplayName	庚金震地诀	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_8/map.txt	Skills.SkillDefs.TDamageSkill-562.DisplayName	御神飞星诀	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_8/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param1	你是何人？此处乃圣火宫禁地，速速离去！否则格杀勿论？	1	
-/Settings/RPG/Maps/Rpg_Tower_8/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param2	如此恣意妄为！如此骄纵轻狂！哪怕此界将灭，吾等也将在最后时光捍卫圣火之尊严。	1	
+/Settings/RPG/Maps/Rpg_Tower_8/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param2	如此恣意妄为！如此骄纵轻狂！哪怕此界将灭，吾等也将在最后时光捍卫圣火之尊严。	1
+

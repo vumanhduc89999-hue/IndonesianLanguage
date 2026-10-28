@@ -1,62 +1,63 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Modifier_SpNpc_BasePropertie">
-			<DisplayName>Starting Stats</DisplayName>
+			<DisplayName>Thuộc Tính Đảm Bảo</DisplayName>
 		</Text>
 		<Text Name="Modifier_SpNpc_BaseFightPropertie">
-			<DisplayName>Base Battle Stats</DisplayName>
+			<DisplayName>Thuộc Tính Chiến Đấu Cơ Bản</DisplayName>
 		</Text>
 		<Text Name="Modifier_SpNpc_Ling">
-			<DisplayName>Spiritual</DisplayName>
-			<Desc>Orang ini mempunyai fondasi yang sangat kuat, dengan energi Qi yang tak berdasar.</Desc>
+			<DisplayName>Linh</DisplayName>
+			<Desc>Người này căn cơ thâm hậu, linh khí sâu không lường được.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_Shield">
-			<DisplayName>Resilient</DisplayName>
-			<Desc>Orang ini memiliki tubuh besi, dan sangat ahli dalam skill Perlindungan.</Desc>
+			<DisplayName>Hộ</DisplayName>
+			<Desc>Người này thân đồng da sắt, rất giỏi thuật hộ thể.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FabaoAtk">
-			<DisplayName>Keen</DisplayName>
-			<Desc>Orang ini menggunakan Artefak seperti guntur, dengan kekuatan yang luar biasa menakjubkan.</Desc>
+			<DisplayName>Sắc Bén</DisplayName>
+			<Desc>Người này điều khiển pháp khí như sấm sét, uy lực kinh thiên động địa.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FabaoLing">
-			<DisplayName>Robust</DisplayName>
-			<Desc>Orang ini menggunakan Artefak seperti gunung, dengan kekuatan kekokohan yang tidak bisa dihancurkan.</Desc>
+			<DisplayName>Trọng</DisplayName>
+			<Desc>Người này điều khiển pháp khí như núi, thế lực vô cùng mạnh mẽ.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FabaoSpeed">
-			<DisplayName>Nimble</DisplayName>
-			<Desc>Orang ini menggunakan Artefak seperti kilat, dengan kecepatan secepat sambaran petir.</Desc>
+			<DisplayName>Tốc Độ</DisplayName>
+			<Desc>Người này điều khiển pháp khí như điện, tốc độ nhanh như sấm chớp.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FabaoDisp">
-			<DisplayName>Masterful</DisplayName>
-			<Desc>Orang ini menggunakan Artefak dengan keanggunan dan keanggunan yang tak tertandingi.</Desc>
+			<DisplayName>Tinh Tế</DisplayName>
+			<Desc>Pháp thuật điều khiển pháp khí của người này hoa mỹ vô song.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FabaoNum">
-			<DisplayName>Versatile</DisplayName>
-			<Desc>Orang ini dapat menguasai banyak artefak.</Desc>
+			<DisplayName>Phân Tách</DisplayName>
+			<Desc>Kiếm quang của người này phân hóa, có thể điều khiển pháp khí của sáu phương.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FightSkillAtk">
-			<DisplayName>Mystic</DisplayName>
-			<Desc>Orang ini memiliki Kekuatan Mantra yang tak tertandingi.</Desc>
+			<DisplayName>Pháp</DisplayName>
+			<Desc>Thuật pháp của người này uy lực vô song thiên hạ.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_FightSkillCD">
-			<DisplayName>Swift</DisplayName>
-			<Desc>Orang ini memiliki Pemulihan Penundaan Pemeran Mantra yang sangat cepat.</Desc>
+			<DisplayName>Nhanh</DisplayName>
+			<Desc>Thuật pháp điều tức của người này cực kỳ nhanh chóng.</Desc>
 		</Text>
 		<Text Name="Modifier_SpNpc_Comeback">
-			<DisplayName>Nemesis</DisplayName>
-			<Desc>Ketika berhadapan dengan musuh bebuyutan, kekuatan seseorang menjadi lebih kuat dari sebelumnya karena kebencian.</Desc>
+			<DisplayName>Kẻ Thù Truyền Kiếp</DisplayName>
+			<Desc>Gặp kẻ thù truyền kiếp, dưới sự thù hận sức mạnh vượt trội hơn trước.</Desc>
 		</Text>
 		<Text Name="Modifier_NomalNpc_BasePropertie_Qi">
-			<DisplayName>Qi Shaping Minimum</DisplayName>
+			<DisplayName>Đảm Bảo Giai Đoạn Luyện Khí</DisplayName>
 		</Text>
 		<Text Name="Modifier_NomalNpc_BasePropertie_Dan1">
-			<DisplayName>Core Shaping Minimum</DisplayName>
+			<DisplayName>Đảm Bảo Giai Đoạn Kết Đan</DisplayName>
 		</Text>
 		<Text Name="Modifier_NomalNpc_BasePropertie_Dan2">
-			<DisplayName>Golden Core Minimum</DisplayName>
+			<DisplayName>Đảm Bảo Giai Đoạn Kim Đan</DisplayName>
 		</Text>
 		<Text Name="Modifier_NomalNpc_BasePropertie_God">
-			<DisplayName>Primordial Spirit Minimum</DisplayName>
+			<DisplayName>Đảm Bảo Giai Đoạn Nguyên Thần</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

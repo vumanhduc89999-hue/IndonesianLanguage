@@ -434,4 +434,5 @@
 /Settings/RPG/Maps/Rpg_Tower_1/map.txt	Skills.SkillDefs.TDamageSkill-559.DisplayName	玄金陨星神雷	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_1/map.txt	Skills.SkillDefs.TFabaoSkill-84.DisplayName	俞凝眉真人通天	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_1/map.txt	RPGInfo.Objects.6.LuaPostProcessing.Param1	我在这里看守知识的海洋已经一万年，时光在此冻结，我有幸见证了无数王朝的更迭。	6	
-/Settings/RPG/Maps/Rpg_Tower_1/map.txt	RPGInfo.Objects.6.LuaPostProcessing.Param2	一万年来，万物变迁，沧海桑田。唯一不变的就是凡人的愚蠢，这是连我在内的所有人都无法逃避的宿命……	6	
+/Settings/RPG/Maps/Rpg_Tower_1/map.txt	RPGInfo.Objects.6.LuaPostProcessing.Param2	一万年来，万物变迁，沧海桑田。唯一不变的就是凡人的愚蠢，这是连我在内的所有人都无法逃避的宿命……	6
+

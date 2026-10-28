@@ -1,109 +1,110 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong1_a0">
-			<DisplayName>Seal Contract</DisplayName>
+			<DisplayName>Phong Linh Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong1_a1">
-			<DisplayName>Ensoulment</DisplayName>
+			<DisplayName>Phú Linh Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong1_a4">
-			<DisplayName>Mindful Springs</DisplayName>
+			<DisplayName>Ngũ Tuyền Địch Tâm</DisplayName>
 		</Text>
 		<Text Name="Gong1_a6">
-			<DisplayName>Innate Qi</DisplayName>
+			<DisplayName>Tiên Thiên Cương Khí</DisplayName>
 		</Text>
 		<Text Name="Gong1_a8">
-			<DisplayName>Panacea</DisplayName>
+			<DisplayName>Hóa Thương Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong1_b0">
-			<DisplayName>Rainmaking</DisplayName>
+			<DisplayName>Cầu Vũ Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong1_b1">
-			<DisplayName>Timely Rain</DisplayName>
+			<DisplayName>Cam Lâm Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong1_b2">
-			<DisplayName>Feng Shui Identifying</DisplayName>
+			<DisplayName>Phong Thủy Giám Định</DisplayName>
 		</Text>
 		<Text Name="Gong1_b4">
-			<DisplayName>Harmonious Chant</DisplayName>
+			<DisplayName>Thái Hòa Ngự Khí</DisplayName>
 		</Text>
 		<Text Name="Gong1_b5">
-			<DisplayName>Incantation of Mind Cleansing</DisplayName>
+			<DisplayName>Thanh Tâm Chú</DisplayName>
 		</Text>
 		<Text Name="Gong1_b7">
-			<DisplayName>Chant of Wood Mastery</DisplayName>
+			<DisplayName>Ngự Mộc Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong1_b7_1">
-			<DisplayName>Rainchant</DisplayName>
+			<DisplayName>Thiên Lâm Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong1_b8">
-			<DisplayName>Heavenly Panacea</DisplayName>
+			<DisplayName>Thiên Thủy Hóa Thương</DisplayName>
 		</Text>
 		<Text Name="Gong1_b8_1">
-			<DisplayName>Arcane Infusion</DisplayName>
+			<DisplayName>Thiên Nhất Chân Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong1_b10">
-			<DisplayName>Aquamarine Chant</DisplayName>
+			<DisplayName>Thái Thủy Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong1_c0">
-			<DisplayName>Meditation</DisplayName>
+			<DisplayName>Thuật Nhập Định</DisplayName>
 		</Text>
 		<Text Name="Gong1_c0_1">
-			<DisplayName>Zen Reflection</DisplayName>
+			<DisplayName>Thủy Kính Quán Tâm Định</DisplayName>
 		</Text>
 		<Text Name="Gong1_c1">
-			<DisplayName>Spiritual Breath Chant</DisplayName>
+			<DisplayName>Linh Tức Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong1_c2">
-			<DisplayName>Reverie Rebirth</DisplayName>
+			<DisplayName>Huyền Tẫn Trọng Sinh</DisplayName>
 		</Text>
 		<Text Name="Gong1_c3">
-			<DisplayName>Windrider's Chant</DisplayName>
+			<DisplayName>Thừa Phong Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong1_c3_1">
-			<DisplayName>Windrift Vector</DisplayName>
+			<DisplayName>Đồng Phong Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong1_c4">
-			<DisplayName>Chant of the Rapids</DisplayName>
+			<DisplayName>Bôn Lưu Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong1_c4_1">
-			<DisplayName>Ocean's Call</DisplayName>
+			<DisplayName>Quy Hải Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong1_c9">
-			<DisplayName>Essential Osmosis</DisplayName>
+			<DisplayName>Thủy Tinh Chân Hình</DisplayName>
 		</Text>
 		<Text Name="Gong1_c10">
-			<DisplayName>Meridian Osmosis</DisplayName>
+			<DisplayName>Thủy Khí Chân Hình</DisplayName>
 		</Text>
 		<Text Name="Gong1_c11">
-			<DisplayName>Inner Osmosis</DisplayName>
+			<DisplayName>Thủy Thần Chân Hình</DisplayName>
 		</Text>
 		<Text Name="Gong1_d0">
-			<DisplayName>Rainstorm</DisplayName>
+			<DisplayName>Bạo Vũ Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong1_d0_1">
-			<DisplayName>Qi Aquasphere</DisplayName>
+			<DisplayName>Cửu Âm Chân Thủy Giới</DisplayName>
 		</Text>
 		<Text Name="Gong1_d1">
-			<DisplayName>Darksoul Genesis</DisplayName>
+			<DisplayName>Huyền Hồn Tạo Mệnh</DisplayName>
 		</Text>
 		<Text Name="Gong1_d5">
-			<DisplayName>Amalgam</DisplayName>
+			<DisplayName>Cương Sát Hợp Lưu</DisplayName>
 		</Text>
 		<Text Name="Gong1_d5_1">
-			<DisplayName>Amalgam</DisplayName>
+			<DisplayName>Cương Sát Hợp Lưu</DisplayName>
 		</Text>
 		<Text Name="Gong1_d5_2">
-			<DisplayName>Amalgam</DisplayName>
+			<DisplayName>Cương Sát Hợp Lưu</DisplayName>
 		</Text>
 		<Text Name="Gong1_d8">
-			<DisplayName>Enlightened</DisplayName>
+			<DisplayName>Đề hồ quán đỉnh</DisplayName>
 		</Text>
 		<Text Name="Gong1_1_e4">
-			<DisplayName>Eureka Pill</DisplayName>
+			<DisplayName>Thiên Đạo Thần Đan</DisplayName>
 		</Text>
 		<Text Name="Gong1_1_e8">
-			<DisplayName>Taoist Artifact</DisplayName>
+			<DisplayName>Thiên Đạo Thần Khí</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

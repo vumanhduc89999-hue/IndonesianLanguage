@@ -2,15 +2,16 @@
 	<List>
 		<Text Name="Mutation_Type_HengDing">
 			<DisplayName>Constant</DisplayName>
-			<Desc>Pilih efek kekacauan</Desc>
+			<Desc>Select an chaos effect</Desc>
 		</Text>
 		<Text Name="Mutation_Type_DongDang">
 			<DisplayName>Turbulent</DisplayName>
-			<Desc>Pilih satu opsi dari Kondisi dan Efek untuk digabungkan menjadi efek anomali lengkap</Desc>
+			<Desc>Select one option from both Conditions and Effects to combine into a complete anomaly effect</Desc>
 		</Text>
 		<Text Name="Mutation_Type_YinYang">
 			<DisplayName>Yin Yang</DisplayName>
-			<Desc>Pilih satu efek Yin dan satu efek Yang untuk membentuk kekacauan total</Desc>
+			<Desc>Select one Yin effect and one Yang effect to form a complete chaos</Desc>
 		</Text>
 	</List>
 </Texts>
+

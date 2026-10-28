@@ -1,85 +1,86 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Point_FarmBase">
-			<DisplayName>Field</DisplayName>
+			<DisplayName>Ruộng</DisplayName>
 		</Text>
 		<Text Name="Point_MineBase">
-			<DisplayName>Mine</DisplayName>
+			<DisplayName>Mỏ</DisplayName>
 		</Text>
 		<Text Name="Point_LumberBase">
-			<DisplayName>Logging Camp</DisplayName>
+			<DisplayName>Xưởng Gỗ</DisplayName>
 		</Text>
 		<Text Name="Point_LingBase">
-			<DisplayName>Spirit Stone Mine</DisplayName>
+			<DisplayName>Mỏ Linh Thạch</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains4">
-			<DisplayName>Blossomfall</DisplayName>
+			<DisplayName>Ngũ Hoa Thôn</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains2">
-			<DisplayName>Alchemist's Peak</DisplayName>
+			<DisplayName>Luyện Đan Phong</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains5">
-			<DisplayName>Reed Village</DisplayName>
+			<DisplayName>Lô Khư Thôn</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains1">
-			<DisplayName>Mt. Cloudsreach</DisplayName>
+			<DisplayName>Vân Đài Sơn</DisplayName>
 		</Text>
 		<Text Name="Point_CentralPlains3">
-			<DisplayName>Mt. Mesa</DisplayName>
+			<DisplayName>Bình Đỉnh Sơn</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace12">
-			<DisplayName>Mt. FullMoon</DisplayName>
+			<DisplayName>Nguyệt Luân Sơn</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace14">
-			<DisplayName>Mt. Coppertomb</DisplayName>
+			<DisplayName>Đồng Lăng Sơn</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace15">
-			<DisplayName>Taiyi Ruin</DisplayName>
+			<DisplayName>Diễn Võ Trường</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace13">
-			<DisplayName>Mt. Barren</DisplayName>
+			<DisplayName>Tiểu Lương Sơn</DisplayName>
 		</Text>
 		<Text Name="Point_BirthPlace11">
-			<DisplayName>Nanping Village</DisplayName>
+			<DisplayName>Nam Bình Thôn</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField3">
-			<DisplayName>Ratoon Village</DisplayName>
+			<DisplayName>Đạo Hương Thôn</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField4">
-			<DisplayName>Mt. Cassia</DisplayName>
+			<DisplayName>Quế Sơn</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField5">
-			<DisplayName>Mt. Rue</DisplayName>
+			<DisplayName>Lư Sơn</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField1">
-			<DisplayName>Galepeak Town</DisplayName>
+			<DisplayName>Hàn Sơn Trấn</DisplayName>
 		</Text>
 		<Text Name="Point_FertileField2">
-			<DisplayName>Sunstop Town</DisplayName>
+			<DisplayName>Lạc Hà Trấn</DisplayName>
 		</Text>
 		<Text Name="Point_Desert2">
-			<DisplayName>Mirage Wastelands</DisplayName>
+			<DisplayName>Huyễn Sa Nguyên</DisplayName>
 		</Text>
 		<Text Name="Point_Desert4">
-			<DisplayName>Village of Dunes</DisplayName>
+			<DisplayName>Minh Sa Thôn</DisplayName>
 		</Text>
 		<Text Name="Point_Desert3">
-			<DisplayName>Blazenest</DisplayName>
+			<DisplayName>Hỏa Huyệt</DisplayName>
 		</Text>
 		<Text Name="Point_Snowfield1">
-			<DisplayName>Skye Conch Valley</DisplayName>
+			<DisplayName>Thiên Loa Dục</DisplayName>
 		</Text>
 		<Text Name="Point_Snowfield3">
-			<DisplayName>Blizzard Plains</DisplayName>
+			<DisplayName>Tuyết Phong Nguyên</DisplayName>
 		</Text>
 		<Text Name="Point_Snowfield2">
-			<DisplayName>Lake Jadestone</DisplayName>
+			<DisplayName>Ngọc Tinh Đàm</DisplayName>
 		</Text>
 		<Text Name="Point_SouthForest1">
-			<DisplayName>Perennial Miasma</DisplayName>
+			<DisplayName>Mê chướng đào hoa vạn cổ</DisplayName>
 		</Text>
 		<Text Name="Point_SouthForest3">
-			<DisplayName>Wormwrought Valley</DisplayName>
+			<DisplayName>Trùng Cốc</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

@@ -122,4 +122,5 @@
 /Settings/RPG/Maps/Rpg_Tower_7/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param1	天尊垂怜。广佑我界八方八宝十亿生灵度无量苦厄……天尊垂怜。广佑我界八方八宝十亿生灵度无量苦厄……	1	
 /Settings/RPG/Maps/Rpg_Tower_7/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param2	天尊！为何不回应我等？ 啊，怎么又外人闯入！该死，一定是因为你们破坏了仪式！你们都该死，我界最后的希望，被你们破坏了啊啊啊啊！	1	
 /Settings/RPG/Maps/Rpg_Tower_7/map.txt	RPGInfo.Objects.5.LuaPostProcessing.Param1	终于来了！终于来了！太好了，你是命运派来来拯救我们世界的人么？	5	
-/Settings/RPG/Maps/Rpg_Tower_7/map.txt	RPGInfo.Objects.5.LuaPostProcessing.Param2	圣莲还差一点就能成熟！再加上你的灵魂，我们的世界或许能得救！	5	
+/Settings/RPG/Maps/Rpg_Tower_7/map.txt	RPGInfo.Objects.5.LuaPostProcessing.Param2	圣莲还差一点就能成熟！再加上你的灵魂，我们的世界或许能得救！	5
+

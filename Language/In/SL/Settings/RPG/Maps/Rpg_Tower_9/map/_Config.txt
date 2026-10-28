@@ -163,4 +163,5 @@
 /Settings/RPG/Maps/Rpg_Tower_9/map.txt	Skills.SkillDefs.TSkillSkill-55.DisplayName	冷月燃灵诀	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_9/map.txt	Skills.SkillDefs.TFabaoSkill-85.DisplayName	壬癸五方	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_9/map.txt	RPGInfo.Objects.2.LuaPostProcessing.Param1	哦？你，你终于来了？你是天道派来审判我的？	2	
-/Settings/RPG/Maps/Rpg_Tower_9/map.txt	RPGInfo.Objects.2.LuaPostProcessing.Param2	来！来吧！昔年我炼渊土神碑，遭至此界崩坏，千万年来无时无刻不等待这一天，但我不认为这是我的罪孽，这份罪孽，此界亿万生灵与天道共担！想审判我，我要看看你的斤两！	2	
+/Settings/RPG/Maps/Rpg_Tower_9/map.txt	RPGInfo.Objects.2.LuaPostProcessing.Param2	来！来吧！昔年我炼渊土神碑，遭至此界崩坏，千万年来无时无刻不等待这一天，但我不认为这是我的罪孽，这份罪孽，此界亿万生灵与天道共担！想审判我，我要看看你的斤两！	2
+

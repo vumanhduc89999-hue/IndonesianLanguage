@@ -1,149 +1,150 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Temperature1">
-			<DisplayName>Freezing</DisplayName>
-			<Desc>Rasanya sangat dingin hingga seseorang bisa mati kedinginan.</Desc>
-			<StoryDesc>merasa sangat dingin sehingga sulit untuk berpikir jernih</StoryDesc>
+			<DisplayName>Cực hàn</DisplayName>
+			<Desc>Lạnh vượt quá giới hạn, sắp bị đóng băng mà chết.</Desc>
+			<StoryDesc>Đang bị lạnh đến mức thần trí không rõ ràng</StoryDesc>
 		</Text>
 		<Text Name="Temperature2">
-			<DisplayName>Frigid</DisplayName>
-			<Desc>Dingin sekali sehingga sulit untuk menahannya.</Desc>
-			<StoryDesc>merasa sangat kedinginan sehingga satu-satunya cara untuk tetap hangat adalah dengan menggigil sebanyak mungkin</StoryDesc>
+			<DisplayName>Lạnh buốt</DisplayName>
+			<Desc>Thật sự rất lạnh, lạnh đến không chịu nổi.</Desc>
+			<StoryDesc>Đang âm thầm nguyền rủa cái lạnh khắc nghiệt, đang cố gắng run rẩy để chống lại cái lạnh.</StoryDesc>
 		</Text>
 		<Text Name="Temperature3">
-			<DisplayName>Cold</DisplayName>
-			<Desc>Udaranya sangat dingin sehingga mustahil untuk tidak menggigil.</Desc>
-			<StoryDesc>merasa sangat dingin sehingga untuk menangkal radang dingin seseorang harus terus-menerus menggosok kedua tangannya</StoryDesc>
+			<DisplayName>Lạnh</DisplayName>
+			<Desc>Lạnh quá, không thể ngừng run rẩy.</Desc>
+			<StoryDesc>Lạnh đến phát điên, đang xoa hai tay và run rẩy để chống lại cái lạnh.</StoryDesc>
 		</Text>
 		<Text Name="Temperature4">
-			<DisplayName>It's getting nippy out.</DisplayName>
-			<Desc>Di luar agak dingin.</Desc>
-			<StoryDesc>Bisikan dapat terdengar tentang apakah beberapa lapisan tambahan mungkin diperlukan untuk berhenti menggigil kedinginan</StoryDesc>
+			<DisplayName>Hơi lạnh</DisplayName>
+			<Desc>Có chút cảm giác lạnh.</Desc>
+			<StoryDesc>Đang lẩm bẩm có nên mặc thêm áo không, vừa vì cảm thấy hơi lạnh mà rùng mình.</StoryDesc>
 		</Text>
 		<Text Name="Temperature5">
-			<DisplayName>This temperature is comfortable.</DisplayName>
-			<Desc>Udaranya terasa pas, suhu dan anginnya sempurna.</Desc>
-			<StoryDesc>merasa bahwa cuacanya tidak bisa lebih baik</StoryDesc>
+			<DisplayName>Nhiệt độ thoải mái</DisplayName>
+			<Desc>Nhiệt độ vừa đủ, khiến người ta dễ chịu.</Desc>
+			<StoryDesc>Vừa cảm thán một tiếng vì nhiệt độ thoải mái, vừa khen ngợi thầm trong lòng về thời tiết dễ chịu này.</StoryDesc>
 		</Text>
 		<Text Name="Temperature6">
-			<DisplayName>It's a bit hot.</DisplayName>
-			<Desc>Sepertinya agak panas.</Desc>
-			<StoryDesc>merasa sangat panas hingga keringat mengumpul di dahi, kipas angin pasti menyenangkan saat ini</StoryDesc>
+			<DisplayName>Hơi nóng</DisplayName>
+			<Desc>Cảm thấy hơi nóng.</Desc>
+			<StoryDesc>Vừa lau mồ hôi trên trán, vừa dùng tay quạt gió bên tai.</StoryDesc>
 		</Text>
 		<Text Name="Temperature7">
-			<DisplayName>Scorch</DisplayName>
-			<Desc>Tidak butuh waktu lama untuk basah kuyup karena panas seperti ini.</Desc>
-			<StoryDesc>merasa mustahil untuk tidak basah kuyup oleh keringat saat ini</StoryDesc>
+			<DisplayName>Nóng</DisplayName>
+			<Desc>Nóng quá, mồ hôi chảy ròng ròng, thật khó chịu.</Desc>
+			<StoryDesc>Vừa dùng tay áo lau mồ hôi, vừa vén áo bị ướt vì mồ hôi.</StoryDesc>
 		</Text>
 		<Text Name="Temperature8">
-			<DisplayName>Burning Hot</DisplayName>
-			<Desc>Panas sekali sehingga sulit untuk ditanggung.</Desc>
-			<StoryDesc>terasa sangat panas hingga seluruh pakaian basah oleh keringat</StoryDesc>
+			<DisplayName>Nóng bức</DisplayName>
+			<Desc>Quá nóng, nóng đến mức không chịu nổi.</Desc>
+			<StoryDesc>Đang lớn tiếng nguyền rủa nhiệt độ nóng bức, vừa vắt áo bị thấm ướt bởi mồ hôi.</StoryDesc>
 		</Text>
 		<Text Name="Temperature9">
-			<DisplayName>Scorching Hot</DisplayName>
-			<Desc>Cuacanya sangat panas, orang-orang mungkin akan pingsan kapan saja dalam cuaca panas ini.</Desc>
-			<StoryDesc>merasa sangat panas sehingga sulit untuk tetap sadar</StoryDesc>
+			<DisplayName>Nóng rực</DisplayName>
+			<Desc>Nhiệt độ cao đến mức khiến người ta sụp đổ, sắp bị nóng chết.</Desc>
+			<StoryDesc>Đang bị nóng đến mức thần trí không rõ ràng</StoryDesc>
 		</Text>
 		<Text Name="Light1">
-			<DisplayName>Glaringly Bright</DisplayName>
-			<Desc>Sangat terang sehingga sulit untuk membuka mata.</Desc>
-			<StoryDesc>menangis karena sinar matahari yang terik, mencoba menutup mata dengan tangan hampir tidak membantu</StoryDesc>
+			<DisplayName>Chói mắt</DisplayName>
+			<Desc>Quá sáng, sáng đến mức không thể mở mắt.</Desc>
+			<StoryDesc>Đang dùng tay che ánh sáng mạnh, vừa vì ánh sáng chói mà nước mắt chảy ròng.</StoryDesc>
 		</Text>
 		<Text Name="Light2">
-			<DisplayName>Dazzlingly Bright</DisplayName>
-			<Desc>Cahayanya sangat kuat sehingga sulit untuk ditanggung atau dilihat.</Desc>
-			<StoryDesc>merasa sangat buta sehingga satu-satunya yang bisa dilakukan hanyalah menyipitkan mata dan mengucek mata</StoryDesc>
+			<DisplayName>Lóa mắt</DisplayName>
+			<Desc>Ánh sáng quá mạnh, mắt khó chịu, không nhìn rõ.</Desc>
+			<StoryDesc>Vừa vì ánh sáng sáng mà nheo mắt, vừa xoa mắt bị hoa mắt.</StoryDesc>
 		</Text>
 		<Text Name="Light3">
-			<DisplayName>Dim</DisplayName>
-			<Desc>Cahayanya tidak begitu terang, sulit dilihat.</Desc>
-			<StoryDesc>merasa sangat gelap sehingga yang bisa dilakukan hanyalah membuka mata sebanyak mungkin. Andai saja lebih terang..</StoryDesc>
+			<DisplayName>Tối mờ</DisplayName>
+			<Desc>Ánh sáng không đủ, nhìn không rõ.</Desc>
+			<StoryDesc>Đang mở to mắt vì ánh sáng tối mờ, vừa lẩm bẩm nếu sáng hơn chút thì tốt.</StoryDesc>
 		</Text>
 		<Text Name="Light4">
-			<DisplayName>Dark</DisplayName>
-			<Desc>Bahkan tidak mungkin untuk melihat tangan seseorang di depan wajahnya.</Desc>
-			<StoryDesc>merasa sangat gelap sehingga satu-satunya cara untuk bergerak adalah menggunakan tangan untuk merasakan sekelilingnya</StoryDesc>
+			<DisplayName>Tối đen</DisplayName>
+			<Desc>Đưa tay không thấy ngón, rất bất tiện.</Desc>
+			<StoryDesc>Đang cẩn thận dò dẫm vì một mảng tối đen, vừa nguyền rủa trong lòng vì không có đèn.</StoryDesc>
 		</Text>
 		<Text Name="Light5">
-			<DisplayName>Dim</DisplayName>
-			<Desc>Senja menenangkan hati.</Desc>
-			<StoryDesc>merasa mudah untuk sekedar bersantai dan menikmati senja</StoryDesc>
+			<DisplayName>Tối mờ</DisplayName>
+			<Desc>Môi trường tối mờ khiến ta cảm thấy yên tâm.</Desc>
+			<StoryDesc>Đang cảm thấy yên tâm vì môi trường tối mờ, vừa tận hưởng thời khắc tối tăm này.</StoryDesc>
 		</Text>
 		<Text Name="Light6">
-			<DisplayName>Dark</DisplayName>
-			<Desc>Tidak mungkin melihat tangan seseorang di depan wajahnya, namun rasanya aman.</Desc>
-			<StoryDesc>merasa mudah untuk bersantai dan menikmati kegelapan</StoryDesc>
+			<DisplayName>Tối đen</DisplayName>
+			<Desc>Đưa tay không thấy ngón, cảm thấy rất an toàn.</Desc>
+			<StoryDesc>Vừa thở dài hài lòng trong bóng tối, vừa tận hưởng thời khắc hiếm có của sự tối tăm.</StoryDesc>
 		</Text>
 		<Text Name="Pain1">
-			<DisplayName>Grave Pain</DisplayName>
-			<Desc>Kok sakit sekali, lebih baik pingsan saja..</Desc>
-			<StoryDesc>Meratap kesakitan, rasanya kematian pasti sudah dekat</StoryDesc>
+			<DisplayName>Đau đớn không chịu nổi</DisplayName>
+			<Desc>Sao lại đau khổ thế này, thà ngất đi còn hơn…</Desc>
+			<StoryDesc>Đang rên rỉ vì đau đớn, vừa bị đau đến sống không bằng chết, vừa lăn qua lăn lại vì đau.</StoryDesc>
 		</Text>
 		<Text Name="Pain2">
-			<DisplayName>Severe Pain</DisplayName>
-			<Desc>Sulit untuk ditanggung, sangat menyakitkan...</Desc>
-			<StoryDesc>merasa sangat sakit sehingga yang bisa dilakukan hanyalah menderita sambil mengerang dan mengertakkan gigi</StoryDesc>
+			<DisplayName>Đau đớn dữ dội</DisplayName>
+			<Desc>Không chịu nổi, đau quá, không thể chịu đựng được nữa…</Desc>
+			<StoryDesc>Đang nghiến răng chịu đau, vừa vì đau mà rên rỉ nhỏ.</StoryDesc>
 		</Text>
 		<Text Name="Pain3">
-			<DisplayName>Extreme Pain</DisplayName>
-			<Desc>Sungguh menyakitkan! Kapan rasa sakitnya akan mereda?!</Desc>
-			<StoryDesc>merasa semua bisa dilakukan untuk tidak pingsan</StoryDesc>
+			<DisplayName>Đau rất nhiều</DisplayName>
+			<Desc>Thật sự rất đau, khi nào mới vượt qua được đây…</Desc>
+			<StoryDesc>Vừa vì đau mà hít một hơi lạnh, vừa âm thầm chịu đựng đau khổ.</StoryDesc>
 		</Text>
 		<Text Name="Pain4">
-			<DisplayName>Pain</DisplayName>
-			<Desc>Agak menyakitkan, mengertakkan gigi sepertinya membantu.</Desc>
-			<StoryDesc>merasa sangat buta sehingga yang bisa dilakukan hanyalah meringis kesakitan</StoryDesc>
+			<DisplayName>Đau đớn</DisplayName>
+			<Desc>Khá đau, cắn răng chịu đựng thôi.</Desc>
+			<StoryDesc>Vừa nhăn mặt vì đau, lẩm bẩm rằng thật là đau.</StoryDesc>
 		</Text>
 		<Text Name="Pain5">
-			<DisplayName>Mild Pain</DisplayName>
-			<Desc>Agak menyakitkan...</Desc>
-			<StoryDesc>Dengan alis berkerut, bernapas dalam-dalam sepertinya membantu</StoryDesc>
+			<DisplayName>Đau nhẹ.</DisplayName>
+			<Desc>Hơi đau, không vui lắm...</Desc>
+			<StoryDesc>Vừa nhíu mày vì đau, vừa hít thở sâu vài lần vì đau đớn.</StoryDesc>
 		</Text>
 		<Text Name="Consciousness1">
-			<DisplayName>Confused State of Mind</DisplayName>
-			<Desc>Siapa aku dan tempat apa ini?...Apa yang terjadi?</Desc>
-			<StoryDesc>dalam keadaan berantakan..</StoryDesc>
+			<DisplayName>Mê man.</DisplayName>
+			<Desc>Ta là ai, ta đang ở đâu... Rốt cuộc đã xảy ra chuyện gì, đầu ta...</Desc>
+			<StoryDesc>Đầu óc rối bời.</StoryDesc>
 		</Text>
 		<Text Name="Consciousness2">
-			<DisplayName>Dizzy</DisplayName>
-			<Desc>Pikiranku terasa seperti sup...ini bukan perasaan yang nyaman.</Desc>
-			<StoryDesc>menghela nafas karena pusing belaka</StoryDesc>
+			<DisplayName>Chóng mặt, đầu óc quay cuồng.</DisplayName>
+			<Desc>Cảm giác như trong đầu là một mớ hỗn độn, thực sự là một trải nghiệm khó chịu.</Desc>
+			<StoryDesc>Thở dài vì đầu óc quay cuồng.</StoryDesc>
 		</Text>
 		<Text Name="Consciousness3">
-			<DisplayName>Dizzy yet Drowsy</DisplayName>
-			<Desc>Rasanya kepalaku penuh, aku tidak bisa berpikir apa pun.</Desc>
-			<StoryDesc>sedang tidak enak badan</StoryDesc>
+			<DisplayName>Mơ màng, uể oải.</DisplayName>
+			<Desc>Cảm giác như đầu óc bị đổ chì vào, mơ màng không thể suy nghĩ.</Desc>
+			<StoryDesc>Đầu óc nặng trĩu, cảm thấy vô cùng khó chịu.</StoryDesc>
 		</Text>
 		<Text Name="Consciousness4">
-			<DisplayName>Listless</DisplayName>
-			<Desc>Aku tidak ingin melakukan apa pun, aku tidak punya tenaga...</Desc>
-			<StoryDesc>menguap karena kekurangan energi</StoryDesc>
+			<DisplayName>Uể oải, thiếu sức sống.</DisplayName>
+			<Desc>Không muốn động đậy, chẳng có chút sức lực nào...</Desc>
+			<StoryDesc>Ngáp một cái vì không có tinh thần.</StoryDesc>
 		</Text>
 		<Text Name="GetWet">
-			<DisplayName>Soaking Wet</DisplayName>
-			<Desc>Andai saja aku punya payung.</Desc>
-			<StoryDesc>menarik pakaian basah...seandainya ada pakaian ganti dan api yang nyaman dan hangat</StoryDesc>
+			<DisplayName>Quần áo bị ướt.</DisplayName>
+			<Desc>Có một cây dù thì tốt biết mấy.</Desc>
+			<StoryDesc>Vừa kéo chiếc áo ướt sũng, lẩm bẩm sao lại không có dù.</StoryDesc>
 		</Text>
 		<Text Name="DevilBlood">
-			<DisplayName>Demonic Cries</DisplayName>
-			<Desc>Ada banyak setan yang menangis di hatiku...sepertinya mereka lapar.</Desc>
-			<StoryDesc>berusaha menahan tangis setan di dalam hatimu</StoryDesc>
+			<DisplayName>Tà niệm.</DisplayName>
+			<Desc>Trong lòng ta có vô số ma quỷ gào thét, chúng như bầy sói đói, điên cuồng cắn xé nội tâm ta.</Desc>
+			<StoryDesc>Cố gắng chịu đựng vì những tà niệm không ngừng gào thét trong lòng.</StoryDesc>
 		</Text>
 		<Text Name="DevilBlood_Satisfy">
-			<DisplayName>Temporarily Satisfied</DisplayName>
-			<Desc>Kesenangan, seperti inilah rasanya kesenangan.</Desc>
-			<StoryDesc>menghela nafas panjang karena keinginan jahat yang terpenuhi di hatimu</StoryDesc>
+			<DisplayName>Thỏa mãn tạm thời.</DisplayName>
+			<Desc>Khoái cảm, đây chính là khoái cảm, ta cảm nhận được những con quỷ trong lòng đang gào thét vì thỏa mãn.</Desc>
+			<StoryDesc>Vừa thở dài một hơi vì dục vọng trong lòng được thỏa mãn.</StoryDesc>
 		</Text>
 		<Text Name="DevilBlood_LianHun">
-			<DisplayName>Refine Soul</DisplayName>
-			<Desc>Jika rasanya jiwaku terkoyak...Aku tidak pernah tahu kalau rasa sakit seperti itu ada.</Desc>
-			<StoryDesc>mengertakkan gigi karena kesakitan</StoryDesc>
+			<DisplayName>Luyện hồn</DisplayName>
+			<Desc>Linh hồn ta dường như đang bị xé nát... Trên thế gian này sao lại có nỗi đau như vậy.</Desc>
+			<StoryDesc>Cắn chặt răng vì linh hồn bị xé nát mà đau đớn.</StoryDesc>
 		</Text>
 		<Text Name="AfterAbsorbGong_6">
-			<DisplayName>Empty Inside</DisplayName>
-			<Desc>Rasanya seperti kultivasi tidak terbukti memuaskan, seolah-olah ada yang kosong di dalam.</Desc>
-			<StoryDesc>merasa lemah, itu membingungkan</StoryDesc>
+			<DisplayName>Bị rút cạn sức lực.</DisplayName>
+			<Desc>Cảm giác việc tu luyện có gì đó không ổn, như thể bị rút cạn sức lực.</Desc>
+			<StoryDesc>Cảm thấy khó hiểu vì cơ thể đột nhiên suy yếu.</StoryDesc>
 		</Text>
 	</List>
 </Texts>
+

@@ -2,11 +2,12 @@
 	<List>
 		<Text Name="Blood">
 			<Display>Beast Blood</Display>
-			<Desc>Tawarkan darah binatang untuk item.</Desc>
+			<Desc>Offer beast blood for items.</Desc>
 		</Text>
 		<Text Name="Elixir">
 			<Display>Soul Pearl</Display>
-			<Desc>Tawarkan mutiara jiwa untuk item.</Desc>
+			<Desc>Offer soul pearls for items.</Desc>
 		</Text>
 	</List>
 </Texts>
+

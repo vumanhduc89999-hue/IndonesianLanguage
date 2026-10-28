@@ -20,3 +20,4 @@
 /Assets/Resources/FightMap/School_ZiXiaoZong/map.txt	OtherItem.8._hd.Ss.1	紫霄本册-急诵	8.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_ZiXiaoZong/map.txt	OtherItem.9._hd.Ss.1	紫霄道册-归藏	9.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_ZiXiaoZong/map.txt	OtherItem.10._hd.Ss.1	紫霄道册-归藏	10.1	_ReplaceThingName
+

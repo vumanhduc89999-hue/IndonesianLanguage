@@ -2,7 +2,7 @@
 	<List>
 		<Text Name="Mutation_Effect_Debug">
 			<DisplayName>Sense of Loss</DisplayName>
-			<Desc>............Tidak ada yang terjadi.</Desc>
+			<Desc>…………Nothing happens.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_ConstantBase">
 			<DisplayName>Constant Effect Template</DisplayName>
@@ -18,3 +18,4 @@
 		</Text>
 	</List>
 </Texts>
+

@@ -1,464 +1,466 @@
-talk	notarget	int	string	float	thing
-NotEatShit	eegk.??				
-NotEatEssence	Apa!! tidak akan makan Cairan, kecuali kau memberi aku makan.				
-NotEatDrug	Bahkan jika Kau membunuhku, aku tidak akan memakan pil sebagai makanan ringan kecuali jika diberikan kepada ku.				
-NotEatWheat	Aku hanya makan gandum ketika lapar				
-NotEatDryMeat	Aku... Daging ini sangat kering				
-NotEatPear	Apa itu buah pir? Bisakah itu dimakan?				
-NotEatMeat	Daging mentah itu menjijikkan, aku tidak akan pernah memakannya kecuali benar-benar diperlukan				
-NotEatCook	Toko kue adalah makanan terakhir yang inginku makan				
-NotBiteBuilding	Aku tidak benar-benar ingin menyerang bangunan				
-NotBiteClothes	Aku tidak bermain-main dengan pakaian				
-NotBiteOuter	Aku tidak akan menyerang murid luar				
-NotBiteInner	Aku tidak akan menyerang murid dalam				
-NotBiteVisitor	Aku tidak akan menyerang pengunjung				
-NotBiteIncoming	Aku tidak akan menyerang manusia yang datang				
-NotAtkEnemy	Aku tidak akan menyerang musuh kecuali diserang				
-NotShitAtShitPlace	Aku tidak akan bab di titik ekskresi				
-NotShitAtPlants	Aku bab di samping tanaman? Meh!!!				
-NotShitAtDogHouse	Aku tidak akan bab di sarangku				
-NotShitAtStorage	Pikirkan Kembali Bodoh!!			
-NotShitOnBed	bab di tempat tidur? Jorok!!!				
-NotShitInFarm	Aku tidak akan buang air besar di lahan pertanian				
-NotCarryOuterToBed	Aku tidak akan memindahkan murid pingsan ke tempat tidur				
-NotCarryVisitorToDest	Aku tidak akan memindahkan pengunjung yang pingsan ke titik teleportasi.				
-NotCarryEnemyToDest	Aku tidak akan memindahkan musuh yang tidak sadarkan diri ke titik teleportasi				
-NotCarryIncomingToDest	Aku tidak akan memindahkan manusia yang pingsan ke titik teleportasi.				
-NotCarryEnemyBodyToDest	aku tidak akan memindahkan mayat musuh ke titik teleportasi				
-NotCarryVisitorBodyToDest	Aku tidak akan memindahkan mayad pengunjung ke titik teleportasi				
-NotCarryIncomingBodyToDest	Saya tidak akan membawa mayat fana ke titik teleportasi				
-NotHelpCarry	aku tidak akan membantu mengatur segalanya				
-NotHelpTimber	aku tidak akan membantu menebang pohon itu				
-NotHelpMine	Aku tidak akan membantu menambang				
-NotHelpFind	aku tidak akan membantu menjarah barang				
-NotHelpKill	aku tidak akan membantu menyembelih hewan				
-NotHelpPlant	Aku tidak akan membantu menyuburkan tanaman				
-NotCureFreeze	Aku tidak akan membantu mengatasi radang dingin				
-NotCureHot	Aku tidak akan membantu mengobati sengatan panas				
-NotHelpCook	Aku tidak bisa membantu memasak				
-NotHeatEndure	Aku tidak akan membantu meningkatkan toleransi panas				
-NotColdEndure	Aku tidak akan membantu meningkatkan toleransi dingin				
-NotHelpPlay	Aku tidak akan bermain-main dengan murid-murid				
-NotPlayToy	Aku tidak bisa bermain dengan mainan				
-NotTrainQiGan	Aku tidak tahu cara melatih kemampuan Meditasi.				
-NotTrainNeiDan	Aku tidak tahu bagaimana melatih kemampuan mengendalikan ramuan itu				
-NotTrainHuTi	Aku tidak tahu bagaimana melatih kemampuan perlindungan tubuh				
-NotTrainLingZhi	Aku tidak tahu bagaimana melatih kemampuan mental				
-NotTrainShuFa	Aku tidak tahu cara melatih keterampilan sihir				
-WannaEatShit					Ini {0}, Eegk? Kesukaanku
-WannaEatEssence					Ini {0} membuat mulutku berair.
-WannaEatDrug					Aku ingin makan ramuan itu sebagai camilan
-WannaEatWheat					{0} ini kelihatannya enak
-WannaEatDryMeat					Aku tidak dapat menahan aroma {0} lagi
-WannaEatPear					Saya tidak tahan lagi, saya ingin makan{0}
-WannaEatMeat					{0}, Aku akan Makan
-WannaEatCook					Aku sangat ingin makan{0}
-WannaBiteBuilding					{0}, Aku sudah lama menoleransi Anda
-WannaBiteClothes					{0} ini pasti bagus untuk menggemeretakkan gigi Anda.
-WannaBiteOuter					Seperti apa rasanya murid luar {0}?
-WannaBiteInner					Saatnya menunjukkan kekuatan kepada murid dalam {0}
-WannaBiteVisitor					Pengunjung {0} sepertinya sangat cocok untuk melatih keterampilan.
-WannaBiteIncoming					Pengunjung {0} sepertinya sangat cocok untuk melatih keterampilan.
-WannaAtkEnemy					{0}, kematianmu telah tiba
-WannaShitAtShitPlace					Aku ingin bab di titik ekskresi
-WannaShitAtPlants					Aku ingin bab di samping tanaman
-WannaShitAtDogHouse					Aku ingin buang air besar di sarangku
-WannaShitAtStorage					Kotoranku Kualitas Premium sangat berharga, sebaiknya dibawa ke gudang
-WannaShitOnBed					Buang air kecil di tempat tidur memang terlihat menyenangkan
-WannaShitInFarm					Buang air besar di lapangan harusnya membantu?
-WannaCarryOuterToBed					aku harus membantu orang yang tidak sadarkan diri {0}
-WannaCarryVisitorToDest					aku ingin memindahkan pengunjung yang tidak sadarkan diri {0} ke titik teleportasi 
-WannaCarryEnemyToDest					Saya ingin memindahkan musuh yang tidak sadarkan diri {0} ke titik teleportasi 
-WannaCarryIncomingToDest					Aku ingin memindahkan pengunjung yang tidak sadarkan diri {0} ke titik teleportasi 
-WannaCarryEnemyBodyToDest					Aku ingin memindahkan mayat musuh {0} ke titik teleportasi 
-WannaCarryVisitorBodyToDest					Saya ingin memindahkan badan pengunjung {0} ke titik teleportasi 
-WannaCarryIncomingBodyToDest					Saya ingin memindahkan badan pengunjung {0} ke titik teleportasi 
-WannaHelpCarry	Aku ingin membantu mengatur berbagai hal				
-WannaHelpTimber	Sepertinya pohon-pohon ini perlu ditebang, biarku bantu				Sepertinya pohon-pohon ini perlu ditebang, biarku bantu
-WannaHelpMine	Batu-batu ini kelihatannya berharga, mari kita lihat				Batu-batu ini kelihatannya berharga, mari kita lihat
-WannaHelpFind	Biarkan saya melihat harta apa yang dimiliki orang-orang ini				Biarkan saya melihat harta apa yang dimiliki orang-orang ini
-WannaHelpKill	Kita tidak bisa membiarkan tubuh membusuk, biarkan aku membantu merawatnya.				Kita tidak bisa membiarkan tubuh membusuk, biarkan aku membantu merawatnya.
-WannaHelpPlant	Tanaman di ladang terlihat bermanfaat. Biarkan aku menyuburkan mereka.				Tanaman di ladang terlihat bermanfaat. Biarkan aku menyuburkan mereka.
-WannaCureFreeze	Radang dingin {0} sangat serius, biarkan aku mengobatinya				Radang dingin {0} sangat serius, biarkan aku mengobatinya
-WannaCureHot	Serangan panas {0} sangat serius, biar aku obati				Serangan panas {0} sangat serius, biar aku obati
-WannaHeatEndure	aku ingin membantu meningkatkan toleransi panas				aku ingin membantu meningkatkan toleransi panas
-WannaColdEndure	aku ingin membantu meningkatkan toleransi dingin				aku ingin membantu meningkatkan toleransi dingin
-WannaHelpPlay	{0}kelihatannya sedang tidak dalam suasana hati yang baik				{0}kelihatannya sedang tidak dalam suasana hati yang baik
-WannaPlayToy	Aku ingin bermain keras {0}				Aku ingin bermain keras{0}
-DoTalkEatShit					aku sedang makan{0}
-DoTalkEatEssence					aku sedang makan{0}
-DoTalkEatDrug					aku sedang makan{0}
-DoTalkEatWheat					aku sedang makan{0}
-DoTalkEatDryMeat					aku sedang makan{0}
-DoTalkEatPear					aku sedang makan{0}
-DoTalkEatMeat					aku sedang makan{0}
-DoTalkEatCook					aku sedang makan{0}
-DoTalkEat					aku menikmati {0}
-DoTalkBiteBuilding					aku menggunakan {0} untuk menggemeretakkan gigi
-DoTalkBiteClothes					aku menyerang {0}
-DoTalkBiteOuter					aku menyerang {0}
-DoTalkBiteInner					aku menggigit pengunjung{0}
-DoTalkBiteVisitor					aku menggigit pengunjung{0}
-DoTalkBiteIncoming					aku menggigit {0}
-DoTalkBiteBuildingEx					Aku menggigit {0} dengan keras
-DoTalkBiteClothesEx					aku mencoba mengunyah {0}
-DoTalkBiteOuterEx					Aku menggigit {0} dengan keras
-DoTalkBiteInnerEx					Aku menggigit {0} dengan keras
-DoTalkBiteVisitorEx					aku menggigit pengunjung {0}
-DoTalkBiteIncomingEx					aku menggigit pengunjung itu sekuat tenaga {0}
-DoTalkAtkEnemy					aku menyerang {0}!
-DoTalkShitAtShitPlace					aku sedang buang air besar di ruang kerjaku
-DoTalkShitAtPlants					aku kencing di sebelah {0}
-DoTalkShitAtDogHouse					Aku sedang buang air besar di sarangku
-DoTalkShitAtStorage					Aku sedang buang air besar di gudang
-DoTalkShitOnBed					Aku kencing di tempat tidur
-DoTalkShitInFarm					aku buang air besar di lahan pertanian
-DoTalkCarryOuterToBed					aku memindahkan ketidaksadaran {0} ke tempat tidur
-DoTalkCarryVisitorToDest					aku memindahkan pengunjung yang tidak sadarkan diri {0} ke titik pergerakan
-DoTalkCarryEnemyToDest					aku memindahkan musuh yang tidak sadarkan diri {0} ke titik transfer
-DoTalkCarryIncomingToDest					aku memindahkan pengunjung yang tidak sadarkan diri {0} ke titik pergerakan
-DoTalkCarryEnemyBodyToDest					aku menggerakkan tubuh {0} ke titik bergerak
-DoTalkCarryVisitorBodyToDest					aku menggerakkan tubuh {0} ke titik bergerak
-DoTalkCarryIncomingBodyToDest					aku menggerakkan tubuh {0} ke titik bergerak
-DoTalkHelpCarry					aku membantu mengatur berbagai hal
-DoTalkHelpTimber					Aku sedang membantu menebang pohon itu
-DoTalkHelpMine					Aku membantu milikku
-DoTalkHelpFind					aku sedang mencari barang
-DoTalkHelpKill					aku sedang menyembelih hewan
-DoTalkHelpPlant					aku sedang memupuk tanaman
-DoTalkCureFreeze					Aku sedang mengobati radang dingin {0}
-DoTalkCureHot					Aku merawat {0} karena serangan panas
-DoTalkHelpCook					Aku sedang membantu memasak
-DoTalkHeatEndure					Aku membantu meningkatkan toleransi panas
-DoTalkColdEndure					Aku membantu meningkatkan toleransi dingin
-DoTalkHelpPlay					Aku sedang bermain dengan {0}
-DoTalkPlayToy					Aku sedang bermain {0}
-DoTalkPlaySelf					Aku menghibur diri aku sendiri
-DoTalkTrainQiGan	aku sedang melatih kemampuan reiki aku.				
-DoTalkTrainNeiDan	aku melatih kemampuan saya dalam mengendalikan ramuan				
-DoTalkTrainHuTi	aku melatih kemampuan saya dalam perlindungan tubuh				
-DoTalkTrainLingZhi	aku sedang melatih kemampuan spiritual aku			
-DoTalkTrainShuFa	aku sedang melatih keterampilan aku dalam sihir				
-DoTalkFollow					
-DoTalkLay					
-DoTalkWander					
-CantEatShit	Aku tidak punya apa-apa untuk dimakan				
-CantEatEssence	aku tidak punya harta jenius untuk dimakan				
-CantEatDrug	aku tidak punya obat mujarab untuk diminum				
-CantEatWheat	aku tidak punya gandum untuk dimakan				
-CantEatDryMeat	aku tidak punya dendeng untuk dimakan				
-CantEatPear	Saya tidak punya buah pir untuk dimakan				
-CantEatMeat	Saya tidak punya daging mentah untuk dimakan				
-CantEatCook	Saya tidak punya makanan matang untuk dimakan				
-CantBiteBuilding	Saya tidak punya bangunan untuk digigit				
-CantBiteClothes	Saya tidak punya pakaian untuk digigit				
-CantBiteOuter	Saya tidak punya pintu luar untuk digigit.				
-CantBiteInner	Saya tidak punya pintu dalam untuk digigit.				
-CantBiteVisitor	Saya tidak punya pengunjung untuk digigit				
-CantBiteIncoming	Aku tidak punya manusia yang bisa digigit				
-CantAtkEnemy	Saya tidak punya musuh untuk diserang				
-CantShitAtShitPlace	Saya tidak punya tempat untuk buang air kecil				
-CantShitAtPlants	Saya tidak punya tanaman buang air besar.				
-CantShitAtDogHouse	Saya tidak punya sarang untuk dibuang				
-CantShitAtStorage	Saya tidak punya gudang untuk dibuang				
-CantShitOnBed	Aku tidak punya tempat tidur untuk buang air kecil.				
-CantShitInFarm	Saya tidak punya lahan pertanian untuk buang air besar				
-CantCarryOuterToBed	Saya tidak punya murid untuk pindah ke tempat tidur				
-CantCarryVisitorToDest	Saya tidak memiliki pengunjung untuk pindah ke titik perpindahan				
-CantCarryEnemyToDest	Saya tidak punya musuh untuk pindah ke portage				
-CantCarryIncomingToDest	Saya tidak punya manusia untuk dipindahkan ke portage.				
-CantCarryEnemyBodyToDest	Saya tidak memiliki mayat musuh untuk dipindahkan ke titik transfer				
-CantCarryVisitorBodyToDest	Saya tidak memiliki tubuh pengunjung untuk dipindahkan ke situs penghapusan				
-CantCarryIncomingBodyToDest	Saya tidak memiliki tubuh pengunjung untuk dipindahkan ke situs penghapusan				
-CantHelpCarry	Tidak ada item yang perlu saya bantu atur				
-CantHelpTimber	Tidak ada pohon yang perlu saya bantu tebang				
-CantHelpMine	Tidak ada milik saya yang perlu saya bantu gali				
-CantHelpFind	Saya tidak punya siapa pun untuk dijarah				
-CantHelpKill	Saya tidak punya musuh untuk dibantai				
-CantHelpPlant	Saya tidak punya tanaman untuk disiram				
-CantCureFreeze	Orang yang tidak mengalami radang dingin dapat diobati				
-CantCureHot	Orang yang tidak terkena serangan panas dapat diobati				
-CantHelpCook	Belum siap membantu memasak				
-CantHeatEndure	Peningkatan toleransi panas belum siap				
-CantColdEndure	Belum siap untuk meningkatkan toleransi dingin				
-CantHelpPlay	Tidak ada murid yang bisa diajak bermain				
-CantPlayToy	tidak ada mainan untuk dimainkan				
-NoParam2CarryVisitorToDest					Saya tidak menemukan titik pindahan untuk memindahkan pengunjung {0}
-NoParam2CarryEnemyToDest					Saya tidak menemukan titik transportasi untuk mengangkut musuh{0}
-NoParam2CarryIncomingToDest					Saya tidak menemukan titik bergerak untuk memindahkan manusia {0}
-NoParam2CarryEnemyBodyToDest					Saya tidak menemukan titik transportasi untuk mengangkut mayat musuh {0}
-NoParam2CarryVisitorBodyToDest					Saya tidak menemukan titik bergerak untuk menggerakkan tubuh pengunjung {0}
-NoParam2CarryIncomingBodyToDest					Saya tidak menemukan titik bergerak untuk menggerakkan tubuh manusia {0}
-NoParam2HelpCarry	Bantuan untuk pindah belum siap				
-NoParam2HelpTimber	Belum siap membantu logging				
-NoParam2HelpMine	Penambangan bantuan belum siap				
-NoParam2HelpPlant	Bantuan pemupukan belum siap				
-NoParam2CureFreeze	Mengobati Radang Dingin Belum Siap				
-NoParam2CureHot	Mengobati Heat Stroke Belum Siap				
-NoParam2HelpCook	Belum siap membantu memasak				
-DrinkTalk1	Saya ingin minum air				
-DrinkTalk2	saya haus				
-DrinkTalk3	air minum				
-NotAtkDizzyOuter	Saya tidak akan menyerang murid luar yang tidak sadarkan diri				
-NotAtkDizzyInner	Saya tidak akan menyerang murid batiniah yang tidak sadarkan diri				
-NotAtkDizzyComing	Saya tidak akan menyerang manusia yang tidak sadarkan diri.				
-NotAtkDizzyVisitor	Saya tidak akan menyerang pengunjung yang tidak sadarkan diri				
-NoTongXie	Saya tidak dapat menemukan Tongxiesan				
-WannaAtkDizzyOuter					Saya ingin mengakhiri penderitaan murid luar {0}
-WannaAtkDizzyInner					Saya ingin mengakhiri penderitaan murid batiniah {0}
-WannaAtkDizzyComing					Pengunjung yang koma {0} mempunyai kelemahan besar, saya datang
-WannaAtkDizzyVisitor					Pengunjung yang koma {0} terlihat kesakitan dan saya ingin membebaskannya
-DoTalkAtkDizzyOuter					Saya menyerang murid luar yang tidak sadarkan diri {0}
-DoTalkAtkDizzyInner					Saya menyerang murid batin yang tidak sadarkan diri {0}
-DoTalkAtkDizzyComing					Saya menyerang manusia yang tidak sadarkan diri{0}
-DoTalkAtkDizzyVisitor					Saya menyerang pengunjung yang tidak sadarkan diri{0}
-CantAtkDizzyOuter	Saya tidak memiliki murid luar yang tidak sadar untuk diserang				
-CantAtkDizzyInner	Saya tidak memiliki murid batiniah yang tidak sadar untuk diserang				
-CantAtkDizzyComing	Saya tidak punya manusia yang tidak sadarkan diri untuk diserang				
-CantAtkDizzyVisitor	Saya tidak memiliki pengunjung yang tidak sadar untuk diserang				
-NotFeedTongXie	Saya tidak akan memberikan katarsis ke pintu luar				
-NotCureInner	Saya tidak tahu cara mengobati cedera pintu bagian dalam.				
-WannaFeedTongXie	Saya ingin memberi makan pintu luar dengan Tongchaixin				Saya ingin memberi makan Tongchaixin ke pintu luar {0}
-WannaCureInner	Saya tidak tahu cara mengobati cedera pintu bagian dalam.				Saya ingin mengobati cedera pintu bagian dalam {0}
-DoTalkFeedTongXie					Saya mengantarkan Tongchaixin ke pintu luar {0}
-DoTalkCureInner					Saya sedang mengobati cedera pintu bagian dalam {0}
-CantFeedTongXie	Saya tidak punya murid luar yang bisa memberi makan Tongchaisan				
-CantCureInner	Saya tidak memiliki murid batiniah yang dapat menyembuhkan luka saya				
-NoParam2FeedTongXie					Saya ingin memberi makan Tongcaixin ke pintu luar {0}, tetapi Tongcaixin tidak ada.
-NoParam2CureInner					Saya ingin mengobati luka pintu bagian dalam {0}, namun waktunya belum tiba.
-NotHelpPlantD	Saya tidak akan buang air kecil di bidang pengobatan				
-WannaHelpPlantD	Saya ingin membantu menyirami ladang obat				
-DoTalkHelpPlantD	Membantu menyirami ladang obat				
-CantHelpPlantD	Tidak dapat membantu menyirami ladang obat				
-NoParam2HelpPlantD	Penyiraman belum siap				
-NotCarryOuterBodyToDest	Saya tidak akan memindahkan tubuh bagian luar ke titik pelepasan.				
-NotCarryInnerBodyToDest	Saya tidak akan memindahkan jenazah dari pintu bagian dalam ke titik pelepasan.				
-WannaCarryOuterBodyToDest	Saya ingin memindahkan badan dari pintu luar ke titik bergerak				
-WannaCarryInnerBodyToDest	Saya ingin memindahkan badan dari pintu dalam ke titik bergerak				
-DoTalkCarryOuterBodyToDest	Saya menggerakkan tubuh luar ke titik bergerak				
-DoTalkCarryInnerBodyToDest	Saya memindahkan tubuh dari pintu bagian dalam ke titik bergerak				
-CantCarryOuterBodyToDest	Saya tidak bisa memindahkan tubuh luar ke titik pelepasan				
-CantCarryInnerBodyToDest	Saya tidak bisa memindahkan badan dari pintu dalam ke titik bergerak				
-Sleep1	Aku akan pergi tidur				
-Sleep2	Saya tidak bisa membuka mata				
-Sleep3	Saya mendengar mimpi memanggil saya				
-Wonder1	Lihatlah sekeliling				
-Wonder2	melihat pemandangan				
-Wonder3	berjalan-jalan				
-Lay1	menikmati angin sepoi-sepoi				
-Lay2	istirahat				
-Lay3	Tidak mau pindah				
-Follow1	Lihat apa yang dilakukan orang ini				
-Follow2	Ada yang aneh pada orang ini				
-Follow3	Orang ini menarik perhatianku				
-Eat1	Aku akan mati kelaparan				
-Eat2	Aku sangat lapar, aku tidak bisa berjalan				
-Eat3	Saatnya makan				
-NotFeed_Item_Dan_Happiness	Saya tidak akan memberi makan pil surga kepada murid batiniah				
-NotFeed_Item_Dan_PracticeSpeed	Saya tidak akan memberi makan murid batin Huang Yadan				
-NotFeed_Item_Dan_CalmDown	Saya tidak akan memberi murid batin pil Qingxin				
-NotFeed_Item_LingStone	Saya tidak akan memberi makan batu spiritual murid batin				
-NotFeed_Item_LingCrystal	Saya tidak akan memberi makan kristal spiritual murid batin				
-WannaFeed_Item_Dan_Happiness	Saya ingin memberi makan pil surga kepada murid-murid batin				
-WannaFeed_Item_Dan_PracticeSpeed	Saya ingin memberi makan murid batin Huang Yadan				
-WannaFeed_Item_Dan_CalmDown	Saya ingin memberi makan pil Qingxin kepada murid-murid batin				
-WannaFeed_Item_LingStone	Saya ingin memberi makan batu spiritual murid batin				
-WannaFeed_Item_LingCrystal	Saya ingin memberi makan kristal spiritual murid batin				
-DoTalkFeed_Item_Dan_Happiness	Saya memberi makan pil surga kepada murid-murid batin				
-DoTalkFeed_Item_Dan_PracticeSpeed	Saya memberi makan murid batin Huang Yadan				
-DoTalkFeed_Item_Dan_CalmDown	Saya memberi makan pil Qingxin kepada murid dalam				
-DoTalkFeed_Item_LingStone	Saya memberi makan batu spiritual murid batin				
-DoTalkFeed_Item_LingCrystal	Saya memberi makan kristal spiritual murid batin				
-CantFeed_Item_Dan_Happiness	Saya tidak bisa memberi murid-murid batin Pil Kebahagiaan				
-CantFeed_Item_Dan_PracticeSpeed	Saya tidak bisa memberi makan murid batin Huang Yadan				
-CantFeed_Item_Dan_CalmDown	Saya tidak bisa memberi murid batin pil Qingxin				
-CantFeed_Item_LingStone	Saya tidak bisa memberi makan batu spiritual murid batin				
-CantFeed_Item_LingCrystal	Saya tidak bisa memberi makan kristal spiritual murid batin				
-NoParam2Feed_Item_Dan_Happiness	Saya tidak dapat menemukan Pil Kebahagiaan				
-NoParam2Feed_Item_Dan_PracticeSpeed	Saya tidak dapat menemukan Huang Ya Dan				
-NoParam2Feed_Item_Dan_CalmDown	Saya tidak dapat menemukan Pil Qingxin				
-NoParam2Feed_Item_LingStone	Saya tidak dapat menemukan batu roh				
-NoParam2Feed_Item_LingCrystal	Saya tidak dapat menemukan kristal roh				
-QiGanResult_Low	Kemampuan Aura sedikit meningkat				
-NeiDanResult_Low	Kemampuan mengendalikan pil sedikit meningkat				
-HuTiResult_Low	Kemampuan perlindungan tubuh sedikit meningkat				
-LingZhiResult_Low	Kemampuan mental sedikit meningkat				
-ShuFaResult_Low	Kemampuan sihir sedikit meningkat				
-QiGanResult_Mid	Kemampuan spiritualnya telah meningkat pesat				
-NeiDanResult_Mid	Kemampuan mengendalikan pil telah meningkat pesat				
-HuTiResult_Mid	Kemampuan perlindungan tubuh telah meningkat pesat				
-LingZhiResult_Mid	Kemampuan mental telah meningkat pesat				
-ShuFaResult_Mid	Kemampuan sihir telah meningkat pesat				
-QiGanResult_High	Kemampuan Aura telah meningkat pesat				
-NeiDanResult_High	Kemampuan mengendalikan pil telah meningkat pesat				
-HuTiResult_High	Kemampuan perlindungan tubuh telah meningkat pesat				
-LingZhiResult_High	Kemampuan mental telah meningkat pesat				
-ShuFaResult_High	Kemampuan sihir telah meningkat pesat				
-NotBiteExpel	Aku tidak akan menggigit manusia asing				
-WannaBiteExpel					Saya ingin menggigit manusia aneh {0}!
-DoTalkBiteExpel					Aku sedang menggigit manusia aneh {0}
-CantBiteExpel	Aku tidak bisa menggigit manusia aneh!				
-NotCarryMortalToDest	Saya tidak akan memindahkan manusia yang tidak sadarkan diri ke titik transfer.				
-NotCarryMortalBodyToDest	Saya tidak akan memindahkan mayat fana ke tempat yang bergerak				
-WannaCarryMortalToDest					Fana {0} pingsan, saya ingin memindahkannya
-WannaCarryMortalBodyToDest					Mortal {0} sudah mati dan saya ingin memindahkannya
-DoTalkCarryMortalToDest					Saya sedang memindahkan manusia tak sadarkan diri {0} ke titik transfer
-DoTalkCarryMortalBodyToDest					Saya memindahkan tubuh manusia {0} ke titik bergerak
-CantCarryMortalToDest	Saya tidak bisa memindahkan manusia yang koma ke titik bergerak				
-CantCarryMortalBodyToDest	Saya tidak bisa menggerakkan tubuh fana ke titik bergerak				
-Nothing	tidak terjadi apa-apa				
-No_NutritionQiGan	Tanpa nutrisi Reiki, olahraga tidak ada gunanya...				
-No_NutritionNeiDan	Tanpa nutrisi Yudan, olahraga tidak ada gunanya...				
-No_NutritionHuTi	Tanpa nutrisi pelindung tubuh, olahraga tidak ada gunanya...				
-No_NutritionLingZhi	Tanpa nutrisi yang cerdas, olahraga tidak ada gunanya…				
-No_NutritionShufa	Tanpa nutrisi ajaib, olahraga tidak ada gunanya...				
-WannaEat					Berdasarkan rencana makan, saya memutuskan untuk makan sesuatu
-WannaTrainShuFa	Saya ingin melatih keterampilan saya yang berhubungan dengan sihir				
-WannaTrainLingZhi	Saya ingin melatih kemampuan saya yang berhubungan dengan kecerdasan				
-WannaTrainHuTi	Saya ingin mengembangkan kemampuan saya yang berhubungan dengan perawatan tubuh				
-WannaTrainNeiDan	Saya ingin melatih kemampuan saya yang berhubungan dengan ramuan kekaisaran				
-WannaTrainQiGan	Saya ingin mengembangkan kemampuan saya yang berhubungan dengan Reiki				
-NothingToEat	Saya tidak punya apa-apa untuk dimakan! sangat lapar				
-NotEat_Item_SnakeGallbladder	Saya tidak akan makan empedu ular				
-NotEat_Item_BearGallbladder	Saya tidak akan makan empedu beruang				
-NotEat_Item_RedGinseng	Saya tidak akan makan ginseng merah				
-NotEat_Item_PurpleGanodermaLucidum	Saya tidak akan makan Zizhi				
-NotEat_Item_TuEssence	Saya tidak akan makan ekstrak oker				
-NotEat_Item_HuoEssence	Saya tidak tahu cara makan buah merah				
-NotEat_Item_ShuiEssence	Saya tidak akan makan Teratai Emas				
-NotEat_Item_JinEssence	Saya tidak akan makan buah Langya				
-NotEat_Item_MuEssence	Saya tidak akan memakan tanaman merambat yang mati				
-NotEat_Item_LifeStream	Saya tidak akan memakan sumber umur panjang				
-NotEat_Item_LongEgg	Saya tidak akan makan telur naga				
-NotEat_Item_FengEgg	Saya tidak akan makan telur phoenix				
-NotEat_Item_DragonShit	Saya tidak akan makan Tianlongsha				
-NotEat_Item_Jiaozi	Saya tidak bisa makan pangsit				
-NotEat_Item_BossFeng_Meat	Saya tidak akan memakan daging dan darah burung phoenix yang ganas				
-NotEat_Item_BossLong_Meat	Aku tidak akan memakan daging dan darah naga				
-NotEat_Item_BossZhuLong_Meat	Saya tidak akan makan daging dan darah asli				
-NotEat_Item_Cake	Saya tidak tahu cara makan roti				
-NotEat_Item_MonsterBlood	Saya tidak akan makan darah iblis				
-NotEat_Item_EarthEssence	Saya tidak akan memakan cairan spiritual ibu bumi				
-NotEat_Item_SilverGrit	Saya tidak akan makan pasir kristal dingin				
-NotEat_Item_CopperGrit	Saya tidak akan memakan pasir tembaga api				
-NotEat_Item_Cinnabar	Saya tidak akan makan cinnabar				
-NotEat_Item_LingMuXueJie	Saya tidak akan meminum Lingmu Xanax				
-NotEat_Item_EarthEssence_1	Saya tidak akan mengonsumsi lemak sumsum				
-NotEat_Item_EarthEssence1_1	Saya tidak akan mengonsumsi myeloid				
-NotEat_Item_Healroot	Saya tidak bisa minum herbal				
-NotEat_Item_Mint	Saya tidak akan makan Qingxincao				
-NotEat_Item_MagicHerb	Saya tidak akan makan rumput peri				
-NotEat_Item_Laxative	Aku tidak akan memakannya				
-WannaEat_Item_SnakeGallbladder					Saya sangat ingin makan empedu ular
-WannaEat_Item_BearGallbladder					Saya ingin makan empedu beruang
-WannaEat_Item_RedGinseng					Saya sangat ingin makan ginseng merah
-WannaEat_Item_PurpleGanodermaLucidum					Saya sangat ingin makan Zizhi
-WannaEat_Item_TuEssence					Saya sangat ingin makan sari kuning oker
-WannaEat_Item_HuoEssence					Saya sangat ingin makan buah merah
-WannaEat_Item_ShuiEssence					Saya sangat ingin makan Teratai Emas
-WannaEat_Item_JinEssence					Saya sangat ingin makan buah Langya
-WannaEat_Item_MuEssence					Saya sangat ingin makan pohon anggur kayu
-WannaEat_Item_LifeStream					Saya sangat ingin memakan sumber umur panjang
-WannaEat_Item_LongEgg					Saya sangat ingin makan telur naga
-WannaEat_Item_FengEgg					Saya sangat ingin makan telur phoenix
-WannaEat_Item_DragonShit					Saya sangat ingin makan Tianlongsha
-WannaEat_Item_Jiaozi					Saya sangat ingin makan pangsit
-WannaEat_Item_BossFeng_Meat					Saya sangat ingin memakan daging dan darah burung phoenix yang ganas
-WannaEat_Item_BossLong_Meat					Saya sangat ingin memakan daging dan darah naga
-WannaEat_Item_BossZhuLong_Meat					Saya sangat ingin makan daging dan darah asli
-WannaEat_Item_Cake					Saya sangat ingin makan pancake
-WannaEat_Item_MonsterBlood					Saya sangat ingin memakan darah roh iblis
-WannaEat_Item_EarthEssence					Saya sangat ingin memakan cairan spiritual ibu bumi
-WannaEat_Item_SilverGrit					Saya sangat ingin makan pasir kristal yang dingin
-WannaEat_Item_CopperGrit					Saya sangat ingin makan pasir tembaga api
-WannaEat_Item_Cinnabar					Saya ingin makan cinnabar
-WannaEat_Item_LingMuXueJie					Saya sangat ingin makan Lingmu Xanax
-WannaEat_Item_EarthEssence_1					Saya sangat ingin makan sumsum spiritual
-WannaEat_Item_EarthEssence1_1					Saya sangat ingin makan myeloid
-WannaEat_Item_Healroot					Saya ingin makan jamu
-WannaEat_Item_Mint					Saya sangat ingin makan Qingxincao
-WannaEat_Item_MagicHerb					Saya sangat ingin makan rumput peri
-WannaEat_Item_Laxative					Saya sangat ingin makan Tongcaisan
-DoTalkEat_Item_SnakeGallbladder					Aku sedang makan empedu ular
-DoTalkEat_Item_BearGallbladder					Aku sedang makan empedu beruang
-DoTalkEat_Item_RedGinseng					Saya sedang makan ginseng merah
-DoTalkEat_Item_PurpleGanodermaLucidum					Saya sedang makan Zizhi
-DoTalkEat_Item_TuEssence					Saya mengambil ekstrak oker
-DoTalkEat_Item_HuoEssence					Saya sedang makan buah merah
-DoTalkEat_Item_ShuiEssence					Saya sedang makan nasturtium
-DoTalkEat_Item_JinEssence					Saya sedang makan buah Langya
-DoTalkEat_Item_MuEssence					Saya sedang makan kayu mati
-DoTalkEat_Item_LifeStream					Saya sedang memakan sumber umur panjang
-DoTalkEat_Item_LongEgg					Saya sedang makan telur naga
-DoTalkEat_Item_FengEgg					Saya sedang makan telur phoenix
-DoTalkEat_Item_DragonShit					Saya sedang makan Tianlongsha
-DoTalkEat_Item_Jiaozi					Saya sedang makan pangsit
-DoTalkEat_Item_BossFeng_Meat					Aku sedang memakan daging dan darah burung phoenix yang ganas
-DoTalkEat_Item_BossLong_Meat					Saya sedang memakan daging dan darah naga
-DoTalkEat_Item_BossZhuLong_Meat					Saya makan daging dan darah asli
-DoTalkEat_Item_Cake					Saya sedang makan pancake
-DoTalkEat_Item_MonsterBlood					Aku sedang memakan darah roh iblis
-DoTalkEat_Item_EarthEssence					Saya mengambil cairan roh ibu bumi
-DoTalkEat_Item_SilverGrit					Saya sedang makan pasir kristal dingin
-DoTalkEat_Item_CopperGrit					Saya sedang makan pasir tembaga api
-DoTalkEat_Item_Cinnabar					Aku sedang makan cinnabar
-DoTalkEat_Item_LingMuXueJie					Saya meminum Lingmu Xanax
-DoTalkEat_Item_EarthEssence_1					Aku sedang mengonsumsi afrodisiak
-DoTalkEat_Item_EarthEssence1_1					Saya mengonsumsi myeloid
-DoTalkEat_Item_Healroot					Saya sedang mengonsumsi herbal
-DoTalkEat_Item_Mint					Saya sedang makan Qingxincao
-DoTalkEat_Item_MagicHerb					Aku sedang makan lucidum
-DoTalkEat_Item_Laxative					Aku sedang mengalami katarsis
-CantEat_Item_SnakeGallbladder	Saya tidak dapat menemukan empedu ular untuk dimakan				
-CantEat_Item_BearGallbladder	Saya tidak dapat menemukan empedu beruang untuk dimakan				
-CantEat_Item_RedGinseng	Saya tidak dapat menemukan ginseng merah untuk dimakan				
-CantEat_Item_PurpleGanodermaLucidum	Saya tidak dapat menemukan Zizhi untuk dimakan				
-CantEat_Item_TuEssence	Saya tidak dapat menemukan ekstrak oker untuk dimakan				
-CantEat_Item_HuoEssence	Saya tidak dapat menemukan buah merah untuk dimakan				
-CantEat_Item_ShuiEssence	Saya tidak dapat menemukan sesuatu yang berwarna untuk dimakan				
-CantEat_Item_JinEssence	Saya tidak dapat menemukan buah Langya untuk dimakan				
-CantEat_Item_MuEssence	Saya tidak dapat menemukan kayu mati atau tanaman anggur untuk dimakan				
-CantEat_Item_LifeStream	Saya tidak dapat menemukan sumber umur panjang untuk dimakan				
-CantEat_Item_LongEgg	Saya tidak dapat menemukan telur naga untuk dimakan				
-CantEat_Item_FengEgg	Aku tidak dapat menemukan telur phoenix untuk dimakan				
-CantEat_Item_DragonShit	Aku tidak dapat menemukan pasir Tianlong untuk dimakan				
-CantEat_Item_Jiaozi	Aku tidak dapat menemukan pangsit untuk dimakan				
-CantEat_Item_BossFeng_Meat	Aku tidak dapat menemukan daging dan darah burung phoenix yang ganas untuk dimakan				
-CantEat_Item_BossLong_Meat	Aku tidak dapat menemukan daging dan darah naga untuk dimakan				
-CantEat_Item_BossZhuLong_Meat	Aku tidak dapat menemukan daging dan darah aslinya untuk dimakan				
-CantEat_Item_Cake	Aku tidak dapat menemukan roti untuk dimakan				
-CantEat_Item_MonsterBlood	Aku tidak dapat menemukan darah iblis untuk dimakan				
-CantEat_Item_EarthEssence	Aku tidak dapat menemukan cairan roh ibu bumi untuk dimakan				
-CantEat_Item_SilverGrit	Aku tidak dapat menemukan pasir kristal dingin untuk dimakan				
-CantEat_Item_CopperGrit	Aku tidak dapat menemukan pasir tembaga api untuk dimakan				
-CantEat_Item_Cinnabar	Aku tidak dapat menemukan cinnabar untuk dimakan				
-CantEat_Item_LingMuXueJie	Saya tidak dapat menemukan Lingmu Xuejie untuk dimakan				
-CantEat_Item_EarthEssence_1	Aku tidak dapat menemukan lemak sumsum untuk dimakan				
-CantEat_Item_EarthEssence1_1	Aku tidak dapat menemukan myeloid untuk dimakan				
-CantEat_Item_Healroot	Aku tidak dapat menemukan ramuan apa pun untuk dimakan				
-CantEat_Item_Mint	Aku tidak dapat menemukan rumput untuk dimakan				
-CantEat_Item_MagicHerb	Aku tidak dapat menemukan rumput ajaib untuk dimakan				
-CantEat_Item_Laxative	Aku tidak dapat menemukan apa pun untuk dimakan				
-Leave1					"{0}, perhatikan keselamatan di jalan"
-Leave2					Segera kembali lagi, {0}
-Leave3					Selamat jalan, {0}
-Back1					{0}, Anda akhirnya kembali
-Back2					Selamat datang di rumah, {0}
-Back3					Aku sangat merindukanmu, {0}
-NotBack1					{0}Kenapa kamu belum kembali lagi?
-NotBack2					{0}Apa yang sedang kamu lakukan?
-NotBack3					Aku tidak tahu apa yang terjadi pada {0}
-BackComa1					{0}, ada apa denganmu?
-BackComa2					{0}Butuh bantuan
-BackComa3					{0}Tunggu
-SleepHelp1					{0}, semoga cepat sembuh
-SleepHelp2					{0}, semoga cepat sembuh
-SleepHelp3					{0}, semoga cepat sembuh
-Lacrimosa1		...			
-Lacrimosa2		...			
-Lacrimosa3		...			
-QiGan_FullTalk	Auraku telah mencapai batas atas				
-NeiDan_FullTalk	Ramuan kekaisaranku telah mencapai batas atasnya				
-HuTi_FullTalk	Perlindungan tubuhku telah mencapai batas atas				
-LingZhi_FullTalk	Kecerdasanku telah mencapai batasnya				
-ShuFa_FullTalk	Sihirku telah mencapai batasnya				
+talk	notarget	thing	int
+NotEatShit	Tôi sẽ không ăn phân đâu		
+NotEatEssence	Tôi sẽ không ăn thiên tài địa bảo, trừ khi được cho		
+NotEatDrug	Dù có đánh chết tôi cũng không coi đan dược là đồ ăn vặt, trừ khi được cho		
+NotEatWheat	Tôi chỉ ăn lúa mì khi đói lả		
+NotEatDryMeat	Tôi... thật sự không ăn thịt khô		
+NotEatPear	Lê là gì? Có thể ăn được không?		
+NotEatMeat	Thịt sống thật ghê tởm, tôi nhất định không ăn trừ khi không còn cách nào khác		
+NotEatCook	Thức ăn chín là món tôi không muốn ăn nhất		
+NotBiteBuilding	Tôi không muốn tấn công công trình		
+NotBiteClothes	Tôi sẽ không đùa giỡn với quần áo		
+NotBiteOuter	Tôi sẽ không tấn công đệ tử ngoại môn		
+NotBiteInner	Tôi sẽ không tấn công đệ tử nội môn		
+NotBiteVisitor	Tôi sẽ không tấn công khách		
+NotBiteIncoming	Tôi sẽ không tấn công người phàm đến đây		
+NotAtkEnemy	Tôi sẽ không tấn công kẻ thù, trừ khi bị tấn công		
+NotShitAtShitPlace	Tôi sẽ không đi vệ sinh ở điểm vệ sinh		
+NotShitAtPlants	Tôi sẽ không đi vệ sinh bên cạnh cây cối		
+NotShitAtDogHouse	Tôi sẽ không đi vệ sinh trong tổ của mình		
+NotShitAtStorage	Tôi sẽ không đi vệ sinh trong kho		
+NotShitOnBed	Tôi sẽ không đi vệ sinh trên giường		
+NotShitInFarm	Tôi sẽ không đi vệ sinh trên cánh đồng		
+NotCarryOuterToBed	Tôi sẽ không di chuyển đệ tử bất tỉnh lên giường		
+NotCarryVisitorToDest	Tôi sẽ không di chuyển khách bất tỉnh đến điểm vận chuyển		
+NotCarryEnemyToDest	Tôi sẽ không di chuyển kẻ thù bất tỉnh đến điểm vận chuyển		
+NotCarryIncomingToDest	Tôi sẽ không di chuyển người phàm bất tỉnh đến điểm vận chuyển		
+NotCarryEnemyBodyToDest	Tôi sẽ không di chuyển xác kẻ thù đến điểm vận chuyển		
+NotCarryVisitorBodyToDest	Tôi sẽ không di chuyển xác khách đến điểm vận chuyển		
+NotCarryIncomingBodyToDest	Tôi sẽ không di chuyển xác người phàm đến điểm vận chuyển		
+NotHelpCarry	Tôi sẽ không giúp sắp xếp đồ đạc		
+NotHelpTimber	Tôi sẽ không giúp chặt cây		
+NotHelpMine	Tôi sẽ không giúp khai thác mỏ		
+NotHelpFind	Tôi sẽ không giúp lục soát đồ đạc		
+NotHelpKill	Tôi sẽ không giúp giết động vật		
+NotHelpPlant	Tôi sẽ không giúp bón phân cho cây		
+NotCureFreeze	Tôi sẽ không giúp chữa trị bỏng lạnh		
+NotCureHot	Tôi sẽ không giúp chữa trị say nắng		
+NotHelpCook	Tôi sẽ không giúp nấu ăn		
+NotHeatEndure	Tôi sẽ không giúp nâng cao khả năng chịu nhiệt		
+NotColdEndure	Tôi sẽ không giúp nâng cao khả năng chịu lạnh		
+NotHelpPlay	Tôi sẽ không chơi đùa với đệ tử		
+NotPlayToy	Tôi sẽ không chơi đồ chơi		
+NotTrainQiGan	Tôi sẽ không luyện tập khả năng linh khí		
+NotTrainNeiDan	Tôi sẽ không luyện tập khả năng ngự đan		
+NotTrainHuTi	Tôi sẽ không luyện tập khả năng bảo vệ cơ thể		
+NotTrainLingZhi	Tôi sẽ không luyện tập khả năng linh trí		
+NotTrainShuFa	Tôi sẽ không luyện tập khả năng thuật pháp		
+WannaEatShit		Cái {0} này, nó có ngon không?	
+WannaEatEssence		Cái {0} này làm tôi chảy nước miếng	
+WannaEatDrug		Tôi muốn ăn đan dược như đồ ăn vặt	
+WannaEatWheat		Cái {0} này trông rất ngon	
+WannaEatDryMeat		Tôi không thể cưỡng lại mùi thơm của {0}	
+WannaEatPear		Không chịu nổi nữa, tôi muốn ăn {0}	
+WannaEatMeat		{0}, tôi sẽ bắt đầu ăn đây	
+WannaEatCook		Tôi thật sự rất muốn ăn {0}	
+WannaBiteBuilding		{0}, tôi đã nhịn lâu lắm rồi	
+WannaBiteClothes		Cái {0} này chắc chắn rất tuyệt để nhai	
+WannaBiteOuter		Không biết hương vị của đệ tử ngoại môn {0} sẽ như thế nào nhỉ	
+WannaBiteInner		Đã đến lúc thể hiện sức mạnh với đệ tử nội môn {0} rồi	
+WannaBiteVisitor		Khách {0} trông có vẻ thích hợp để luyện kỹ thuật	
+WannaBiteIncoming		Khách mời {0} trông có vẻ thích hợp để luyện kỹ thuật	
+WannaAtkEnemy		{0}, số phận của bạn đã đến rồi	
+WannaShitAtShitPlace		Tôi muốn đi vệ sinh ở điểm thoát	
+WannaShitAtPlants		Tôi muốn đi vệ sinh bên cạnh cây cối	
+WannaShitAtDogHouse		Tôi muốn đi vệ sinh trong tổ của tôi	
+WannaShitAtStorage		Phân của tôi rất quý giá, đi vào kho chắc chắn rất hợp lý	
+WannaShitOnBed		Đi vệ sinh trên giường trông có vẻ thú vị	
+WannaShitInFarm		Đi vệ sinh trên cánh đồng chắc sẽ rất hữu ích?	
+WannaCarryOuterToBed		Tôi phải giúp đỡ {0} đang hôn mê	
+WannaCarryVisitorToDest		Tôi muốn chuyển khách {0} đang hôn mê đến điểm vận chuyển	
+WannaCarryEnemyToDest		Tôi muốn chuyển kẻ thù {0} đang hôn mê đến điểm vận chuyển	
+WannaCarryIncomingToDest		Tôi muốn chuyển khách mời {0} đang hôn mê đến điểm vận chuyển	
+WannaCarryEnemyBodyToDest		Tôi muốn chuyển thi thể của kẻ thù {0} đến điểm vận chuyển	
+WannaCarryVisitorBodyToDest		Tôi muốn chuyển thi thể của khách {0} đến điểm vận chuyển	
+WannaCarryIncomingBodyToDest		Tôi muốn chuyển thi thể của khách mời {0} đến điểm vận chuyển	
+WannaHelpCarry	Tôi muốn giúp sắp xếp đồ đạc		
+WannaHelpTimber	Có vẻ như cần chặt những cái cây này, tôi sẽ giúp một tay	Có vẻ cần phải chặt những cái cây này, tôi sẽ giúp một tay	
+WannaHelpMine	Những viên đá này trông có giá trị, xem đây	Những viên đá này trông có giá trị, chuẩn bị nhé	
+WannaHelpFind	Để tôi xem trên người những người này có bảo bối gì	Để tôi xem trên người những người này có bảo vật gì	
+WannaHelpKill	Không thể để xác thối rữa, để tôi giúp xử lý một chút	Không thể để thi thể mục nát, để tôi giúp xử lý một chút	
+WannaHelpPlant	Cây cối trên cánh đồng trông có ích, tôi sẽ bón phân	Cây cối trên cánh đồng trông rất hữu ích, tôi sẽ bón phân cho chúng	
+WannaCureFreeze	Bỏng lạnh của {0} rất nghiêm trọng, để tôi chữa trị một chút	Bị bỏng lạnh {0} rất nặng, để tôi chữa trị cho bạn	
+WannaCureHot	Say nắng của {0} rất nghiêm trọng, để tôi chữa trị một chút	Bị say nắng {0} rất nặng, để tôi chữa trị cho bạn	
+WannaHeatEndure	Tôi muốn giúp nâng cao khả năng chịu nhiệt	Tôi muốn giúp nâng cao khả năng chịu nhiệt	
+WannaColdEndure	Tôi muốn giúp nâng cao khả năng chịu lạnh	Tôi muốn giúp nâng cao khả năng chịu lạnh	
+WannaHelpPlay	{0} trông có vẻ không vui	{0} trông có vẻ không vui	
+WannaPlayToy	Tôi muốn chơi đùa với {0} thật mạnh	Tôi muốn chơi đùa với {0}	
+DoTalkEatShit		Tôi đang ăn {0}	
+DoTalkEatEssence		Tôi đang ăn {0}	
+DoTalkEatDrug		Tôi đang ăn {0}	
+DoTalkEatWheat		Tôi đang ăn {0}	
+DoTalkEatDryMeat		Tôi đang ăn {0}	
+DoTalkEatPear		Tôi đang ăn {0}	
+DoTalkEatMeat		Tôi đang ăn {0}	
+DoTalkEatCook		Tôi đang ăn {0}	
+DoTalkEat		Tôi đang thưởng thức {0}	
+DoTalkBiteBuilding		Tôi đang dùng {0} để nhai	
+DoTalkBiteClothes		Tôi đang tấn công {0}	
+DoTalkBiteOuter		Tôi đang tấn công {0}	
+DoTalkBiteInner		Tôi đang cắn khách {0}	
+DoTalkBiteVisitor		Tôi đang cắn khách mời {0}	
+DoTalkBiteIncoming		Tôi đang cắn {0}	
+DoTalkBiteBuildingEx		Tôi đang cắn mạnh {0}	
+DoTalkBiteClothesEx		Tôi đang cố gắng cắn nát {0}	
+DoTalkBiteOuterEx		Tôi đang cắn {0} rất mạnh	
+DoTalkBiteInnerEx		Tôi đang cắn {0} rất mạnh	
+DoTalkBiteVisitorEx		Tôi đang cắn khách {0} rất mạnh	
+DoTalkBiteIncomingEx		Tôi đang cắn khách mời {0} rất mạnh	
+DoTalkAtkEnemy		Tôi đang tấn công {0}!	
+DoTalkShitAtShitPlace		Tôi đang đi vệ sinh trong nhà vệ sinh của tôi	
+DoTalkShitAtPlants		Tôi đang đi vệ sinh bên cạnh {0}	
+DoTalkShitAtDogHouse		Tôi đang đi vệ sinh trong tổ của tôi	
+DoTalkShitAtStorage		Tôi đang đi vệ sinh trong kho	
+DoTalkShitOnBed		Tôi đang đi vệ sinh trên giường	
+DoTalkShitInFarm		Tôi đang đi vệ sinh trên cánh đồng	
+DoTalkCarryOuterToBed		Tôi đang chuyển {0} đang hôn mê lên giường	
+DoTalkCarryVisitorToDest		Tôi đang chuyển khách {0} đang hôn mê đến điểm vận chuyển	
+DoTalkCarryEnemyToDest		Tôi đang chuyển kẻ thù {0} đang hôn mê đến điểm vận chuyển	
+DoTalkCarryIncomingToDest		Tôi đang chuyển khách mời {0} đang hôn mê đến điểm vận chuyển	
+DoTalkCarryEnemyBodyToDest		Tôi đang chuyển thi thể của {0} đến điểm vận chuyển	
+DoTalkCarryVisitorBodyToDest		Tôi đang chuyển thi thể của {0} đến điểm vận chuyển	
+DoTalkCarryIncomingBodyToDest		Tôi đang chuyển thi thể của {0} đến điểm vận chuyển	
+DoTalkHelpCarry		Tôi đang giúp sắp xếp đồ đạc	
+DoTalkHelpTimber		Tôi đang giúp chặt cây	
+DoTalkHelpMine		Tôi đang giúp khai thác mỏ	
+DoTalkHelpFind		Tôi đang lục soát đồ đạc	
+DoTalkHelpKill		Tôi đang mổ động vật	
+DoTalkHelpPlant		Tôi đang bón phân cho cây cối	
+DoTalkCureFreeze		Tôi đang chữa trị vết bỏng lạnh cho {0}	
+DoTalkCureHot		Tôi đang chữa trị vết say nắng cho {0}	
+DoTalkHelpCook		Tôi đang giúp nấu ăn	
+DoTalkHeatEndure		Tôi đang giúp nâng cao khả năng chịu nhiệt	
+DoTalkColdEndure		Tôi đang giúp nâng cao khả năng chịu lạnh	
+DoTalkHelpPlay		Tôi đang chơi đùa với {0}	
+DoTalkPlayToy		Tôi đang chơi {0}	
+DoTalkPlaySelf		Tôi đang tự giải trí	
+DoTalkTrainQiGan	Tôi đang luyện tập khả năng linh khí		
+DoTalkTrainNeiDan	Tôi đang luyện tập khả năng ngự đan		
+DoTalkTrainHuTi	Tôi đang luyện tập khả năng bảo vệ cơ thể		
+DoTalkTrainLingZhi	Tôi đang luyện tập khả năng linh trí		
+DoTalkTrainShuFa	Tôi đang luyện tập khả năng thuật pháp		
+DoTalkFollow			
+DoTalkLay			
+DoTalkWander			
+CantEatShit	Tôi không có phân để ăn		
+CantEatEssence	Tôi không có thiên tài địa bảo để ăn		
+CantEatDrug	Tôi không có đan dược để ăn		
+CantEatWheat	Tôi không có lúa mì để ăn		
+CantEatDryMeat	Tôi không có thịt khô để ăn		
+CantEatPear	Tôi không có lê để ăn		
+CantEatMeat	Tôi không có thịt sống để ăn		
+CantEatCook	Tôi không có thức ăn chín để ăn		
+CantBiteBuilding	Tôi không có công trình để cắn		
+CantBiteClothes	Tôi không có quần áo để cắn		
+CantBiteOuter	Tôi không có ngoại môn để cắn		
+CantBiteInner	Tôi không có nội môn để cắn		
+CantBiteVisitor	Tôi không có khách để cắn		
+CantBiteIncoming	Tôi không có người phàm để cắn		
+CantAtkEnemy	Tôi không có kẻ thù để tấn công		
+CantShitAtShitPlace	Tôi không có điểm vệ sinh để đi		
+CantShitAtPlants	Tôi không có cây cối để đi vệ sinh		
+CantShitAtDogHouse	Tôi không có tổ để đi vệ sinh		
+CantShitAtStorage	Tôi không có kho để đi vệ sinh		
+CantShitOnBed	Tôi không có giường để đi vệ sinh		
+CantShitInFarm	Tôi không có cánh đồng để đi vệ sinh		
+CantCarryOuterToBed	Tôi không có đệ tử để di chuyển lên giường		
+CantCarryVisitorToDest	Tôi không có khách để di chuyển đến điểm vận chuyển		
+CantCarryEnemyToDest	Tôi không có kẻ thù để di chuyển đến điểm vận chuyển		
+CantCarryIncomingToDest	Tôi không có người phàm để di chuyển đến điểm vận chuyển		
+CantCarryEnemyBodyToDest	Tôi không có xác kẻ thù để di chuyển đến điểm vận chuyển		
+CantCarryVisitorBodyToDest	Tôi không có xác khách để di chuyển đến điểm vận chuyển		
+CantCarryIncomingBodyToDest	Tôi không có xác người phàm để di chuyển đến điểm vận chuyển		
+CantHelpCarry	Không có đồ vật nào cần tôi giúp sắp xếp		
+CantHelpTimber	Không có cây nào cần tôi giúp chặt		
+CantHelpMine	Không có mỏ nào cần tôi giúp khai thác		
+CantHelpFind	Tôi không có ai để lục soát		
+CantHelpKill	Tôi không có kẻ thù để giết		
+CantHelpPlant	Tôi không có cây trồng nào để tưới		
+CantCureFreeze	Không có ai bị bỏng lạnh để chữa trị		
+CantCureHot	Không có ai bị say nắng để chữa trị		
+CantHelpCook	Giúp nấu ăn vẫn chưa chuẩn bị xong		
+CantHeatEndure	Nâng cao khả năng chịu nhiệt vẫn chưa chuẩn bị xong		
+CantColdEndure	Nâng cao khả năng chịu lạnh vẫn chưa chuẩn bị xong		
+CantHelpPlay	Không có đệ tử nào cần chơi đùa		
+CantPlayToy	Không có đồ chơi nào để chơi		
+NoParam2CarryVisitorToDest		Tôi không tìm thấy điểm vận chuyển để chuyển khách {0}	
+NoParam2CarryEnemyToDest		Tôi không tìm thấy điểm vận chuyển để chuyển kẻ thù {0}	
+NoParam2CarryIncomingToDest		Tôi không tìm thấy điểm vận chuyển để chuyển phàm nhân {0}	
+NoParam2CarryEnemyBodyToDest		Tôi không tìm thấy điểm vận chuyển để chuyển thi thể của kẻ thù {0}	
+NoParam2CarryVisitorBodyToDest		Tôi không tìm thấy điểm vận chuyển để chuyển thi thể của khách {0}	
+NoParam2CarryIncomingBodyToDest		Tôi không tìm thấy điểm vận chuyển để chuyển thi thể của phàm nhân {0}	
+NoParam2HelpCarry	Giúp vận chuyển vẫn chưa chuẩn bị xong		
+NoParam2HelpTimber	Giúp chặt cây vẫn chưa chuẩn bị xong		
+NoParam2HelpMine	Giúp khai thác vẫn chưa chuẩn bị xong		
+NoParam2HelpPlant	Giúp bón phân vẫn chưa chuẩn bị xong		
+NoParam2CureFreeze	Chữa trị bỏng lạnh vẫn chưa chuẩn bị xong		
+NoParam2CureHot	Chữa trị say nắng vẫn chưa chuẩn bị xong		
+NoParam2HelpCook	Giúp nấu ăn vẫn chưa chuẩn bị xong		
+DrinkTalk1	Tôi muốn uống nước		
+DrinkTalk2	Tôi khát rồi		
+DrinkTalk3	Đang uống nước		
+NotAtkDizzyOuter	Tôi sẽ không tấn công đệ tử ngoại môn bất tỉnh		
+NotAtkDizzyInner	Tôi sẽ không tấn công đệ tử nội môn bất tỉnh		
+NotAtkDizzyComing	Tôi sẽ không tấn công người phàm bất tỉnh		
+NotAtkDizzyVisitor	Tôi sẽ không tấn công khách bất tỉnh		
+NoTongXie	Tôi không tìm thấy thuốc thông tiểu		
+WannaAtkDizzyOuter		Tôi muốn kết thúc nỗi đau của đệ tử ngoại môn {0}	
+WannaAtkDizzyInner		Tôi muốn kết thúc nỗi đau của đệ tử nội môn {0}	
+WannaAtkDizzyComing		Khách {0} đang hôn mê có nhiều sơ hở, tôi đến đây	
+WannaAtkDizzyVisitor		Khách {0} đang hôn mê trông rất đau đớn, tôi muốn giúp họ giải thoát	
+DoTalkAtkDizzyOuter		Tôi đang tấn công đệ tử ngoại môn {0} đang hôn mê	
+DoTalkAtkDizzyInner		Tôi đang tấn công đệ tử nội môn {0} đang hôn mê	
+DoTalkAtkDizzyComing		Tôi đang tấn công phàm nhân {0} đang hôn mê	
+DoTalkAtkDizzyVisitor		Tôi đang tấn công khách {0} đang hôn mê	
+CantAtkDizzyOuter	Tôi không có đệ tử ngoại môn bất tỉnh để tấn công		
+CantAtkDizzyInner	Tôi không có đệ tử nội môn bất tỉnh để tấn công		
+CantAtkDizzyComing	Tôi không có người phàm bất tỉnh để tấn công		
+CantAtkDizzyVisitor	Tôi không có khách bất tỉnh để tấn công		
+NotFeedTongXie	Tôi sẽ không cho đệ tử ngoại môn uống thuốc thông tiểu		
+NotCureInner	Tôi sẽ không chữa trị vết thương cho nội môn		
+WannaFeedTongXie	Tôi muốn cho đệ tử ngoại môn uống thuốc thông tiểu	Tôi muốn cho đệ tử ngoại môn {0} uống thuốc thông	
+WannaCureInner	Tôi sẽ không chữa trị vết thương cho nội môn	Tôi muốn chữa trị vết thương cho đệ tử nội môn {0}	
+DoTalkFeedTongXie		Tôi đang cho đệ tử ngoại môn {0} uống thuốc thông	
+DoTalkCureInner		Tôi đang chữa trị vết thương cho đệ tử nội môn {0}	
+CantFeedTongXie	Tôi không có đệ tử ngoại môn nào để cho uống thuốc thông tiểu		
+CantCureInner	Tôi không có đệ tử nội môn nào để chữa trị		
+NoParam2FeedTongXie		Tôi muốn cho đệ tử ngoại môn {0} uống thuốc thông, nhưng không có thuốc thông	
+NoParam2CureInner		Tôi muốn chữa trị vết thương cho đệ tử nội môn {0}, nhưng thời gian chưa đến	
+NotHelpPlantD	Tôi sẽ không đi tiểu vào ruộng thuốc		
+WannaHelpPlantD	Tôi muốn giúp tưới ruộng thuốc		
+DoTalkHelpPlantD	Đang giúp tưới ruộng thuốc		
+CantHelpPlantD	Không thể giúp tưới ruộng thuốc		
+NoParam2HelpPlantD	Tưới vẫn chưa chuẩn bị xong		
+NotCarryOuterBodyToDest	Tôi sẽ không di chuyển xác đệ tử ngoại môn đến điểm vận chuyển		
+NotCarryInnerBodyToDest	Tôi sẽ không di chuyển xác đệ tử nội môn đến điểm vận chuyển		
+WannaCarryOuterBodyToDest	Tôi muốn di chuyển xác đệ tử ngoại môn đến điểm vận chuyển		
+WannaCarryInnerBodyToDest	Tôi muốn di chuyển xác đệ tử nội môn đến điểm vận chuyển		
+DoTalkCarryOuterBodyToDest	Tôi đang di chuyển xác đệ tử ngoại môn đến điểm vận chuyển		
+DoTalkCarryInnerBodyToDest	Tôi đang di chuyển xác đệ tử nội môn đến điểm vận chuyển		
+CantCarryOuterBodyToDest	Tôi không thể di chuyển xác đệ tử ngoại môn đến điểm vận chuyển		
+CantCarryInnerBodyToDest	Tôi không thể di chuyển xác đệ tử nội môn đến điểm vận chuyển		
+Sleep1	Tôi sắp đi ngủ rồi		
+Sleep2	Mắt không thể mở ra được		
+Sleep3	Tôi nghe thấy giấc mơ đang gọi tôi		
+Wonder1	Thoải mái đi dạo		
+Wonder2	Ngắm cảnh		
+Wonder3	Đi dạo một chút		
+Lay1	Thưởng thức làn gió nhẹ		
+Lay2	Nghỉ ngơi một chút		
+Lay3	Không muốn động đậy		
+Follow1	Xem người này đang làm gì		
+Follow2	Người này có một mùi kỳ lạ		
+Follow3	Người này thu hút sự chú ý của tôi		
+Eat1	Tôi sắp chết đói rồi		
+Eat2	Đói quá, tôi không thể đi được nữa		
+Eat3	Đến giờ ăn rồi		
+NotFeed_Item_Dan_Happiness	Tôi sẽ không cho đệ tử nội môn uống cực lạc đan		
+NotFeed_Item_Dan_PracticeSpeed	Tôi sẽ không cho đệ tử nội môn uống hoàng nhai đan		
+NotFeed_Item_Dan_CalmDown	Tôi sẽ không cho đệ tử nội môn uống thanh tâm đan		
+NotFeed_Item_LingStone	Tôi sẽ không cho đệ tử nội môn uống linh thạch		
+NotFeed_Item_LingCrystal	Tôi sẽ không cho đệ tử nội môn uống linh tinh		
+WannaFeed_Item_Dan_Happiness	Tôi muốn cho đệ tử nội môn uống cực lạc đan		
+WannaFeed_Item_Dan_PracticeSpeed	Tôi muốn cho đệ tử nội môn uống hoàng nhai đan		
+WannaFeed_Item_Dan_CalmDown	Tôi muốn cho đệ tử nội môn uống thanh tâm đan		
+WannaFeed_Item_LingStone	Tôi muốn cho đệ tử nội môn uống linh thạch		
+WannaFeed_Item_LingCrystal	Tôi muốn cho đệ tử nội môn uống linh tinh		
+DoTalkFeed_Item_Dan_Happiness	Tôi đang cho đệ tử nội môn uống cực lạc đan		
+DoTalkFeed_Item_Dan_PracticeSpeed	Tôi đang cho đệ tử nội môn uống hoàng nhai đan		
+DoTalkFeed_Item_Dan_CalmDown	Tôi đang cho đệ tử nội môn uống thanh tâm đan		
+DoTalkFeed_Item_LingStone	Tôi đang cho đệ tử nội môn uống linh thạch		
+DoTalkFeed_Item_LingCrystal	Tôi đang cho đệ tử nội môn uống linh tinh		
+CantFeed_Item_Dan_Happiness	Tôi không thể cho đệ tử nội môn uống cực lạc đan		
+CantFeed_Item_Dan_PracticeSpeed	Tôi không thể cho đệ tử nội môn uống hoàng nhai đan		
+CantFeed_Item_Dan_CalmDown	Tôi không thể cho đệ tử nội môn uống thanh tâm đan		
+CantFeed_Item_LingStone	Tôi không thể cho đệ tử nội môn uống linh thạch		
+CantFeed_Item_LingCrystal	Tôi không thể cho đệ tử nội môn uống linh tinh		
+NoParam2Feed_Item_Dan_Happiness	Tôi không tìm thấy cực lạc đan		
+NoParam2Feed_Item_Dan_PracticeSpeed	Tôi không tìm thấy hoàng nhai đan		
+NoParam2Feed_Item_Dan_CalmDown	Tôi không tìm thấy thanh tâm đan		
+NoParam2Feed_Item_LingStone	Tôi không tìm thấy linh thạch		
+NoParam2Feed_Item_LingCrystal	Tôi không tìm thấy linh tinh		
+QiGanResult_Low	Khả năng linh khí đã tăng lên một chút		
+NeiDanResult_Low	Khả năng ngự đan đã tăng lên một chút		
+HuTiResult_Low	Khả năng bảo vệ cơ thể đã tăng lên một chút		
+LingZhiResult_Low	Khả năng linh trí đã tăng lên một chút		
+ShuFaResult_Low	Khả năng thuật pháp đã tăng lên một chút		
+QiGanResult_Mid	Khả năng linh khí đã tăng lên đáng kể		
+NeiDanResult_Mid	Khả năng ngự đan đã tăng lên đáng kể		
+HuTiResult_Mid	Khả năng bảo vệ cơ thể đã tăng lên đáng kể		
+LingZhiResult_Mid	Khả năng linh trí đã tăng lên đáng kể		
+ShuFaResult_Mid	Khả năng thuật pháp đã tăng lên đáng kể		
+QiGanResult_High	Khả năng linh khí đã tăng lên mạnh mẽ		
+NeiDanResult_High	Khả năng ngự đan đã tăng lên mạnh mẽ		
+HuTiResult_High	Khả năng bảo vệ cơ thể đã tăng lên mạnh mẽ		
+LingZhiResult_High	Khả năng linh trí đã tăng lên mạnh mẽ		
+ShuFaResult_High	Khả năng thuật pháp đã tăng lên mạnh mẽ		
+NotBiteExpel	Tôi sẽ không cắn người phàm xa lạ		
+WannaBiteExpel		Tôi muốn cắn phàm nhân lạ {0}!	
+DoTalkBiteExpel		Tôi đang cắn phàm nhân lạ {0}	
+CantBiteExpel	Tôi không thể cắn người phàm xa lạ!		
+NotCarryMortalToDest	Tôi sẽ không di chuyển người phàm bất tỉnh đến điểm vận chuyển		
+NotCarryMortalBodyToDest	Tôi sẽ không di chuyển xác người phàm đến điểm vận chuyển		
+WannaCarryMortalToDest		Phàm nhân {0} ngất xỉu, tôi muốn chuyển họ đi	
+WannaCarryMortalBodyToDest		Phàm nhân {0} đã chết, tôi muốn chuyển họ đi	
+DoTalkCarryMortalToDest		Tôi đang chuyển phàm nhân {0} đang hôn mê đến điểm vận chuyển	
+DoTalkCarryMortalBodyToDest		Tôi đang chuyển thi thể của phàm nhân {0} đến điểm vận chuyển	
+CantCarryMortalToDest	Tôi không thể di chuyển người phàm bất tỉnh đến điểm vận chuyển		
+CantCarryMortalBodyToDest	Tôi không thể di chuyển xác người phàm đến điểm vận chuyển		
+Nothing	Không có gì xảy ra		
+No_NutritionQiGan	Không có dưỡng chất linh khí, tập luyện không có tác dụng...		
+No_NutritionNeiDan	Không có dưỡng chất ngự đan, tập luyện không có tác dụng...		
+No_NutritionHuTi	Không có dưỡng chất bảo vệ cơ thể, tập luyện không có tác dụng...		
+No_NutritionLingZhi	Không có dưỡng chất linh trí, tập luyện không có tác dụng...		
+No_NutritionShufa	Không có dưỡng chất thuật pháp, tập luyện không có tác dụng...		
+WannaEat		Theo kế hoạch dinh dưỡng, tôi quyết định ăn một thứ gì đó	
+WannaTrainShuFa	Tôi muốn luyện tập khả năng liên quan đến thuật pháp		
+WannaTrainLingZhi	Tôi muốn luyện tập khả năng liên quan đến linh trí		
+WannaTrainHuTi	Tôi muốn luyện tập khả năng liên quan đến bảo vệ cơ thể		
+WannaTrainNeiDan	Tôi muốn luyện tập khả năng liên quan đến ngự đan		
+WannaTrainQiGan	Tôi muốn luyện tập khả năng liên quan đến linh khí		
+NothingToEat	Tôi không còn gì để ăn nữa! Đói quá		
+NotEat_Item_SnakeGallbladder	Tôi sẽ không ăn mật rắn		
+NotEat_Item_BearGallbladder	Tôi sẽ không ăn mật gấu		
+NotEat_Item_RedGinseng	Tôi sẽ không ăn huyết đan		
+NotEat_Item_PurpleGanodermaLucidum	Tôi sẽ không ăn nấm tím		
+NotEat_Item_TuEssence	Tôi sẽ không ăn hoàng tinh		
+NotEat_Item_HuoEssence	Tôi sẽ không ăn quả chu sa		
+NotEat_Item_ShuiEssence	Tôi sẽ không ăn hoa sen bốn màu		
+NotEat_Item_JinEssence	Tôi sẽ không ăn quả lang thang		
+NotEat_Item_MuEssence	Tôi sẽ không ăn dây gỗ khô		
+NotEat_Item_LifeStream	Tôi sẽ không ăn suối trường sinh		
+NotEat_Item_LongEgg	Tôi sẽ không ăn trứng rồng		
+NotEat_Item_FengEgg	Tôi sẽ không ăn trứng phượng hoàng		
+NotEat_Item_DragonShit	Tôi sẽ không ăn cát thiên long		
+NotEat_Item_Jiaozi	Tôi sẽ không ăn bánh bao		
+NotEat_Item_BossFeng_Meat	Tôi sẽ không ăn thịt và máu của phượng hoàng hung ác		
+NotEat_Item_BossLong_Meat	Tôi sẽ không ăn thịt và máu của rồng		
+NotEat_Item_BossZhuLong_Meat	Tôi sẽ không ăn thịt nguyên thủy		
+NotEat_Item_Cake	Tôi sẽ không ăn bánh mì		
+NotEat_Item_MonsterBlood	Tôi sẽ không ăn máu yêu linh		
+NotEat_Item_EarthEssence	Tôi sẽ không ăn linh dịch của mẹ đất		
+NotEat_Item_SilverGrit	Tôi sẽ không ăn cát lạnh		
+NotEat_Item_CopperGrit	Tôi sẽ không ăn cát đồng		
+NotEat_Item_Cinnabar	Tôi sẽ không ăn thủy ngân		
+NotEat_Item_LingMuXueJie	Tôi sẽ không ăn gỗ linh		
+NotEat_Item_EarthEssence_1	Tôi sẽ không ăn tủy linh		
+NotEat_Item_EarthEssence1_1	Tôi sẽ không ăn tủy máu		
+NotEat_Item_Healroot	Tôi sẽ không ăn thảo dược		
+NotEat_Item_Mint	Tôi sẽ không ăn cỏ thanh tâm		
+NotEat_Item_MagicHerb	Tôi sẽ không ăn cỏ linh tiên		
+NotEat_Item_Laxative	Tôi sẽ không ăn thuốc thông tiểu		
+WannaEat_Item_SnakeGallbladder		Tôi rất muốn ăn mật rắn	
+WannaEat_Item_BearGallbladder		Tôi rất muốn ăn mật gấu	
+WannaEat_Item_RedGinseng		Tôi rất muốn ăn nhân sâm đỏ	
+WannaEat_Item_PurpleGanodermaLucidum		Tôi rất muốn ăn nấm tím	
+WannaEat_Item_TuEssence		Tôi rất muốn ăn tinh chất vàng	
+WannaEat_Item_HuoEssence		Tôi rất muốn ăn quả đỏ	
+WannaEat_Item_ShuiEssence		Tôi rất muốn ăn hoa sen năm màu	
+WannaEat_Item_JinEssence		Tôi rất muốn ăn quả lang nha	
+WannaEat_Item_MuEssence		Tôi rất muốn ăn dây gỗ khô	
+WannaEat_Item_LifeStream		Tôi rất muốn ăn suối trường sinh	
+WannaEat_Item_LongEgg		Tôi rất muốn ăn trứng của rồng	
+WannaEat_Item_FengEgg		Tôi rất muốn ăn trứng của phượng hoàng	
+WannaEat_Item_DragonShit		Tôi rất muốn ăn cát thiên long	
+WannaEat_Item_Jiaozi		Tôi rất muốn ăn bánh bao	
+WannaEat_Item_BossFeng_Meat		Tôi rất muốn ăn thịt và máu của phượng hoàng hung ác	
+WannaEat_Item_BossLong_Meat		Tôi rất muốn ăn thịt và máu của rồng	
+WannaEat_Item_BossZhuLong_Meat		Tôi rất muốn ăn thịt và máu nguyên thủy	
+WannaEat_Item_Cake		Tôi rất muốn ăn bánh mì	
+WannaEat_Item_MonsterBlood		Tôi rất muốn ăn máu của yêu linh	
+WannaEat_Item_EarthEssence		Tôi rất muốn ăn tinh dịch của mẹ đất	
+WannaEat_Item_SilverGrit		Tôi rất muốn ăn cát tinh thể lạnh	
+WannaEat_Item_CopperGrit		Tôi rất muốn ăn cát đồng đỏ	
+WannaEat_Item_Cinnabar		Tôi rất muốn ăn bột quỳ	
+WannaEat_Item_LingMuXueJie		Tôi rất muốn ăn nhựa cây linh mộc	
+WannaEat_Item_EarthEssence_1		Tôi rất muốn ăn mỡ tủy	
+WannaEat_Item_EarthEssence1_1		Tôi rất muốn ăn mỡ huyết	
+WannaEat_Item_Healroot		Tôi rất muốn ăn thảo dược	
+WannaEat_Item_Mint		Tôi rất muốn ăn cỏ thanh tâm	
+WannaEat_Item_MagicHerb		Tôi rất muốn ăn cỏ linh tiên	
+WannaEat_Item_Laxative		Tôi rất muốn ăn thuốc thông	
+DoTalkEat_Item_SnakeGallbladder		Tôi đang ăn mật rắn	
+DoTalkEat_Item_BearGallbladder		Tôi đang ăn mật gấu	
+DoTalkEat_Item_RedGinseng		Tôi đang ăn nhân sâm đỏ	
+DoTalkEat_Item_PurpleGanodermaLucidum		Tôi đang ăn nấm tím	
+DoTalkEat_Item_TuEssence		Tôi đang ăn tinh chất vàng	
+DoTalkEat_Item_HuoEssence		Tôi đang ăn quả đỏ	
+DoTalkEat_Item_ShuiEssence		Tôi đang ăn hoa sen năm màu	
+DoTalkEat_Item_JinEssence		Tôi đang ăn quả lang nha	
+DoTalkEat_Item_MuEssence		Tôi đang ăn dây gỗ khô	
+DoTalkEat_Item_LifeStream		Tôi đang ăn suối trường sinh	
+DoTalkEat_Item_LongEgg		Tôi đang ăn trứng của rồng	
+DoTalkEat_Item_FengEgg		Tôi đang ăn trứng của phượng hoàng	
+DoTalkEat_Item_DragonShit		Tôi đang ăn cát thiên long	
+DoTalkEat_Item_Jiaozi		Tôi đang ăn bánh bao	
+DoTalkEat_Item_BossFeng_Meat		Tôi đang ăn thịt và máu của phượng hoàng hung ác	
+DoTalkEat_Item_BossLong_Meat		Tôi đang ăn thịt và máu của rồng	
+DoTalkEat_Item_BossZhuLong_Meat		Tôi đang ăn thịt và máu nguyên thủy	
+DoTalkEat_Item_Cake		Tôi đang ăn bánh mì	
+DoTalkEat_Item_MonsterBlood		Tôi đang ăn máu của yêu linh	
+DoTalkEat_Item_EarthEssence		Tôi đang ăn tinh dịch của mẹ đất	
+DoTalkEat_Item_SilverGrit		Tôi đang ăn cát tinh thể lạnh	
+DoTalkEat_Item_CopperGrit		Tôi đang ăn cát đồng đỏ	
+DoTalkEat_Item_Cinnabar		Tôi đang ăn bột quỳ	
+DoTalkEat_Item_LingMuXueJie		Tôi đang ăn nhựa cây linh mộc	
+DoTalkEat_Item_EarthEssence_1		Tôi đang ăn mỡ tủy	
+DoTalkEat_Item_EarthEssence1_1		Tôi đang ăn mỡ huyết	
+DoTalkEat_Item_Healroot		Tôi đang ăn thảo dược	
+DoTalkEat_Item_Mint		Tôi đang ăn cỏ thanh tâm	
+DoTalkEat_Item_MagicHerb		Tôi đang ăn cỏ linh tiên	
+DoTalkEat_Item_Laxative		Tôi đang ăn thuốc thông	
+CantEat_Item_SnakeGallbladder	Tôi không tìm thấy mật rắn để ăn		
+CantEat_Item_BearGallbladder	Tôi không tìm thấy mật gấu để ăn		
+CantEat_Item_RedGinseng	Tôi không tìm thấy nhân sâm đỏ để ăn		
+CantEat_Item_PurpleGanodermaLucidum	Tôi không tìm thấy nấm linh chi để ăn		
+CantEat_Item_TuEssence	Tôi không tìm thấy hoàng tinh để ăn		
+CantEat_Item_HuoEssence	Tôi không tìm thấy quả đỏ để ăn		
+CantEat_Item_ShuiEssence	Tôi không tìm thấy năm màu để ăn		
+CantEat_Item_JinEssence	Tôi không tìm thấy quả lang gia để ăn		
+CantEat_Item_MuEssence	Tôi không tìm thấy dây gỗ khô để ăn		
+CantEat_Item_LifeStream	Tôi không tìm thấy suối trường sinh để ăn		
+CantEat_Item_LongEgg	Tôi không tìm thấy trứng rồng để ăn		
+CantEat_Item_FengEgg	Tôi không tìm thấy trứng phượng để ăn		
+CantEat_Item_DragonShit	Tôi không tìm thấy cát thiên long để ăn		
+CantEat_Item_Jiaozi	Tôi không tìm thấy bánh bao để ăn		
+CantEat_Item_BossFeng_Meat	Tôi không tìm thấy thịt và máu của phượng dữ để ăn		
+CantEat_Item_BossLong_Meat	Tôi không tìm thấy thịt và máu của rồng để ăn		
+CantEat_Item_BossZhuLong_Meat	Tôi không tìm thấy thịt và máu nguyên thủy để ăn		
+CantEat_Item_Cake	Tôi không tìm thấy bánh mì để ăn		
+CantEat_Item_MonsterBlood	Tôi không tìm thấy máu của yêu linh để ăn		
+CantEat_Item_EarthEssence	Tôi không tìm thấy linh dịch của Địa Mẫu để ăn		
+CantEat_Item_SilverGrit	Tôi không tìm thấy cát tinh lạnh để ăn		
+CantEat_Item_CopperGrit	Tôi không tìm thấy cát đồng hỏa để ăn		
+CantEat_Item_Cinnabar	Tôi không tìm thấy thủy ngân đỏ để ăn		
+CantEat_Item_LingMuXueJie	Tôi không tìm thấy nhựa gỗ linh để ăn		
+CantEat_Item_EarthEssence_1	Tôi không tìm thấy nhựa tinh để ăn		
+CantEat_Item_EarthEssence1_1	Tôi không tìm thấy nhựa huyết để ăn		
+CantEat_Item_Healroot	Tôi không tìm thấy thảo dược để ăn		
+CantEat_Item_Mint	Tôi không tìm thấy cỏ tâm thanh để ăn		
+CantEat_Item_MagicHerb	Tôi không tìm thấy cỏ linh tiên để ăn		
+CantEat_Item_Laxative	Tôi không tìm thấy tán thông xả để ăn		
+Leave1		{0}, hãy chú ý an toàn trên đường	
+Leave2		Trở về sớm nhé, {0}	
+Leave3		Chúc bạn một chuyến đi thuận lợi, {0}	
+Back1		{0}, cuối cùng bạn đã trở về	
+Back2		Chào mừng bạn trở về nhà, {0}	
+Back3		Tôi nhớ bạn quá, {0}	
+NotBack1		{0} sao vẫn chưa trở về	
+NotBack2		{0} đi làm gì vậy	
+NotBack3		Không biết {0} thế nào rồi	
+BackComa1		{0}, bạn có làm sao không	
+BackComa2		{0} cần giúp đỡ	
+BackComa3		{0} cố gắng lên	
+SleepHelp1		{0}, mau chóng khỏe lại nhé	
+SleepHelp2		{0}, mau chóng khỏe lại nhé	
+SleepHelp3		{0}, mau chóng khỏe lại nhé	
+Lacrimosa1			...
+Lacrimosa2			...
+Lacrimosa3			...
+QiGan_FullTalk	Khí linh của tôi đã đạt đến giới hạn		
+NeiDan_FullTalk	Đan dược của tôi đã đạt đến giới hạn		
+HuTi_FullTalk	Bảo hộ của tôi đã đạt đến giới hạn		
+LingZhi_FullTalk	Trí tuệ của tôi đã đạt đến giới hạn		
+ShuFa_FullTalk	Pháp thuật của tôi đã đạt đến giới hạn		
+
+

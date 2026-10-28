@@ -1,85 +1,86 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong2_a5">
-			<DisplayName>Conditioning Chant</DisplayName>
+			<DisplayName>Bách Luyện Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong2_a5_1">
-			<DisplayName>Conditioning Chant</DisplayName>
+			<DisplayName>Bách Luyện Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong2_a5_2">
-			<DisplayName>Conditioning Chant</DisplayName>
+			<DisplayName>Bách Luyện Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong2_a5_4">
-			<DisplayName>Conditioning Chant</DisplayName>
+			<DisplayName>Bách Luyện Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong2_a9">
-			<DisplayName>Natural History Compendium</DisplayName>
+			<DisplayName>Bác Vật Chí</DisplayName>
 		</Text>
 		<Text Name="Gong2_b1">
-			<DisplayName>Purified Energies</DisplayName>
+			<DisplayName>Thượng Thanh Chân Khí</DisplayName>
 		</Text>
 		<Text Name="Gong2_b1_1">
-			<DisplayName>Purified Energies</DisplayName>
+			<DisplayName>Thượng Thanh Chân Khí</DisplayName>
 		</Text>
 		<Text Name="Gong2_b5">
-			<DisplayName>Aura Refinement</DisplayName>
+			<DisplayName>Linh Tẩy Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong2_b9">
-			<DisplayName>Artifact Crafting for Dummies</DisplayName>
+			<DisplayName>Luyện Khí Thập Yếu</DisplayName>
 		</Text>
 		<Text Name="Gong2_b11">
-			<DisplayName>Spirit Stone Refinement</DisplayName>
+			<DisplayName>Linh Thạch Luyện Chế</DisplayName>
 		</Text>
 		<Text Name="Gong2_c0">
-			<DisplayName>Meditation</DisplayName>
+			<DisplayName>Thuật Nhập Định</DisplayName>
 		</Text>
 		<Text Name="Gong2_c1">
-			<DisplayName>Chant of Wood Mastery</DisplayName>
+			<DisplayName>Ngự Mộc Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong2_c2">
-			<DisplayName>Panacea</DisplayName>
+			<DisplayName>Hóa Thương Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong2_c4">
-			<DisplayName>One with Mountain</DisplayName>
+			<DisplayName>Thác Thể Đồng Sơn</DisplayName>
 		</Text>
 		<Text Name="Gong2_c9">
-			<DisplayName>Artisan's Handbook</DisplayName>
+			<DisplayName>Trác Ngọc Sách</DisplayName>
 		</Text>
 		<Text Name="Gong2_d4">
-			<DisplayName>Karmic Fires</DisplayName>
+			<DisplayName>Bính Đinh Lôi Hỏa</DisplayName>
 		</Text>
 		<Text Name="Gong2_d4_1">
-			<DisplayName>One with Fire</DisplayName>
+			<DisplayName>Thần Hỏa Hợp Nhất</DisplayName>
 		</Text>
 		<Text Name="Gong2_d5">
-			<DisplayName>Purified Energies</DisplayName>
+			<DisplayName>Thượng Thanh Chân Diễm</DisplayName>
 		</Text>
 		<Text Name="Gong2_d5_1">
-			<DisplayName>One with Fire</DisplayName>
+			<DisplayName>Thần Hỏa Hợp Nhất</DisplayName>
 		</Text>
 		<Text Name="Gong2_d6">
-			<DisplayName>Mindblast</DisplayName>
+			<DisplayName>Tâm Diễm</DisplayName>
 		</Text>
 		<Text Name="Gong2_d6_1">
-			<DisplayName>One with Fire</DisplayName>
+			<DisplayName>Thần Hỏa Hợp Nhất</DisplayName>
 		</Text>
 		<Text Name="Gong2_d7">
-			<DisplayName>Resilient</DisplayName>
+			<DisplayName>Phạt mao tẩy tủy</DisplayName>
 		</Text>
 		<Text Name="Gong2_d9">
-			<DisplayName>Analysis of Creations</DisplayName>
+			<DisplayName>Tạo Hóa Chân Giải</DisplayName>
 		</Text>
 		<Text Name="Gong2_d9_1">
-			<DisplayName>Heaven-mending Chant</DisplayName>
+			<DisplayName>Nguyên Linh Bổ Thiên Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong2_d11">
-			<DisplayName>Crystal Refinement</DisplayName>
+			<DisplayName>Linh Tinh Luyện Chế</DisplayName>
 		</Text>
 		<Text Name="Gong2_e4">
-			<DisplayName>Eureka Pill</DisplayName>
+			<DisplayName>Thiên Đạo Thần Đan</DisplayName>
 		</Text>
 		<Text Name="Gong2_e8">
-			<DisplayName>Taoist Artifact</DisplayName>
+			<DisplayName>Thiên Đạo Thần Khí</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

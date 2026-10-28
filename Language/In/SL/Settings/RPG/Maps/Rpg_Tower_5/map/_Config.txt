@@ -134,4 +134,5 @@
 /Settings/RPG/Maps/Rpg_Tower_5/map.txt	Skills.SkillDefs.TDamageSkill-567.DisplayName	归真天星神雷	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_5/map.txt	Skills.SkillDefs.TFabaoSkill-85.DisplayName	太上化影神雷	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_5/map.txt	RPGInfo.Objects.2.LuaPostProcessing.Param1	我和我的世界已经死了……	2	
-/Settings/RPG/Maps/Rpg_Tower_5/map.txt	RPGInfo.Objects.2.LuaPostProcessing.Param2	唔？外来者？你是来见证我等的终局么……或是与我们一同走向消亡？	2	
+/Settings/RPG/Maps/Rpg_Tower_5/map.txt	RPGInfo.Objects.2.LuaPostProcessing.Param2	唔？外来者？你是来见证我等的终局么……或是与我们一同走向消亡？	2
+

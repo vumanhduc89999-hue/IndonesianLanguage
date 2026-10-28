@@ -1,175 +1,176 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="LsXuanWu_Carve" sParam="Building">
-			<ThingName>Black Tortoise Statue</ThingName>
-			<Desc>Patung Kura-kura Hitam. Dapat digunakan untuk menghidupkan kembali atau memanggil Kura-kura Hitam.</Desc>
+			<ThingName>Tượng Huyền Vũ</ThingName>
+			<Desc>Tượng Huyền Vũ. Có thể được sử dụng để hồi sinh hoặc triệu hồi Huyền Vũ.</Desc>
 		</Text>
 		<Text Name="ZhenWuCarve" sParam="Building">
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
-			<ThingName>Perfected Warrior Emperor Statue</ThingName>
-			<Desc>Patung suci Kaisar Prajurit Sempurna untuk disembah, dengan kekuatan ilahi yang tidak dapat diganggu gugat dan berkah yang tak terbatas.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+			<ThingName>Tượng Chân Vũ Đại Đế</ThingName>
+			<Desc>Tượng thần Chân Vũ Đại Đế, thần uy như ngục, thần ân như biển, không thể xúc phạm.</Desc>
 		</Text>
 		<Text Name="TurTleMonu" sParam="Building">
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
-			<ThingName>Bixi Memorial Stele</ThingName>
-			<Desc>Legenda mengatakan bahwa ribuan tahun yang lalu, Yu Agung menjinakkan Bixi si Penyu, menggunakannya untuk mengeruk, mengalihkan sungai, dan mengendalikan banjir. Semua kontribusinya dicatat pada prasasti ini.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+			<ThingName>Bia đá Bệ Quy</ThingName>
+			<Desc>Tương truyền thời cổ đại, Đại Vũ đã thu phục Bệ Quy để khai thông sông ngòi, dẫn nước hồ, dẹp yên lũ lụt. Công lao của nó được ghi lại trên bia đá này.</Desc>
 		</Text>
 		<Text Name="IncenseTripod" sParam="Building">
-			<ThingName>Incense Cauldron</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
-			<Desc>Kuali Tao yang digunakan untuk membakar dupa untuk menenangkan saraf.</Desc>
+			<ThingName>Lư hương</ThingName>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+			<Desc>Lư hương của đạo môn dùng để đốt hương tĩnh tâm.</Desc>
 		</Text>
 		<Text Name="DragonIncense" sParam="Building">
-			<ThingName>Dragon Incense</ThingName>
-			<StoryBnts.0.Name>Worship</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah untuk beribadah dengan Dupa Naga.</StoryBnts.0.Desc>
-			<Desc>Sebuah keajaiban di Istana Southrock yang berdiri di atas tebing Pegunungan Wudang. Seseorang harus merangkak untuk mempersembahkan dupa. Satu kesalahan langkah akan menyebabkan jatuhnya gunung.</Desc>
+			<ThingName>Hương Long Đầu</ThingName>
+			<StoryBnts.0.Name>Hành lễ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử thắp hương Long Đầu</StoryBnts.0.Desc>
+			<Desc>Kỳ quan nằm ở cung Nam Nham núi Võ Đang, bên vách đá. Nếu muốn thắp hương, cần dùng cả tay chân, nếu sơ suất có thể ngã xuống vực sâu.</Desc>
 		</Text>
 		<Text Name="RedWallDownLeft" sParam="Building">
-			<ThingName>Curved Red Wall (L)</ThingName>
-			<Desc>Sebuah tembok unik untuk Sekte Wudang. Meski perkasa dan mengesankan, itu tidak bisa digunakan untuk menciptakan ruangan.</Desc>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
+			<ThingName>Góc lớn của tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, tuy rất uy nghi nhưng không thể tạo thành phòng.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="RedWallDownLeft2" sParam="Building">
-			<ThingName>Curved Red Wall (L)</ThingName>
+			<ThingName>Góc lớn của tường đỏ</ThingName>
 		</Text>
 		<Text Name="RedWallUpLeft" sParam="Building">
-			<ThingName>Curved Red Wall (L)</ThingName>
+			<ThingName>Góc lớn của tường đỏ</ThingName>
 		</Text>
 		<Text Name="RedWallUpLeft2" sParam="Building">
-			<ThingName>Curved Red Wall (L)</ThingName>
+			<ThingName>Góc lớn của tường đỏ</ThingName>
 		</Text>
 		<Text Name="RedWallMidUp" sParam="Building">
-			<ThingName>Curved Red Wall (L)</ThingName>
+			<ThingName>Tường đỏ uốn cong (lớn)</ThingName>
 		</Text>
 		<Text Name="RedWallMidUp2" sParam="Building">
-			<ThingName>Curved Red Wall (L)</ThingName>
+			<ThingName>Tường đỏ uốn cong (lớn)</ThingName>
 		</Text>
 		<Text Name="RedWallMidRight" sParam="Building">
-			<ThingName>Curved Red Wall (L)</ThingName>
+			<ThingName>Tường đỏ uốn cong (lớn)</ThingName>
 		</Text>
 		<Text Name="RedWallMidRight2" sParam="Building">
-			<ThingName>Curved Red Wall (L)</ThingName>
+			<ThingName>Tường đỏ uốn cong (lớn)</ThingName>
 		</Text>
 		<Text Name="RedWallVertical" sParam="Building">
-			<ThingName>Red wall mid (L)</ThingName>
+			<ThingName>Đoạn giữa của tường đỏ (lớn)</ThingName>
 		</Text>
 		<Text Name="RedWallVerticalHalf" sParam="Building">
-			<ThingName>Red Wall End (L)</ThingName>
+			<ThingName>Đoạn cuối của tường đỏ (lớn)</ThingName>
 		</Text>
 		<Text Name="RedWallHorizontalHalf" sParam="Building">
-			<ThingName>Red Wall End (L)</ThingName>
+			<ThingName>Đoạn cuối của tường đỏ (lớn)</ThingName>
 		</Text>
 		<Text Name="RedWallHorizontal" sParam="Building">
-			<ThingName>Red Wall (L)</ThingName>
+			<ThingName>Tường đỏ (lớn)</ThingName>
 		</Text>
 		<Text Name="RedWallDownLeftTiny" sParam="Building">
-			<ThingName>Red Wall Small Corner (L)</ThingName>
+			<ThingName>Góc nhỏ tường đỏ (lớn)</ThingName>
 		</Text>
 		<Text Name="RedWallUpLeftTiny" sParam="Building">
-			<ThingName>Red Wall Small Corner (L)</ThingName>
+			<ThingName>Góc nhỏ tường đỏ (lớn)</ThingName>
 		</Text>
 		<Text Name="RedWallGate" sParam="Building">
-			<ThingName>Taoist Pagoda</ThingName>
-			<Desc>Pagoda Tao yang megah dan tampak khidmat.</Desc>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
+			<ThingName>Cổng đạo môn</ThingName>
+			<Desc>Cổng lớn phong cách đạo môn, uy nghi và bề thế.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="RedWallDrum" sParam="Building">
-			<ThingName>Taichi Drum</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
-			<Desc>Struktur dekoratif. Itu dapat mempengaruhi Lima Elemen di sekitarnya berdasarkan materialnya.</Desc>
+			<ThingName>Trống Thái Cực Đạo</ThingName>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+			<Desc>Công trình trang trí, tùy theo vật liệu chế tạo có thể ảnh hưởng đến thuộc tính ngũ hành của khu vực xung quanh.</Desc>
 		</Text>
 		<Text Name="WuDangBigGate" sParam="Building">
-			<ThingName>Wudang Gate</ThingName>
-			<Desc>Gerbang megah Sekte Wudang.</Desc>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
+			<ThingName>Cổng núi Võ Đang</ThingName>
+			<Desc>Cổng chính biểu tượng của phái Võ Đang, uy nghiêm và trang trọng.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangScreen" sParam="Building">
-			<ThingName>Black Phoenix Screen</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
+			<ThingName>Bình phong Huyền Loan</ThingName>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangFlag" sParam="Building">
-			<ThingName>Wudang Banner</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
+			<ThingName>Cờ Võ Đang</ThingName>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangXiangLu" sParam="Building">
-			<ThingName>Dragon Censer</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
+			<ThingName>Long điêu hương lô</ThingName>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangPuTuan" sParam="Building">
-			<ThingName>Trigrams Cushion</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
+			<ThingName>Bồ đoàn Bát Quái</ThingName>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangXianHeDeng" sParam="Building">
-			<ThingName>Gruidae Lantern</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
+			<ThingName>Đèn tiên Linh Hạc</ThingName>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangDivine" sParam="Building">
-			<ThingName>Sacred Nimbus Plate</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
-			<Desc>Sebuah bangunan unik di Pegunungan Wudang yang diukir dengan gelar suci Kaisar Prajurit Sempurna.</Desc>
+			<ThingName>Thẻ Thánh Huyền Thiên Thượng Đế</ThingName>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
+			<Desc>Công trình đặc trưng của núi Võ Đang, trên đó khắc danh hiệu của Huyền Thiên Thượng Đế.</Desc>
 		</Text>
 		<Text Name="WuDangJinDian" sParam="Building">
-			<ThingName>Golden Hall</ThingName>
-			<Desc>Sebuah keajaiban ajaib yang berdiri di puncak gunung Sekte Wudang. Diberkati oleh kekuatan ilahi dari Kaisar Prajurit Sempurna, buku ini berisi rahasia rahasia keterampilan Wudang tertinggi yang dapat dipelajari dan dipraktikkan oleh para penggarap yang cukup beruntung untuk menemukannya.</Desc>
-			<StoryBnts.0.Name>Inspiration</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Renungkan cara surgawi yang tinggal di dalamnya.</StoryBnts.0.Desc>
+			<ThingName>Kim Điện</ThingName>
+			<Desc>Kỳ quan tọa lạc trên đỉnh vàng của phái Võ Đang, được thần uy của Huyền Thiên Thượng Đế bảo hộ, bên trong ẩn chứa bí mật truyền thừa tối cao của Võ Đang, người có duyên đều có thể lĩnh ngộ tu hành.</Desc>
+			<StoryBnts.0.Name>Tham ngộ</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Lĩnh ngộ quy tắc thiên đạo ẩn chứa bên trong</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="WuDangXuanWuDeng" sParam="Building">
-			<ThingName>Black Tortoise Lantern</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
+			<ThingName>Đèn linh Huyền Vũ</ThingName>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ChaShu1" sParam="Building">
-			<ThingName>Cloudpeak Tea Plant</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
+			<ThingName>Cây trà Vân Đỉnh</ThingName>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ChaShu2" sParam="Building">
-			<ThingName>Cloudpeak Tea Plant</ThingName>
+			<ThingName>Cây trà Vân Đỉnh</ThingName>
 		</Text>
 		<Text Name="Building_WuDangSong1" sParam="Building">
-			<ThingName>Wudang Pine Tree</ThingName>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
+			<ThingName>Tùng tiên Võ Đang</ThingName>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_WuDangSong2" sParam="Building">
-			<ThingName>Wudang Pine Tree</ThingName>
+			<ThingName>Tùng tiên Võ Đang</ThingName>
 		</Text>
 		<Text Name="Building_WuDangSong3" sParam="Building">
-			<ThingName>Wudang Pine Tree</ThingName>
+			<ThingName>Tùng tiên Võ Đang</ThingName>
 		</Text>
 		<Text Name="Building_WuDangSong4" sParam="Building">
-			<ThingName>Wudang Pine Tree</ThingName>
+			<ThingName>Tùng tiên Võ Đang</ThingName>
 		</Text>
 		<Text Name="Table_TaiZi" sParam="Building">
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah untuk berinteraksi dengannya dengan Persepsi Anda.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức tiếp xúc vật này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_BigSwordPillar_ZiXiao" sParam="Building">
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah untuk berinteraksi dengannya dengan Persepsi Anda.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức tiếp xúc vật này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_XiaoDanLu1_ZiXiao" sParam="Building">
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah untuk berinteraksi dengannya dengan Persepsi Anda.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức tiếp xúc vật này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Building_ShiBei_ZiXiao" sParam="Building">
-			<StoryBnts.0.Name>Interact</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah untuk berinteraksi dengannya dengan Persepsi Anda.</StoryBnts.0.Desc>
+			<StoryBnts.0.Name>Tiếp xúc</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử dùng thần thức tiếp xúc vật này</StoryBnts.0.Desc>
 		</Text>
 	</List>
 </Texts>
+

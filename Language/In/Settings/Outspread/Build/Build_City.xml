@@ -1,20 +1,21 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Build_Discipline">
-			<DisplayName>Discipline Temple</DisplayName>
-			<Desc>Kuil Disiplin adalah tempat para murid menerima inisiasi dan mengadakan Upacara Pantang. Rakyat jelata juga bisa menontonnya. Membuka kebijakan Disiplin. Tangani kerusuhan sosial dengan memberikan hukuman.</Desc>
+			<DisplayName>Viện Giới Luật</DisplayName>
+			<Desc>Viện Giới Luật là nơi đệ tử thụ giới, người dân bình thường cũng có thể tham quan nghi thức thụ giới. Mở khóa chính sách thụ giới, dùng uy nghiêm để trị an xã hội.</Desc>
 		</Text>
 		<Text Name="Build_Secret">
-			<DisplayName>Secret Pavilion</DisplayName>
-			<Desc>Paviliun Rahasia terletak di atas sudut ruangan, biasanya tidak dapat diakses oleh orang biasa. Membuka kebijakan Merencanakan. Menggoyahkan masyarakat atau lembaga lain melalui skema.</Desc>
+			<DisplayName>Mật Các</DisplayName>
+			<Desc>Mật Các nằm ở một góc nhỏ, thường không mở cửa cho người dân. Mở khóa chính sách mật mưu, dùng âm mưu để làm lung lay trật tự xã hội hoặc các thế lực khác.</Desc>
 		</Text>
 		<Text Name="Build_Sermon">
-			<DisplayName>Divine Temple</DisplayName>
-			<Desc>Ada patung yang dipahat di Kuil Ilahi. Orang-orang dapat memuja patung-patung itu dan menyebarkan agama Anda. Metode dakwah terbuka. Pengaruhi dunia dengan daya tarik sekte kami.</Desc>
+			<DisplayName>Thần Điện</DisplayName>
+			<Desc>Thần Điện được xây dựng với tượng thần, người dân có thể đến trước tượng thần để cầu nguyện, truyền bá đạo pháp. Mở khóa khuynh hướng truyền đạo, dùng sức hút của môn phái để cảm hóa chúng sinh.</Desc>
 		</Text>
 		<Text Name="Build_Recuit">
-			<DisplayName>Spirit Master Hall</DisplayName>
-			<Desc>Aula Master Jiwa digunakan untuk upacara penerimaan. Orang yang tepat dapat bergabung dengan sekte kami di sini. Keterampilan perekrutan tidak terkunci. Digunakan untuk merekrut lebih banyak talenta.</Desc>
+			<DisplayName>Điện Linh Quan</DisplayName>
+			<Desc>Điện Linh Quan được dùng để tổ chức nghi thức nhập giáo, những người có duyên có thể gia nhập môn phái tại đây. Mở khóa kỹ năng chiêu mộ, có thể thu nhận nhân tài.</Desc>
 		</Text>
 	</List>
 </Texts>
+

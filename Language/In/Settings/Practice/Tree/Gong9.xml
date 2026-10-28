@@ -1,130 +1,131 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong9_a0">
-			<DisplayName>Chant of Wood Mastery</DisplayName>
+			<DisplayName>Ngự Mộc Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong9_a0_1">
-			<DisplayName>Botanic Revitalization</DisplayName>
+			<DisplayName>Vạn Mộc Hồi Xuân</DisplayName>
 		</Text>
 		<Text Name="Gong9_a1">
-			<DisplayName>Incantation of Mind Cleansing</DisplayName>
+			<DisplayName>Thanh Tâm Chú</DisplayName>
 		</Text>
 		<Text Name="Gong9_a2">
-			<DisplayName>Soul Mastery</DisplayName>
+			<DisplayName>Ngự Linh Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong9_a5">
-			<DisplayName>Tri Vision</DisplayName>
+			<DisplayName>Tam Thế Động Chân</DisplayName>
 		</Text>
 		<Text Name="Gong9_a9">
-			<DisplayName>Earthen Absorption</DisplayName>
+			<DisplayName>Dưỡng Thân Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong9_b2">
-			<DisplayName>Third Eye Incarnate</DisplayName>
+			<DisplayName>Luân Hồi Tâm Nhãn</DisplayName>
 		</Text>
 		<Text Name="Gong9_b3">
-			<DisplayName>Innate Qi</DisplayName>
+			<DisplayName>Tiên Thiên Cương Khí</DisplayName>
 		</Text>
 		<Text Name="Gong9_b5">
-			<DisplayName>Mortality Records</DisplayName>
+			<DisplayName>Sinh Tử Lục</DisplayName>
 		</Text>
 		<Text Name="Gong9_b6">
-			<DisplayName>Incantation of Consonance</DisplayName>
+			<DisplayName>Linh Tê Chú</DisplayName>
 		</Text>
 		<Text Name="Gong9_b8">
-			<DisplayName>Unity Chant</DisplayName>
+			<DisplayName>Thông Tức Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong9_b9">
-			<DisplayName>Records of Coexistence</DisplayName>
+			<DisplayName>Hợp Vật Chí</DisplayName>
 		</Text>
 		<Text Name="Gong9_c0">
-			<DisplayName>Toxic Miasma</DisplayName>
+			<DisplayName>Độc Chướng Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong9_c1">
-			<DisplayName>Reverie Rebirth</DisplayName>
+			<DisplayName>Huyền Tẫn Trọng Sinh</DisplayName>
 		</Text>
 		<Text Name="Gong9_c1_1">
-			<DisplayName>Nirvana Pill</DisplayName>
+			<DisplayName>Lục Đạo Luân Hồi Đan</DisplayName>
 		</Text>
 		<Text Name="Gong9_c3">
-			<DisplayName>Qi Absorption of Tripod Cauldron</DisplayName>
+			<DisplayName>Đỉnh Lô Hấp Chân</DisplayName>
 		</Text>
 		<Text Name="Gong9_c3_1">
-			<DisplayName>Alleviation of Singularity</DisplayName>
+			<DisplayName>Nguyên Ương Quy Tức Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong9_c4">
-			<DisplayName>Way of the Reaper</DisplayName>
+			<DisplayName>Minh Linh Chân Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong9_c5">
-			<DisplayName>Doctrine of Reincarnation</DisplayName>
+			<DisplayName>Luân Hồi Kinh</DisplayName>
 		</Text>
 		<Text Name="Gong9_c6">
-			<DisplayName>Lesser Possession</DisplayName>
+			<DisplayName>Âm Thần Đoạt Xá</DisplayName>
 		</Text>
 		<Text Name="Gong9_c7">
-			<DisplayName>Reincarnated Form</DisplayName>
+			<DisplayName>Thân Thể Luân Hồi</DisplayName>
 		</Text>
 		<Text Name="Gong9_c9">
-			<DisplayName>Genetic Transfiguration</DisplayName>
+			<DisplayName>Thai Hóa Dễ Hình</DisplayName>
 		</Text>
 		<Text Name="Gong9_c10">
-			<DisplayName>Doctrine of Interception</DisplayName>
+			<DisplayName>Thần Tiệt Kinh</DisplayName>
 		</Text>
 		<Text Name="Gong9_d0">
-			<DisplayName>Perceptive</DisplayName>
+			<DisplayName>Khai thiên nhãn.</DisplayName>
 		</Text>
 		<Text Name="Gong9_d1">
-			<DisplayName>Reconstruction</DisplayName>
+			<DisplayName>Tái Tạo Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong9_d2">
-			<DisplayName>Derivative Calculation</DisplayName>
+			<DisplayName>Đại Diễn Thần Toán</DisplayName>
 		</Text>
 		<Text Name="Gong9_d5">
-			<DisplayName>Reincarnated Psyche</DisplayName>
+			<DisplayName>Tâm Luân Hồi</DisplayName>
 		</Text>
 		<Text Name="Gong9_d5_1">
-			<DisplayName>Enlightened Spirit</DisplayName>
+			<DisplayName>Bất Muội Chân Linh</DisplayName>
 		</Text>
 		<Text Name="Gong9_d6">
-			<DisplayName>Yang God Possession</DisplayName>
+			<DisplayName>Dương Thần Đoạt Xá</DisplayName>
 		</Text>
 		<Text Name="Gong9_d7">
-			<DisplayName>Reversa Cycle</DisplayName>
+			<DisplayName>Nghịch Chuyển Luân Hồi</DisplayName>
 		</Text>
 		<Text Name="Gong9_d7_1">
-			<DisplayName>Reversa Cycle - Secret</DisplayName>
+			<DisplayName>Nghịch Chuyển Luân Hồi·Bí</DisplayName>
 		</Text>
 		<Text Name="Gong9_d9">
-			<DisplayName>Hallowed Form</DisplayName>
+			<DisplayName>Thiên Nhân Chi Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d9_1">
-			<DisplayName>Hallowed Form</DisplayName>
+			<DisplayName>Thiên Nhân Chi Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d9_2">
-			<DisplayName>Hallowed Form</DisplayName>
+			<DisplayName>Thiên Nhân Chi Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d10">
-			<DisplayName>True Form</DisplayName>
+			<DisplayName>Chân Ngô Chi Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d10_1">
-			<DisplayName>True Form</DisplayName>
+			<DisplayName>Chân Ngô Chi Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d10_2">
-			<DisplayName>True Form</DisplayName>
+			<DisplayName>Chân Ngô Chi Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d11">
-			<DisplayName>Supreme Form</DisplayName>
+			<DisplayName>Tu La Chi Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d11_1">
-			<DisplayName>Supreme Form</DisplayName>
+			<DisplayName>Tu La Chi Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_d11_2">
-			<DisplayName>Supreme Form</DisplayName>
+			<DisplayName>Tu La Chi Thể</DisplayName>
 		</Text>
 		<Text Name="Gong9_e4">
-			<DisplayName>Eureka Pill</DisplayName>
+			<DisplayName>Thiên Đạo Thần Đan</DisplayName>
 		</Text>
 		<Text Name="Gong9_e8">
-			<DisplayName>Taoist Artifact</DisplayName>
+			<DisplayName>Thiên Đạo Thần Khí</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

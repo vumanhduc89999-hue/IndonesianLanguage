@@ -1,70 +1,71 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Modifier_Tower_Enemy_achai">
-			<DisplayName>Shiba Shapeshift</DisplayName>
+			<DisplayName>A Sài Biến Thân</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Cat">
-			<DisplayName>Find cat</DisplayName>
+			<DisplayName>Miêu Mễ Định Vị</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Xian">
-			<DisplayName>Condensation Force</DisplayName>
+			<DisplayName>Trầm Điến Chi Lực</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Ti">
-			<DisplayName>Condensation Force</DisplayName>
+			<DisplayName>Trầm Điến Chi Lực</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Yao">
-			<DisplayName>Condensation Force</DisplayName>
+			<DisplayName>Trầm Điến Chi Lực</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Boss_Root">
-			<DisplayName>Condensation Force</DisplayName>
+			<DisplayName>Trầm Điến Chi Lực</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Enemy_Boss_Part">
-			<DisplayName>Condensation Force</DisplayName>
+			<DisplayName>Trầm Điến Chi Lực</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_ChaoXiQi">
-			<DisplayName>Rising Tide</DisplayName>
+			<DisplayName>Khởi Triều Tịch</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_ChaoXi0">
-			<DisplayName>Flat Tide</DisplayName>
+			<DisplayName>Bình Triều Tịch</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_ChaoXiLuo">
-			<DisplayName>Falling Tide</DisplayName>
+			<DisplayName>Lạc Triều Tịch</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_KuRongOur">
-			<DisplayName>Dilapidation</DisplayName>
+			<DisplayName>Khô</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_KuRongEnm">
-			<DisplayName>Prosperity</DisplayName>
+			<DisplayName>Vinh</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_WuZhi">
-			<DisplayName>Cage of Truth</DisplayName>
+			<DisplayName>Khốn cảnh chân lý</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_XinNian0">
-			<DisplayName>Conviction of Faith</DisplayName>
+			<DisplayName>Tín Niệm Áp Chế</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_XinNian1">
-			<DisplayName>Faith Enhance</DisplayName>
+			<DisplayName>Tín Đồ Tăng Cường</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown1">
-			<DisplayName>Mighty Creed</DisplayName>
+			<DisplayName>Đạo Cảnh Uy Áp</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown2">
-			<DisplayName>Mighty Menace</DisplayName>
+			<DisplayName>Hung Niệm Uy Áp</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown3">
-			<DisplayName>Tender Land</DisplayName>
+			<DisplayName>Ôn Nhu Hương</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown4">
-			<DisplayName>King's Ban</DisplayName>
+			<DisplayName>Tôn Vương Cấm Lệnh</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown5">
-			<DisplayName>Mind Terror</DisplayName>
+			<DisplayName>Tinh Thần Uy Nhiếp</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown6">
-			<DisplayName>Greed Breath</DisplayName>
+			<DisplayName>Tham Lam Chi Tức</DisplayName>
 		</Text>
 		<Text Name="Modifier_Tower_Powerdown7">
-			<DisplayName>Bottle Forbidden</DisplayName>
+			<DisplayName>Bình Chi Cấm</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,162 +1,163 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Sys_Lost">
-			<DisplayName>Empty</DisplayName>
+			<DisplayName>Mô-đun bị mất</DisplayName>
 		</Text>
 		<Text Name="zhuxianzhen">
-			<DisplayName>Ragestriker Formation</DisplayName>
-			<Description>Sejak dahulu kala, ini adalah formasi dengan kekuatan ofensif terbesar. Saat dikerahkan, itu akan berubah menjadi empat gerbang spanduk, masing-masing dengan pedang tergantung di atasnya, mengelilingi seluruh pusatnya. Setelah diaktifkan dengan roh primordial, keempat pedang akan bergetar, dan formasi segera diisi dengan Pedang Aura. Bahkan makhluk abadi sejati pun akan kesulitan untuk bertahan hidup.</Description>
-			<NodeName.0>Ragestriker Plan</NodeName.0>
-			<NodeName.1>Ragestriker</NodeName.1>
-			<NodeName.2>Deathbringer</NodeName.2>
-			<NodeName.3>Endless Fury</NodeName.3>
-			<NodeName.4>Wrathbringer</NodeName.4>
-			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Stability</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Artifact Mastery Ability Enhanced</SuitEffect.2.Description>
-			<SuitEffect.3.Description>New Skill: Ragestriker</SuitEffect.3.Description>
+			<DisplayName>Trận pháp Tru Tiên</DisplayName>
+			<Description>Trận sát đầu tiên từ khi Vũ Trụ Khai Tịch, trận đồ triển khai hóa thành bốn cổng cờ, trên mỗi cổng treo một thanh kiếm, bao quanh trung tâm. Dưới sự thúc đẩy của nguyên linh, bốn kiếm cùng lúc rung động, trận trung kiếm khí tung hoành, ngay cả vạn kiếp chân tiên cũng khó tồn tại.</Description>
+			<NodeName.0>Tru Tiên Trận Đồ</NodeName.0>
+			<NodeName.1>Tru Tiên Kiếm</NodeName.1>
+			<NodeName.2>Lục Tiên Kiếm</NodeName.2>
+			<NodeName.3>Hãm Tiên Kiếm</NodeName.3>
+			<NodeName.4>Tuyệt Tiên Kiếm</NodeName.4>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Độ ổn định</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng điều khiển tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Kỹ năng mới: Tru Tiên</SuitEffect.3.Description>
 		</Text>
 		<Text Name="qixingzhen">
-			<DisplayName>Conqueror's Formation</DisplayName>
-			<Description>Sebuah formasi abadi yang dikatakan telah diturunkan dari Prajurit Sempurna Pengusir Kejahatan dari Surga Surgawi Kesembilan. Ia dapat mengarahkan kekuatan tujuh bintang untuk membentuk cahaya ilahi Kesendirian Grand Chariot, kekuatan yang mampu melenyapkan segala kejahatan.</Description>
-			<NodeName.0>Ursae Megrez Claw</NodeName.0>
-			<NodeName.1>Ursae Dubhe Claw</NodeName.1>
-			<NodeName.2>Ursae Merak Claw</NodeName.2>
-			<NodeName.3>Ursae Phecda Claw</NodeName.3>
-			<NodeName.4>Ursae Alioth Claw</NodeName.4>
-			<NodeName.5>Ursae Mizar Claw</NodeName.5>
-			<NodeName.6>Ursae Elkeid Claw</NodeName.6>
-			<SuitEffect.0.Description>Spell Ability Enhanced</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Stability Enhanced</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Operation Ability Enhanced</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Spell Ability Enhanced</SuitEffect.3.Description>
-			<SuitEffect.4.Description>New Skill: Battle Aloofness</SuitEffect.4.Description>
+			<DisplayName>Bắc Đẩu Chân Võ Sát Ma Đại Trận</DisplayName>
+			<Description>Truyền thuyết rằng đây là tiên trận truyền từ Chân Võ Đãng Ma Đại Đế của Cửu Trùng Thiên Tiên Cảnh, trận này có thể dẫn lực lượng của Thất Tinh Tinh Tú ngưng tụ Bắc Đẩu Phá Vọng Thần Quang, sát ma diệt yêu, vạn tà tránh xa.</Description>
+			<NodeName.0>Thiên Quyền Kiếm</NodeName.0>
+			<NodeName.1>Thiên Xu Kiếm</NodeName.1>
+			<NodeName.2>Thiên Xuyên Kiếm</NodeName.2>
+			<NodeName.3>Thiên Cơ Kiếm</NodeName.3>
+			<NodeName.4>Ngọc Hành Kiếm</NodeName.4>
+			<NodeName.5>Khai Dương Kiếm</NodeName.5>
+			<NodeName.6>Dao Quang Kiếm</NodeName.6>
+			<SuitEffect.0.Description>Khả năng thuật pháp tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Độ ổn định tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng vận hành tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Khả năng thuật pháp tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Kỹ năng mới: Bắc Đẩu Phá Vọng</SuitEffect.4.Description>
 		</Text>
 		<Text Name="wufangbumiezhen">
-			<DisplayName>Impregnable Formation</DisplayName>
-			<Description>Sebuah formasi besar berdasarkan pada lima Panji Besar yang telah ada sejak awal mula waktu. Panji utara disebut sebagai Hering Hitam, panji selatan sebagai Api Melonjak, panji tengah sebagai Aprikot Kuning, panji barat sebagai Awan Putih, dan panji timur sebagai Teratai Hijau. Kombinasi Lima Elemen membentuk Domain Keluasan, yang tidak dapat diserbu meskipun hukum alam berubah.</Description>
-			<NodeName.0>Impregnable Formation</NodeName.0>
-			<NodeName.1>White Cloud Banner</NodeName.1>
-			<NodeName.2>Green Lotus Banner</NodeName.2>
-			<NodeName.3>Black Vulture Banner</NodeName.3>
-			<NodeName.4>Soaring Flame Banner</NodeName.4>
-			<NodeName.5>Yellow Apricot Banner</NodeName.5>
-			<SuitEffect.0.Description>Protection Ability Enhanced</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Stability Enhanced</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
-			<SuitEffect.3.Description>New Skill: Domain of Vastness</SuitEffect.3.Description>
+			<DisplayName>Thiên Địa Ngũ Phương Bất Diệt Trận</DisplayName>
+			<Description>Đại trận được bố trí dựa trên năm cờ sinh ra từ khai thiên lập địa, phía bắc là Chân Võ Tạc Điêu, phía nam là Ly Địa Diễm Quang, chính giữa là Mậu Kỷ Hạnh Hoàng, phía tây là Tố Sắc Vân Giới, phía đông là Thanh Liên Bảo Sắc. Ngũ hành hội tụ có thể bố trí Thiên Địa Ngũ Phương Bất Diệt Giới, vạn pháp tránh xa, không gì có thể xâm nhập.</Description>
+			<NodeName.0>Thiên Địa Ngũ Phương Bất Diệt Trận Đồ</NodeName.0>
+			<NodeName.1>Tố Sắc Vân Giới Kỳ</NodeName.1>
+			<NodeName.2>Thanh Liên Bảo Sắc Kỳ</NodeName.2>
+			<NodeName.3>Tiềm Mặc Minh Tức</NodeName.3>
+			<NodeName.4>Ly Địa Diễm Quang Kỳ</NodeName.4>
+			<NodeName.5>Mậu Kỷ Hạnh Hoàng Kỳ</NodeName.5>
+			<SuitEffect.0.Description>Khả năng phòng ngự tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Độ ổn định tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Kỹ năng mới: Ngũ Phương Bất Diệt Giới</SuitEffect.3.Description>
 		</Text>
 		<Text Name="liuyuzhen">
-			<DisplayName>Divine Law Formation</DisplayName>
-			<Description>Pembentukan seremonial Pengadilan Surgawi. Saat membentuk formasi ini, formasi ini akan membuka tempat tinggal murni enam dewa di Dunia Langit, mengubah Alam Fana menjadi surga, memberikan keharmonisan spiritual bagi manusia.</Description>
-			<NodeName.0>Jade Emperor Formation</NodeName.0>
-			<NodeName.1>Emperor of Polaris Formation</NodeName.1>
-			<NodeName.2>Emperor of North Star Formation</NodeName.2>
-			<NodeName.3>Primordial Unity Formation</NodeName.3>
-			<NodeName.4>Divine Longevity Formation</NodeName.4>
-			<NodeName.5>Emperor of Earth Formation</NodeName.5>
-			<SuitEffect.0.Description>Stability Enhanced</SuitEffect.0.Description>
-			<SuitEffect.1.Description>New Skill: Domain of Heavenly Serenity</SuitEffect.1.Description>
+			<DisplayName>Chư Thiên Lục Ngự Hành Pháp Nghi Quỹ</DisplayName>
+			<Description>Nghi quy Hành Pháp Lục Ngự Thiên Đình, tạo trận này có thể triển khai Thắng Cảnh Thanh Linh Lục Ngự Chư Thiên, biến phàm gian thành tiên cảnh, giúp tâm thần con người sáng suốt không u sầu.</Description>
+			<NodeName.0>Huyền Cùng Hạo Thiên Ngọc Hoàng Nghi Quy</NodeName.0>
+			<NodeName.1>Câu Trần Thượng Cung Thiên Hoàng Nghi Quy</NodeName.1>
+			<NodeName.2>Bắc Cực Tử Vi Thái Hoàng Nghi Quy</NodeName.2>
+			<NodeName.3>Đông Cực Thái Ất Cứu Khổ Nghi Quy</NodeName.3>
+			<NodeName.4>Thần Tiêu Ngọc Thanh Trường Sinh Nghi Quy</NodeName.4>
+			<NodeName.5>Thừa Thiên Hiệu Pháp Hậu Thổ Nghi Quy</NodeName.5>
+			<SuitEffect.0.Description>Độ ổn định tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Kỹ năng mới: Thắng Cảnh Thanh Linh Lục Ngự Chư Thiên</SuitEffect.1.Description>
 		</Text>
 		<Text Name="longxingzhen">
-			<DisplayName>Dragonrider Formation</DisplayName>
-			<Description>Formasi menakjubkan yang memanfaatkan tubuh Naga Banjir sebagai fondasinya. Dikatakan sebagai formasi pengendali naga. Saat digunakan, seseorang dapat memanfaatkan kekuatan jiwa naga untuk melakukan keajaiban.</Description>
-			<NodeName.0>Dragon's Forbidden Scale</NodeName.0>
-			<NodeName.1>Dragon's Horn</NodeName.1>
-			<NodeName.2>Dragon's Horn</NodeName.2>
-			<NodeName.3>Dragon's Claw</NodeName.3>
-			<NodeName.4>Dragon's Claw</NodeName.4>
-			<NodeName.5>Dragon's Scale</NodeName.5>
-			<NodeName.6>Dragon's Claw</NodeName.6>
-			<NodeName.7>Dragon's Claw</NodeName.7>
-			<NodeName.8>Dragon's Tail</NodeName.8>
-			<SuitEffect.0.Description>New Skill: Heavenspell of Dragon</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
-			<SuitEffect.2.Description>New Skill: Divinity Obliteration</SuitEffect.2.Description>
+			<DisplayName>Cửu Ngự Phú Long Hình Trận</DisplayName>
+			<Description>Một trận pháp kỳ lạ được bố trí dựa trên thân thể của giao long, tương truyền đây là trận pháp Ngự Long, khi bày trận có thể mượn sức mạnh của long hồn để thi triển những thần thông trận pháp vô cùng mạnh mẽ.</Description>
+			<NodeName.0>Nghịch Lân Long</NodeName.0>
+			<NodeName.1>Giác Long</NodeName.1>
+			<NodeName.2>Giác Long</NodeName.2>
+			<NodeName.3>Long trảo</NodeName.3>
+			<NodeName.4>Long trảo</NodeName.4>
+			<NodeName.5>Lân Long</NodeName.5>
+			<NodeName.6>Long trảo</NodeName.6>
+			<NodeName.7>Long trảo</NodeName.7>
+			<NodeName.8>Long chi nhận vĩ</NodeName.8>
+			<SuitEffect.0.Description>Kỹ năng mới: Long Ngâm Thần Chú</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Kỹ năng mới: Long Hồn Thần Liệt Pháp</SuitEffect.2.Description>
 		</Text>
 		<Text Name="fengjianzhen">
-			<DisplayName>Phoenix Sword Formation</DisplayName>
-			<Description>Formasi menakjubkan yang memanfaatkan tubuh Phoenix sebagai fondasinya. Dikatakan sebagai formasi pengendali burung phoenix. Saat digunakan, seseorang dapat memanfaatkan kekuatan jiwa phoenix untuk melakukan keajaiban.</Description>
-			<NodeName.0>Fire Jade</NodeName.0>
-			<NodeName.1>Oblivion Feather</NodeName.1>
-			<NodeName.2>Mantle Feather</NodeName.2>
-			<NodeName.3>Ethereal Bone</NodeName.3>
-			<NodeName.4>Blazing Feather</NodeName.4>
-			<NodeName.5>Blazing Feather</NodeName.5>
-			<NodeName.6>Ethereal Bone</NodeName.6>
-			<NodeName.7>Blazing Feather</NodeName.7>
-			<NodeName.8>Blazing Feather</NodeName.8>
-			<SuitEffect.0.Description>New Skill: Divine Sword of Phoenix</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Artifact Mastery Ability Enhanced</SuitEffect.1.Description>
-			<SuitEffect.2.Description>New Skill: Nirvana</SuitEffect.2.Description>
+			<DisplayName>Chân Phượng Vũ Kiếm Trận</DisplayName>
+			<Description>Một trận pháp kỳ lạ được bố trí dựa trên thân thể của hung phượng, tương truyền đây là trận pháp Ngự Phượng, khi bày trận có thể mượn sức mạnh của phượng hồn để thi triển những thần thông trận pháp vô cùng mạnh mẽ.</Description>
+			<NodeName.0>Ngọc Chân Diễm</NodeName.0>
+			<NodeName.1>Vũ Tận Diệt</NodeName.1>
+			<NodeName.2>Vũ Tị Thiên</NodeName.2>
+			<NodeName.3>Cốt Huyền Không</NodeName.3>
+			<NodeName.4>Vũ Xích Liệt</NodeName.4>
+			<NodeName.5>Vũ Xích Liệt</NodeName.5>
+			<NodeName.6>Cốt Huyền Không</NodeName.6>
+			<NodeName.7>Vũ Xích Liệt</NodeName.7>
+			<NodeName.8>Vũ Xích Liệt</NodeName.8>
+			<SuitEffect.0.Description>Kỹ năng mới: Phượng Ngự Thần Kiếm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng điều khiển tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Kỹ năng mới: Niết Bàn</SuitEffect.2.Description>
 		</Text>
 		<Text Name="yinyangzhen">
-			<DisplayName>Yin Yang Formation</DisplayName>
-			<Description>Sebuah formasi yang mengambil inspirasi dari aliran energi antara Langit dan Bumi. Dikatakan bahwa formasi ini digunakan sesuai dengan hukum Yin dan Yang. Memanfaatkan transformasi Yin dan Yang, formasi menjadi sangat fleksibel.</Description>
-			<NodeName.0>Chaotic Creed of Heaven</NodeName.0>
-			<NodeName.1>Law of Yin</NodeName.1>
-			<NodeName.2>Law of Yang</NodeName.2>
-			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
-			<SuitEffect.2.Description>Protection Ability Enhanced</SuitEffect.2.Description>
-			<SuitEffect.3.Description>Operation Ability Enhanced</SuitEffect.3.Description>
-			<SuitEffect.4.Description>Formation Efficiency Increased</SuitEffect.4.Description>
+			<DisplayName>Âm Dương Nhị Hành Thần Trận</DisplayName>
+			<Description>Một trận pháp được tổng kết từ sự luân chuyển của âm dương trong trời đất, tương truyền trận pháp này vận dụng đạo lý âm dương để bố trí, âm dương chuyển hóa, vô cùng linh hoạt.</Description>
+			<NodeName.0>Thiên Đạo Hỗn Độn Âm Dương</NodeName.0>
+			<NodeName.1>Âm Luật Thiên Đạo</NodeName.1>
+			<NodeName.2>Dương Luật Thiên Đạo</NodeName.2>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Khả năng phòng ngự tăng thêm</SuitEffect.2.Description>
+			<SuitEffect.3.Description>Khả năng vận hành tăng thêm</SuitEffect.3.Description>
+			<SuitEffect.4.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.4.Description>
 		</Text>
 		<Text Name="sanyinzhen">
-			<DisplayName>Dark Force Formation</DisplayName>
-			<Description>Suatu formasi yang digunakan dengan memanfaatkan gagasan Tiga Talenta: Langit, Bumi dan Kemanusiaan. Dikatakan mampu memusatkan semua energi Yin murni di dunia, yang sangat meningkatkan kekuatan Anda.</Description>
-			<NodeName.0>Yin Force of Heaven</NodeName.0>
-			<NodeName.1>Yin Force of Earth</NodeName.1>
-			<NodeName.2>Yin Force of Human</NodeName.2>
-			<SuitEffect.0.Description>Formation Efficiency Increased</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Spell Ability Enhanced</SuitEffect.1.Description>
+			<DisplayName>Tam Âm Tam Tuyệt Trận</DisplayName>
+			<Description>Một trận pháp được bố trí dựa trên ý nghĩa thuần âm của thiên, địa, nhân tam tài, tương truyền trận pháp này có thể tụ hợp thuần âm chi lực trong thiên hạ, nhờ đó mà uy lực đại tăng.</Description>
+			<NodeName.0>Tuyệt Đạo Thiên Âm</NodeName.0>
+			<NodeName.1>Tuyệt Mệnh Địa Âm</NodeName.1>
+			<NodeName.2>Tuyệt Vận Nhân Âm</NodeName.2>
+			<SuitEffect.0.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng thuật pháp tăng thêm</SuitEffect.1.Description>
 		</Text>
 		<Text Name="bamen_ji">
-			<DisplayName>Abyssal Sword Formation: Auspicious</DisplayName>
-			<Description>Dikatakan sebagai formasi yang digunakan sesuai dengan aturan Gerbang Delapan Trigram. Meningkatkan kemampuan perlindungan formasi dengan memanfaatkan Gerbang Kehidupan.</Description>
-			<NodeName.0>Openness</NodeName.0>
-			<NodeName.1>Rest</NodeName.1>
-			<NodeName.2>Life</NodeName.2>
-			<SuitEffect.0.Description>Formation Efficiency Increased</SuitEffect.0.Description>
+			<DisplayName>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận·Cát Tường</DisplayName>
+			<Description>Nghe nói trận này dựa vào lý của tám môn mà thành trận, môn Sinh tương ứng, có thể nâng cao lực phòng ngự của trận pháp.</Description>
+			<NodeName.0>Bật</NodeName.0>
+			<NodeName.1>Hưu</NodeName.1>
+			<NodeName.2>Sinh</NodeName.2>
+			<SuitEffect.0.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.0.Description>
 		</Text>
 		<Text Name="bamen_xiong">
-			<DisplayName>Abyssal Sword Formation: Ominous</DisplayName>
-			<Description>Dikatakan sebagai formasi yang digunakan sesuai dengan aturan Gerbang Delapan Trigram. Meningkatkan kemampuan penguasaan artefak formasi dengan memanfaatkan Gerbang Kematian.</Description>
-			<NodeName.0>Death</NodeName.0>
-			<NodeName.1>Menace</NodeName.1>
-			<NodeName.2>Damage</NodeName.2>
-			<SuitEffect.0.Description>Artifact Mastery Ability Enhanced</SuitEffect.0.Description>
+			<DisplayName>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận·Hung Kiếp</DisplayName>
+			<Description>Nghe nói trận này dựa vào lý của tám môn mà thành trận, môn Tử tương ứng, có thể nâng cao lực phòng ngự của khí cụ.</Description>
+			<NodeName.0>Tử</NodeName.0>
+			<NodeName.1>Kinh</NodeName.1>
+			<NodeName.2>Thương</NodeName.2>
+			<SuitEffect.0.Description>Khả năng điều khiển tăng thêm</SuitEffect.0.Description>
 		</Text>
 		<Text Name="bamen_zhong">
-			<DisplayName>Abyssal Sword Formation: Central</DisplayName>
-			<Description>Dikatakan sebagai formasi yang digunakan sesuai aturan Gerbang Delapan Trigram, membuat formasi tersebut lebih kompak.</Description>
-			<NodeName.0>Seclusion</NodeName.0>
-			<NodeName.1>Beauty</NodeName.1>
-			<SuitEffect.0.Description>Stability Enhanced</SuitEffect.0.Description>
+			<DisplayName>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận·Trung Bình</DisplayName>
+			<Description>Nghe nói trận này dựa vào lý của tám môn mà thành trận, môn Trung tương ứng, có thể khiến trận pháp ngưng luyện.</Description>
+			<NodeName.0>Đỗ</NodeName.0>
+			<NodeName.1>Cảnh</NodeName.1>
+			<SuitEffect.0.Description>Độ ổn định tăng thêm</SuitEffect.0.Description>
 		</Text>
 		<Text Name="jiayimushenzhen">
-			<DisplayName>Wood Spirit Formation</DisplayName>
-			<Description>Dibentuk dengan memusatkan esensi Roh Kayu Timur Purba, dikatakan sebagai formasi yang mampu membangkitkan Qi vitalitas Langit dan Bumi, meremajakan semua makhluk hidup.</Description>
-			<NodeName.0>Spirit Tree Crown</NodeName.0>
-			<NodeName.1>Spirit Tree Branch</NodeName.1>
-			<NodeName.2>Spirit Tree Leaf</NodeName.2>
-			<NodeName.3>Spirit Tree Trunk</NodeName.3>
-			<NodeName.4>Spirit Tree Root</NodeName.4>
-			<SuitEffect.0.Description>Formation Efficiency Increased</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Operation Ability Enhanced</SuitEffect.1.Description>
-			<SuitEffect.2.Description>New Skill: Domain of Wood Essence</SuitEffect.2.Description>
+			<DisplayName>Tiên Thiên Giáp Ất Mộc Thần Trận</DisplayName>
+			<Description>Tụ tập nguyên tinh Tiên Thiên Giáp Ất Mộc thành trận, truyền thuyết rằng trận này có thể đánh thức khí sinh phát trong trời đất, hồi sinh vạn vật.</Description>
+			<NodeName.0>Thân Mộc Chi Quán</NodeName.0>
+			<NodeName.1>Thân Mộc Chi Chi</NodeName.1>
+			<NodeName.2>Thân Mộc Chi Diệp</NodeName.2>
+			<NodeName.3>Thân Mộc Chi Cán</NodeName.3>
+			<NodeName.4>Thân Mộc Chi Căn</NodeName.4>
+			<SuitEffect.0.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Khả năng vận hành tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Kỹ năng mới: Tiên Thiên Mộc Linh Giới</SuitEffect.2.Description>
 		</Text>
 		<Text Name="wuyuezhen">
-			<DisplayName>Convergence Formation</DisplayName>
-			<Description>Sebuah formasi yang dibentuk oleh esensi spiritual dari Lima Puncak. Saat digunakan, itu akan menampilkan bentuk Lima Puncak untuk menangkal suatu lokasi, menjadikannya tidak bisa dihancurkan.</Description>
-			<NodeName.0>Shape of Emerald Peak</NodeName.0>
-			<NodeName.1>Shape of Precipice</NodeName.1>
-			<NodeName.2>Shape of Plain Isle</NodeName.2>
-			<NodeName.3>Shape of Sanctuary</NodeName.3>
-			<NodeName.4>Shape of Paradise</NodeName.4>
-			<SuitEffect.0.Description>Protection Ability Enhanced</SuitEffect.0.Description>
-			<SuitEffect.1.Description>Formation Efficiency Increased</SuitEffect.1.Description>
-			<SuitEffect.2.Description>New Skill: Domain of Five Peaks</SuitEffect.2.Description>
+			<DisplayName>Ngũ Phong Trấn Quy Hư</DisplayName>
+			<Description>Dùng thần tủy của Quy Hư Ngũ Thần Phong để tạo trận, truyền thuyết rằng trận này có thể dùng hình dạng ngũ phong để trấn giữ một phương, kiên cố không thể phá.</Description>
+			<NodeName.0>Hình Đái Dư</NodeName.0>
+			<NodeName.1>Hình Viên Khiếu</NodeName.1>
+			<NodeName.2>Hình Phương Hồ</NodeName.2>
+			<NodeName.3>Hình Doanh Châu</NodeName.3>
+			<NodeName.4>Hình Bồng Lai</NodeName.4>
+			<SuitEffect.0.Description>Khả năng phòng ngự tăng thêm</SuitEffect.0.Description>
+			<SuitEffect.1.Description>Hiệu suất trận pháp tăng thêm</SuitEffect.1.Description>
+			<SuitEffect.2.Description>Kỹ năng mới: Ngũ Phong Ngự Giới</SuitEffect.2.Description>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,22 +1,24 @@
-talk	notarget	int	string	float	thing
-BabySleep1	Xiuxiu ingin tidur				
-BabySleep2	Xiuxiu mengantuk				
-BabySleep3	Xiuxiu akan tidur				
-BabyPandaTalk	Xiuxiu telah membuat kemajuan lagi				
-BabySilly	Xiu Xiu ingin bermain dengan makhluk abadi				
-BabyFollow1	Ikuti yang abadi				
-BabyFollow2	Pergi ke peri				
-Roll	Keluar dari sini				
-Chop	latihan				
-Happy	sangat bahagia				
-PlayBB	Lihat betapa hebatnya saya				
-NotEat_Item_Bamboo	Saya tidak bisa makan batang bambu				Saya tidak bisa makan batang bambu
-NotEat_Item_BambooShoot	Saya tidak bisa makan rebung				Saya tidak bisa makan rebung
-WannaEat_Item_Bamboo	Saya sangat ingin makan batang bambu				Saya sangat ingin makan batang bambu
-WannaEat_Item_BambooShoot	Saya sangat ingin makan rebung				Saya sangat ingin makan rebung
-DoTalkEat_Item_Bamboo	Saya sedang makan batang bambu				Saya sedang makan batang bambu
-DoTalkEat_Item_BambooShoot	Saya sedang makan rebung				Saya sedang makan rebung
-CantEat_Item_Bamboo	Saya tidak punya batang bambu untuk dimakan				Saya tidak punya batang bambu untuk dimakan
-CantEat_Item_BambooShoot	Saya tidak punya rebung untuk dimakan				Saya tidak punya rebung untuk dimakan
-EatTogether	Makanlah bersama yang abadi
-BabyHelpPlay	bermain dengan mereka				Mainkan dengan {0}
+talk	notarget	thing
+BabySleep1	Tu Tu muốn ngủ	
+BabySleep2	Tu Tu buồn ngủ	
+BabySleep3	Tu Tu sắp đi ngủ rồi	
+BabyPandaTalk	Tu Tu lại tiến bộ rồi	
+BabySilly	Tu Tu muốn chơi với Tiên Tiên	
+BabyFollow1	Theo Tiên Tiên	
+BabyFollow2	Đi đến chỗ Tiên Tiên	
+Roll	Lăn lăn	
+Chop	Tập luyện một chút	
+Happy	Thật vui	
+PlayBB	Nhìn xem tôi giỏi thế nào	
+NotEat_Item_Bamboo	Tôi không ăn được cây tre	Tôi sẽ không ăn cần tre
+NotEat_Item_BambooShoot	Tôi không ăn được măng tre	Tôi sẽ không ăn măng tre
+WannaEat_Item_Bamboo	Tôi thật muốn ăn cây tre	Tôi rất muốn ăn cần tre
+WannaEat_Item_BambooShoot	Tôi thật muốn ăn măng tre	Tôi rất muốn ăn măng tre
+DoTalkEat_Item_Bamboo	Tôi đang ăn cây tre	Tôi đang ăn cần tre
+DoTalkEat_Item_BambooShoot	Tôi đang ăn măng tre	Tôi đang ăn măng tre
+CantEat_Item_Bamboo	Tôi không có cây tre để ăn	Tôi không có cần tre để ăn
+CantEat_Item_BambooShoot	Tôi không có măng tre để ăn	Tôi không có măng tre để ăn
+EatTogether	Ăn cùng Tiên Tiên	
+BabyHelpPlay	Cùng họ chơi	Cùng chơi với {0}
+
+

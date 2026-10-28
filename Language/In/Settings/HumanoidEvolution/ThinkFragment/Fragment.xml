@@ -1,19 +1,20 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FirstFrag_Target">
-			<DisplayName>Mods Lost</DisplayName>
+			<DisplayName>Mô-đun bị mất</DisplayName>
 		</Text>
 		<Text Name="InitalFrag">
-			<DisplayName>Mods Lost</DisplayName>
+			<DisplayName>Mô-đun bị mất</DisplayName>
 		</Text>
 		<Text Name="Emotion_Template">
-			<DisplayName>Template</DisplayName>
+			<DisplayName>Mẫu</DisplayName>
 		</Text>
 		<Text Name="Target_Template">
-			<DisplayName>Template</DisplayName>
+			<DisplayName>Mẫu</DisplayName>
 		</Text>
 		<Text Name="Scene_Template">
-			<DisplayName>Template</DisplayName>
+			<DisplayName>Mẫu</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,16 +1,17 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Drought">
-			<DisplayName>Drought</DisplayName>
+			<DisplayName>Hạn hán</DisplayName>
 		</Text>
 		<Text Name="Flood">
-			<DisplayName>Flood</DisplayName>
+			<DisplayName>Lũ Lụt</DisplayName>
 		</Text>
 		<Text Name="Siberia">
-			<DisplayName>Cold Wave</DisplayName>
+			<DisplayName>Lạnh giá</DisplayName>
 		</Text>
 		<Text Name="EarthQuake">
-			<DisplayName>Earthquake</DisplayName>
+			<DisplayName>Động đất</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

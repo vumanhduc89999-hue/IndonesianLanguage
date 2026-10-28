@@ -1,37 +1,38 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="ZhenMainNode_School_1">
-			<DisplayName>Sunshade Pillar</DisplayName>
+			<DisplayName>Trận trục Đan Hà</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_2">
-			<DisplayName>Kunlun Pillar</DisplayName>
+			<DisplayName>Trận trục Côn Lôn</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_3">
-			<DisplayName>Skydome Pillar</DisplayName>
+			<DisplayName>Trận trục Cực Thiên</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_4">
-			<DisplayName>Purple Cloud Pillar</DisplayName>
+			<DisplayName>Trận trục Tử Tiêu</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_5">
-			<DisplayName>True Unity Pillar</DisplayName>
+			<DisplayName>Trận trục Chính Nhất</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_6">
-			<DisplayName>Caerulea Pillar</DisplayName>
+			<DisplayName>Trận trục Thanh Liên</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_7">
-			<DisplayName>Evenfall Pillar</DisplayName>
+			<DisplayName>Trận trục Tê Hà</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_8">
-			<DisplayName>Hundred Insects Pillar</DisplayName>
+			<DisplayName>Trận trục Bách Man</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_9">
-			<DisplayName>Doom Pillar</DisplayName>
+			<DisplayName>Trận trục Thất Thiên</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_10">
-			<DisplayName>Seven Slaughters Pillar</DisplayName>
+			<DisplayName>Trận trục Thất Sát</DisplayName>
 		</Text>
 		<Text Name="ZhenMainNode_School_11">
-			<DisplayName>Reunion Pillar</DisplayName>
+			<DisplayName>Trận trục Hợp Hoan</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

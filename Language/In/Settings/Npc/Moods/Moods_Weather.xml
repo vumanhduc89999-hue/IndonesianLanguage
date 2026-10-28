@@ -1,154 +1,155 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Weather_Sunny">
-			<DisplayName>Clear</DisplayName>
-			<Desc>Cuacanya bagus.</Desc>
-			<StoryDesc>Merasa bahwa cuaca yang bagus benar-benar membuat seseorang tersenyum!</StoryDesc>
+			<DisplayName>Trời nắng</DisplayName>
+			<Desc>Hôm nay thời tiết rất đẹp.</Desc>
+			<StoryDesc>Vì thời tiết nắng đẹp mà cười tươi rạng rỡ.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Overcast">
-			<DisplayName>Cloudy</DisplayName>
-			<Desc>Di luar cukup mendung.</Desc>
-			<StoryDesc>Merasa bahwa hari yang suram seperti itu agak suram</StoryDesc>
+			<DisplayName>Trời âm u</DisplayName>
+			<Desc>Hôm nay trời âm u.</Desc>
+			<StoryDesc>Vì thời tiết âm u mà trông ủ rũ.</StoryDesc>
 		</Text>
 		<Text Name="Weather_LightRain">
-			<DisplayName>Light Rain</DisplayName>
-			<Desc>Saat ini sedang gerimis.</Desc>
-			<StoryDesc>Merasakan hujan ringan benar-benar memberikan rasa ketenangan pada seseorang</StoryDesc>
+			<DisplayName>Mưa nhỏ</DisplayName>
+			<Desc>Có chút mưa nhỏ!</Desc>
+			<StoryDesc>Vì mưa nhỏ rơi tí tách mà khuôn mặt bình yên.</StoryDesc>
 		</Text>
 		<Text Name="Weather_HeavyRain">
-			<DisplayName>Heavy Rain</DisplayName>
-			<Desc>Itu mengalir keluar!</Desc>
-			<StoryDesc>Merasa bahwa hujan deras seperti itu dapat membuat seseorang gelisah</StoryDesc>
+			<DisplayName>Mưa lớn</DisplayName>
+			<Desc>Mưa lớn rồi.</Desc>
+			<StoryDesc>Vì mưa lớn như trút mà trông khó chịu.</StoryDesc>
 		</Text>
 		<Text Name="Weather_LightSnow">
-			<DisplayName>Light Snow</DisplayName>
-			<Desc>Saya bisa melihat kesibukan di luar!</Desc>
-			<StoryDesc>Merasa bahwa kesibukan yang beterbangan mencerahkan semangat seseorang</StoryDesc>
+			<DisplayName>Tuyết nhỏ</DisplayName>
+			<Desc>Có chút tuyết nhỏ!</Desc>
+			<StoryDesc>Vì tuyết nhỏ bay lả tả mà cảm thấy hơi vui.</StoryDesc>
 		</Text>
 		<Text Name="Weather_HeavySnow">
-			<DisplayName>Heavy Snow</DisplayName>
-			<Desc>Sepertinya badai salju di luar!</Desc>
-			<StoryDesc>Merasa bahwa hujan salju lebat seperti itu sungguh menyenangkan</StoryDesc>
+			<DisplayName>Tuyết lớn</DisplayName>
+			<Desc>Tuyết lớn rồi.</Desc>
+			<StoryDesc>Vì tuyết lớn rơi phủ mà cảm thấy vui sướng.</StoryDesc>
 		</Text>
 		<Text Name="Weather_DenseFog">
-			<DisplayName>Thick Fog</DisplayName>
-			<Desc>Kabutnya sangat tebal, seperti sup kacang!</Desc>
-			<StoryDesc>Merasa kabutnya sangat tebal sehingga agak mengganggu</StoryDesc>
+			<DisplayName>Sương mù dày đặc</DisplayName>
+			<Desc>Sương mù dày đặc, giơ tay không thấy ngón.</Desc>
+			<StoryDesc>Vì sương mù dày đặc mà hơi khó chịu.</StoryDesc>
 		</Text>
 		<Text Name="Weather_SpringAir">
-			<DisplayName>Spring's Coming</DisplayName>
-			<Desc>Musim semi akhirnya tiba!</Desc>
-			<StoryDesc>Merasakan datangnya musim semi sungguh menyegarkan semangat</StoryDesc>
+			<DisplayName>Hơi thở mùa xuân.</DisplayName>
+			<Desc>Mùa xuân đến, tràn đầy mong chờ.</Desc>
+			<StoryDesc>Vì nghĩ đến khởi đầu của một năm mà tràn đầy động lực.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Melancholy">
-			<DisplayName>Gloomy Mood</DisplayName>
-			<Desc>Aku tidak tahu kenapa, tapi akhir-akhir ini semua orang berada dalam kesedihan...</Desc>
-			<StoryDesc>Merasakan suasana suram itu meninggalkan rasa melankolis yang nyata di udara</StoryDesc>
+			<DisplayName>Nỗi buồn tràn ngập</DisplayName>
+			<Desc>Không biết tại sao, gần đây mọi người đều rất buồn, khiến ta cũng cảm thấy u sầu.</Desc>
+			<StoryDesc>Vì bầu không khí u sầu mà mặt đầy vẻ buồn bã.</StoryDesc>
 		</Text>
 		<Text Name="Weather_HarvestAir">
-			<DisplayName>Spirit of Harvest</DisplayName>
-			<Desc>Sungguh panen yang melimpah, saya senang sekali!</Desc>
-			<StoryDesc>Merasa bahwa panen yang melimpah membuat semua orang puas</StoryDesc>
+			<DisplayName>Hơi thở mùa thu hoạch.</DisplayName>
+			<Desc>Mùa thu hoạch đến, rất vui.</Desc>
+			<StoryDesc>Vì mong chờ mùa thu hoạch mà cười tươi rạng rỡ.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Impetuous">
-			<DisplayName>Irritation</DisplayName>
-			<Desc>Sulit untuk tetap tenang akhir-akhir ini.</Desc>
-			<StoryDesc>Merasa ada perasaan mudah tersinggung di udara, semua orang tampak mudah tersinggung</StoryDesc>
+			<DisplayName>Gió nóng nảy</DisplayName>
+			<Desc>Gần đây tâm trạng rất bồn chồn, rất khó bình tĩnh lại.</Desc>
+			<StoryDesc>Vì không khí bồn chồn mà mặt đầy vẻ khó chịu.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Hail">
-			<DisplayName>Hail</DisplayName>
-			<Desc>Ini memanggil keluar.</Desc>
-			<StoryDesc>Merasa bahwa Hujan es cenderung membuat seseorang sedikit khawatir</StoryDesc>
+			<DisplayName>Mưa đá</DisplayName>
+			<Desc>Mưa đá rồi.</Desc>
+			<StoryDesc>Vì mưa đá mà mặt đầy lo lắng.</StoryDesc>
 		</Text>
 		<Text Name="Weather_MouldRains">
-			<DisplayName>Rainy Season</DisplayName>
-			<Desc>Musim hujan telah tiba.</Desc>
-			<StoryDesc>Perasaan bahwa semua hujan ini benar-benar membuat seseorang gelisah</StoryDesc>
+			<DisplayName>Mưa phùn</DisplayName>
+			<Desc>Mùa mưa dầm đến rồi.</Desc>
+			<StoryDesc>Vì mưa dầm kéo dài mà đầy vẻ khó chịu.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Drought">
-			<DisplayName>Drought</DisplayName>
-			<Desc>Musim kemarau telah tiba.</Desc>
-			<StoryDesc>Merasakan kekeringan selalu membuat khawatir</StoryDesc>
+			<DisplayName>Hạn hán</DisplayName>
+			<Desc>Mùa khô hạn đến rồi.</Desc>
+			<StoryDesc>Vì hạn hán kéo dài mà mặt đầy lo lắng.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Rainstorm">
-			<DisplayName>Rainstorm</DisplayName>
-			<Desc>Di luar sedang badai.</Desc>
-			<StoryDesc>Merasakan Hujan Badai seperti ini selalu membuat was-was</StoryDesc>
+			<DisplayName>Mưa bão</DisplayName>
+			<Desc>Mưa lớn rồi.</Desc>
+			<StoryDesc>Vì mưa lớn xối xả mà cảm thấy lo lắng.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Fohn">
-			<DisplayName>Foehn Wind</DisplayName>
-			<Desc>Ada Angin Foehn di sekitar.</Desc>
-			<StoryDesc>Perasaan bahwa Foehn Winds selalu membuat seseorang merasa seluruh tubuhnya membutuhkan pelembab</StoryDesc>
+			<DisplayName>Gió nóng cháy</DisplayName>
+			<Desc>Một cơn gió nóng thổi qua.</Desc>
+			<StoryDesc>Vì gió nóng thổi qua mà xoa khuôn mặt khô.</StoryDesc>
 		</Text>
 		<Text Name="Weather_DustStorm">
-			<DisplayName>Dust Storm</DisplayName>
-			<Desc>Badai Debu bermunculan.</Desc>
-			<StoryDesc>Merasa Badai Debu menyebarkan kotoran ke mana-mana. DI MANA PUN</StoryDesc>
+			<DisplayName>Bão cát</DisplayName>
+			<Desc>Một trận bão cát xảy ra.</Desc>
+			<StoryDesc>Vì bão cát hoành hành mà nhổ ra một ngụm cát.</StoryDesc>
 		</Text>
 		<Text Name="Weather_LingRarefiedWave">
-			<DisplayName>Qi Drought</DisplayName>
-			<Desc>Ada kekeringan Qi.</Desc>
-			<StoryDesc>Merasakan kekeringan A Qi benar-benar membuat seseorang merasa tidak nyaman</StoryDesc>
+			<DisplayName>Triều khí linh kiệt</DisplayName>
+			<Desc>Một đợt linh khí khô cạn đến.</Desc>
+			<StoryDesc>Vì linh khí khô cạn mà cảm thấy bất an.</StoryDesc>
 		</Text>
 		<Text Name="Weather_LingUpWave">
-			<DisplayName>Burst of Qi</DisplayName>
-			<Desc>Terjadi ledakan Qi.</Desc>
-			<StoryDesc>Merasa bahwa Semburan Qi benar-benar membuat seseorang merasa senang</StoryDesc>
+			<DisplayName>Bùng nổ linh khí</DisplayName>
+			<Desc>Một đợt linh khí bùng nổ đến.</Desc>
+			<StoryDesc>Vì linh khí bùng nổ mà cảm thấy vui mừng.</StoryDesc>
 		</Text>
 		<Text Name="Weather_HeatWave">
-			<DisplayName>Heat</DisplayName>
-			<Desc>Panas yang tiba-tiba ini tak tertahankan...</Desc>
-			<StoryDesc>Merasakan panas yang tiba-tiba membuat seseorang merasa cemas</StoryDesc>
+			<DisplayName>Nắng nóng gay gắt.</DisplayName>
+			<Desc>Nắng nóng gay gắt đến, nóng quá...</Desc>
+			<StoryDesc>Vì nắng nóng gay gắt mà cảm thấy khó chịu.</StoryDesc>
 		</Text>
 		<Text Name="Weather_ColdWave">
-			<DisplayName>Cold Winter</DisplayName>
-			<Desc>Musim dingin yang dingin telah tiba.</Desc>
-			<StoryDesc>Merasa bahwa musim dingin membuat seseorang merasa tidak nyaman</StoryDesc>
+			<DisplayName>Mùa đông lạnh giá.</DisplayName>
+			<Desc>Mùa đông lạnh giá đến, lạnh quá...</Desc>
+			<StoryDesc>Vì mùa đông lạnh giá mà cảm thấy bất an.</StoryDesc>
 		</Text>
 		<Text Name="Weather_HeatWaveInWinter">
-			<DisplayName>Warm Wind</DisplayName>
-			<Desc>Angin hangat di tengah musim dingin merupakan penangguhan hukuman yang menyenangkan.</Desc>
-			<StoryDesc>Merasakan angin hangat di musim dingin membuat seseorang ingin melakukan peregangan</StoryDesc>
+			<DisplayName>Dòng nước ấm.</DisplayName>
+			<Desc>Trong mùa đông lạnh giá, một dòng nước ấm đến, thật thoải mái...</Desc>
+			<StoryDesc>Đang trong dòng nước ấm mà duỗi lưng thoải mái.</StoryDesc>
 		</Text>
 		<Text Name="Weather_ColdWaveInSummer">
-			<DisplayName>Chilly Wind</DisplayName>
-			<Desc>Angin sejuk di tengah musim panas adalah penangguhan hukuman yang menyenangkan.</Desc>
-			<StoryDesc>Merasakan angin sejuk di musim panas selalu menenangkan</StoryDesc>
+			<DisplayName>Gió mát.</DisplayName>
+			<Desc>Trong mùa hè nóng bức, một làn gió mát thổi qua, thật dễ chịu...</Desc>
+			<StoryDesc>Đang dưới làn gió mát mà thở dài thoải mái.</StoryDesc>
 		</Text>
 		<Text Name="Weather_PermanentNight">
-			<DisplayName>Polar Night</DisplayName>
-			<Desc>Malam kutub telah tiba.</Desc>
-			<StoryDesc>Merasa bahwa Malam kutub bisa jadi menakutkan</StoryDesc>
+			<DisplayName>Đêm vĩnh cửu</DisplayName>
+			<Desc>Đêm dài vĩnh cửu buông xuống.</Desc>
+			<StoryDesc>Vì đêm dài vĩnh cửu buông xuống mà cảm thấy sợ hãi.</StoryDesc>
 		</Text>
 		<Text Name="Weather_Miasma">
-			<DisplayName>Noxious Air</DisplayName>
-			<Desc>Racun menyebar.</Desc>
-			<StoryDesc>Merasakan perasaan yang lebih baik untuk menutup hidung dan mulut ketika ada racun</StoryDesc>
+			<DisplayName>Khí độc</DisplayName>
+			<Desc>Một làn khí độc lan tỏa gần đây.</Desc>
+			<StoryDesc>Vì khí độc lan tỏa mà che mũi miệng.</StoryDesc>
 		</Text>
 		<Text Name="Weather_LightningStorm">
-			<DisplayName>Thunderstorm</DisplayName>
-			<Desc>Badai petir mendatangkan malapetaka.</Desc>
-			<StoryDesc>Merasa Badai Petir seperti ini mendatangkan malapetaka pada saraf seseorang</StoryDesc>
+			<DisplayName>Bão sấm sét</DisplayName>
+			<Desc>Một trận bão sấm sét đang hoành hành.</Desc>
+			<StoryDesc>Vì bão sấm sét hoành hành mà căng thẳng vô cùng.</StoryDesc>
 		</Text>
 		<Text Name="Weather_LuShu_SunnyDay">
-			<DisplayName>Wonderful Singing</DisplayName>
-			<Desc>Suara binatang terdengar seperti nyanyian yang indah.</Desc>
-			<StoryDesc>Merasakan panggilan alam liar benar-benar dapat memberikan rasa kepuasan pada seseorang</StoryDesc>
+			<DisplayName>Tiếng hát kỳ diệu.</DisplayName>
+			<Desc>Nghe thấy tiếng linh thú Lộc Thục kêu, giống như người đang hát bài hát du dương, thực sự rất hay~</Desc>
+			<StoryDesc>Đang đắm chìm trong tiếng kêu của linh thú Lộc Thục mà cười tươi rạng rỡ.</StoryDesc>
 		</Text>
 		<Text Name="Weather_SpringFestival">
-			<DisplayName>Spring Festival in Full Swing</DisplayName>
-			<Desc>Suasana liburan terbukti benar-benar memabukkan.</Desc>
-			<StoryDesc>Merasakan perasaan itu mudah untuk tenggelam dalam kegembiraan sebuah festival</StoryDesc>
+			<DisplayName>Lễ hội Tết Nguyên Đán.</DisplayName>
+			<Desc>Không khí lễ hội khiến người ta say đắm.</Desc>
+			<StoryDesc>Đang đắm chìm trong niềm vui của lễ hội.</StoryDesc>
 		</Text>
 		<Text Name="Weather_ZuShiBiHu">
-			<DisplayName>Grandmaster's Aegis</DisplayName>
-			<Desc>Perlindungan bapak pendiri meliputi Sekte dengan suasana Keabadian.</Desc>
-			<StoryDesc>Merasa bahwa Dunia Keabadian tampaknya berlimpah di mana-mana</StoryDesc>
+			<DisplayName>Tổ sư che chở</DisplayName>
+			<Desc>Tổ sư ban xuống sự bảo hộ, môn phái tràn đầy tiên khí.</Desc>
+			<StoryDesc>Đang đắm chìm trong khí tức từ tiên giới ban xuống.</StoryDesc>
 		</Text>
 		<Text Name="Weather_DanQi">
-			<DisplayName>Alchemy Qi Fullness</DisplayName>
-			<Desc>Alkimia Qi yang kaya meresap.</Desc>
-			<StoryDesc>Tenggelam dalam Alkimia Qi yang kaya.</StoryDesc>
+			<DisplayName>Alchemy Qi Overflowing</DisplayName>
+			<Desc>Khí đan đậm đặc tràn ngập</Desc>
+			<StoryDesc>Đang đắm chìm trong đan khí nồng đậm</StoryDesc>
 		</Text>
 	</List>
 </Texts>
+

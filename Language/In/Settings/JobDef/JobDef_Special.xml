@@ -1,31 +1,32 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JobFreePatrol">
-			<DisplayName>Patrol</DisplayName>
+			<DisplayName>Tuần tra</DisplayName>
 		</Text>
 		<Text Name="JobFreeFollow">
-			<DisplayName>Follow</DisplayName>
+			<DisplayName>Đi theo</DisplayName>
 		</Text>
 		<Text Name="JobFollow">
-			<DisplayName>Follow</DisplayName>
+			<DisplayName>Đi theo</DisplayName>
 		</Text>
 		<Text Name="JobGoOutspread">
-			<DisplayName>Go As Abbot</DisplayName>
+			<DisplayName>Nhậm chức chủ trì</DisplayName>
 		</Text>
 		<Text Name="JobLeaveOutspread">
-			<DisplayName>Retire</DisplayName>
+			<DisplayName>Từ chức trở về</DisplayName>
 		</Text>
 		<Text Name="JobGoOutsMember">
-			<DisplayName>Become Disciple</DisplayName>
+			<DisplayName>Trở thành đệ tử</DisplayName>
 		</Text>
 		<Text Name="JobSpringXiaoYao">
-			<DisplayName>Demons Run Wild</DisplayName>
+			<DisplayName>Tiểu yêu tuần du</DisplayName>
 		</Text>
 		<Text Name="JobSpringXiaoYaoEscape">
-			<DisplayName>Flee in Shock</DisplayName>
+			<DisplayName>Hoảng sợ bỏ chạy</DisplayName>
 		</Text>
 		<Text Name="JobDiMuWish">
-			<DisplayName>Wish</DisplayName>
+			<DisplayName>Đi ước nguyện</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,64 +1,65 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Unsure">
-			<DisplayName>Mystic Auction</DisplayName>
-			<Npc.0.Talk.Bid.0>meningkatkan!</Npc.0.Talk.Bid.0>
-			<Npc.0.Talk.Bid.1>saya ikuti!</Npc.0.Talk.Bid.1>
-			<Npc.0.Talk.Bid.2>Sangat murah lagi!</Npc.0.Talk.Bid.2>
-			<Npc.0.Talk.Exceed.0>Lawan yang layak.</Npc.0.Talk.Exceed.0>
-			<Npc.0.Talk.Exceed.1>Lebih kaya dari saya?</Npc.0.Talk.Exceed.1>
-			<Npc.0.Talk.Buy.0>Ha ha! Saya telah mendapatkan harta karun ini!</Npc.0.Talk.Buy.0>
-			<Npc.0.Talk.Buy.1>Ha ha! Orang miskin sepertimu ingin bersaing memperebutkan kekayaan denganku?</Npc.0.Talk.Buy.1>
-			<Npc.0.Talk.Like.0>Saya ingin ini!</Npc.0.Talk.Like.0>
-			<Npc.0.Talk.Like.1>Saya sudah mengambil keputusan!</Npc.0.Talk.Like.1>
-			<Npc.0.Talk.Like.2>Apakah kamu melihatnya? Benda ini akan menjadi milikku.</Npc.0.Talk.Like.2>
-			<Npc.0.Talk.Last.0>Meski terlihat aneh. Namun ternyata sangat menarik bukan?</Npc.0.Talk.Last.0>
-			<Npc.0.Talk.DontKnow.0>Meski terlihat aneh. Namun ternyata sangat menarik bukan?</Npc.0.Talk.DontKnow.0>
-			<Npc.0.Talk.Chat.0>Saya pernah pergi ke Danau Surgawi dan melihat seorang dewi sedang mandi. Ha ha!</Npc.0.Talk.Chat.0>
-			<Npc.0.Talk.Chat.1>Tahun ini, saya hanya mengumpulkan uang sewa sebesar 800.000 yuan. Dompetku menangis!</Npc.0.Talk.Chat.1>
-			<Npc.0.Talk.Chat.2>Jika aku mengetahuinya lebih awal, aku akan mengirim pembantuku dan memerintahkan dia untuk membeli semuanya.</Npc.0.Talk.Chat.2>
-			<Npc.1.Talk.Bid.0>Ini agak mahal. Tapi saya tetap ingin menawarkan harga tambahan!</Npc.1.Talk.Bid.0>
-			<Npc.1.Talk.Bid.1>Saya akan pergi tanpa makanan selama 2 hari bulan ini untuk menghemat sedikit uang...</Npc.1.Talk.Bid.1>
-			<Npc.1.Talk.Bid.2>(Menghentakkan kaki) Saya ikuti!</Npc.1.Talk.Bid.2>
-			<Npc.1.Talk.Exceed.0>Bukankah itu cukup untuk membelinya?</Npc.1.Talk.Exceed.0>
-			<Npc.1.Talk.Exceed.1>Itu adalah harta berharga yang semua orang Mereka semua menginginkannya.</Npc.1.Talk.Exceed.1>
-			<Npc.1.Talk.Exceed.2>Ini sedikit menggoda. Haruskah saya meminta lebih banyak atau tidak?</Npc.1.Talk.Exceed.2>
-			<Npc.1.Talk.Buy.0>Hebat, sungguh hebat, basis kultivasi saya akan meningkat pesat dengan ini!</Npc.1.Talk.Buy.0>
-			<Npc.1.Talk.Buy.1>Hebat, akhirnya ada di tanganku!</Npc.1.Talk.Buy.1>
-			<Npc.1.Talk.Like.0>Guru pernah memberi tahu saya bahwa obat ini mempunyai khasiat yang luar biasa. Saya akan membelinya!</Npc.1.Talk.Like.0>
-			<Npc.1.Talk.Like.1>Senjata untuk berperang. Pengobatan adalah untuk latihan mandiri! Benda ini terlihat sangat keren!</Npc.1.Talk.Like.1>
-			<Npc.1.Talk.Last.0>Benda apa ini?</Npc.1.Talk.Last.0>
-			<Npc.1.Talk.DontKnow.0>Benda apa ini?</Npc.1.Talk.DontKnow.0>
-			<Npc.1.Talk.Chat.0>Ada banyak orang asing berkumpul di sini. Apakah mereka benar-benar kaya??</Npc.1.Talk.Chat.0>
-			<Npc.2.Talk.Bid.0>Haha, saya akan menawarkan harga tertinggi.</Npc.2.Talk.Bid.0>
-			<Npc.2.Talk.Bid.1>Lebih mahal, lebih mahal</Npc.2.Talk.Bid.1>
-			<Npc.2.Talk.Bid.2>Saya akan membelinya. Saya menawarkan harga yang lebih tinggi.</Npc.2.Talk.Bid.2>
-			<Npc.2.Talk.Exceed.0>Seseorang sangat membutuhkannya haha.</Npc.2.Talk.Exceed.0>
-			<Npc.2.Talk.Exceed.1>Lebih tinggi, lebih tinggi, lebih tinggi</Npc.2.Talk.Exceed.1>
-			<Npc.2.Talk.Exceed.2>Lebih banyak lagi.</Npc.2.Talk.Exceed.2>
-			<Npc.2.Talk.Buy.0>Ini... Sudah berakhir! A-Aku tidak punya batu roh yang tersisa...</Npc.2.Talk.Buy.0>
-			<Npc.2.Talk.Last.0>Siapa yang menginginkan hal seperti itu?</Npc.2.Talk.Last.0>
-			<Npc.2.Talk.DontKnow.0>Siapa yang menginginkan hal seperti itu?</Npc.2.Talk.DontKnow.0>
-			<Npc.2.Talk.Chat.0>Dalam lelang ini, siapa yang harus saya provokasi? Ha ha ha</Npc.2.Talk.Chat.0>
-			<Npc.2.Talk.Chat.1>Semakin tinggi harganya, semakin baik. Semakin besar pahala yang akan saya terima.</Npc.2.Talk.Chat.1>
-			<Npc.3.Talk.Bid.0>Bagaimana anda mengukur nilai seorang praktisi berdasarkan jumlah uangnya? saya ikuti!</Npc.3.Talk.Bid.0>
-			<Npc.3.Talk.Bid.1>Basis kultivasi saya akan meningkat pesat jika saya mendapatkan ini!</Npc.3.Talk.Bid.1>
-			<Npc.3.Talk.Bid.2>Tuanku menginginkan ini!</Npc.3.Talk.Bid.2>
-			<Npc.3.Talk.Exceed.0>Bagaimana bisa...</Npc.3.Talk.Exceed.0>
-			<Npc.3.Talk.Buy.0>Luar biasa, tinggal beberapa langkah lagi!</Npc.3.Talk.Buy.0>
-			<Npc.3.Talk.Like.0>Benda ini benar-benar harta karun. Dan hanya aku yang layak memilikinya!!</Npc.3.Talk.Like.0>
-			<Npc.3.Talk.Last.0>Hal-hal di dalamnya misterius dan tidak mungkin diketahui...</Npc.3.Talk.Last.0>
-			<Npc.3.Talk.DontKnow.0>Hal-hal di dalamnya misterius dan tidak mungkin diketahui...</Npc.3.Talk.DontKnow.0>
-			<Npc.3.Talk.Chat.0>Saya datang ke sini atas perintah Guru saya.</Npc.3.Talk.Chat.0>
-			<Npc.3.Talk.Chat.1>Saya akan segera lahir!</Npc.3.Talk.Chat.1>
-			<Npc.4.Talk.Bid.0>Saya harus mendapatkan ini.</Npc.4.Talk.Bid.0>
-			<Npc.4.Talk.Exceed.0>kasar!</Npc.4.Talk.Exceed.0>
-			<Npc.4.Talk.Like.0>Jangan berharap! Apapun yang terjadi, aku harus mendapatkan ini!</Npc.4.Talk.Like.0>
-			<Npc.4.Talk.Like.1>Ini terlalu menarik! Saya minta maaf tentang ini!</Npc.4.Talk.Like.1>
-			<Npc.4.Talk.Buy.0>Haha, kalian tidak akan pernah mendapatkannya!</Npc.4.Talk.Buy.0>
-			<Npc.4.Talk.Last.0>Apa sebenarnya benda apa ini?</Npc.4.Talk.Last.0>
-			<Npc.4.Talk.DontKnow.0>Apa sebenarnya benda apa ini?</Npc.4.Talk.DontKnow.0>
-			<Npc.4.Talk.Chat.0>Mari kita hancurkan kesombongan orang-orang ini.</Npc.4.Talk.Chat.0>
+			<DisplayName>Đấu giá huyền cơ</DisplayName>
+			<Npc.0.Talk.Bid.0>Ta thêm!</Npc.0.Talk.Bid.0>
+			<Npc.0.Talk.Bid.1>Theo!</Npc.0.Talk.Bid.1>
+			<Npc.0.Talk.Bid.2>Rẻ thế này, thêm nữa!</Npc.0.Talk.Bid.2>
+			<Npc.0.Talk.Exceed.0>Gặp đối thủ rồi.</Npc.0.Talk.Exceed.0>
+			<Npc.0.Talk.Exceed.1>Nhiều tiền hơn ta sao?</Npc.0.Talk.Exceed.1>
+			<Npc.0.Talk.Buy.0>Haha! Đồ tốt đã về tay!</Npc.0.Talk.Buy.0>
+			<Npc.0.Talk.Buy.1>Hahaha, mấy kẻ nghèo kiết xác như các ngươi, muốn đọ tiền với ta à?</Npc.0.Talk.Buy.1>
+			<Npc.0.Talk.Like.0>Wow, món đồ này ta phải lấy!</Npc.0.Talk.Like.0>
+			<Npc.0.Talk.Like.1>Quyết định là nó rồi!</Npc.0.Talk.Like.1>
+			<Npc.0.Talk.Like.2>Nhìn thấy chưa? Món đồ này ngày mai sẽ khắc tên ta.</Npc.0.Talk.Like.2>
+			<Npc.0.Talk.Last.0>Món đồ này kỳ lạ thật, đúng là tuyệt diệu!</Npc.0.Talk.Last.0>
+			<Npc.0.Talk.DontKnow.0>Món đồ này kỳ lạ thật, đúng là tuyệt diệu!</Npc.0.Talk.DontKnow.0>
+			<Npc.0.Talk.Chat.0>Ta từng đến Thiên Trì, còn thấy tiên nữ tắm, hahaha!</Npc.0.Talk.Chat.0>
+			<Npc.0.Talk.Chat.1>Năm nay thu tiền thuê chỉ được tám trăm nghìn, tiền tiêu vặt sắp không đủ rồi!</Npc.0.Talk.Chat.1>
+			<Npc.0.Talk.Chat.2>Biết thế đã gọi người hầu gái đến mua hết cho rồi.</Npc.0.Talk.Chat.2>
+			<Npc.1.Talk.Bid.0>Tiếc thật, nhưng thêm!</Npc.1.Talk.Bid.0>
+			<Npc.1.Talk.Bid.1>Tháng này nhịn ăn thêm hai ngày nữa...</Npc.1.Talk.Bid.1>
+			<Npc.1.Talk.Bid.2>(Dậm chân) Theo!</Npc.1.Talk.Bid.2>
+			<Npc.1.Talk.Exceed.0>Không mua được sao?</Npc.1.Talk.Exceed.0>
+			<Npc.1.Talk.Exceed.1>Quả nhiên là đồ tốt, ai cũng muốn.</Npc.1.Talk.Exceed.1>
+			<Npc.1.Talk.Exceed.2>Hmm, hấp dẫn thật, có nên thêm nữa không...</Npc.1.Talk.Exceed.2>
+			<Npc.1.Talk.Buy.0>Tốt, tốt, tu luyện có hy vọng rồi!</Npc.1.Talk.Buy.0>
+			<Npc.1.Talk.Buy.1>Mua được đồ tốt, sướng thật!</Npc.1.Talk.Buy.1>
+			<Npc.1.Talk.Like.0>Sư phụ từng nói, đan dược đều là đồ tốt, ta muốn!</Npc.1.Talk.Like.0>
+			<Npc.1.Talk.Like.1>Đánh nhau dựa vào vũ khí, tu tiên dựa vào đan dược! Cái này trông rất ổn!</Npc.1.Talk.Like.1>
+			<Npc.1.Talk.Last.0>Rốt cuộc đây là thứ gì vậy...</Npc.1.Talk.Last.0>
+			<Npc.1.Talk.DontKnow.0>Rốt cuộc đây là thứ gì vậy...</Npc.1.Talk.DontKnow.0>
+			<Npc.1.Talk.Chat.0>Những người đến đây thật là muôn hình muôn vẻ, họ thực sự có tiền sao?</Npc.1.Talk.Chat.0>
+			<Npc.2.Talk.Bid.0>Haha, ra giá cao hơn đi.</Npc.2.Talk.Bid.0>
+			<Npc.2.Talk.Bid.1>Đắt thêm chút nữa, đắt thêm chút nữa.</Npc.2.Talk.Bid.1>
+			<Npc.2.Talk.Bid.2>Ta tăng giá, ta tăng giá.</Npc.2.Talk.Bid.2>
+			<Npc.2.Talk.Exceed.0>Có người rất muốn có nó, hehe.</Npc.2.Talk.Exceed.0>
+			<Npc.2.Talk.Exceed.1>Cao hơn chút nữa, cao hơn chút nữa.</Npc.2.Talk.Exceed.1>
+			<Npc.2.Talk.Exceed.2>Đẩy giá lên, đẩy giá lên.</Npc.2.Talk.Exceed.2>
+			<Npc.2.Talk.Buy.0>Xong... xong rồi! Ta thực sự không còn tiền...</Npc.2.Talk.Buy.0>
+			<Npc.2.Talk.Last.0>Thứ này liệu có ai thích không nhỉ...</Npc.2.Talk.Last.0>
+			<Npc.2.Talk.DontKnow.0>Thứ này liệu có ai thích không nhỉ...</Npc.2.Talk.DontKnow.0>
+			<Npc.2.Talk.Chat.0>Lần này định chơi ai đây? Hehehe.</Npc.2.Talk.Chat.0>
+			<Npc.2.Talk.Chat.1>Giá bán càng cao, tiền thưởng càng nhiều.</Npc.2.Talk.Chat.1>
+			<Npc.3.Talk.Bid.0>Tu hành sao có thể dùng tiền để đo lường? Theo thôi!</Npc.3.Talk.Bid.0>
+			<Npc.3.Talk.Bid.1>Đợi ta lấy được thứ này, ta sẽ tiến thêm một bước!</Npc.3.Talk.Bid.1>
+			<Npc.3.Talk.Bid.2>Sư phụ chắc chắn sẽ thích!</Npc.3.Talk.Bid.2>
+			<Npc.3.Talk.Exceed.0>Sao lại có thể...</Npc.3.Talk.Exceed.0>
+			<Npc.3.Talk.Buy.0>Tuyệt diệu, tuyệt diệu, ngày tiến bộ không xa!</Npc.3.Talk.Buy.0>
+			<Npc.3.Talk.Like.0>Vật này là bảo vật vô giá, chỉ có ta mới xứng đáng làm chủ nhân của nó!</Npc.3.Talk.Like.0>
+			<Npc.3.Talk.Last.0>Huyền diệu bên trong không thể hiểu thấu...</Npc.3.Talk.Last.0>
+			<Npc.3.Talk.DontKnow.0>Huyền diệu bên trong không thể hiểu thấu...</Npc.3.Talk.DontKnow.0>
+			<Npc.3.Talk.Chat.0>Ta đến đây theo lệnh của sư phụ.</Npc.3.Talk.Chat.0>
+			<Npc.3.Talk.Chat.1>Ta sắp phi thăng rồi!</Npc.3.Talk.Chat.1>
+			<Npc.4.Talk.Bid.0>Nhất định phải giành được.</Npc.4.Talk.Bid.0>
+			<Npc.4.Talk.Exceed.0>Đáng ghét!</Npc.4.Talk.Exceed.0>
+			<Npc.4.Talk.Like.0>Không được, không được, thứ này dù thế nào cũng phải mua!</Npc.4.Talk.Like.0>
+			<Npc.4.Talk.Like.1>Cái này quá hấp dẫn! Xin lỗi nhé!</Npc.4.Talk.Like.1>
+			<Npc.4.Talk.Buy.0>Haha, họ không có được rồi!</Npc.4.Talk.Buy.0>
+			<Npc.4.Talk.Last.0>Đây... đây là cái gì vậy?</Npc.4.Talk.Last.0>
+			<Npc.4.Talk.DontKnow.0>Đây... đây là cái gì vậy?</Npc.4.Talk.DontKnow.0>
+			<Npc.4.Talk.Chat.0>Lần này phải làm giảm nhuệ khí của họ.</Npc.4.Talk.Chat.0>
 		</Text>
 	</List>
 </Texts>
+

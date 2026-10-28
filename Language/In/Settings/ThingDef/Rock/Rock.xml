@@ -1,24 +1,25 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="RockBrown" sParam="Plant">
-			<ThingName>Brown Rock</ThingName>
-			<Desc>Gunung berbatu berwarna coklat. Terdiri dari bahan yang rapuh, agak sulit untuk menambang batu yang dapat digunakan dari bahan tersebut.</Desc>
+			<ThingName>Đá nâu</ThingName>
+			<Desc>Một ngọn núi đá màu nâu, kết cấu lỏng lẻo, khó khai thác được đá sử dụng được.</Desc>
 		</Text>
 		<Text Name="RockGray" sParam="Plant">
-			<ThingName>Gray Rock</ThingName>
-			<Desc>Gunung berbatu berwarna abu-abu. Terdiri dari bahan padat, dapat ditambang untuk bahan bangunan.</Desc>
+			<ThingName>Đá xám</ThingName>
+			<Desc>Một ngọn núi đá màu xám, kết cấu chặt chẽ, có thể khai thác để xây dựng.</Desc>
 		</Text>
 		<Text Name="RockMarble" sParam="Plant">
-			<ThingName>Marble Rock</ThingName>
-			<Desc>Batuan gunung yang kaya akan marmer, dari mana Marmer dapat ditambang.</Desc>
+			<ThingName>Đá cẩm thạch</ThingName>
+			<Desc>Một ngọn núi chứa nhiều đá cẩm thạch, có thể khai thác để lấy đá cẩm thạch.</Desc>
 		</Text>
 		<Text Name="RockJade" sParam="Plant">
-			<ThingName>Jade Rock</ThingName>
-			<Desc>Batuan gunung yang kaya akan batu giok, dari mana batu giok dapat ditambang.</Desc>
+			<ThingName>Đá ngọc</ThingName>
+			<Desc>Một ngọn núi chứa ngọc, có thể khai thác để lấy ngọc.</Desc>
 		</Text>
 		<Text Name="RockCinnabar" sParam="Plant">
-			<ThingName>Cinnabar Rock</ThingName>
-			<Desc>Batuan gunung yang kaya akan cinnabar, dari mana Cinnabar dapat ditambang.</Desc>
+			<ThingName>Đá chu sa</ThingName>
+			<Desc>Một ngọn núi chứa quặng chu sa, có thể khai thác để lấy chu sa.</Desc>
 		</Text>
 	</List>
 </Texts>
+

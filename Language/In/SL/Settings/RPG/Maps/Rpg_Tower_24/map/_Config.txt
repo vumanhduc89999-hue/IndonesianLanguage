@@ -36,4 +36,5 @@
 /Settings/RPG/Maps/Rpg_Tower_24/map.txt	Skills.SkillDefs.TSkillSkill-55.DisplayName	庚金燃灵神雷	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_24/map.txt	Skills.SkillDefs.TDamageSkill-558.DisplayName	归真绝杀真言	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_24/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param1	纵然掌握如此强大的力量，我依然能感到内心的怯懦和恐惧。故作凶恶的外表也无法欺骗自己……	0	
-/Settings/RPG/Maps/Rpg_Tower_24/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param2	我真的很失败……不是么？但如果是在这里，那也没什么好怕的了！	0	
+/Settings/RPG/Maps/Rpg_Tower_24/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param2	我真的很失败……不是么？但如果是在这里，那也没什么好怕的了！	0
+

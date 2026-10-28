@@ -2,26 +2,26 @@
 	<List>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin">
 			<DisplayName>Eat Out Coin</DisplayName>
-			<Desc>Semua makanan memiliki peluang menghasilkan koin yang sangat rendah.</Desc>
+			<Desc>All food has a very low chance of yielding coins.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin2">
 			<DisplayName>Eat Out Coin</DisplayName>
-			<Desc>Semua makanan memiliki peluang kecil untuk menghasilkan koin saat dimakan</Desc>
+			<Desc>All food has a small chance to produce coins when eaten</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_FoodsDropCoin3">
 			<DisplayName>Eat Out Coin</DisplayName>
-			<Desc>Semua makanan memiliki peluang tinggi untuk menghasilkan koin.</Desc>
+			<Desc>All food has a high chance of yielding coins.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_FaBaoSpecialAbility">
 			<DisplayName>Artifact Gains Effect</DisplayName>
-			<Desc>Dapatkan efek artefak langka secara acak saat artefak selesai dibuat.</Desc>
+			<Desc>Gain a random rare artifact effect when an artifact is completed.</Desc>
 			<Effects.0.SpecialAbilities.0.Desc>Increases damage to targets of Earth element by 80%.</Effects.0.SpecialAbilities.0.Desc>
 			<Effects.0.SpecialAbilities.1.Desc>For every 15th strike, it will attack the cultivator's body itself, penetrating shield and deal additional damage.</Effects.0.SpecialAbilities.1.Desc>
 			<Effects.0.SpecialAbilities.2.Desc>For every 3 attacks, generates 9 spike apparitions that last 3 seconds.</Effects.0.SpecialAbilities.2.Desc>
 			<Effects.0.SpecialAbilities.3.Desc>The base power of artifact is increased by 1% for every 1 second the sword maintained flying. The effect is cleared when it returns.</Effects.0.SpecialAbilities.3.Desc>
 			<Effects.0.SpecialAbilities.4.Desc>For every 12 attacks on a same artifact, it can disable the target for a certain length of time corresponding to its tier.</Effects.0.SpecialAbilities.4.Desc>
 			<Effects.0.SpecialAbilities.5.Desc>For every 1% Health lower, Artifact Power is increased by 5%.</Effects.0.SpecialAbilities.5.Desc>
-			<Effects.0.SpecialAbilities.6.Desc>Power increases by 10% for each creature defeated, up to 36 layers. If you do not drink blood for a day, the effect will reset.</Effects.0.SpecialAbilities.6.Desc>
+			<Effects.0.SpecialAbilities.6.Desc>Each living being killed will increase its power by 10%, up to a maximum stacks of 36. The effect is cleared if it doesn't drink blood for 1 day.</Effects.0.SpecialAbilities.6.Desc>
 			<Effects.0.SpecialAbilities.7.Desc>Every 9th attack will cast a spell on the target enemy.</Effects.0.SpecialAbilities.7.Desc>
 			<Effects.0.SpecialAbilities.8.Desc>Protection skill level increased by 10.</Effects.0.SpecialAbilities.8.Desc>
 			<Effects.0.SpecialAbilities.9.Desc>At the cost of being shattered, defy death once and restore all damage dealt to you.</Effects.0.SpecialAbilities.9.Desc>
@@ -54,307 +54,308 @@
 		</Text>
 		<Text Name="Mutation_Effect_Yang_PlantIgnoreTemp">
 			<DisplayName>Plants Ignore Temperature Conditions</DisplayName>
-			<Desc>Tanaman sekte mengabaikan kondisi suhu untuk pertumbuhan.</Desc>
+			<Desc>Sect plants ignore temperature conditions for growth.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Persuasion">
-			<Desc>Sedikit meningkatkan tingkat keberhasilan persuasi murid sekte.</Desc>
+			<Desc>Slightly increases the persuasion success rate of sect disciples.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Persuasion2">
-			<Desc>Tingkatkan tingkat keberhasilan persuasi murid sekte.</Desc>
+			<Desc>Increase the persuasion success rate of sect disciples.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Persuasion3">
-			<Desc>Secara signifikan meningkatkan tingkat keberhasilan persuasi murid sekte.</Desc>
+			<Desc>Significantly increases the persuasion success rate of sect disciples.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_PuppetDropHPStop">
-			<Desc>Boneka tidak lagi terdegradasi.</Desc>
+			<Desc>Puppet ceases to degrade.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_1">
-			<Desc>Sedikit meningkatkan kecepatan pemulihan Qi murid sekte.</Desc>
+			<Desc>Slightly increase the Qi recovery speed of sect disciples.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_2">
-			<Desc>Meningkatkan kecepatan pemulihan Qi murid sekte.</Desc>
+			<Desc>Increase sect disciples' Qi recovery speed.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_3">
-			<Desc>Secara signifikan meningkatkan kecepatan pemulihan Qi murid sekte.</Desc>
+			<Desc>Significantly increases the Qi recovery speed of sect disciples.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_4">
-			<Desc>Tingkatkan kecepatan budidaya murid sekte.</Desc>
+			<Desc>Enhance sect disciples' cultivation speed.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_5">
-			<Desc>Secara signifikan meningkatkan kecepatan budidaya murid sekte.</Desc>
+			<Desc>Significantly increase the cultivation speed of sect disciples.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_6">
-			<Desc>Murid sekte menjadi kurang rentan terhadap kelaparan.</Desc>
+			<Desc>Sect disciples become less prone to hunger.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_7">
-			<Desc>Murid sekte menjadi kurang rentan terhadap kelelahan.</Desc>
+			<Desc>Sect disciples become less prone to fatigue.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_8">
-			<Desc>Murid sekte menjadi kurang rentan terhadap rasa haus.</Desc>
+			<Desc>Sect disciples become less prone to Thirst.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_9">
-			<Desc>Sedikit meningkatkan kekuatan penghalang Qi murid sekte.</Desc>
+			<Desc>Slightly increases the strength of sect disciples' Qi barrier.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_10">
-			<Desc>Tingkatkan kekuatan penghalang Qi untuk murid sekte</Desc>
+			<Desc>Increase the strength of Qi barrier for sect disciples</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_11">
-			<Desc>Sedikit meningkatkan kemungkinan murid sekte menerobos kemacetan.</Desc>
+			<Desc>Slightly increases the probability of sect disciples breaking through bottlenecks.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_12">
-			<Desc>Tingkatkan kemungkinan murid sekte menerobos kemacetan.</Desc>
+			<Desc>Increase the probability of sect disciples breaking through bottlenecks.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_13">
-			<Desc>Secara signifikan meningkatkan kemungkinan murid sekte menerobos kemacetan.</Desc>
+			<Desc>Significantly increases the probability of sect disciples breaking through bottlenecks.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_14">
-			<Desc>Sedikit meningkatkan kemampuan murid sekte untuk berlatih inedia.</Desc>
+			<Desc>Slightly increases the ability of sect disciples to practice inedia.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_15">
-			<Desc>Meningkatkan kemampuan murid sekte untuk berpantang makanan dan minuman</Desc>
+			<Desc>Improve the ability of sect disciples to abstain from food and drink</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_16">
-			<Desc>Sangat meningkatkan kemampuan murid sekte untuk berpantang makanan dan minuman.</Desc>
+			<Desc>Greatly enhances the ability of sect disciples to abstain from food and drink.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_17">
-			<Desc>Sedikit mengurangi bonus pencapaian murid Sekte.</Desc>
+			<Desc>Slightly reduces the attainment bonus of Sect disciples.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_18">
-			<Desc>Kurangi bonus pencapaian murid sekte.</Desc>
+			<Desc>Reduce sect disciples' attainment bonus.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_19">
-			<Desc>Secara signifikan menurunkan bonus prestasi Dao murid Sekte.</Desc>
+			<Desc>Significantly lowers Sect disciples' Dao merit bonus.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_20">
-			<Desc>Sedikit meningkatkan batas umur murid sekte.</Desc>
+			<Desc>Slightly increases sect disciples' lifespan cap.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_21">
-			<Desc>Tingkatkan batas umur murid sekte.</Desc>
+			<Desc>Increase sect disciples' lifespan limit.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_22">
-			<Desc>Sangat meningkatkan batas umur murid sekte.</Desc>
+			<Desc>Greatly enhances sect disciples' lifespan cap.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_23">
-			<Desc>Sedikit meningkatkan kecepatan pergerakan murid sekte</Desc>
+			<Desc>Slightly increase the movement speed of sect disciples</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_24">
-			<Desc>Tingkatkan kecepatan gerakan murid sekte</Desc>
+			<Desc>Increase sect disciples' movement speed</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_25">
-			<Desc>Sangat meningkatkan kecepatan gerakan murid sekte</Desc>
+			<Desc>Greatly increase sect disciples' movement speed</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_26">
-			<Desc>Tingkatkan kecepatan pembangunan fondasi murid sekte.</Desc>
+			<Desc>Enhance sect disciples' foundation building speed.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_27">
-			<Desc>Sangat meningkatkan kecepatan Pelatihan Dasar para murid sekte.</Desc>
+			<Desc>Greatly enhances sect disciples' Foundation Training speed.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_28">
-			<Desc>Tingkatkan kecepatan belajar murid sekte.</Desc>
+			<Desc>Enhance sect disciples' learning speed.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_29">
-			<Desc>Sangat meningkatkan kecepatan belajar murid sekte.</Desc>
+			<Desc>Greatly enhances sect disciples' learning speed.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_30">
-			<Desc>Sedikit meningkatkan kecepatan kerja keseluruhan murid sekte.</Desc>
+			<Desc>Slightly increases the overall work speed of sect disciples.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_31">
-			<Desc>Mempercepat pekerjaan keseluruhan murid Sekte.</Desc>
+			<Desc>Speeds up Sect disciples' overall work.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_32">
-			<Desc>Secara signifikan meningkatkan kecepatan kerja keseluruhan murid sekte.</Desc>
+			<Desc>Significantly increase the overall work speed of sect disciples.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_33">
-			<Desc>Sedikit meningkatkan nilai kondisi mental dasar murid sekte</Desc>
+			<Desc>Slightly increase the base mental state value of sect disciples</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_34">
-			<Desc>Meningkatkan nilai dasar Keadaan Mental murid Sekte.</Desc>
+			<Desc>Increases the base Mental State value of Sect disciples.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_35">
-			<Desc>Secara signifikan meningkatkan nilai kondisi mental dasar murid sekte.</Desc>
+			<Desc>Significantly increase the base mental state value of sect disciples.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_36">
-			<Desc>Kapasitas beban formasi murid sekte telah meningkat secara signifikan.</Desc>
+			<Desc>The formation load capacity of sect disciples has been significantly increased.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_37">
-			<Desc>Kapasitas beban formasi murid sekte telah meningkat secara signifikan.</Desc>
+			<Desc>The formation load capacity of sect disciples has been significantly increased.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_40">
-			<Desc>Keterampilan Pertempuran murid sekte level +1 (peningkatan batas).</Desc>
+			<Desc>Sect disciples' Battle skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_41">
-			<Desc>Tingkat keterampilan pertempuran murid sekte +1.</Desc>
+			<Desc>Sect disciples' Battle skill level +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_42">
-			<Desc>Level keterampilan Pertempuran murid sekte meningkat sebesar 2.</Desc>
+			<Desc>Sect disciple's Battle skill level increases by 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_43">
-			<Desc>Tingkat keterampilan sosial murid sekte +1 (batas peningkatan).</Desc>
+			<Desc>Sect disciples' Social skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_44">
-			<Desc>Tingkat keterampilan sosial murid sekte meningkat sebesar 1.</Desc>
+			<Desc>Sect disciple's Social skill level increases by 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_45">
-			<Desc>Tingkat keterampilan sosial murid sekte meningkat sebesar 2.</Desc>
+			<Desc>Sect disciple's Social skill level increases by 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_46">
-			<Desc>Keterampilan Artisanry murid sekte level +1 (peningkatan batas).</Desc>
+			<Desc>Sect disciples' Artisanry skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_47">
-			<Desc>Level keterampilan Artisanry murid sekte meningkat sebesar 1.</Desc>
+			<Desc>Sect disciple's Artisanry skill level increases by 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_48">
-			<Desc>Tingkat keterampilan Seni murid sekte +2.</Desc>
+			<Desc>Sect disciples' Art skill level +2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_49">
-			<Desc>Keterampilan Qi Sense murid sekte level +1 (menaikkan batas).</Desc>
+			<Desc>Sect disciples' Qi Sense skill level +1 (raises cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_50">
-			<Desc>Level keterampilan Qi Sense murid sekte meningkat sebesar 1.</Desc>
+			<Desc>Sect disciple's Qi Sense skill level increases by 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_51">
-			<Desc>Tingkat keterampilan Qi Sensing murid sekte +2.</Desc>
+			<Desc>Sect disciples' Qi Sensing skill level +2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_52">
-			<Desc>Keterampilan Kerajinan/Kerajinan Artefak murid sekte level +1 (batas peningkatan).</Desc>
+			<Desc>Sect disciples' Crafting/Artifact Crafting skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_53">
-			<Desc>Tingkat keterampilan Kerajinan/Kerajinan Artefak murid [SCHOOL] +1.</Desc>
+			<Desc>The [SCHOOL] disciple's Crafting/Artifact Crafting skill level +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_54">
-			<Desc>Tingkat keterampilan Kerajinan/Kerajinan Artefak murid sekte +2.</Desc>
+			<Desc>Sect disciples' Crafting/Artifact Crafting skill level +2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_55">
-			<Desc>Tingkat keterampilan Kedokteran/Kerajinan Alkimia murid sekte +1 (batas peningkatan).</Desc>
+			<Desc>Sect disciples' Medicine/Alchemy Crafting skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_56">
-			<Desc>Tingkat keterampilan Kedokteran/Alkimia murid sekte +1.</Desc>
+			<Desc>Sect disciples' Medicine/Alchemy skill level +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_57">
-			<Desc>Tingkat keterampilan Kedokteran/Alkimia murid sekte +2.</Desc>
+			<Desc>Sect disciples' Medicine/Alchemy skill level +2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_58">
-			<Desc>Tingkat keterampilan Penguasaan Artefak murid sekte +1 (peningkatan batas).</Desc>
+			<Desc>Sect disciples' Artifact Mastery skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_59">
-			<Desc>Tingkat keterampilan Penguasaan Artefak murid sekte +1.</Desc>
+			<Desc>Sect disciples' Artifact Mastery skill level +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_60">
-			<Desc>Tingkat keterampilan Penguasaan Artefak murid sekte +2.</Desc>
+			<Desc>Sect disciples' Artifact Mastery skill level +2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_61">
-			<Desc>Tingkat keterampilan Mantra murid sekte +1 (peningkatan batas).</Desc>
+			<Desc>Sect disciples' Spell skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_62">
-			<Desc>Tingkat keterampilan Mantra murid sekte +1.</Desc>
+			<Desc>Sect disciples' Spell skill level +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_63">
-			<Desc>Tingkat keterampilan Mantra murid sekte meningkat sebesar 2.</Desc>
+			<Desc>Sect disciple's Spell skill level increases by 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_64">
-			<Desc>Tingkat keterampilan Perlindungan murid sekte +1 (menaikkan batas).</Desc>
+			<Desc>Sect disciples' Protection skill level +1 (raises cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_65">
-			<Desc>Tingkat Keterampilan Perlindungan Murid Sekte +1</Desc>
+			<Desc>Sect Disciple Protection Skill Level +1</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_66">
-			<Desc>Tingkat keterampilan Perlindungan murid sekte meningkat sebesar 2.</Desc>
+			<Desc>Sect disciple's Protection skill level increases by 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_67">
-			<Desc>Keterampilan Formasi murid sekte level +1 (peningkatan batas).</Desc>
+			<Desc>Sect disciples' Formation skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_68">
-			<Desc>Tingkat keterampilan Formasi murid sekte meningkat sebesar 1.</Desc>
+			<Desc>Sect disciple's Formation skill level increases by 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_69">
-			<Desc>Tingkat keterampilan Formasi murid sekte meningkat sebesar 2.</Desc>
+			<Desc>Sect disciple's Formation skill level increases by 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_70">
-			<Desc>Tingkat keterampilan Penambangan murid sekte +1 (peningkatan batas).</Desc>
+			<Desc>Sect disciples' Mining skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_71">
-			<Desc>Level keterampilan Penambangan murid sekte meningkat sebesar 1.</Desc>
+			<Desc>Sect disciple's Mining skill level increases by 1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_72">
-			<Desc>Level keterampilan Penambangan murid sekte meningkat sebesar 2.</Desc>
+			<Desc>Sect disciple's Mining skill level increases by 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_73">
-			<Desc>Tingkat keterampilan Bertani murid sekte +1 (batas peningkatan).</Desc>
+			<Desc>Sect disciples' Farming skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_74">
-			<Desc>Keterampilan Bertani murid sekte tingkat +1.</Desc>
+			<Desc>Sect disciples' Farming skill level +1.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_75">
-			<Desc>Tingkat keterampilan Bertani murid sekte +2.</Desc>
+			<Desc>Sect disciples' Farming skill level +2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_76">
-			<Desc>Keterampilan Konstruksi murid sekte level +1 (menaikkan batas).</Desc>
+			<Desc>Sect disciples' Construction skill level +1 (raises cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_77">
-			<Desc>Keterampilan Konstruksi Murid Sekte Level +1</Desc>
+			<Desc>Sect Disciple Construction Skill Level +1</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_78">
-			<Desc>Tingkat keterampilan Konstruksi murid sekte meningkat sebesar 2.</Desc>
+			<Desc>Sect disciple's Construction skill level increases by 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_79">
-			<Desc>Keterampilan Memasak murid sekte level +1 (peningkatan batas).</Desc>
+			<Desc>Sect disciples' Cooking skill level +1 (increase cap).</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_80">
-			<Desc>Keterampilan Memasak Murid Sekte Level +1</Desc>
+			<Desc>Sect Disciple Cooking Skill Level +1</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_81">
-			<Desc>Level keterampilan Memasak murid sekte meningkat 2.</Desc>
+			<Desc>Sect disciple's Cooking skill level increases by 2.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_82">
-			<Desc>Karisma murid sekte meningkat sebesar 10%.</Desc>
+			<Desc>Sect disciples' charisma increases by 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_83">
-			<Desc>Karisma murid sekte meningkat sebesar 30%.</Desc>
+			<Desc>Sect disciples' charisma increases by 30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_84">
-			<Desc>Karisma murid sekte meningkat sebesar 50%.</Desc>
+			<Desc>Sect disciples' charisma increases by 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_85">
-			<Desc>Kecerdasan murid sekte meningkat 10%.</Desc>
+			<Desc>Sect disciples' Intelligence increases by 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_86">
-			<Desc>Kecerdasan murid sekte meningkat sebesar 30%.</Desc>
+			<Desc>Sect disciples' Intelligence increases by 30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_87">
-			<Desc>Kecerdasan murid sekte meningkat sebesar 50%.</Desc>
+			<Desc>Sect disciples' Intelligence increases by 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_88">
-			<Desc>Peluang murid sekte +10%</Desc>
+			<Desc>Sect disciples' opportunity +10%</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_89">
-			<Desc>Keberuntungan murid sekte meningkat sebesar 30%.</Desc>
+			<Desc>Sect disciples' luck increases by 30%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_90">
-			<Desc>Keberuntungan murid sekte meningkat sebesar 50%.</Desc>
+			<Desc>Sect disciples' luck increases by 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_91">
-			<Desc>Persepsi murid sekte meningkat sebesar 10%.</Desc>
+			<Desc>Sect disciples' perception increases by 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_92">
-			<Desc>Persepsi murid sekte +30%</Desc>
+			<Desc>Sect disciples' perception +30%</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_93">
-			<Desc>Persepsi murid sekte meningkat sebesar 50%.</Desc>
+			<Desc>Sect disciples' perception increases by 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_94">
-			<Desc>Konstitusi murid sekte meningkat sebesar 10%.</Desc>
+			<Desc>Sect disciples' constitution increases by 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_95">
-			<Desc>Fisik murid sekte +30%</Desc>
+			<Desc>Sect disciples' physique +30%</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_96">
-			<Desc>Konstitusi murid sekte meningkat sebesar 50%.</Desc>
+			<Desc>Sect disciples' constitution increases by 50%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_97">
-			<Desc>Lima atribut murid sekte meningkat sebesar 10%.</Desc>
+			<Desc>Sect disciples' five attributes increase by 10%.</Desc>
 		</Text>
 		<Text Name="Mutation_Effect_Yang_Modifier_38">
-			<Desc>Lima atribut murid sekte meningkat sebesar 30%.</Desc>
+			<Desc>Sect disciples' five attributes increase by 30%.</Desc>
 		</Text>
 	</List>
 </Texts>
+

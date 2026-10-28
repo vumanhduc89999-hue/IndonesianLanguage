@@ -1,2 +1,4 @@
 race	bdtag	desc
-LsXuanWu	XuanWuStone	Xuanwu Miaomiao adalah keturunan Xuanwu, tunggangan Kaisar Zhenwu.。Dua qi yin dan yang hidup berdampingan secara harmonis di dalam tubuhnya，Alkimia batin juga dapat dibagi menjadi dua。Oleh karena itu, Xuanwu dapat membungkuk dan meregang，Baik menyerang maupun bertahan。
+LsXuanWu	XuanWuStone	Huyền Vũ Miêu Miêu là hậu duệ của ngựa chiến của Đại Đế Chân Vũ. Trong cơ thể nó, âm dương khí hòa hợp và đồng tồn tại, nội đan cũng có thể chia thành hai. Do đó,Huyền Vũ có thể co rút và mở rộng, vừa có khả năng tấn công vừa có thể phòng thủ.
+
+

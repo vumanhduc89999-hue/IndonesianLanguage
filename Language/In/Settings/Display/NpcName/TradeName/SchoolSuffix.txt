@@ -1,24 +1,26 @@
-Sunshade Abode Male,m Sun I s,f Sun II s,f Sun III s
-Sunshade Abode Female,f Sun I s,f Sun II s,f Sun III s
-Kunlun Palace Male,m Mys I s,f Mys II s,f Mys III s
-Kunlun Palace Female,f Mys I s,f Mys II s,f Mys III s
-Skydome Palace Male,m Sky I s,f Sky II s,f Sky III s
-Skydome Palace Female,f Sky I s,f Sky II s,f Sky III s
-Purple Cloud Sect Male,m Pur I s,f Pur II s,f Pur III s
-Purple Cloud Sect Female,f Pur I s,f Pur II s,f Pur III s
-Mystic Unity Sect Male,m Tru I s,f Tru II s,f Tru III s
-Mystic Unity Sect Female,f Tru I s,f Tru II s,f Tru III s
-Blue Lotus Temple Male,m Blu I s,f Blu II s,f Blu III s
-Blue Lotus Temple Female,f Blu I s,f Blu II s,f Blu III s
-Evenfall Abode Male,m Eve I s,f Eve II s,f Eve III s
-Evenfall Abode Female,f Eve I s,f Eve II s,f Eve III s
-Mt. Hundred Insects Male,m Sav I s,f Sav II s,f Sav III s
-Mt. Hundred Insects Female,f Sav I s,f Sav II s,f Sav III s
-Pit of Doom Male,m Pit I s,f Pit II s,f Pit III s
-Pit of Doom Female,f Pit I s,f Pit II s,f Pit III s
-Seven-Slaughtering Sect Male,m Pit I s,f Pit II s,f Pit III s
-Seven-Slaughtering Sect Female,f Pit I s,f Pit II s,f Pit III s
-Exultant Sect Male,m Exu I s,f Exu II s,f Exu III s
-Exultant Sect Female,f Exu I s,f Exu II s,f Exu III s
-Daemonia Temple Male,m Dae I s,f Dae II s,f Dae III s
-Daemonia Temple Female,f Dae I s,f Dae II s,f Dae III s
+Đan Hà Động Thiên Nam,m Đan Nhất s,f Đan Nhị s,f Đan Tam s
+Đan Hà Động Thiên Nữ,f Đan Nhất s,f Đan Nhị s,f Đan Tam s
+Côn Lôn Cung Nam,m Côn Nhất s,f Côn Nhị s,f Côn Tam s
+Côn Lôn Cung Nữ,f Côn Nhất s,f Côn Nhị s,f Côn Tam s
+Cực Thiên Cung Nam,m Cực Nhất s,f Cực Nhị s,f Cực Tam s
+Cực Thiên Cung Nữ,f Cực Nhất s,f Cực Nhị s,f Cực Tam s
+Tử Tiêu Tông Nam,m Tử Nhất s,f Tử Nhị s,f Tử Tam s
+Tử Tiêu Tông Nữ,f Tử Nhất s,f Tử Nhị s,f Tử Tam s
+Huyền Nhất Đạo Nam,m Chính Nhất s,f Chính Nhị s,f Chính Tam s
+Huyền Nhất Đạo Nữ,f Chính Nhất s,f Chính Nhị s,f Chính Tam s
+Thanh Liên Kiếm Tông Nam,m Thanh Nhất s,f Thanh Nhị s,f Thanh Tam s
+Thanh Liên Kiếm Tông Nữ,f Thanh Nhất s,f Thanh Nhị s,f Thanh Tam s
+Tê Hà Động Thiên Nam,m Tê Nhất s,f Tê Nhị s,f Tê Tam s
+Tê Hà Động Thiên Nữ,f Tê Nhất s,f Tê Nhị s,f Tê Tam s
+Bách Man sơn Nam,m Bách Nhất s,f Bách Nhị s,f Bách Tam s
+Bách Man sơn Nữ,f Bách Nhất s,f Bách Nhị s,f Bách Tam s
+Thất Thiên Ổ Nam,m Thất Nhất s,f Thất Nhị s,f Thất Tam s
+Thất Thiên Ổ Nữ,f Thất Nhất s,f Thất Nhị s,f Thất Tam s
+Thất sát Ma Cung Nam,m Thất Nhất s,f Thất Nhị s,f Thất Tam s
+Thất sát Ma Cung Nữ,f Thất Nhất s,f Thất Nhị s,f Thất Tam s
+Hợp Hoan Phái Nam,m Hợp Nhất s,f Hợp Nhị s,f Hợp Tam s
+Hợp Hoan Phái Nữ,f Hợp Nhất s,f Hợp Nhị s,f Hợp Tam s
+Vạn Yêu Điện Nam,m Vạn Nhất s,f Vạn Nhị s,f Vạn Tam s
+Vạn Yêu Điện Nữ,f Vạn Nhất s,f Vạn Nhị s,f Vạn Tam s
+
+

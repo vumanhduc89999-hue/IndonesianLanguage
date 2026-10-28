@@ -40,3 +40,4 @@
 /Settings/RPG/Maps/firstfightmap/map.txt	Things.Things.25.PropertyMgr._hd.RelationData.Cache.0.SName	松	25.0	_ReplaceNpcNameInRelationData
 /Settings/RPG/Maps/firstfightmap/map.txt	Things.Things.25.PropertyMgr._hd.RelationData.Cache.1.PName	危	25.1	_ReplaceNpcNameInRelationData
 /Settings/RPG/Maps/firstfightmap/map.txt	Things.Things.25.PropertyMgr._hd.RelationData.Cache.1.SName	婷	25.1	_ReplaceNpcNameInRelationData
+

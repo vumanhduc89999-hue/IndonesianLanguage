@@ -91,3 +91,4 @@
 /Settings/TeachFile/JC-07.osave	Esoterica.Data.8.DisplayName	天道神丹	8	_ReplaceEsotericaName
 /Settings/TeachFile/JC-07.osave	Esoterica.Data.9.DisplayName	天道神器	9	_ReplaceEsotericaName
 /Settings/TeachFile/JC-07.osave	Esoterica.Data.10.DisplayName	化形神农	10	_ReplaceEsotericaName
+

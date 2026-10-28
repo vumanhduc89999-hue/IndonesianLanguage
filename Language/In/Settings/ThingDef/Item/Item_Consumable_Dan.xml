@@ -1,323 +1,324 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="DanBase" sParam="Item">
-			<Item.FabaoSuffix>Bead, Bolus, Ball</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Ngọc, hoàn, cầu</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_BasePracticeDrug" sParam="Item">
-			<ThingName>Forming Pill</ThingName>
-			<Desc>Pil yang dibuat oleh kultivator abadi, dapat mengatur lima Qi dalam tubuh seseorang dan menstimulasi potensinya, untuk sementara meningkatkan Persepsi, Konstitusi, dan Kecerdasan sebesar 30% selama 48 jam. Secara signifikan meningkatkan kemajuan Pelatihan Dasar untuk murid luar saat dikonsumsi.</Desc>
+			<ThingName>Trúc Cơ Đan</ThingName>
+			<Desc>Đan dược do tiên gia tu hành luyện chế, có thể điều chỉnh ngũ khí trong cơ thể, kích hoạt tiềm năng thân thể, tạm thời tăng 30% thần thức, căn cốt, ngộ tính trong 24 giờ. Đệ tử ngoại môn sử dụng sẽ thúc đẩy đáng kể tiến độ trúc cơ.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan" sParam="Item">
-			<ThingName>Stamina Pill</ThingName>
-			<Desc>Meningkatkan kemampuan tubuh dalam menghasilkan Stamina, meningkatkan Tingkat Konsumsi Kelaparan dan Tingkat Konversi Stamina selama 7 hari.</Desc>
+			<ThingName>Tinh Nguyên Đan</ThingName>
+			<Desc>Trong 7 ngày tăng khả năng sản sinh tinh nguyên của cơ thể, tăng tốc độ tiêu hao độ no, tăng tỷ lệ chuyển hóa tinh nguyên.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan2" sParam="Item">
-			<ThingName>Ginseng Pill</ThingName>
-			<Desc>Meningkatkan kemampuan tubuh dalam menghasilkan Stamina, meningkatkan Tingkat Konsumsi Kelaparan dan Tingkat Konversi Stamina selama 14 hari.</Desc>
+			<ThingName>Tham Chi Cửu Khiếu Hoàn</ThingName>
+			<Desc>Trong 14 ngày tăng khả năng sản sinh tinh nguyên của cơ thể, tăng tốc độ tiêu hao độ no, tăng tỷ lệ chuyển hóa tinh nguyên.</Desc>
 		</Text>
 		<Text Name="Item_Dan_JingYuan3" sParam="Item">
-			<ThingName>Resin Essence Powder</ThingName>
-			<Desc>Meningkatkan kemampuan tubuh dalam menghasilkan Stamina, meningkatkan Tingkat Konsumsi Kelaparan dan Tingkat Konversi Stamina selama 28 hari.</Desc>
+			<ThingName>Huyết Kiệt Tán</ThingName>
+			<Desc>Trong 28 ngày tăng khả năng sản sinh tinh nguyên của cơ thể, tăng tốc độ tiêu hao độ no, tăng tỷ lệ chuyển hóa tinh nguyên.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling" sParam="Item">
-			<ThingName>Qi Regen Pill</ThingName>
-			<Desc>Pil kaya akan Qi. Konsumsilah untuk memulihkan 3.000 Qi dan meningkatkan Tingkat Pemulihan Qi selama 6 jam. Umumnya disarankan untuk menunda konsumsi setelah mencapai fase pembentukan inti, jika tidak, pengguna dapat terluka atau bahkan mati karena tidak mampu menahan potensinya.</Desc>
+			<ThingName>Tụ Linh Đan</ThingName>
+			<Desc>Đan dược chứa đầy linh khí, sử dụng có thể hồi phục 3000 linh khí, và tăng tốc độ hồi phục linh khí trong 6 giờ. Thông thường chỉ có thể sử dụng ở giai đoạn kết đan trở lên, nếu không có thể chịu không nổi dược tính mà bị thương, thậm chí tử vong.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling2" sParam="Item">
-			<ThingName>Sun Pill</ThingName>
-			<Desc>Pil ramuan ungu tua. Konsumsilah untuk memulihkan Qi dalam jumlah besar dan meningkatkan Max Qi. Mengonsumsinya dalam jumlah banyak akan mengurangi efeknya secara signifikan. Sebaiknya hanya dikonsumsi setelah mencapai fase Inti Emas, jika tidak, pengguna dapat terluka atau bahkan mati karena tidak mampu menahan potensinya.</Desc>
+			<ThingName>Tử Dương Đan</ThingName>
+			<Desc>Viên đan màu tím đậm, sử dụng có thể hồi phục lượng lớn linh khí và tăng giới hạn linh khí tối đa. Hiệu quả tăng giới hạn linh khí sẽ giảm dần khi sử dụng nhiều lần. Chỉ có thể sử dụng ở giai đoạn kim đan trở lên, nếu không có thể chịu không nổi dược tính mà bị thương, thậm chí tử vong.</Desc>
 		</Text>
 		<Text Name="Item_Dan_PracticeRate" sParam="Item">
-			<ThingName>Thought Pill</ThingName>
-			<Desc>Pil yang terbuat dari Buah Sage dan Daun Kemurnian, mampu mempercepat proses berpikir seseorang, menggandakan kemungkinan mencapai Terobosan. Berlangsung 24 jam. Mengonsumsinya dalam jumlah banyak akan mengurangi efeknya secara signifikan.</Desc>
+			<ThingName>Hoàng Đình Đan</ThingName>
+			<Desc>Đan dược luyện từ Lang Gia Quả và cỏ Tĩnh Tâm, có thể làm cho tư duy sáng suốt như điện, tăng gấp đôi khả năng vượt qua điểm nút, kéo dài hai mươi bốn giờ. Dùng nhiều lần sẽ làm giảm hiệu quả thuốc.</Desc>
 		</Text>
 		<Text Name="Item_Dan_PracticeSpeed" sParam="Item">
-			<ThingName>Sprout Pill</ThingName>
-			<Desc>Pil yang terbuat dari Buah Crimson mampu meningkatkan Kecepatan Budidaya sebesar 30%. Berlangsung 24 jam.</Desc>
+			<ThingName>Hoàng Nha Đan</ThingName>
+			<Desc>Đan dược luyện từ quả Chu, có thể tăng tốc độ tu luyện lên 30%, kéo dài mười hai giờ.</Desc>
 		</Text>
 		<Text Name="Item_Dan_CalmDown" sParam="Item">
-			<ThingName>Purity Pill</ThingName>
-			<Desc>Pil yang terbuat dari Daun Kemurnian dan Bubuk Kristal Es, dapat menstabilkan Kondisi Mental seseorang.</Desc>
+			<ThingName>Thanh Tâm Đan</ThingName>
+			<Desc>Đan dược luyện từ cỏ Tĩnh Tâm và Hàn Tinh Sa, có thể ổn định tâm cảnh.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Happiness" sParam="Item">
-			<ThingName>Euphoria Pill</ThingName>
-			<Desc>Pil yang bisa membuat seseorang merasa bahagia selama 2 hari, tapi juga menurunkan efisiensi dalam melakukan segalanya hingga 50%.</Desc>
+			<ThingName>Cực Lạc Đan</ThingName>
+			<Desc>Đan dược có thể đem lại niềm vui trong hai ngày, nhưng sau khi ăn, hiệu suất làm việc sẽ giảm 50%.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger" sParam="Item">
-			<ThingName>Inedia Pill</ThingName>
-			<Desc>Konsumsi Pil Inedia untuk mendapatkan kemampuan Penyerapan Qi selama 2 hari, secara otomatis memulihkan Rasa Lapar.</Desc>
+			<ThingName>Ẩm Khí Đan</ThingName>
+			<Desc>Dùng đan dược Uống Khí để có khả năng uống khí trong hai ngày, tự động hồi phục độ no.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger2" sParam="Item">
-			<ThingName>Fasting Pill</ThingName>
-			<Desc>Konsumsilah Pil Puasa agar kebal dari rasa lapar selama 2 hari.</Desc>
+			<ThingName>Tị Cốc Đan</ThingName>
+			<Desc>Dùng đan dược Bích Cốc để không cảm thấy đói trong hai ngày.</Desc>
 		</Text>
 		<Text Name="Item_Dan_NoHunger1" sParam="Item">
-			<ThingName>Nourish Pill</ThingName>
-			<Desc>Konsumsilah untuk mengisi kembali nutrisi, mengurangi tingkat kelaparan dan tingkat kelelahan selama 2 hari.</Desc>
+			<ThingName>Binh Lương Hoàn</ThingName>
+			<Desc>Sau khi dùng có thể bổ sung dinh dưỡng, giảm tốc độ đói và mệt mỏi, kéo dài hai ngày.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LostSoul" sParam="Item">
-			<ThingName>Sedation Pill</ThingName>
-			<Desc>Pil berbahan dasar mineral yang sangat mendasar. Mengkonsumsi pil ini akan menyebabkan fungsi otak seseorang tertekan sehingga membuat penggunanya mengalami koma selama 3 hari penuh.</Desc>
+			<ThingName>Nhiếp Thần Đan</ThingName>
+			<Desc>Một phương thuốc cơ bản từ kim thạch, sau khi dùng sẽ làm giảm hoạt tính não, khiến nó rơi vào trạng thái hôn mê ba ngày ba đêm.</Desc>
 		</Text>
 		<Text Name="Item_Dan_DredgeQi1" sParam="Item">
-			<ThingName>Spirit Powder</ThingName>
-			<Desc>Bubuk obat yang terbuat dari Ginseng dan Ganoderma, dapat merangsang saluran meridian seseorang dan menyembuhkan luka dengan label “Spirit”.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<ThingName>Thông Mạch Tán</ThingName>
+			<Desc>Bột thuốc điều chế từ nhân sâm và cỏ Chi, có thể thông kinh hoạt mạch, chữa trị các vết thương loại “linh”.</Desc>
+			<Item.FabaoSuffix>Cát, bụi, bột, khí độc</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_DredgeQi" sParam="Item">
-			<ThingName>Qi Flow Pill</ThingName>
-			<Desc>Pil yang dapat menetralkan Qi yang tidak teratur di dalam tubuh seseorang, mampu menyembuhkan luka secara efektif dengan label “Spirit”.</Desc>
+			<ThingName>Lý Khí Đan</ThingName>
+			<Desc>Đan dược có thể điều chỉnh khí hỗn loạn trong cơ thể, hiệu quả chữa trị các vết thương loại “linh”.</Desc>
 		</Text>
 		<Text Name="Item_Dan_WuLingSan" sParam="Item">
-			<ThingName>Heal Powder</ThingName>
-			<Desc>Elixir mampu menyembuhkan Cedera Batin dengan tag "Logam", "Kayu", "Air", "Api" dan "Bumi"; kerja yang relatif lambat.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<ThingName>Ngũ Linh Tán</ThingName>
+			<Desc>Có thể hóa giải các vết thương nội môn loại “kim”, “mộc”, “thủy”, “hỏa”, “thổ”, nhưng hiệu quả khá chậm.</Desc>
+			<Item.FabaoSuffix>Cát, bụi, bột, khí độc</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_CureJinDamage" sParam="Item">
-			<ThingName>Wood Pill</ThingName>
-			<Desc>Sembuhkan Cedera Batin secara instan dengan tag "Kayu".</Desc>
+			<ThingName>Canh Kim Vạn Hóa Hoàn</ThingName>
+			<Desc>Hóa giải ngay lập tức các vết thương nội môn loại “mộc”.</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureMuDamage" sParam="Item">
-			<ThingName>Earth Pill</ThingName>
-			<Desc>Sembuhkan Cedera Batin secara instan dengan tag "Bumi".</Desc>
+			<ThingName>Bích Xuân Đan</ThingName>
+			<Desc>Hóa giải ngay lập tức các vết thương nội môn loại “thổ”.</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureShuiDamage" sParam="Item">
-			<ThingName>Fire Powder</ThingName>
-			<Desc>Sembuhkan Cedera Batin secara instan dengan tag "Api".</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<ThingName>Thiên Nhất Thừa Khí Tán</ThingName>
+			<Desc>Hóa giải ngay lập tức các vết thương nội môn loại “hỏa”.</Desc>
+			<Item.FabaoSuffix>Cát, bụi, bột, khí độc</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_CureHuoDamage" sParam="Item">
-			<ThingName>Metal Pill</ThingName>
-			<Desc>Sembuhkan Cedera Batin secara instan dengan tag "Logam".</Desc>
+			<ThingName>Hỏa Chân Đan</ThingName>
+			<Desc>Hóa giải ngay lập tức các vết thương nội môn loại “kim”.</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureTuDamage" sParam="Item">
-			<ThingName>Water Pill</ThingName>
-			<Desc>Sembuhkan Cedera Batin secara instan dengan tag "Air".</Desc>
+			<ThingName>Định Khôn Đan</ThingName>
+			<Desc>Hóa giải ngay lập tức các vết thương nội môn loại “thủy”.</Desc>
 		</Text>
 		<Text Name="Item_Dan_CureFiveElementDamage" sParam="Item">
-			<ThingName>Remedy Pill</ThingName>
-			<Desc>Pil yang mampu menyembuhkan Cedera Batin dengan label "Logam", "Kayu", "Air", "Api" dan "Bumi"; kerja yang relatif cepat.</Desc>
+			<ThingName>Ngũ Phương Hóa Thương Đan</ThingName>
+			<Desc>Có thể hóa giải các vết thương nội môn loại “kim”, “mộc”, “thủy”, “hỏa”, “thổ”, hiệu quả nhanh chóng.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Restore" sParam="Item">
-			<ThingName>Cure Powder</ThingName>
-			<Desc>Merangsang potensi tubuh, memperbaiki sebagian besar bekas luka lama.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<ThingName>Quy Nguyên Tán</ThingName>
+			<Desc>Kích hoạt tiềm năng cơ thể, có thể sửa chữa phần lớn các vết thương cũ còn sót lại trên cơ thể.</Desc>
+			<Item.FabaoSuffix>Cát, bụi, bột, khí độc</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_ExtremeLofty" sParam="Item">
-			<ThingName>Panacea Pill</ThingName>
-			<Desc>Pil ajaib yang dapat memanfaatkan jalan surga, mampu membawa seseorang kembali dari ambang kematian, bahkan ketika subjeknya hanya memiliki satu nafas tersisa. (Tidak dapat digunakan saat sekarat)</Desc>
+			<ThingName>Tạo Hóa Thần Đan</ThingName>
+			<Desc>Thần đan đoạt tạo hóa của trời đất, chỉ cần còn một hơi thở, có thể kéo người từ tay Diêm Vương trở về. (Không dùng được khi hấp hối)</Desc>
 		</Text>
 		<Text Name="Item_Dan_HundredRefine" sParam="Item">
-			<ThingName>Samsara Pill</ThingName>
-			<Desc>Obat mujarab Tao tertinggi yang hanya bekerja saat pertama kali dikonsumsi. Ini sangat meningkatkan budidaya, tetapi harus dikonsumsi setelah fase Inti Emas, jika tidak, pengguna mungkin terluka atau bahkan mati karena tidak mampu menahan potensinya.</Desc>
+			<ThingName>Cửu Chuyển Kim Đan</ThingName>
+			<Desc>Thần đan tối thượng của Đạo môn, chỉ có hiệu quả lần đầu sử dụng, có thể giúp tăng tiến tu vi, nhưng phải đạt Kim Đan kỳ mới có thể dùng, nếu không sẽ không chịu nổi dược lực mà bị thương hoặc tử vong.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife1" sParam="Item">
-			<ThingName>Life Pill</ThingName>
-			<Desc>Pil yang bisa memperpanjang umur 180 tahun. Ia hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
+			<ThingName>Trường Sinh Đan</ThingName>
+			<Desc>Có thể kéo dài tuổi thọ ba giáp tử, thuốc đan này chỉ có hiệu quả toàn diện khi sử dụng lần đầu, sau đó công hiệu sẽ giảm đáng kể.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife2" sParam="Item">
-			<ThingName>Vitata Elixir</ThingName>
-			<Desc>Elixir yang bisa memperpanjang umur 200 tahun. Ia hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<ThingName>Huyền Tẫn Tục Mệnh Tán</ThingName>
+			<Desc>Có thể kéo dài tuổi thọ hai trăm năm, chỉ có hiệu quả toàn diện khi sử dụng lần đầu, sau đó tác dụng sẽ giảm đi nhiều.</Desc>
+			<Item.FabaoSuffix>Cát, bụi, bột, khí độc</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife3" sParam="Item">
-			<ThingName>Eternity Pill</ThingName>
-			<Desc>Konsumsi untuk memperpanjang umur 500 tahun, serta meningkatkan Lima Atribut masing-masing sebesar 10%. Hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
+			<ThingName>Ngũ Cực Linh Đan</ThingName>
+			<Desc>Sử dụng có thể kéo dài tuổi thọ năm trăm năm, và nâng cao năm chiều lên 10%. Chỉ có hiệu quả toàn diện khi sử dụng lần đầu, sau đó tác dụng sẽ giảm đi nhiều.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife4" sParam="Item">
-			<ThingName>Regen Pill</ThingName>
-			<Desc>Pil yang bisa memperpanjang umur 256 tahun. Ia hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
+			<ThingName>Tái Tạo Kim Đan</ThingName>
+			<Desc>Có thể kéo dài tuổi thọ hai trăm năm mươi sáu năm, chỉ có hiệu quả toàn diện khi sử dụng lần đầu, sau đó tác dụng sẽ giảm đi nhiều.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseLife5" sParam="Item">
-			<ThingName>Morrow Pill</ThingName>
-			<Desc>Pil yang dapat memperpanjang umur 490 tahun, sekaligus menunda datangnya Kesengsaraan Surgawi selama 49 hari. Hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
+			<ThingName>Tương Lai Tinh Túc Hóa Kiếp Đan</ThingName>
+			<Desc>Có thể kéo dài tuổi thọ bốn trăm chín mươi năm, và có thể trì hoãn Thiên Kiếp trong bốn mươi chín ngày. Chỉ có hiệu quả toàn diện khi sử dụng lần đầu, sau đó tác dụng sẽ giảm đi nhiều.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseNeckCountdown1" sParam="Item">
-			<ThingName>Harmony Pill</ThingName>
-			<Desc>Pil yang dapat menunda datangnya Kesengsaraan Surgawi selama 108 hari. Hanya berfungsi sepenuhnya saat pertama kali dikonsumsi, dan potensi konsumsi selanjutnya akan berkurang dengan cepat.</Desc>
+			<ThingName>Càn Nguyên Tị Kiếp Đan</ThingName>
+			<Desc>Có thể trì hoãn Thiên Kiếp trong một trăm lẻ tám ngày. Chỉ có hiệu quả toàn diện khi sử dụng lần đầu, sau đó hiệu quả sẽ dần giảm.</Desc>
 		</Text>
 		<Text Name="Item_Dan_IncreaseNeckCountdown2" sParam="Item">
-			<ThingName>Justice Pill</ThingName>
-			<Desc>Menipu cara Surga menggunakan roh binatang dalam sembilan Mutiara Jiwa, dan menunda Kesengsaraan Surgawi selama 27 hari. Dapat dikonsumsi berkali-kali.</Desc>
+			<ThingName>Bích Huyết Đan Thanh</ThingName>
+			<Desc>Lợi dụng linh hồn của yêu thú trong chín viên Huyền Phân Châu làm màn che, có thể trì hoãn Thiên Kiếp trong hai mươi bảy ngày. Có thể sử dụng nhiều lần.</Desc>
 		</Text>
 		<Text Name="Item_Dan_SwordBall" sParam="Item">
-			<ThingName>Blade Pill</ThingName>
-			<Desc>Pil ramuan seperti yang tercatat di Pedang Tujuh Pembantaian, dapat dibuat dengan memurnikan esensi lima logam dengan Tungku Alkimia. Jangan menelan—selamanya.</Desc>
+			<ThingName>Kiếm Hoàn</ThingName>
+			<Desc>Viên đan được ghi chép trong kiếm quyết Thất Sát, có thể được tinh luyện từ năm kim loại trong đan lò. Tuyệt đối không thể nuốt.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Defense" sParam="Item">
-			<ThingName>Shield Pill</ThingName>
-			<Desc>Konsumsi untuk meningkatkan Qi Perlindungan Tubuh selama 24 jam.</Desc>
+			<ThingName>Chân Cương Đan</ThingName>
+			<Desc>Sau khi sử dụng có thể tăng cường độ chân khí bảo vệ trong mười hai giờ.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Ling3" sParam="Item">
-			<ThingName>Divine Powder</ThingName>
-			<Desc>Konsumsi untuk memulihkan 300.000 Qi, serta meningkatkan Max Qi sebanyak 100.000 selama 48 jam. Jika Budidaya seseorang terlalu rendah, pengguna mungkin mati karena ledakan cadangan Qi.</Desc>
+			<ThingName>Vạn Linh Tán</ThingName>
+			<Desc>Sau khi sử dụng có thể phục hồi 300000 điểm linh khí, và trong hai mươi bốn giờ có thể tăng cường tối đa linh khí thêm 100000 điểm. Nếu tu vi của người sử dụng quá thấp, có thể dẫn đến nổ khí hải mà chết.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase1" sParam="Item">
-			<ThingName>Heavenly Pill</ThingName>
-			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Persepsi sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
+			<ThingName>Thông Thiên Hoàn</ThingName>
+			<Desc>Sau khi sử dụng kích hoạt nguyên khí, có thể tăng cường thần thức lên 30% trong hai mươi bốn giờ. Nhưng cũng sẽ vì vậy mà giảm thọ 3 năm.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase2" sParam="Item">
-			<ThingName>Earthly Pill</ThingName>
-			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Konstitusi sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
+			<ThingName>Nạp Địa Hoàn</ThingName>
+			<Desc>Sau khi sử dụng kích hoạt nguyên khí, có thể tăng cường căn cốt lên 30% trong hai mươi bốn giờ. Nhưng cũng sẽ vì vậy mà giảm thọ 3 năm.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase3" sParam="Item">
-			<ThingName>Ether Pill</ThingName>
-			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Karisma sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
+			<ThingName>Dật Tiên Hoàn</ThingName>
+			<Desc>Sau khi sử dụng kích hoạt nguyên khí, có thể tăng cường sức hấp dẫn lên 30% trong hai mươi bốn giờ. Nhưng cũng sẽ vì vậy mà giảm thọ 3 năm.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase4" sParam="Item">
-			<ThingName>Wisdom Pill</ThingName>
-			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Intelegensi sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
+			<ThingName>Minh Thông Hoàn</ThingName>
+			<Desc>Sau khi sử dụng kích hoạt nguyên khí, có thể tăng cường ngộ tính lên 30% trong hai mươi bốn giờ. Nhưng cũng sẽ vì vậy mà giảm thọ 3 năm.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBase5" sParam="Item">
-			<ThingName>Blessed Pill</ThingName>
-			<Desc>Konsumsi untuk mengaktifkan Qi purba Anda, meningkatkan Keberuntungan sebesar 30% selama 48 jam. Namun akibatnya, 3 tahun kehidupan akan hilang.</Desc>
+			<ThingName>Thần Hựu Hoàn</ThingName>
+			<Desc>Sau khi sử dụng kích hoạt nguyên khí, có thể tăng cường cơ hội lên 30% trong hai mươi bốn giờ. Nhưng cũng sẽ vì vậy mà giảm thọ 3 năm.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FiveBaseFromLife" sParam="Item">
-			<ThingName>Bane Pill</ThingName>
-			<Desc>Konsumsilah untuk mengaktifkan Qi purba Anda, tingkatkan Lima Atribut masing-masing sebesar 10%. Namun akibatnya, 60 tahun kehidupan akan hilang.</Desc>
+			<ThingName>Ngũ Độc Ngũ Khí Nguyên Thần Đan</ThingName>
+			<Desc>Sau khi sử dụng kích thích nguyên khí, năm thuộc tính sẽ tăng lên 10%. Nhưng cũng sẽ vì vậy mà giảm thọ một giáp tử.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail1" sParam="Item">
-			<ThingName>Junk Pill</ThingName>
-			<Desc>Sisa-sisa proses meramu pil yang gagal. Ada kekuatan aneh yang muncul di dalam, entah apa yang akan terjadi pada orang yang mengkonsumsinya.</Desc>
+			<ThingName>Đan Dược Bị Hủy</ThingName>
+			<Desc>Tàn dư của viên đan thất bại, trong đó có sức mạnh kỳ lạ đang cuồn cuộn, ăn vào không biết sẽ xảy ra chuyện gì.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail2" sParam="Item">
-			<ThingName>Junk Pill</ThingName>
-			<Desc>Sisa-sisa proses meramu pil yang gagal. Ada kekuatan aneh yang muncul di dalam, entah apa yang akan terjadi pada orang yang mengkonsumsinya.</Desc>
+			<ThingName>Đan Dược Bị Hủy</ThingName>
+			<Desc>Tàn dư của viên đan thất bại, trong đó có sức mạnh kỳ lạ đang cuồn cuộn, ăn vào không biết sẽ xảy ra chuyện gì.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail3" sParam="Item">
-			<ThingName>Junk Pill</ThingName>
-			<Desc>Sisa-sisa proses meramu pil yang gagal. Ada kekuatan aneh yang muncul di dalam, entah apa yang akan terjadi pada orang yang mengkonsumsinya.</Desc>
+			<ThingName>Đan Dược Bị Hủy</ThingName>
+			<Desc>Tàn dư của viên đan thất bại, trong đó có sức mạnh kỳ lạ đang cuồn cuộn, ăn vào không biết sẽ xảy ra chuyện gì.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail4" sParam="Item">
-			<ThingName>Junk Pill</ThingName>
-			<Desc>Pil rusak yang sepertinya menyerap terlalu banyak api Tungku Alkimia. Mengkonsumsinya akan menyebabkan lima organ dalam seseorang terbakar dan umurnya berkurang. Namun jika seseorang bisa selamat dari cedera seperti itu, hal itu mungkin masih membawa manfaat.</Desc>
+			<ThingName>Đan Dược Bị Hủy</ThingName>
+			<Desc>Viên đan thất bại, dường như đã hấp thụ quá mức sức mạnh chân hỏa trong đan lò, có thể khiến người sử dụng bị thiêu đốt bên trong, và sẽ tổn hại tuổi thọ. Nhưng nếu sống sót qua được thương tích này, có thể sẽ nhận được một số lợi ích.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fail5" sParam="Item">
-			<ThingName>Junk Pill</ThingName>
-			<Desc>Sisa-sisa proses meramu pil yang gagal. Ada kekuatan aneh yang muncul di dalam, entah apa yang akan terjadi pada orang yang mengkonsumsinya.</Desc>
+			<ThingName>Đan Dược Bị Hủy</ThingName>
+			<Desc>Tàn dư của viên đan thất bại, trong đó có sức mạnh kỳ lạ đang cuồn cuộn, ăn vào không biết sẽ xảy ra chuyện gì.</Desc>
 		</Text>
 		<Text Name="Item_Dan_TreeEXP" sParam="Item">
-			<ThingName>Eureka Pill</ThingName>
-			<Desc>Ramuan yang mengandung kekuatan penciptaan surgawi. Mengkonsumsinya memungkinkan seseorang merasakan gerakan Tao dan memperoleh Inspirasi darinya. Kuantitas Inspirasi yang diperoleh relatif terhadap Kecerdasan dan Keadaan Mental seseorang pada saat dikonsumsi.</Desc>
+			<ThingName>Thiên Đạo Thần Đan</ThingName>
+			<Desc>Viên đan chứa đựng sự tạo hóa của vũ trụ, sử dụng có thể cảm nhận được vận hành của đại đạo và từ đó đạt được sự ngộ. Mức độ ngộ nhận được phụ thuộc vào ngộ tính và tâm trạng khi sử dụng của người sử dụng.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Thin" sParam="Item">
-			<ThingName>Fitness Pill</ThingName>
-			<Desc>Elixir dibuat oleh kultivator abadi. Mengkonsumsinya membuat tubuh karakter menjadi lebih langsing.</Desc>
+			<ThingName>Phùng Nhân Hộ Oản</ThingName>
+			<Desc>Viên đan do tu sĩ tiên gia chế tạo, sử dụng có thể khiến nhân vật giảm cân.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock" sParam="Item">
-			<ThingName>Fixing Pill</ThingName>
-			<Desc>Elixir dibuat oleh kultivator abadi. Mengkonsumsinya mengunci penampilan karakter saat ini.</Desc>
+			<ThingName>Ma Diện Chi Già</ThingName>
+			<Desc>Viên đan do tu sĩ tiên gia chế tạo, sử dụng có thể khiến diện mạo hiện tại của nhân vật được khóa lại.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceUnLock" sParam="Item">
-			<ThingName>Truth Pill</ThingName>
-			<Desc>Pil yang dibuat oleh kultivator abadi. Mengkonsumsinya akan mengembalikan penampilan karakter yang sebenarnya.</Desc>
+			<ThingName>Ngũ Khí Lôi Phù</ThingName>
+			<Desc>Viên đan do tu sĩ tiên gia chế tạo, sử dụng có thể giúp nhân vật trở về vẻ đẹp thật.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock1" sParam="Item">
-			<ThingName>Child Face Drug</ThingName>
-			<Desc>Pil yang dibuat oleh kultivator abadi. Mengkonsumsinya untuk membentuk wajah polos seperti bayi.</Desc>
+			<ThingName>Đồng Nhan đan</ThingName>
+			<Desc>Đan dược do Tu Hành Giả tiên gia luyện chế, sử dụng sẽ định hình dung mạo thành thời trẻ Ngây thơ.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock2" sParam="Item">
-			<ThingName>Adult Face Drug</ThingName>
-			<Desc>Pil yang dibuat oleh kultivator abadi. Mengkonsumsinya untuk membentuk wajah energik seperti orang dewasa.</Desc>
+			<ThingName>Đan Thịnh Nhan</ThingName>
+			<Desc>Đan dược do Tu Hành Giả tiên gia luyện chế, sử dụng sẽ định hình dung mạo thành trưởng thành phóng khoáng.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FaceLock3" sParam="Item">
-			<ThingName>Elder Face Drug</ThingName>
-			<Desc>Pil yang dibuat oleh kultivator abadi. Mengkonsumsinya untuk membentuk wajah sedalam orang tua.</Desc>
+			<ThingName>Đan Thương Nhan</ThingName>
+			<Desc>Đan dược do Tu Hành Giả tiên gia luyện chế, sử dụng sẽ định hình dung mạo thành già sâu sắc.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Fat" sParam="Item">
-			<ThingName>Power Pill</ThingName>
-			<Desc>Elixir dibuat oleh kultivator abadi. Mengkonsumsinya membuat tubuh karakter menjadi lebih besar.</Desc>
+			<ThingName>Long Tâm Âm Dương</ThingName>
+			<Desc>Viên đan do tu sĩ tiên gia chế tạo, sử dụng có thể khiến nhân vật tăng cân.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul1" sParam="Item">
-			<ThingName>Anguish Pill</ThingName>
-			<Desc>Elixir dibuat dengan memanfaatkan Anguish Soul Gem sebagai katalisnya. Mengkonsumsinya memberikan Inspirasi. Namun, 9 tahun Umurmu akan hilang karena potensinya yang dingin dan menyeramkan.</Desc>
+			<ThingName>Thần Khấp Đan</ThingName>
+			<Desc>Viên đan được chế tạo từ hắc diệp, sử dụng có thể đạt được sự ngộ, nhưng tính dược của nó âm hàn, sẽ tổn hại 9 năm tuổi thọ.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul2" sParam="Item">
-			<ThingName>Soulrend Pill</ThingName>
-			<Desc>Elixir dibuat dengan memanfaatkan Spirit Soul Gem sebagai katalisnya. Mengkonsumsinya memberikan Inspirasi. Namun, cadangan Qi Anda akan rusak karena potensinya yang intensif. Mengurangi Maks Qi sebanyak 10.</Desc>
+			<ThingName>Thông Huyền Đan</ThingName>
+			<Desc>Viên đan được chế tạo từ linh diệp, sử dụng có thể đạt được sự ngộ, nhưng tính dược của nó kịch liệt, sử dụng sẽ tổn hại khí hải, giảm 10 điểm linh khí từ gốc.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul3" sParam="Item">
-			<ThingName>Serene Pill</ThingName>
-			<Desc>Pil dibuat dengan memanfaatkan Serenity Soul Gem sebagai katalisnya. Mengkonsumsinya memberikan Inspirasi. Konsumsi berulang kali secara bertahap akan meningkatkan potensinya. Namun, pengguna akan dikejutkan dengan sisa kesadaran yang kacau, sehingga mengakibatkan kerusakan otak.</Desc>
+			<ThingName>Ngưng Phách Đan</ThingName>
+			<Desc>Viên đan được chế tạo từ bình diệp, sử dụng có thể đạt được sự ngộ. Khi số lần sử dụng tăng lên, tác dụng sẽ dần tăng cường. Tuy nhiên, người sử dụng sẽ bị tổn thương não do bị va chạm bởi thần thức hỗn loạn còn sót lại.</Desc>
 		</Text>
 		<Text Name="Item_Dan_Soul4" sParam="Item">
-			<ThingName>Scorch Pill</ThingName>
-			<Desc>Pil dibuat dengan memanfaatkan Serenity Soul Gem sebagai katalisnya. Mengkonsumsinya akan membakar seratus tahun Umur seseorang, memberikan kebijaksanaan luar biasa selama 2 jam dan sangat meningkatkan efisiensi dalam memperoleh Inspirasi. Namun, setelah pil tersebut berlaku, pil tersebut akan menyebabkan kerusakan parah pada pikiran seseorang, secara permanen mengurangi Kecerdasan sebesar 20%. Mengkonsumsinya dalam jumlah besar secara bertahap akan mengurangi potensinya.</Desc>
+			<ThingName>Nhiên Hồn Đan</ThingName>
+			<Desc>Viên đan được chế tạo từ bình diệp, sử dụng có thể thiêu đốt trăm năm tuổi thọ, trong một giờ có thể đạt được trí tuệ siêu phàm, nâng cao hiệu suất ngộ nhận rất lớn. Nhưng sau khi tác dụng hết sẽ nghiêm trọng tổn thương thần trí, vĩnh viễn giảm 20% ngộ tính. Tác dụng của viên đan này sẽ dần giảm theo số lần sử dụng.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LunHui1" sParam="Item">
-			<ThingName>Sealed-Away Memory: Stardom</ThingName>
-			<Desc>Setelah dikonsumsi, Anda dapat memperoleh Inspirasi dari dan tergerak oleh rangkaian memori ini. \N[color=#D06508]Ini sebagai apresiasi terhadap serial video Stardom yang dibuat oleh Xiaoyaosanren karena telah memberi saya kekuatan dan kegembiraan![/color]</Desc>
+			<ThingName>Ký ức bị phong ấn: Ngôi sao rực rỡ</ThingName>
+			<Desc>Sau khi sử dụng có thể từ đoạn ký ức này nhận được giá trị ngộ nhận, và bị cảm động bởi nó. \n[color=#D06508]Cảm ơn lão nhân tự do 《Ngôi sao rực rỡ》 đã mang lại cho ta niềm vui và sức mạnh![/color]</Desc>
 		</Text>
 		<Text Name="Item_Dan_ReBorn" sParam="Item">
-			<ThingName>Rebirth Pill</ThingName>
-			<Desc>Pil dibuat dengan memanfaatkan Soul Gems sebagai katalis dan Soul Pearl sebagai bahan aktif. Mengkonsumsinya akan memungkinkan seseorang untuk terlahir kembali menjadi manusia dengan tubuh yang telah dibentuk ulang. Dapat menyelamatkan nyawa seseorang meski berada di ambang kematian.</Desc>
+			<ThingName>A Sài Biến Thân</ThingName>
+			<Desc>Viên đan được chế tạo bằng cách sử dụng hạt ngọc, nhờ hiệu quả của Huyền Phân Châu mà chế thành. Sau khi sử dụng có thể trở lại thân phận phàm nhân, tái tạo thân thể. Ngay cả khi đang hấp hối, cũng có thể cứu được một mạng sống.</Desc>
 		</Text>
 		<Text Name="Item_Dan_ReBorn_4" sParam="Item">
-			<ThingName>Nirvana Pill</ThingName>
-			<Desc>Obat mujarab yang diciptakan dengan memanfaatkan energi yang bergema dari siklus reinkarnasi. Mengkonsumsinya memungkinkan seseorang terlahir kembali ke dalam tubuh baru, sambil tetap mempertahankan semua Inspirasi sebelumnya.</Desc>
+			<ThingName>Lục Đạo Luân Hồi Đan</ThingName>
+			<Desc>Thần đan luyện chế bằng sức mạnh luân hồi, khi dùng có thể trở lại thân phận phàm nhân, tái tạo thân thể và giữ lại toàn bộ lĩnh ngộ.</Desc>
 		</Text>
 		<Text Name="Item_Dan_LingYuanZhong" sParam="Item">
-			<ThingName>Spirit Seed</ThingName>
-			<Desc>Barang berharga yang dibuat dengan menggabungkan Elemental Medicine dengan Fortune Seed, memiliki banyak kegunaan yang luar biasa. Ketika terkubur di dalam tanah, secara otomatis akan berubah menjadi pembuluh darah spiritual dan meluas ke segala arah, perlahan-lahan mengubah daerah sekitarnya menjadi Tanah Spiritual atau Air Spiritual. Memakainya membuat seseorang kebal terhadap dingin dan panas, meskipun harus mengorbankan pencapaian karena menipu jalan Surga. Mengkonsumsinya sangat meningkatkan Max Qi seseorang.</Desc>
-			<StoryBnts.0.Name>Bury</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Kubur item ini di dalam tanah.</StoryBnts.0.Desc>
+			<ThingName>Hạt giống linh nguồn</ThingName>
+			<Desc>Một bảo vật được chế tạo bằng bí pháp kết hợp giữa năm hành thần dược và ngọc tạo hóa, có công dụng vô cùng phong phú. Khi chôn dưới đất có thể tự động phát triển thành linh mạch, từ từ biến khu vực xung quanh thành linh thổ hoặc linh thủy. Đeo vào có thể tránh được thời tiết khắc nghiệt, che giấu thiên đạo, giảm bớt tu vi. Sử dụng có thể nâng cao tối đa linh khí một cách đáng kể từ gốc.</Desc>
+			<StoryBnts.0.Name>Chôn xuống</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Chôn vật này dưới đất.</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="Item_Dan_LingYuanSha" sParam="Item">
-			<ThingName>Fortune Sand</ThingName>
-			<Desc>Melalui metode rahasia, sempurnakan Fortune Seed menjadi bubuk. Meski pengaruhnya berkurang, namun bisa dijadikan media untuk melakukan keajaiban berkali-kali guna menciptakan tanah subur.</Desc>
-			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+			<ThingName>Ngọc tạo hóa</ThingName>
+			<Desc>Sử dụng bí pháp để luyện hóa hạt ngọc tạo hóa thành cát. Mặc dù hiệu lực linh khí giảm, nhưng có thể dùng làm môi giới để nhiều lần thi triển thần thông, tạo hóa đất đai màu mỡ.</Desc>
+			<Item.FabaoSuffix>Cát, bụi, bột, khí độc</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_Dan_LongDan1" sParam="Item">
-			<ThingName>Dragon Elixir</ThingName>
-			<Desc>Ramuan yang terbuat dari roh primordial Naga Banjir, konsumsilah untuk mengubahnya menjadi salah satu sub-roh Anda, sehingga Anda dapat mengontrol Artefak tambahan. Hanya berfungsi saat pertama kali dikonsumsi.</Desc>
+			<ThingName>Long hồn chân linh đan</ThingName>
+			<Desc>Viên linh đan được chế tạo từ chân long nguyên thần, sử dụng có thể luyện hóa thành một phân thần, điều khiển thêm một pháp bảo. Chỉ có hiệu quả khi sử dụng lần đầu.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FengDan1" sParam="Item">
-			<ThingName>Phoenix Elixir</ThingName>
-			<Desc>Elixir terbuat dari roh primordial Phoenix, konsumsilah untuk mengubahnya menjadi salah satu sub-roh Anda, memungkinkan Anda mengontrol Artefak tambahan. Hanya berfungsi saat pertama kali dikonsumsi.</Desc>
+			<ThingName>Trầm Điến Chi Lực</ThingName>
+			<Desc>Viên linh đan được chế tạo từ phượng hoàng nguyên thần, sử dụng có thể luyện hóa thành một phân thần, điều khiển thêm một pháp bảo. Chỉ có hiệu quả khi sử dụng lần đầu.</Desc>
 		</Text>
 		<Text Name="Item_Dan_ZhuLongDan1" sParam="Item">
-			<ThingName>Torch Elixir</ThingName>
-			<Desc>Elixir terbuat dari roh primordial Torch Dragon, konsumsilah untuk mengubahnya menjadi salah satu sub-roh Anda, sehingga Anda dapat mengontrol Artefak tambahan. Hanya berfungsi saat pertama kali dikonsumsi.</Desc>
+			<ThingName>Khởi Triều Tịch</ThingName>
+			<Desc>Viên linh đan được chế tạo từ chúc long nguyên thần, sử dụng có thể luyện hóa thành một phân thần, điều khiển thêm một pháp bảo. Chỉ có hiệu quả khi sử dụng lần đầu.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen1" sParam="Item">
-			<ThingName>Prime Pill</ThingName>
-			<Desc>Pil Ilahi pada zaman kuno dikatakan terbuat dari gumpalan Qi purba yang jernih dan keruh dari ciptaan dunia. Cara meramunya sudah lama hilang. Dengan meminum pil ini, seseorang dapat menghidupkan kembali penciptaan langit dan bumi di dalam Roh Primordialnya, sehingga memperoleh dua sub-roh. Pil ini hanya bisa diminum sekali seumur hidup. Hanya efektif ketika Kultivasi seseorang berada pada tingkat Roh Primordial.</Desc>
+			<ThingName>Bình Triều Tịch</ThingName>
+			<Desc>Viên thần đan từ thời thượng cổ, được cho là được chế tạo từ một hơi tiên thiên thanh trọc khi khai thiên lập địa, phương pháp chế tạo đã thất truyền từ lâu. Sử dụng viên đan này có thể tái hiện khai thiên lập địa trong nguyên thần, để đạt được hai phân thần. Viên đan này chỉ có thể sử dụng một lần trong đời, chỉ có tu vi nguyên thần mới có hiệu quả khi sử dụng.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen2" sParam="Item">
-			<ThingName>Unison Pill</ThingName>
-			<Desc>Pil ilahi pada zaman kuno, metode pembuatannya telah lama hilang. Dengan mengkonsumsi pil ini seseorang menjadi sadar akan dirinya yang lain, menghasilkan sub-spirit baru. Pil ini hanya bisa diminum sekali seumur hidup. Hanya efektif ketika Kultivasi seseorang berada pada tingkat Roh Primordial.</Desc>
+			<ThingName>Lạc Triều Tịch</ThingName>
+			<Desc>Thần đan thời Thái Cổ, phương pháp luyện chế đã thất truyền từ lâu. Uống đan này có thể làm rõ một bản ngã khác trong nguyên thần, từ đó sinh ra một phân thần của nguyên thần. Đan này chỉ có thể dùng một lần trong đời, và chỉ có hiệu quả đối với người tu luyện ở kỳ nguyên thần.</Desc>
 		</Text>
 		<Text Name="Item_Dan_FenShen3" sParam="Item">
-			<ThingName>Division Pill</ThingName>
-			<Desc>Pil ilahi pada zaman kuno, metode pembuatannya telah lama hilang. Dengan mengonsumsi pil ini, seseorang dapat memanfaatkan potensinya yang kuat untuk menghasilkan sub-roh baru secara paksa. Namun, hal ini akan menyebabkan kerusakan permanen pada Kondisi Mental kultivator. Hanya efektif ketika Kultivasi seseorang berada pada tingkat Roh Primordial.</Desc>
+			<ThingName>Liệt Thần Đan</ThingName>
+			<Desc>Thần đan thời Thái Cổ, phương pháp luyện chế đã thất truyền từ lâu. Uống đan này nhờ vào dược tính bá đạo để cưỡng chế sinh ra một phân thần của nguyên thần, nhưng đan này sẽ gây tổn hại nghiêm trọng vĩnh viễn đến tâm cảnh của người tu luyện. Chỉ có hiệu quả đối với người tu luyện ở kỳ nguyên thần.</Desc>
 		</Text>
 		<Text Name="Item_Dan_TiShen" sParam="Item">
-			<ThingName>Clone Pill</ThingName>
-			<Desc>Setelah mengkonsumsinya, Anda dapat menggunakan dobel untuk berpartisipasi dalam pelelangan, yang memungkinkan Anda untuk segera melarikan diri jika Anda tidak membawa cukup Batu Roh.</Desc>
+			<ThingName>Thế Thân Đan</ThingName>
+			<Desc>Sau khi uống có thể dùng thân thế tham gia đấu giá, nếu linh thạch không đủ có thể lập tức thoát thân.</Desc>
 		</Text>
 		<Text Name="Item_QiZhi" sParam="Item">
-			<ThingName>Enlightening Pill</ThingName>
-			<Desc>Dapat diumpankan ke hewan liar, membuat mereka tercerahkan dan memasuki Kondisi Kebangkitan.</Desc>
+			<ThingName>Tín Niệm Áp Chế</ThingName>
+			<Desc>Có thể cho dã thú dùng, giúp chúng cảm nhận linh trí và bước vào kỳ khai trí.</Desc>
 		</Text>
 		<Text Name="Item_Fall_LingZhi" sParam="Item">
-			<ThingName>Autumn Pill</ThingName>
-			<Desc>Meningkatkan Qi elemen Logam, sehingga hewan dapat memperoleh pemahaman lebih dalam tentang musim gugur dan merasakan pemikiran terkait.</Desc>
+			<ThingName>Tín Đồ Tăng Cường</ThingName>
+			<Desc>Cải thiện linh khí thuộc tính kim, giúp động vật có thể nhận thức sâu sắc về mùa thu, từ đó cảm nhận được cảm xúc tương ứng.</Desc>
 		</Text>
 		<Text Name="Item_Winter_LingZhi" sParam="Item">
-			<ThingName>Winter Pill</ThingName>
-			<Desc>Meningkatkan Qi elemen Air, sehingga hewan dapat memperoleh pemahaman lebih dalam tentang musim dingin dan merasakan pemikiran terkait.</Desc>
+			<ThingName>Đạo Cảnh Uy Áp</ThingName>
+			<Desc>Cải thiện linh khí thuộc tính thủy, giúp động vật có thể nhận thức sâu sắc về mùa đông, từ đó cảm nhận được cảm xúc tương ứng.</Desc>
 		</Text>
 		<Text Name="Item_Spring_LingZhi" sParam="Item">
-			<ThingName>Spring Pill</ThingName>
-			<Desc>Meningkatkan Qi elemen Kayu, sehingga hewan dapat memperoleh pemahaman lebih dalam tentang musim semi dan merasakan pemikiran terkait.</Desc>
+			<ThingName>Hung Niệm Uy Áp</ThingName>
+			<Desc>Cải thiện linh khí thuộc tính mộc, giúp động vật có thể nhận thức sâu sắc về mùa xuân, từ đó cảm nhận được cảm xúc tương ứng.</Desc>
 		</Text>
 		<Text Name="Item_Summer_LingZhi" sParam="Item">
-			<ThingName>Summer Pill</ThingName>
-			<Desc>Meningkatkan elemen Qi Api, sehingga hewan dapat memperoleh pemahaman lebih dalam tentang musim panas dan merasakan pemikiran terkait.</Desc>
+			<ThingName>Ôn Nhu Hương</ThingName>
+			<Desc>Cải thiện linh khí thuộc tính hỏa, giúp động vật có thể nhận thức sâu sắc về mùa hè, từ đó cảm nhận được cảm xúc tương ứng.</Desc>
 		</Text>
 		<Text Name="Item_Earth_LingZhi" sParam="Item">
-			<ThingName>Ground Pill</ThingName>
-			<Desc>Meningkatkan elemen Qi Bumi, sehingga hewan dapat memperoleh pemahaman lebih dalam tentang bumi dan merasakan pemikiran terkait.</Desc>
+			<ThingName>Tôn Vương Cấm Lệnh</ThingName>
+			<Desc>Cải thiện linh khí thuộc tính thổ, giúp động vật có thể nhận thức sâu sắc về đại địa, từ đó cảm nhận được cảm xúc tương ứng.</Desc>
 		</Text>
 	</List>
 </Texts>
+

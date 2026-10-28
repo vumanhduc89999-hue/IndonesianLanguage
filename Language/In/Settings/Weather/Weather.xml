@@ -1,148 +1,149 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SunnyDay">
-			<DisplayName>Clear Skies</DisplayName>
-			<StoryDesc>Langit cerah dan masih mengudara di seluruh daratan</StoryDesc>
+			<DisplayName>Trời nắng</DisplayName>
+			<StoryDesc>Trời trong xanh, không một gợn mây, khí trời sáng sủa</StoryDesc>
 		</Text>
 		<Text Name="Overcast">
-			<DisplayName>Cloudy</DisplayName>
-			<StoryDesc>Lapisan awan tebal menutupi langit di atasnya</StoryDesc>
+			<DisplayName>Trời âm u</DisplayName>
+			<StoryDesc>Mây đen bao phủ, mây đen cuốn trôi, mây mờ sương khóa</StoryDesc>
 		</Text>
 		<Text Name="LightRain">
-			<DisplayName>Light Rain</DisplayName>
-			<StoryDesc>Tirai tipis hujan menyapu dataran</StoryDesc>
+			<DisplayName>Mưa nhỏ</DisplayName>
+			<StoryDesc>Mưa phùn lất phất, mưa nhỏ như tơ, mưa phùn như sợi</StoryDesc>
 		</Text>
 		<Text Name="HeavyRain">
-			<DisplayName>Heavy Rain</DisplayName>
-			<StoryDesc>Langit telah terbuka, membasahi seluruh bagian bawah dengan hujan lebat</StoryDesc>
+			<DisplayName>Mưa lớn</DisplayName>
+			<StoryDesc>Mưa lớn như trút, mưa lớn như đổ, mưa lớn như dòng</StoryDesc>
 		</Text>
 		<Text Name="LightSnow">
-			<DisplayName>Light Snow</DisplayName>
-			<StoryDesc>Salju tipis menggantung di udara dan menghiasi daratan dengan kilau berkilauan</StoryDesc>
+			<DisplayName>Tuyết nhỏ</DisplayName>
+			<StoryDesc>Tuyết nhỏ bay bay, sợi bạc đầy trời, tuyết nhỏ rơi lả tả</StoryDesc>
 		</Text>
 		<Text Name="HeavySnow">
-			<DisplayName>Heavy Snow</DisplayName>
-			<StoryDesc>Hujan salju lebat disertai angin dingin yang menggigit dan kencang</StoryDesc>
+			<DisplayName>Tuyết lớn</DisplayName>
+			<StoryDesc>Trong cơn tuyết bạc cuốn, trong băng tuyết ngập trời, trong tuyết lạnh gió gào</StoryDesc>
 		</Text>
 		<Text Name="DenseFog">
-			<DisplayName>Thick Fog</DisplayName>
-			<StoryDesc>Awan menyatu di langit dan kabut tebal menyelimuti daratan</StoryDesc>
+			<DisplayName>Sương mù dày đặc</DisplayName>
+			<StoryDesc>Trong mây mờ sương bao phủ, trong sương mù dày đặc, trong sương mù bao trùm</StoryDesc>
 		</Text>
 		<Text Name="Melancholy">
-			<DisplayName>Gloomy Mood</DisplayName>
-			<StoryDesc>Suasana suram meresap di udara</StoryDesc>
+			<DisplayName>Nỗi buồn tràn ngập</DisplayName>
+			<StoryDesc>Trong nỗi buồn tràn ngập</StoryDesc>
 		</Text>
 		<Text Name="SpringAir">
-			<DisplayName>Spring's Coming</DisplayName>
-			<StoryDesc>Aroma segar musim semi menyapu daratan</StoryDesc>
+			<DisplayName>Hơi thở mùa xuân.</DisplayName>
+			<StoryDesc>Trong hơi thở của mùa xuân</StoryDesc>
 		</Text>
 		<Text Name="HarvestAir">
-			<DisplayName>Spirit of Harvest</DisplayName>
-			<StoryDesc>Saatnya panen, dan udara ceria mulai turun</StoryDesc>
+			<DisplayName>Hơi thở mùa thu hoạch.</DisplayName>
+			<StoryDesc>Trong hơi thở của mùa thu hoạch</StoryDesc>
 		</Text>
 		<Text Name="Ambiguous">
-			<DisplayName>Romantic Air</DisplayName>
-			<StoryDesc>Cinta ada di udara</StoryDesc>
+			<DisplayName>Không khí mập mờ</DisplayName>
+			<StoryDesc>Trong hơi thở mập mờ</StoryDesc>
 		</Text>
 		<Text Name="Impetuous">
-			<DisplayName>Irritation</DisplayName>
-			<StoryDesc>Ada suasana impulsif</StoryDesc>
+			<DisplayName>Gió nóng nảy</DisplayName>
+			<StoryDesc>Trong bầu không khí bồn chồn</StoryDesc>
 		</Text>
 		<Text Name="MouldRains">
-			<DisplayName>Rainy Season</DisplayName>
-			<StoryDesc>Hujan berkepanjangan mengguyur daratan</StoryDesc>
+			<DisplayName>Mưa phùn</DisplayName>
+			<StoryDesc>Trong mưa phùn kéo dài, trong mưa phùn dai dẳng</StoryDesc>
 		</Text>
 		<Text Name="Drought">
-			<DisplayName>Drought</DisplayName>
-			<StoryDesc>Matahari membakar seluruh bagian bawah dengan tatapannya yang berapi-api</StoryDesc>
+			<DisplayName>Hạn hán</DisplayName>
+			<StoryDesc>Trong ánh nắng gay gắt</StoryDesc>
 		</Text>
 		<Text Name="Rainstorm">
-			<DisplayName>Rainstorm</DisplayName>
-			<StoryDesc>Hujan badai mendatangkan malapetaka</StoryDesc>
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Trong cơn mưa lớn như thác đổ</StoryDesc>
 		</Text>
 		<Text Name="Fohn">
-			<DisplayName>Foehn Wind</DisplayName>
-			<StoryDesc>Angin hangat dan kering bertiup</StoryDesc>
+			<DisplayName>Gió nóng cháy</DisplayName>
+			<StoryDesc>Trong gió nóng cháy bỏng</StoryDesc>
 		</Text>
 		<Text Name="DustStorm">
-			<DisplayName>Dust Storm</DisplayName>
-			<StoryDesc>Langit meredup saat debu dan pasir memenuhi udara</StoryDesc>
+			<DisplayName>Bão cát</DisplayName>
+			<StoryDesc>Trong cơn cát vàng bay đầy trời</StoryDesc>
 		</Text>
 		<Text Name="LingRarefiedWave">
-			<DisplayName>Qi Drought</DisplayName>
-			<StoryDesc>Kekeringan Qi tiba</StoryDesc>
+			<DisplayName>Triều khí linh kiệt</DisplayName>
+			<StoryDesc>Trong cạn kiệt linh khí</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave">
-			<DisplayName>Burst of Qi</DisplayName>
-			<StoryDesc>Kekuatan Qi meningkat dan melimpah di seluruh negeri</StoryDesc>
+			<DisplayName>Bùng nổ linh khí</DisplayName>
+			<StoryDesc>Trong bùng nổ linh khí</StoryDesc>
 		</Text>
 		<Text Name="LingUpWave_Little">
-			<DisplayName>Qi Swell</DisplayName>
-			<StoryDesc>Qi meresap ke udara</StoryDesc>
+			<DisplayName>Linh khí tràn ngập</DisplayName>
+			<StoryDesc>Trong linh khí tràn ngập</StoryDesc>
 		</Text>
 		<Text Name="HeatWave">
-			<DisplayName>Heat</DisplayName>
-			<StoryDesc>Gelombang panas berkobar tanpa henti</StoryDesc>
+			<DisplayName>Nắng nóng gay gắt.</DisplayName>
+			<StoryDesc>Trong nhiệt độ cao nung chảy đá, dưới ánh nắng gay gắt</StoryDesc>
 		</Text>
 		<Text Name="ColdWave">
-			<DisplayName>Cold Winter</DisplayName>
-			<StoryDesc>Angin dingin dan angin kencang sedingin es turun</StoryDesc>
+			<DisplayName>Mùa đông lạnh giá.</DisplayName>
+			<StoryDesc>Trong gió lạnh buốt, trong trời đông giá rét</StoryDesc>
 		</Text>
 		<Text Name="HeatWaveInWinter">
-			<DisplayName>Warm Wind</DisplayName>
-			<StoryDesc>Matahari musim dingin yang pucat bersinar saat arus hangat datang</StoryDesc>
+			<DisplayName>Dòng nước ấm.</DisplayName>
+			<StoryDesc>Trong dòng ấm áp làm ấm lòng người, dưới ánh nắng mùa đông</StoryDesc>
 		</Text>
 		<Text Name="ColdWaveInSummer">
-			<DisplayName>Chilly Wind</DisplayName>
-			<StoryDesc>Angin musim panas yang menyegarkan bertiup</StoryDesc>
+			<DisplayName>Gió mát.</DisplayName>
+			<StoryDesc>Trong làn gió mát mùa hè, trong làn gió mát dễ chịu</StoryDesc>
 		</Text>
 		<Text Name="PermanentNight">
-			<DisplayName>Polar Night</DisplayName>
-			<StoryDesc>Ini adalah malam yang tidak pernah berakhir</StoryDesc>
+			<DisplayName>Đêm vĩnh cửu</DisplayName>
+			<StoryDesc>Dưới đêm vĩnh cửu</StoryDesc>
 		</Text>
 		<Text Name="Miasma">
-			<DisplayName>Noxious Air</DisplayName>
-			<StoryDesc>Suasana berbahaya menyebar</StoryDesc>
+			<DisplayName>Khí độc</DisplayName>
+			<StoryDesc>Trong khí độc tràn ngập</StoryDesc>
 		</Text>
 		<Text Name="LightningStorm">
-			<DisplayName>Thunderstorm</DisplayName>
-			<StoryDesc>Guntur menggelegar melintasi daratan saat kilat menari di antara awan</StoryDesc>
+			<DisplayName>Bão sấm sét</DisplayName>
+			<StoryDesc>Trong cơn bão sấm sét, trong tia chớp điên cuồng</StoryDesc>
 		</Text>
 		<Text Name="LightningStormNoLong">
-			<DisplayName>Thunderstorm</DisplayName>
-			<StoryDesc>Guntur menggelegar melintasi daratan saat kilat menari di antara awan</StoryDesc>
+			<DisplayName>Bão sấm sét</DisplayName>
+			<StoryDesc>Trong cơn bão sấm sét, trong tia chớp điên cuồng</StoryDesc>
 		</Text>
 		<Text Name="FohnNoFeng">
-			<DisplayName>Foehn Wind</DisplayName>
-			<StoryDesc>Angin hangat dan kering bertiup</StoryDesc>
+			<DisplayName>Gió nóng cháy</DisplayName>
+			<StoryDesc>Trong gió nóng cháy bỏng</StoryDesc>
 		</Text>
 		<Text Name="Rainstorm_Long">
-			<DisplayName>Rainstorm</DisplayName>
-			<StoryDesc>Hujan badai mendatangkan malapetaka</StoryDesc>
+			<DisplayName>Mưa bão</DisplayName>
+			<StoryDesc>Trong cơn mưa lớn như thác đổ</StoryDesc>
 		</Text>
 		<Text Name="LuShu_SunnyDay">
-			<DisplayName>Sunny Day (due to Lushu)</DisplayName>
-			<StoryDesc>Langit cerah dan masih mengudara di seluruh daratan</StoryDesc>
+			<DisplayName>Trời nắng (Lộc Thục)</DisplayName>
+			<StoryDesc>Trời trong xanh, không một gợn mây, khí trời sáng sủa</StoryDesc>
 		</Text>
 		<Text Name="Fei_HeavyRain">
-			<DisplayName>Heavy Rain (due to Fei)</DisplayName>
-			<StoryDesc>Langit telah terbuka, membasahi seluruh bagian bawah dengan hujan lebat</StoryDesc>
+			<DisplayName>Mưa lớn (Phi)</DisplayName>
+			<StoryDesc>Mưa lớn như trút, mưa lớn như đổ, mưa lớn như dòng</StoryDesc>
 		</Text>
 		<Text Name="Fei_Overcast">
-			<DisplayName>Overcast (due to Fei)</DisplayName>
-			<StoryDesc>Lapisan awan tebal menutupi langit di atasnya</StoryDesc>
+			<DisplayName>Trời âm u (Phi)</DisplayName>
+			<StoryDesc>Mây đen bao phủ, mây đen cuốn trôi, mây mờ sương khóa</StoryDesc>
 		</Text>
 		<Text Name="MuYu_LightRain">
-			<DisplayName>Light Rain (due to Raindance Blade)</DisplayName>
-			<StoryDesc>Tirai tipis hujan menyapu dataran</StoryDesc>
+			<DisplayName>Mưa nhỏ (Kiếm Mộc Vũ)</DisplayName>
+			<StoryDesc>Mưa phùn lất phất, mưa nhỏ như tơ, mưa phùn như sợi</StoryDesc>
 		</Text>
 		<Text Name="SpringFestival">
-			<DisplayName>Spring Festival</DisplayName>
-			<StoryDesc>Suasana perayaan memenuhi udara saat Festival Musim Semi tiba</StoryDesc>
+			<DisplayName>Tết Nguyên Đán</DisplayName>
+			<StoryDesc>Không khí Tết, không khí mừng xuân</StoryDesc>
 		</Text>
 		<Text Name="ZuShiBiHu">
-			<DisplayName>Immortal's bless</DisplayName>
-			<StoryDesc>Ada suasana Budidaya.</StoryDesc>
+			<DisplayName>Hơi thở tiên giới</DisplayName>
+			<StoryDesc>Hơi thở tiên giới</StoryDesc>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,14 +1,15 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LsXuanWu">
-			<DisplayName>Miao</DisplayName>
-			<Desc>Kura-kura Hitam Miao adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
-			<TalkBefore>Meretih...</TalkBefore>
-			<TalkAfter>...Meretih!</TalkAfter>
+			<DisplayName>Huyền Vũ Miêu Miêu</DisplayName>
+			<Desc>Huyền Vũ Miêu Miêu là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>Cách,</TalkBefore>
+			<TalkAfter>, Cách!</TalkAfter>
 		</Text>
 		<Text Name="WuDang_WuDiYa">
-			<DisplayName>Bebek Wudang</DisplayName>
-			<Desc>Bebek mistis dari Gunung Wudang!</Desc>
+			<DisplayName>Võ Đang vịt</DisplayName>
+			<Desc>Chú vịt thần kỳ từ núi Võ Đang!</Desc>
 		</Text>
 	</List>
 </Texts>
+

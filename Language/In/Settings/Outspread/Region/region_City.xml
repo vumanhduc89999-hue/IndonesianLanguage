@@ -1,20 +1,21 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="HeYin">
-			<DisplayName>Riverback City</DisplayName>
-			<Desc>Ini adalah kota, di mana berbagai macam bangunan politik dapat dibangun dan murid dapat direkrut.</Desc>
+			<DisplayName>Hà Âm Thành</DisplayName>
+			<Desc>Nơi này là thành phố, có thể xây dựng các công trình kiểu chính sách, đồng thời có thể chiêu mộ đệ tử.</Desc>
 		</Text>
 		<Text Name="GuanHai">
-			<DisplayName>Seascape</DisplayName>
+			<DisplayName>Quan Hải Thành</DisplayName>
 		</Text>
 		<Text Name="PanShe">
-			<DisplayName>Snaketail Village</DisplayName>
+			<DisplayName>Bàn Xà Trại</DisplayName>
 		</Text>
 		<Text Name="Feng">
-			<DisplayName>City of Abundance</DisplayName>
+			<DisplayName>Phong Thành</DisplayName>
 		</Text>
 		<Text Name="DaLiang">
-			<DisplayName>City of Desolation</DisplayName>
+			<DisplayName>Đại Lương Thành</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

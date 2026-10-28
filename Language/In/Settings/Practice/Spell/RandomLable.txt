@@ -56,3 +56,5 @@ WorldMapFlySpeedAddP						Adventuring Flying Speed
 AbilityLvAddV						Attainment Bonus
 NpcFight_BaseHitChance						Accuracy in Battles
 NpcFight_BaseDodgeChance						Dodge in Battles
+
+

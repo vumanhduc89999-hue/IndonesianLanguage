@@ -106,3 +106,4 @@
 /Assets/Resources/FightMap/School_DanXiaDongTian/map.txt	OtherItem.51._hd.Ss.1	丹霞道册-百炼	51.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_DanXiaDongTian/map.txt	OtherItem.52._hd.Ss.1	丹霞秘册-琢玉	52.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_DanXiaDongTian/map.txt	OtherItem.53._hd.Ss.1	丹霞道册-鬼手	53.1	_ReplaceThingName
+

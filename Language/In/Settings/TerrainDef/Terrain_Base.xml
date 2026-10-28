@@ -1,74 +1,75 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="TerrainBase">
-			<DisplayName>Terrain Foundation</DisplayName>
-			<StoryDesc>Itu terjadi di jalan raya</StoryDesc>
+			<DisplayName>Cơ bản về địa danh</DisplayName>
+			<StoryDesc>Trên đường</StoryDesc>
 		</Text>
 		<Text Name="Null">
-			<DisplayName>Void</DisplayName>
+			<DisplayName>Không có</DisplayName>
 		</Text>
 		<Text Name="Soil">
-			<DisplayName>Soil</DisplayName>
-			<StoryDesc>Ini adalah area di mana tanaman dapat ditanam</StoryDesc>
+			<DisplayName>Đất</DisplayName>
+			<StoryDesc>Bên cạnh cây thông, dưới bóng râm</StoryDesc>
 		</Text>
 		<Text Name="Soil_Sand">
-			<DisplayName>Sand</DisplayName>
-			<StoryDesc>Letaknya di daerah berpasir</StoryDesc>
+			<DisplayName>Đất cát</DisplayName>
+			<StoryDesc>Trên cát vàng</StoryDesc>
 		</Text>
 		<Text Name="Mud">
-			<DisplayName>Mud</DisplayName>
-			<StoryDesc>Letaknya di daerah berlumpur</StoryDesc>
+			<DisplayName>Đất bùn</DisplayName>
+			<StoryDesc>Trong bùn lầy, trên bùn đất</StoryDesc>
 		</Text>
 		<Text Name="BlackB">
-			<DisplayName>Void</DisplayName>
-			<StoryDesc>Itu ada di Kekosongan</StoryDesc>
+			<DisplayName>Hư không</DisplayName>
+			<StoryDesc>Trong hư không</StoryDesc>
 		</Text>
 		<Text Name="WetLand">
-			<DisplayName>Wet Earth</DisplayName>
-			<StoryDesc>Letaknya di daerah dengan tanah basah</StoryDesc>
+			<DisplayName>Đất ẩm</DisplayName>
+			<StoryDesc>Trong bùn lầy, trên đất ẩm</StoryDesc>
 		</Text>
 		<Text Name="FertileSoil">
-			<DisplayName>Fertile Soil</DisplayName>
-			<StoryDesc>Ini adalah area di mana tanaman dapat ditanam</StoryDesc>
+			<DisplayName>Đất màu mỡ</DisplayName>
+			<StoryDesc>Bên cạnh cây thông, dưới bóng râm</StoryDesc>
 		</Text>
 		<Text Name="StoneLand">
-			<DisplayName>Rocky Terrain</DisplayName>
-			<StoryDesc>Letaknya di daerah yang terjal dan berbatu</StoryDesc>
+			<DisplayName>Bề mặt đá</DisplayName>
+			<StoryDesc>Bên vách núi, trên đường núi gập ghềnh</StoryDesc>
 		</Text>
 		<Text Name="SandLand">
-			<DisplayName>Sand</DisplayName>
-			<StoryDesc>Letaknya di daerah yang terjal dan berbatu</StoryDesc>
+			<DisplayName>Đất cát</DisplayName>
+			<StoryDesc>Bên vách núi, trên đường núi gập ghềnh</StoryDesc>
 		</Text>
 		<Text Name="LingSoil">
-			<DisplayName>Spirit Soil</DisplayName>
-			<StoryDesc>Itu berada di wilayah spiritual yang dikelilingi oleh Qi</StoryDesc>
+			<DisplayName>Linh thổ</DisplayName>
+			<StoryDesc>Nơi linh khí tụ hội, bao quanh bởi linh khí</StoryDesc>
 		</Text>
 		<Text Name="DepthDepthWater">
-			<DisplayName>Deep Water</DisplayName>
+			<DisplayName>Nước sâu</DisplayName>
 		</Text>
 		<Text Name="DepthWater">
-			<DisplayName>Deep Water</DisplayName>
+			<DisplayName>Nước sâu</DisplayName>
 		</Text>
 		<Text Name="YunHai">
-			<DisplayName>Sea of Clouds</DisplayName>
+			<DisplayName>Biển mây</DisplayName>
 		</Text>
 		<Text Name="ShallowWater">
-			<DisplayName>Shallow Water</DisplayName>
-			<StoryDesc>Letaknya di daerah yang tergenang air namun dangkal</StoryDesc>
+			<DisplayName>Nước cạn</DisplayName>
+			<StoryDesc>Dưới bóng cây bên hồ, cạnh dòng nước trong lành</StoryDesc>
 		</Text>
 		<Text Name="BloodWater">
-			<DisplayName>Thin Blood</DisplayName>
-			<StoryDesc>Biasanya berasal dari penyembelihan makhluk</StoryDesc>
+			<DisplayName>Huyết Thủy</DisplayName>
+			<StoryDesc>Thường xuất hiện từ việc tàn sát sinh vật</StoryDesc>
 		</Text>
 		<Text Name="DepthBloodWater">
-			<DisplayName>Deep Blood</DisplayName>
+			<DisplayName>Thâm Huyết Thủy</DisplayName>
 		</Text>
 		<Text Name="LingWater">
-			<DisplayName>Spirit Water</DisplayName>
-			<StoryDesc>Letaknya di daerah yang tergenang air namun dangkal</StoryDesc>
+			<DisplayName>Linh thủy</DisplayName>
+			<StoryDesc>Dưới bóng cây bên hồ, cạnh dòng nước trong lành</StoryDesc>
 		</Text>
 		<Text Name="Sand">
-			<DisplayName>Sand</DisplayName>
+			<DisplayName>Đất cát</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

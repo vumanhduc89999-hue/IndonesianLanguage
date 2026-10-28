@@ -1,58 +1,59 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="LeatherBase" sParam="Item">
-			<Item.FabaoSuffix>Leather, Cover, Barrier</Item.FabaoSuffix>
-			<Item.BeMaterial.NamePrefix>Hide</Item.BeMaterial.NamePrefix>
+			<Item.FabaoSuffix>Da, Che, Che chắn</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Da</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_BoarLeather" sParam="Item">
-			<ThingName>Boar Hide</ThingName>
-			<Desc>Kulit babi hutan memiliki tekstur yang kasar, namun relatif kencang.</Desc>
-			<Item.BeMaterial.NamePrefix>Boar Hide</Item.BeMaterial.NamePrefix>
+			<ThingName>Da lợn rừng</ThingName>
+			<Desc>Da lợn rừng, chất liệu thô ráp nhưng khá bền.</Desc>
+			<Item.BeMaterial.NamePrefix>Da lợn rừng</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_RabbitLeather" sParam="Item">
-			<ThingName>Rabbit Hide</ThingName>
-			<Desc>Bulu kelinci sangat lembut dan hangat.</Desc>
-			<Item.BeMaterial.NamePrefix>Rabbit Hide</Item.BeMaterial.NamePrefix>
+			<ThingName>Da thỏ</ThingName>
+			<Desc>Da thỏ, lông mềm mại, rất ấm áp.</Desc>
+			<Item.BeMaterial.NamePrefix>Da thỏ</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_BearLeather" sParam="Item">
-			<ThingName>Bear Hide</ThingName>
-			<Desc>Bulu beruang sangat lembut dan hangat.</Desc>
-			<Item.BeMaterial.NamePrefix>Bear Hide</Item.BeMaterial.NamePrefix>
+			<ThingName>Da gấu</ThingName>
+			<Desc>Da gấu, lông mềm mại, rất ấm áp.</Desc>
+			<Item.BeMaterial.NamePrefix>Da gấu</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_WolfLeather" sParam="Item">
-			<ThingName>Wolf Hide</ThingName>
-			<Desc>Sepotong kulit serigala, kokoh dan tahan lama.</Desc>
-			<Item.BeMaterial.NamePrefix>Wolf Hide</Item.BeMaterial.NamePrefix>
+			<ThingName>Da sói</ThingName>
+			<Desc>Một tấm da sói, bền chắc và sử dụng được lâu dài.</Desc>
+			<Item.BeMaterial.NamePrefix>Da sói</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_FeiLeather" sParam="Item">
-			<ThingName>Fei Hide</ThingName>
-			<Desc>Sembunyikan binatang iblis Fei dengan kekuatan magis yang bersemayam di dalamnya. Hangat di musim dingin dan sejuk di musim panas. Ia bahkan mampu memblokir kerusakan Qi.</Desc>
-			<Item.BeMaterial.NamePrefix>Fei Hide</Item.BeMaterial.NamePrefix>
+			<ThingName>Da phi</ThingName>
+			<Desc>Da của yêu thú Phi, chứa sức mạnh thần kỳ, ấm áp vào mùa đông, mát mẻ vào mùa hè, thậm chí có thể ngăn chặn tổn thương do linh khí gây ra.</Desc>
+			<Item.BeMaterial.NamePrefix>Da Phi</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_LuShuLeather" sParam="Item">
-			<ThingName>Lushu Hide</ThingName>
-			<Desc>Sembunyikan roh binatang Lushu, dengan kekuatan magis yang bersemayam di dalamnya. Hangat di musim dingin dan sejuk di musim panas. Ia bahkan mampu memblokir kerusakan Qi.</Desc>
-			<Item.BeMaterial.NamePrefix>Lushu Hide</Item.BeMaterial.NamePrefix>
+			<ThingName>Da lộc thục</ThingName>
+			<Desc>Da của linh thú Lộc Thục, chứa sức mạnh thần kỳ, ấm áp vào mùa đông, mát mẻ vào mùa hè, thậm chí có thể ngăn chặn tổn thương do linh khí gây ra.</Desc>
+			<Item.BeMaterial.NamePrefix>Da lộc thục</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_CattleLeather" sParam="Item">
-			<ThingName>Bull Hide</ThingName>
-			<Desc>Sepotong kulit banteng, kokoh dan tahan lama.</Desc>
-			<Item.BeMaterial.NamePrefix>Bull Hide</Item.BeMaterial.NamePrefix>
+			<ThingName>Da bò</ThingName>
+			<Desc>Một tấm da bò, bền chắc và sử dụng được lâu dài.</Desc>
+			<Item.BeMaterial.NamePrefix>Da bò</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_TigerLeather" sParam="Item">
-			<ThingName>Tiger Hide</ThingName>
-			<Desc>Sepotong kulit harimau, kokoh dan tahan lama.</Desc>
-			<Item.BeMaterial.NamePrefix>Tiger Hide</Item.BeMaterial.NamePrefix>
+			<ThingName>Da hổ</ThingName>
+			<Desc>Một tấm da hổ, bền chắc và sử dụng được lâu dài.</Desc>
+			<Item.BeMaterial.NamePrefix>Da hổ</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_YaoLeather" sParam="Item">
-			<ThingName>Demon Beast Hide</ThingName>
-			<Desc>Sembunyikan binatang iblis, dengan kekuatan iblis bersemayam di dalamnya. Hangat di musim dingin dan sejuk di musim panas. Ia bahkan mampu memblokir kerusakan Qi.</Desc>
-			<Item.BeMaterial.NamePrefix>Demon Hide</Item.BeMaterial.NamePrefix>
+			<ThingName>Da thú yêu hóa</ThingName>
+			<Desc>Da của yêu thú, chứa yêu lực, ấm áp vào mùa đông, mát mẻ vào mùa hè, thậm chí có thể ngăn chặn tổn thương do linh khí gây ra.</Desc>
+			<Item.BeMaterial.NamePrefix>Da yêu</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_YaoLeather1" sParam="Item">
-			<ThingName>Tough Demon Beast Hide</ThingName>
-			<Desc>Sembunyikan binatang iblis besar, dengan kekuatan iblis yang kuat bersemayam di dalamnya. Hangat di musim dingin dan sejuk di musim panas. Ia bahkan mampu memblokir kerusakan Qi secara efektif.</Desc>
-			<Item.BeMaterial.NamePrefix>Tough Demon Hide</Item.BeMaterial.NamePrefix>
+			<ThingName>Da thú yêu dẻo dai</ThingName>
+			<Desc>Da dẻo dai của đại yêu, chứa yêu lực mạnh mẽ, ấm áp vào mùa đông, mát mẻ vào mùa hè, thậm chí có thể ngăn chặn tổn thương do linh khí gây ra.</Desc>
+			<Item.BeMaterial.NamePrefix>Da yêu dẻo dai</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>
+

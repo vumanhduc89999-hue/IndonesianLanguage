@@ -1,40 +1,41 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="1">
-			<Display>Number of Ascended: {0}</Display>
+			<Display>Phi thăng: {0} người</Display>
 		</Text>
 		<Text Name="2">
-			<Display>Crafting Treasures: {0} times</Display>
+			<Display>Luyện chế pháp bảo: {0} lần</Display>
 		</Text>
 		<Text Name="3">
-			<Display>Draw Talisman: {0} times</Display>
+			<Display>Vẽ bùa: {0} lần</Display>
 		</Text>
 		<Text Name="4">
-			<Display>Killed: {0} creatures</Display>
+			<Display>Tiêu diệt: {0} sinh linh</Display>
 		</Text>
 		<Text Name="5">
-			<Display>Learned through books: {0} secret manuals</Display>
+			<Display>Thông qua thư sách học được: {0} bí kíp</Display>
 		</Text>
 		<Text Name="6">
-			<Display>Fastest Ascension Time: Day {0}</Display>
+			<Display>Thời gian Phi thăng nhanh nhất: ngày thứ {0}</Display>
 		</Text>
 		<Text Name="7">
-			<Display>Alchemy: {0} Times</Display>
+			<Display>Luyện đan: {0} lần</Display>
 		</Text>
 		<Text Name="8">
-			<Display>Adventure: {0} times</Display>
+			<Display>Rèn luyện: {0} lần</Display>
 		</Text>
 		<Text Name="9">
-			<Display>Cooking: {0} Times</Display>
+			<Display>Nấu ăn: {0} lần</Display>
 		</Text>
 		<Text Name="10">
-			<Display>Achievement Points: {0}</Display>
+			<Display>Điểm thành tựu: {0}</Display>
 		</Text>
 		<Text Name="11">
-			<Display>Cumulative Inner Disciple deaths: {0}</Display>
+			<Display>Tổng số đệ tử nội môn đã chết: {0} người</Display>
 		</Text>
 		<Text Name="12">
-			<Display>Personally discover {0} new locations during adventures</Display>
+			<Display>Tự mình phát hiện {0} địa điểm mới trong Lịch luyện</Display>
 		</Text>
 	</List>
 </Texts>
+

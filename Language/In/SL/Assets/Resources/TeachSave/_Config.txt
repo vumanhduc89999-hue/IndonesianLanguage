@@ -1728,3 +1728,4 @@
 /Assets/Resources/TeachSave.txt	Esoterica.Data.18.DisplayName	三世洞真法	18	_ReplaceEsotericaName
 /Assets/Resources/TeachSave.txt	Esoterica.Data.19.DisplayName	五戒琢玉	19	_ReplaceEsotericaName
 /Assets/Resources/TeachSave.txt	Esoterica.Data.20.DisplayName	太和御气诀	20	_ReplaceEsotericaName
+

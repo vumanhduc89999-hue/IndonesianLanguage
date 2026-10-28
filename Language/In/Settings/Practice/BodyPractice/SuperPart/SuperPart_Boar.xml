@@ -1,18 +1,19 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Boar_1">
-			<Prefix>Blood</Prefix>
-			<Suffix>Bristles</Suffix>
-			<Desc>Tubuh rahasia yang secara alami dimiliki oleh babi hutan Yaoguai yang membentuk kembali bulu di lehernya dengan teknik. Setelah tercapai, itu dapat dilampirkan ke serangan apa pun untuk meningkatkan peluang penetrasi penghalang Qi dari semua badan rahasia.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Secara drastis meningkatkan penetrasi penghalang Qi pada semua tubuh rahasia kultivator fisik.</Levels.0.Desc>
+			<Prefix>Huyết Thần</Prefix>
+			<Suffix>Lông</Suffix>
+			<Desc>Bí thể truyền từ thiên phú của Trư Yêu, sử dụng bí pháp luyện lông cứng ở cổ, khi luyện thành có thể gắn vào bất kỳ đòn tấn công nào của mình, tăng khả năng xuyên thủng linh khí hộ thuẫn của tất cả bí thể.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh khả năng xuyên thủng linh khí hộ thuẫn của tất cả bí thể của người luyện thể</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Boar_2">
-			<Prefix>Obliteration</Prefix>
-			<Suffix>Tusk</Suffix>
-			<Desc>Sebuah tubuh rahasia yang secara alami dimiliki oleh babi hutan Yaoguai yang menempelkan Kekuatan Penghancur pada gadingnya yang tajam, satu serangan akan cukup kuat untuk melenyapkan apa pun.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan peluang penetrasi penghalang Qi tubuh rahasia dalam jumlah besar.</Levels.0.Desc>
+			<Prefix>Động Diệt Chi</Prefix>
+			<Suffix>Răng</Suffix>
+			<Desc>Bí thể truyền từ thiên phú của Trư Yêu, gắn lực phá diệt vào răng sắc, một cú cắn có sức mạnh xuyên thủng mọi thứ.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng cực mạnh khả năng xuyên thủng linh khí hộ thuẫn của bí thể</Levels.0.Desc>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,2 +1,4 @@
-Male,Royalcart,City of Abundance,Central Plain,Southern Frontier,Snaketail,Great Desert,Desolation,Snowplain,Riverback,Fertile Plain,Mt. South
-Male,Royalcart,City of Abundance,Central Plain,Southern Frontier,Snaketail,Great Desert,Desolation,Snowplain,Riverback,Fertile Plain,Mt. South
+Nam,Hoàng Hiên,Phong Thành,Trung Nguyên,Nam Cương,Bàn Xà,Đại Mạc,Đại Lương,Tuyết Nguyên,Hà Âm,Ốc Dã,Lĩnh Nam
+Nam,Hoàng Hiên,Phong Thành,Trung Nguyên,Nam Cương,Bàn Xà,Đại Mạc,Đại Lương,Tuyết Nguyên,Hà Âm,Ốc Dã,Lĩnh Nam
+
+

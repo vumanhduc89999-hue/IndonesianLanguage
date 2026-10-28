@@ -1,17 +1,19 @@
 ID	MapStoryID	DisplayName	Desc
-1	Secrets_Baozang_EX1	Lembah Cacing	Buka rahasia Lembah Cacing
-2	Secrets_Baozang_EX2	Harta Karun Racun	Buka rahasia Harta Karun Venom
-3	Secrets_Baozang_EX3	Istana Surgawi	Buka rahasia Istana Surgawi
-4	Secrets_Baozang_EX4	Gua Api	Buka rahasia Gua Api
-5	Secrets_Baozang_EX5	Harta Karun Malaikat	Buka rahasia Harta Karun Malaikat
-6	Secrets_Baozang_EX6	Sisa-sisa Setan	Buka rahasia Sisa-sisa Iblis
-7	Secrets_KunLunFaHui	Kompetisi Kunlun	Ikut serta dalam Kompetisi Kunlun
-8	Secrets_GuangShouMenTu	Pameran Takdir	Ikut serta dalam Pameran Takdir Abadi
-9	Secrets_XieDiLing	Pembukaan Makam Kaisar Iblis	Saksikan pembukaan Makam Kaisar Iblis
-10	Secrets_DuGuiXingZong	Kamu Xuan si Penjudi	Bertaruh melawan Ye Xuan si Penjudi
-11	Secrets_TianJi	Jimat Celeste Kuno	Buka rahasia Jimat Celeste Kuno
-12	BaoZang_QingLianShan	Gunung Immortal Blue Lotus	Buka rahasia Gunung Immortal Blue Lotus
-13	BaoZang_XuanKong	Tempat Tinggal Abadi Giok	Buka rahasia Jade Immortal Abode
-14	BaoZang_ChiLianYuan	Tempat Tinggal Abadi Istana Zamrud	Buka rahasia Emerald Palace Immortal Abode
-15	BaoZang_DengXian	Harta Karun Dong Hua	Buka rahasia Harta Karun Dong Hua
-16	LingWu_JiuHua1	Naga Tersembunyi dan Phoenix Bertengger	Buka rahasia di balik Hidden Dragon dan Perched Phoenix
+1	Secrets_Baozang_EX1	Trùng Cốc Bí Văn	Giải mã bí mật của Côn Giáp
+2	Secrets_Baozang_EX2	Độc Long Bí Bảo	Giải mã bí mật của Độc Long
+3	Secrets_Baozang_EX3	Y Tiên Nội Phủ	Giải mã bí mật của Y Tiên
+4	Secrets_Baozang_EX4	Hỏa Huyệt Tham Bảo	Giải mã bí mật của Hỏa Huyệt
+5	Secrets_Baozang_EX5	Thiên Trì Tàng Bảo	Giải mã bí mật của Thiên Trì
+6	Secrets_Baozang_EX6	Thiên Ma Di Hài	Giải mã bí mật của Thiên Ma di hài
+7	Secrets_KunLunFaHui	Côn Lôn Pháp Hội	Tham gia Pháp Hội Côn Luân
+8	Secrets_GuangShouMenTu	Tiên Duyên Đại Hội	Tham gia Đại Hội Tiên Duyên
+9	Secrets_XieDiLing	Tà Đế Lăng Khai Khải	Tham gia sự kiện khai mở Đế Lăng Tà
+10	Secrets_DuGuiXingZong	Đổ Quỷ Diệp Huyền	Cá cược với Đồ Đệ Yến Huyền
+11	Secrets_TianJi	Cổ Thiên Cực Phù	Giải mã bí mật của Cổ Thiên Cực Phù
+12	BaoZang_QingLianShan	Thanh Liên Tiên Sơn	Giải mã bí mật của Thanh Liên Tiên Sơn
+13	BaoZang_XuanKong	Lâm Lang Tiên Phủ	Giải mã bí mật của Lâm Lang Tiên Phủ
+14	BaoZang_ChiLianYuan	Quỳnh Lâu Tiên Phủ	Giải mã bí mật của Cung Quảng Tiên Phủ
+15	BaoZang_DengXian	Đông Hoa Di Bảo	Giải mã bí mật của Đông Hoa Di Bảo
+16	LingWu_JiuHua1	Long Tiềm Phượng Tê	Giải mã bí mật của Long Tiềm Phượng Tề
+
+

@@ -1,23 +1,24 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="Ls_FirstNoLing">
-			<DisplayName>Pet Qi Exhausted</DisplayName>
-			<Desc>Qi hewan peliharaan telah habis. Anda harus membangun patung yang sesuai untuk menghidupkannya kembali, dan prosesnya akan memakan waktu tiga hari.</Desc>
-			<Selections.0.Display>Oke</Selections.0.Display>
+			<DisplayName>Linh khí của linh thú cạn kiệt</DisplayName>
+			<Desc>Linh khí của linh thú đã tiêu hao hoàn toàn, cần xây dựng tượng tương ứng và đợi ba ngày sau mới có thể hồi sinh.</Desc>
+			<Selections.0.Display>Đồng ý</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_SecLs">
-			<DisplayName>Second Pet</DisplayName>
-			<Desc>Anda hanya dapat memiliki satu hewan peliharaan. Pet ini akan menghilang untuk sementara waktu. Untuk memanggil hewan peliharaan ini, Anda perlu membuat patungnya terlebih dahulu.</Desc>
+			<DisplayName>Linh thú thứ hai</DisplayName>
+			<Desc>Ngươi chỉ có thể sở hữu một linh thú. Linh thú này tạm thời sẽ biến mất. Muốn triệu hồi linh thú này, cần xây dựng tượng của nó và triệu hồi.</Desc>
 		</Text>
 		<Text Name="Ls_Outspread_Stability">
-			<DisplayName>Renowned Might</DisplayName>
-			<Desc>Naga terapung terbang tinggi di atas, dengan awan gelap, kilat dan guntur memenuhi langit. Mereka yang telah melakukan perbuatan salah akan sangat takut.</Desc>
-			<Selections.0.Display>Oke</Selections.0.Display>
+			<DisplayName>Uy chấn tứ phương</DisplayName>
+			<Desc>Rồng nổi trên không trung, mây đen dày đặc, sấm chớp vang rền, những kẻ làm việc xấu cảm thấy vô cùng sợ hãi.</Desc>
+			<Selections.0.Display>Đồng ý</Selections.0.Display>
 		</Text>
 		<Text Name="Ls_Outspread_Attractive">
-			<DisplayName>Auspicious Signs</DisplayName>
-			<Desc>Dark Phoenix melayang di langit selama beberapa hari sebelum jatuh di atas aula utama, mengeluarkan tiga tangisan panjang dan terbang menjauh. Kebanyakan orang percaya bahwa ini adalah Tujuh Pembantaian yang sangat bagus.</Desc>
-			<Selections.0.Display>Oke</Selections.0.Display>
+			<DisplayName>Thần Thú May Mắn</DisplayName>
+			<Desc>Phượng huyền lượn lờ trên không trung vài ngày, đậu trên chính điện, gáy ba tiếng rồi rời đi, dân chúng đều cho rằng đây là điềm lành.</Desc>
+			<Selections.0.Display>Đồng ý</Selections.0.Display>
 		</Text>
 	</List>
 </Texts>
+

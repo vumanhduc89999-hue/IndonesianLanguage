@@ -10,3 +10,4 @@
 /Assets/Resources/FightMap/School_KunLun/map.txt	OtherItem.4.Fabao.OName	天柱石砖	4	_ReplaceFabaoOName
 /Assets/Resources/FightMap/School_KunLun/map.txt	OtherItem.4._hd.Ss.1	戊己白虹珏	4.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_KunLun/map.txt	OtherItem.5._hd.Ss.1	昆仑道册-神视	5.1	_ReplaceThingName
+

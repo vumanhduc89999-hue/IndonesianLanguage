@@ -1,31 +1,32 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong_11_Tu">
-			<DisplayName>Sunflower Refining Law</DisplayName>
-			<Desc>Salah satu unsur Hukum sebenarnya dari Sekte Taiyi. Hanya perempuan yang diperbolehkan bercocok tanam dengan mengikuti Undang-undang ini. Gunakan kekuatan Yin yang paling murni dari bumi untuk menciptakan roh Yin yang murni, tinggalkan tubuh fana dan naiklah sebagai makhluk abadi. Jika dilakukan oleh seorang kultivator laki-laki, jenis kelaminnya akan terbalik.</Desc>
-			<SelectDesc>Undang-undang ini cocok untuk perempuan. Jika dilakukan oleh seorang kultivator laki-laki, jenis kelaminnya akan terbalik. Seseorang akan unggul dalam penguasaan artefak ketika mengolah Hukum ini, tetapi harus mengalami kesengsaraan pertama selama pembentukan inti. Apakah Anda yakin ingin mengikuti Hukum ini?</SelectDesc>
-			<Stages.0.DisplayName>Lesser Yin</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Innocence</Stages.0.Necks.0.DisplayName>
-			<Stages.0.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Persepsi rendah.[/color]</Stages.0.Necks.0.Desc>
-			<Stages.0.Necks.1.DisplayName>Sympathy</Stages.0.Necks.1.DisplayName>
-			<Stages.0.Necks.1.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Persepsi rendah.[/color]</Stages.0.Necks.1.Desc>
-			<Stages.0.Necks.2.DisplayName>Sensibility</Stages.0.Necks.2.DisplayName>
-			<Stages.1.DisplayName>Fair Yin</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Openness</Stages.1.Necks.0.DisplayName>
-			<Stages.1.Necks.0.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Persepsi rendah.[/color]</Stages.1.Necks.0.Desc>
-			<Stages.1.Necks.1.DisplayName>Converging</Stages.1.Necks.1.DisplayName>
-			<Stages.1.Necks.1.Desc>[color=#D06508]\nTerobosan ini lebih sulit untuk karakter dengan Persepsi rendah.[/color]</Stages.1.Necks.1.Desc>
-			<Stages.1.Necks.2.DisplayName>Core Forming</Stages.1.Necks.2.DisplayName>
-			<Stages.2.DisplayName>Greater Yin</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Benevolence</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.1.DisplayName>Sincerity</Stages.2.Necks.1.DisplayName>
-			<Stages.2.Necks.2.DisplayName>Vagueness</Stages.2.Necks.2.DisplayName>
-			<Stages.3.DisplayName>Oblivion</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Completeness</Stages.3.Necks.0.DisplayName>
-			<Stages.3.Necks.0.Desc>Integrasikan Mutiara Jiwa dari binatang dewasa dengan roh Yin murni dan selesaikan panggung menggunakan Yin Qi murni di dalam bola tersebut.</Stages.3.Necks.0.Desc>
-			<Stages.3.Necks.1.DisplayName>Transformation</Stages.3.Necks.1.DisplayName>
-			<Stages.3.Necks.1.Desc>Berubah menjadi ribuan bentuk menggunakan kekuatan roh yang utuh. Renungkan hidup dan mati untuk pencerahan dari surga.[color=#D06508]\nSangat sulit untuk ditembus, dan tidak akan ada Bonus XP apa pun.[/color]</Stages.3.Necks.1.Desc>
-			<Stages.3.Necks.2.DisplayName>Harmony</Stages.3.Necks.2.DisplayName>
+			<DisplayName>Quỳ Hoa Luyện Thần Đại Pháp</DisplayName>
+			<Desc>Một trong năm chân quyết Ngũ Hành trấn phái của Thái Nhất Môn, chỉ phụ nữ mới có thể tu luyện. Mượn lực chí âm của Thổ Dày thành tựu Nguyên Thần thuần âm để thoát xác phàm, phi thăng thành tiên. Nếu nam giới cưỡng ép tu luyện, giới tính sẽ bị đảo ngược.</Desc>
+			<SelectDesc>Công pháp này phù hợp cho phụ nữ tu luyện, nếu nam giới cưỡng ép tu luyện, giới tính sẽ bị đảo ngược. Công pháp này giỏi thuật điều khiển pháp khí, chỉ là khi kết đan sẽ phải chịu lễ rửa tội của sơ kiếp. Có nên chọn tu luyện công pháp này không?</SelectDesc>
+			<Stages.0.DisplayName>Thiếu Âm Chi Thể</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Anh Ninh</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nNút thắt này thần thức càng thấp, càng khó vượt qua.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Giao cảm</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>[color=#D06508]\nNút thắt này thần thức càng thấp, càng khó vượt qua.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Nhập Thể</Stages.0.Necks.2.DisplayName>
+			<Stages.1.DisplayName>Trung Âm Thành Đan</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Thông Cù</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nNút thắt này thần thức càng thấp, càng khó vượt qua.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Bách Hội</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>[color=#D06508]\nNút thắt này thần thức càng thấp, càng khó vượt qua.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>Thành đan</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Thái Âm Nguyên Thần</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Vong Ngã</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Tòng Chân</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Phản Hư</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Phá Toái Hư Không</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Cụ Túc</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Lấy Huyền Tẫn Châu trưởng thành của yêu thú dung hợp vào Thái Âm Nguyên Thần, mượn khí Thái Âm trong đó để hoàn thiện cụ túc.</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Hóa Thần</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Lấy Nguyên Thần đã cụ túc phân hóa vạn vật, mỗi vật lĩnh hội sinh tử, để ngộ Thiên Đạo. [color=#D06508]\nNút thắt này rất khó vượt qua, không có kinh nghiệm cộng thêm.[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>Hợp Đạo</Stages.3.Necks.2.DisplayName>
 		</Text>
 	</List>
 </Texts>
+

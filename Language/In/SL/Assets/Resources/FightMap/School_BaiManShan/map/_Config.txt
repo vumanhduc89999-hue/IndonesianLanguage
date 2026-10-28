@@ -16,3 +16,4 @@
 /Assets/Resources/FightMap/School_BaiManShan/map.txt	OtherItem.7._hd.Ss.1	坤元天心干	7.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_BaiManShan/map.txt	OtherItem.8.Fabao.OName	妖兽的韧皮	8	_ReplaceFabaoOName
 /Assets/Resources/FightMap/School_BaiManShan/map.txt	OtherItem.8._hd.Ss.1	麒麟炽魂障	8.1	_ReplaceThingName
+

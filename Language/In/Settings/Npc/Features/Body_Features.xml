@@ -1,147 +1,148 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FacialScar">
-			<DisplayName>Scarface</DisplayName>
-			<Desc>Ada bekas luka yang mengerikan di wajah orang ini.</Desc>
+			<DisplayName>Sẹo trên mặt</DisplayName>
+			<Desc>Một vết sẹo dữ tợn hằn trên khuôn mặt.</Desc>
 		</Text>
 		<Text Name="UglyFace1">
-			<DisplayName>Unattractive</DisplayName>
-			<Desc>Orang ini terlihat terlalu jelek untuk disukai.</Desc>
+			<DisplayName>Diện mạo xấu xí</DisplayName>
+			<Desc>Người này trông rất xấu xí, khiến người khác chán ghét.</Desc>
 		</Text>
 		<Text Name="UglyFace2">
-			<DisplayName>Ugly</DisplayName>
-			<Desc>Orang ini terlihat terlalu menakutkan untuk menjadi manusia.</Desc>
+			<DisplayName>Xấu xí đến cực điểm</DisplayName>
+			<Desc>Người này trông không giống con người, khiến người khác sợ hãi.</Desc>
 		</Text>
 		<Text Name="BeautifulFace1">
-			<DisplayName>Handsome</DisplayName>
-			<Desc>Orang ini sangat tampan.</Desc>
+			<DisplayName>Dung mạo tuấn mỹ</DisplayName>
+			<Desc>Khuôn mặt của người này vô cùng tuấn tú.</Desc>
 		</Text>
 		<Text Name="BeautifulFace2">
-			<DisplayName>Gorgeous</DisplayName>
-			<Desc>Orang ini sangat tampan.</Desc>
+			<DisplayName>Vẻ đẹp kinh diễm</DisplayName>
+			<Desc>Khuôn mặt của người này vô cùng tuấn tú.</Desc>
 		</Text>
 		<Text Name="OldViscusInjury">
-			<DisplayName>Damaged Organs</DisplayName>
-			<Desc>Organ dalam orang ini telah rusak parah dan tidak dapat disembuhkan.</Desc>
+			<DisplayName>Nội tạng tổn thương cũ</DisplayName>
+			<Desc>Nội tạng của người này từng bị thương nặng, mãi không thể hồi phục.</Desc>
 		</Text>
 		<Text Name="CrippleLeft">
-			<DisplayName>Limp (Left)</DisplayName>
-			<Desc>Orang ini mengalami pincang pada kaki kirinya karena penyakit jangka panjang.</Desc>
+			<DisplayName>Chân trái khập khiễng</DisplayName>
+			<Desc>Chân trái của người này bị bệnh mãn tính nên không linh hoạt.</Desc>
 		</Text>
 		<Text Name="CrippleRight">
-			<DisplayName>Limp (Right)</DisplayName>
-			<Desc>Orang ini mengalami pincang pada kaki kanannya karena penyakit jangka panjang.</Desc>
+			<DisplayName>Chân phải khập khiễng</DisplayName>
+			<Desc>Chân phải của người này bị bệnh mãn tính nên không linh hoạt.</Desc>
 		</Text>
 		<Text Name="BanLeftTibia">
-			<DisplayName>Severed Leg (Left)</DisplayName>
-			<Desc>Kaki kiri orang ini telah putus.</Desc>
+			<DisplayName>Cụt chân trái</DisplayName>
+			<Desc>Chân phải của người này đã bị cụt.</Desc>
 		</Text>
 		<Text Name="BanRightTibia">
-			<DisplayName>Severed Leg (Right)</DisplayName>
-			<Desc>Kaki kiri orang ini telah putus.</Desc>
+			<DisplayName>Cụt chân phải</DisplayName>
+			<Desc>Chân phải của người này đã bị cụt.</Desc>
 		</Text>
 		<Text Name="BanLeftScapula">
-			<DisplayName>Severed Arm (Left)</DisplayName>
-			<Desc>Seluruh lengan kiri orang ini telah putus.</Desc>
+			<DisplayName>Cụt tay trái</DisplayName>
+			<Desc>Tay trái của người này bị cụt đến tận vai.</Desc>
 		</Text>
 		<Text Name="BanRightScapula">
-			<DisplayName>Severed Arm (Right)</DisplayName>
-			<Desc>Seluruh lengan kanan orang ini telah putus.</Desc>
+			<DisplayName>Cụt tay phải</DisplayName>
+			<Desc>Tay phải của người này bị cụt đến tận vai.</Desc>
 		</Text>
 		<Text Name="Deaf">
-			<DisplayName>Deaf</DisplayName>
-			<Desc>Orang ini terlahir tuli.</Desc>
+			<DisplayName>Điếc tai</DisplayName>
+			<Desc>Người này bị khiếm thính bẩm sinh.</Desc>
 		</Text>
 		<Text Name="BanLeftEye">
-			<DisplayName>Blind (Left)</DisplayName>
-			<Desc>Buta di mata kiri.</Desc>
+			<DisplayName>Mù mắt trái</DisplayName>
+			<Desc>Mắt trái đã bị mù.</Desc>
 		</Text>
 		<Text Name="BanRightEye">
-			<DisplayName>Blind (Right)</DisplayName>
-			<Desc>Buta pada mata kanannya.</Desc>
+			<DisplayName>Mù mắt phải</DisplayName>
+			<Desc>Mắt phải đã bị mù.</Desc>
 		</Text>
 		<Text Name="BanLeftEar">
-			<DisplayName>Deaf (Left)</DisplayName>
-			<Desc>Tuli di telinga kiri.</Desc>
+			<DisplayName>Điếc tai trái</DisplayName>
+			<Desc>Tai trái đã bị điếc.</Desc>
 		</Text>
 		<Text Name="BanRightEar">
-			<DisplayName>Deaf (Right)</DisplayName>
-			<Desc>Tuli di telinga kanan.</Desc>
+			<DisplayName>Điếc tai phải</DisplayName>
+			<Desc>Tai phải đã bị điếc.</Desc>
 		</Text>
 		<Text Name="MeridianIncomplete">
-			<DisplayName>Broken Meridians</DisplayName>
-			<Desc>Orang ini terlahir dengan meridian yang rusak.</Desc>
+			<DisplayName>Kinh Mạch Khiếm Khuyết</DisplayName>
+			<Desc>Người này sinh ra đã có kinh mạch bị khiếm khuyết.</Desc>
 		</Text>
 		<Text Name="HealthOverdraft1">
-			<DisplayName>Overstrain</DisplayName>
-			<Desc>Orang ini kurang memperhatikan kesehatannya, dan memiliki umur yang lebih pendek dibandingkan orang lain.</Desc>
+			<DisplayName>Thể Lực Suy Kiệt</DisplayName>
+			<Desc>Người này đã tiêu hao thể lực quá mức, tuổi thọ ngắn hơn người bình thường.</Desc>
 		</Text>
 		<Text Name="HealthOverdraft2">
-			<DisplayName>Exhausted</DisplayName>
-			<Desc>Orang ini tidak memperhatikan kesehatannya dan memiliki umur yang jauh lebih pendek dibandingkan orang lain.</Desc>
+			<DisplayName>Cơ Thể Suy Nhược</DisplayName>
+			<Desc>Người này tiêu hao thể lực nghiêm trọng, tuổi thọ ngắn hơn người bình thường rất nhiều.</Desc>
 		</Text>
 		<Text Name="HealthMaintain1">
-			<DisplayName>Healthy</DisplayName>
-			<Desc>Orang ini tahu bagaimana menjaga kesehatan dan memiliki umur yang lebih panjang dibandingkan orang lain.</Desc>
+			<DisplayName>Bảo Dưỡng Tốt</DisplayName>
+			<Desc>Người này rất biết cách bảo dưỡng, tuổi thọ dài hơn người bình thường.</Desc>
 		</Text>
 		<Text Name="HealthMaintain2">
-			<DisplayName>Vigorous</DisplayName>
-			<Desc>Orang ini tahu bagaimana menjaga kesehatan dan memiliki umur yang lebih panjang dibandingkan orang lain.</Desc>
+			<DisplayName>Sống Trong Nhung Lụa</DisplayName>
+			<Desc>Người này rất biết cách bảo dưỡng, tuổi thọ dài hơn người bình thường rất nhiều.</Desc>
 		</Text>
 		<Text Name="ColdPatience">
-			<DisplayName>Cold-resistant</DisplayName>
-			<Desc>Orang ini tinggal di daerah dingin dan dapat menangani cuaca dingin dengan baik.</Desc>
+			<DisplayName>Chịu Lạnh Tốt</DisplayName>
+			<Desc>Người này sống lâu năm ở vùng lạnh, rất thích nghi với cái lạnh.</Desc>
 		</Text>
 		<Text Name="HotPatience">
-			<DisplayName>Heat-resistant</DisplayName>
-			<Desc>Orang ini tinggal di daerah panas dan dapat menangani cuaca panas dengan baik.</Desc>
+			<DisplayName>Chịu Nóng Tốt</DisplayName>
+			<Desc>Người này sống lâu năm ở vùng nóng, rất thích nghi với cái nóng.</Desc>
 		</Text>
 		<Text Name="DarkPatience">
-			<DisplayName>Dark Dweller</DisplayName>
-			<Desc>Orang ini menyukai tempat gelap.</Desc>
+			<DisplayName>Thích Bóng Tối</DisplayName>
+			<Desc>Người này thích những nơi tối tăm.</Desc>
 		</Text>
 		<Text Name="HighMan">
-			<DisplayName>Tall</DisplayName>
-			<Desc>Orang ini lebih tinggi dan lebih kuat dari kebanyakan orang, sehingga lebih mungkin menyelesaikan masalah dengan kekerasan.</Desc>
+			<DisplayName>Cao Lớn</DisplayName>
+			<Desc>Người này có vóc dáng cao lớn hơn người bình thường rất nhiều, thân hình mạnh mẽ khiến họ quen giải quyết vấn đề bằng bạo lực.</Desc>
 		</Text>
 		<Text Name="LowMan">
-			<DisplayName>Small</DisplayName>
-			<Desc>Orang ini bertubuh pendek dan kecil seperti anak kecil, sehingga lebih mudah menyelesaikan masalah dengan kecerdasan.</Desc>
+			<DisplayName>Lùn Nhỏ</DisplayName>
+			<Desc>Người này có vóc dáng lùn nhỏ, giống như một đứa trẻ, sự yếu ớt của cơ thể khiến họ quen suy nghĩ và quan sát để giải quyết vấn đề.</Desc>
 		</Text>
 		<Text Name="NoHair">
-			<DisplayName>Bald</DisplayName>
-			<Desc>Orang ini tidak memiliki rambut.</Desc>
+			<DisplayName>Đầu Trọc</DisplayName>
+			<Desc>Người này không có tóc.</Desc>
 		</Text>
 		<Text Name="LeftHanded">
-			<DisplayName>Left-handed</DisplayName>
-			<Desc>Orang ini kidal.</Desc>
+			<DisplayName>Thuận Tay Trái</DisplayName>
+			<Desc>Người này quen sử dụng tay trái.</Desc>
 		</Text>
 		<Text Name="Mute">
-			<DisplayName>Mute</DisplayName>
-			<Desc>Orang ini tidak dapat berbicara dengan orang lain.</Desc>
+			<DisplayName>Câm</DisplayName>
+			<Desc>Người này không thể giao tiếp với người khác.</Desc>
 		</Text>
 		<Text Name="BanRightMiddleFinger">
-			<DisplayName>Broken Finger</DisplayName>
+			<DisplayName>Mất Ngón Tay</DisplayName>
 		</Text>
 		<Text Name="RunFast">
-			<DisplayName>Agile</DisplayName>
-			<Desc>Orang ini sangat lincah dan dapat berjalan sangat cepat.</Desc>
+			<DisplayName>Bước Đi Nhanh Nhẹn</DisplayName>
+			<Desc>Người này chân tay linh hoạt, bước đi nhanh nhẹn.</Desc>
 		</Text>
 		<Text Name="Indigestion">
-			<DisplayName>Indigestion</DisplayName>
-			<Desc>Orang ini mengalami gangguan pencernaan buruk yang menghambat penyerapan nutrisi.</Desc>
+			<DisplayName>Tiêu Hóa Kém</DisplayName>
+			<Desc>Người này có hệ tiêu hóa không tốt, hấp thụ thức ăn kém.</Desc>
 		</Text>
 		<Text Name="IronStomach">
-			<DisplayName>Iron Stomach</DisplayName>
-			<Desc>Orang ini memiliki pencernaan yang sangat sehat yang membantu penyerapan nutrisi.</Desc>
+			<DisplayName>Dạ Dày Sắt</DisplayName>
+			<Desc>Người này có thể chất bẩm sinh đặc biệt, hấp thụ thức ăn rất tốt.</Desc>
 		</Text>
 		<Text Name="GoodEyesight">
-			<DisplayName>Sharp-sighted</DisplayName>
-			<Desc>Orang ini memiliki penglihatan yang baik dan dapat melihat sangat jauh.</Desc>
+			<DisplayName>Thị Lực Tốt</DisplayName>
+			<Desc>Người này có đôi mắt rất tốt, có thể nhìn rất xa.</Desc>
 		</Text>
 		<Text Name="ShallowSleep">
-			<DisplayName>Light Sleeper</DisplayName>
-			<Desc>Orang ini kemungkinan besar akan terbangun di tengah malam.</Desc>
+			<DisplayName>Ngủ Không Sâu</DisplayName>
+			<Desc>Người này không ngủ ngon giấc.</Desc>
 		</Text>
 	</List>
 </Texts>
+

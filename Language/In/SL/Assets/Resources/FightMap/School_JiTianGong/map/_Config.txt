@@ -22,3 +22,4 @@
 /Assets/Resources/FightMap/School_JiTianGong/map.txt	OtherItem.10._hd.Ss.1	赤炎骰	10.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_JiTianGong/map.txt	OtherItem.11.Fabao.OName	火铜骰子	11	_ReplaceFabaoOName
 /Assets/Resources/FightMap/School_JiTianGong/map.txt	OtherItem.11._hd.Ss.1	焚日万世骰	11.1	_ReplaceThingName
+

@@ -1,94 +1,95 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong10_a0">
-			<DisplayName>Panacea</DisplayName>
+			<DisplayName>Hóa Thương Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong10_a1">
-			<DisplayName>Chant of Cloud Dispelling</DisplayName>
+			<DisplayName>Khu Vân Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong10_a3">
-			<DisplayName>Helios Gaze</DisplayName>
+			<DisplayName>Kim Ô Quán</DisplayName>
 		</Text>
 		<Text Name="Gong10_a7">
-			<DisplayName>Innate Qi</DisplayName>
+			<DisplayName>Tiên Thiên Cương Khí</DisplayName>
 		</Text>
 		<Text Name="Gong10_b2">
-			<DisplayName>Skyfire Meridians</DisplayName>
+			<DisplayName>Tam Dương Chân Mạch</DisplayName>
 		</Text>
 		<Text Name="Gong10_b3">
-			<DisplayName>Visceral Blaze</DisplayName>
+			<DisplayName>Ngũ Nội Dưỡng Hỏa</DisplayName>
 		</Text>
 		<Text Name="Gong10_b3_1">
-			<DisplayName>Visceral Blaze</DisplayName>
+			<DisplayName>Ngũ Nội Dưỡng Hỏa</DisplayName>
 		</Text>
 		<Text Name="Gong10_b3_2">
-			<DisplayName>Visceral Blaze</DisplayName>
+			<DisplayName>Ngũ Nội Dưỡng Hỏa</DisplayName>
 		</Text>
 		<Text Name="Gong10_b5">
-			<DisplayName>Mana Codex</DisplayName>
+			<DisplayName>Ngự Chân Bí Điển</DisplayName>
 		</Text>
 		<Text Name="Gong10_b7">
-			<DisplayName>Firestorm</DisplayName>
+			<DisplayName>Liệt Diệm Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong10_b9">
-			<DisplayName>Cleansing Flame</DisplayName>
+			<DisplayName>Tịnh Hỏa Chước Tâm</DisplayName>
 		</Text>
 		<Text Name="Gong10_c0">
-			<DisplayName>Meditation</DisplayName>
+			<DisplayName>Thuật Nhập Định</DisplayName>
 		</Text>
 		<Text Name="Gong10_c1">
-			<DisplayName>Spiritual Breath Chant</DisplayName>
+			<DisplayName>Linh Tức Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong10_c2">
-			<DisplayName>Reverie Rebirth</DisplayName>
+			<DisplayName>Huyền Tẫn Trọng Sinh</DisplayName>
 		</Text>
 		<Text Name="Gong10_c3">
-			<DisplayName>Sunstream Chant</DisplayName>
+			<DisplayName>Thủy Nhật Chân Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong10_c3_1">
-			<DisplayName>Astroflare</DisplayName>
+			<DisplayName>Phần Nhật Chân Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong10_c7">
-			<DisplayName>Steadfast Incantation</DisplayName>
+			<DisplayName>Tam Dương Xích Tâm</DisplayName>
 		</Text>
 		<Text Name="Gong10_d0">
-			<DisplayName>Foehn Wind</DisplayName>
+			<DisplayName>Phần Phong Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong10_d0_1">
-			<DisplayName>Qi Ignosphere</DisplayName>
+			<DisplayName>Cửu Dương Thần Hỏa Giới</DisplayName>
 		</Text>
 		<Text Name="Gong10_d1">
-			<DisplayName>Lifeforce Genesis</DisplayName>
+			<DisplayName>Mệnh Hỏa Trúc Linh</DisplayName>
 		</Text>
 		<Text Name="Gong10_d2">
-			<DisplayName>Resilient</DisplayName>
+			<DisplayName>Phạt mao tẩy tủy</DisplayName>
 		</Text>
 		<Text Name="Gong10_d3">
-			<DisplayName>Mindblaze</DisplayName>
+			<DisplayName>Tâm Hỏa</DisplayName>
 		</Text>
 		<Text Name="Gong10_d3_1">
-			<DisplayName>Innerfire</DisplayName>
+			<DisplayName>Tâm Viêm</DisplayName>
 		</Text>
 		<Text Name="Gong10_d5">
-			<DisplayName>Spellfire</DisplayName>
+			<DisplayName>Chân Hỏa Luyện Thân</DisplayName>
 		</Text>
 		<Text Name="Gong10_d5_1">
-			<DisplayName>Infernoform</DisplayName>
+			<DisplayName>Hỏa Chân Chi Thể</DisplayName>
 		</Text>
 		<Text Name="Gong10_d7">
-			<DisplayName>Divine Fire Incantation</DisplayName>
+			<DisplayName>Thông Thiên Thần Hỏa</DisplayName>
 		</Text>
 		<Text Name="Gong10_d9">
-			<DisplayName>Heavenly Radiance</DisplayName>
+			<DisplayName>Thiên Hỏa Đồng Nhân</DisplayName>
 		</Text>
 		<Text Name="Gong10_d9_1">
-			<DisplayName>Heavenly Radiance</DisplayName>
+			<DisplayName>Thiên Hỏa Đồng Nhân</DisplayName>
 		</Text>
 		<Text Name="Gong10_e4">
-			<DisplayName>Eureka Pill</DisplayName>
+			<DisplayName>Thiên Đạo Thần Đan</DisplayName>
 		</Text>
 		<Text Name="Gong10_e8">
-			<DisplayName>Taoist Artifact</DisplayName>
+			<DisplayName>Thiên Đạo Thần Khí</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

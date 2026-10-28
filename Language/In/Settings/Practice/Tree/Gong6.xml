@@ -1,109 +1,110 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Gong6_a0">
-			<DisplayName>Chant of Wood Mastery</DisplayName>
+			<DisplayName>Ngự Mộc Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong6_a2">
-			<DisplayName>Refined Tonic</DisplayName>
+			<DisplayName>Ngọc Dịch Luyện Hình</DisplayName>
 		</Text>
 		<Text Name="Gong6_a3">
-			<DisplayName>Pharmacopoeia</DisplayName>
+			<DisplayName>Dược Điển</DisplayName>
 		</Text>
 		<Text Name="Gong6_a5">
-			<DisplayName>Crystaleye Chant</DisplayName>
+			<DisplayName>Minh Mục Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong6_a8">
-			<DisplayName>Essence Chant</DisplayName>
+			<DisplayName>Tinh Hoa Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong6_b0">
-			<DisplayName>Spiritual Breath Chant</DisplayName>
+			<DisplayName>Linh Tức Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong6_b1">
-			<DisplayName>Incantation of Mind Cleansing</DisplayName>
+			<DisplayName>Thanh Tâm Chú</DisplayName>
 		</Text>
 		<Text Name="Gong6_b3">
-			<DisplayName>Herbs and Minerals</DisplayName>
+			<DisplayName>Bách Thảo Kim Thạch</DisplayName>
 		</Text>
 		<Text Name="Gong6_b5">
-			<DisplayName>The 9 Refinement Pillars</DisplayName>
+			<DisplayName>Khai Lò Cửu Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong6_b8">
-			<DisplayName>Reabsorption Chant</DisplayName>
+			<DisplayName>Quy Nguyên Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong6_b8_1">
-			<DisplayName>Revitalized Physique</DisplayName>
+			<DisplayName>Tân Thể Quyết</DisplayName>
 		</Text>
 		<Text Name="Gong6_b11">
-			<DisplayName>Panacea</DisplayName>
+			<DisplayName>Hóa Thương Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong6_c0">
-			<DisplayName>Meditation</DisplayName>
+			<DisplayName>Thuật Nhập Định</DisplayName>
 		</Text>
 		<Text Name="Gong6_c1">
-			<DisplayName>Mind Cleanse</DisplayName>
+			<DisplayName>Tẩy Tâm Chú</DisplayName>
 		</Text>
 		<Text Name="Gong6_c3">
-			<DisplayName>Elixirs of the Supreme Tao</DisplayName>
+			<DisplayName>Thái Thượng Đan Kinh</DisplayName>
 		</Text>
 		<Text Name="Gong6_c3_1">
-			<DisplayName>Legacy Artifact: Cauldron of the Harvest</DisplayName>
+			<DisplayName>Bí Bảo: Thần Nông Đỉnh</DisplayName>
 		</Text>
 		<Text Name="Gong6_c8">
-			<DisplayName>Inner Canon of the Elixir Sages</DisplayName>
+			<DisplayName>Thái Thượng Nội Kinh</DisplayName>
 		</Text>
 		<Text Name="Gong6_c8_1">
-			<DisplayName>Impervious Self</DisplayName>
+			<DisplayName>Vô Lậu Chi Thân</DisplayName>
 		</Text>
 		<Text Name="Gong6_c11">
-			<DisplayName>Reconstruction</DisplayName>
+			<DisplayName>Tái Tạo Thuật</DisplayName>
 		</Text>
 		<Text Name="Gong6_c11_1">
-			<DisplayName>Body of Genesis</DisplayName>
+			<DisplayName>Tạo Hóa Tố Thể</DisplayName>
 		</Text>
 		<Text Name="Gong6_d2">
-			<DisplayName>Moral Purification</DisplayName>
+			<DisplayName>Đạo Đức Thanh Tịnh</DisplayName>
 		</Text>
 		<Text Name="Gong6_d2_1">
-			<DisplayName>Taoist Heart</DisplayName>
+			<DisplayName>Đạo Tâm</DisplayName>
 		</Text>
 		<Text Name="Gong6_d2_2">
-			<DisplayName>Legacy Artifact: Soaring Flame Banner</DisplayName>
+			<DisplayName>Bí Bảo: Ly Địa Diễm Quang Kỳ</DisplayName>
 		</Text>
 		<Text Name="Gong6_d4">
-			<DisplayName>Hastened Elixircraft</DisplayName>
+			<DisplayName>Tốc Luyện Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong6_d4_1">
-			<DisplayName>Body Forging</DisplayName>
+			<DisplayName>Luyện Thân Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong6_d5">
-			<DisplayName>Elite Elixircraft</DisplayName>
+			<DisplayName>Tinh Luyện Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong6_d5_1">
-			<DisplayName>Body Forging</DisplayName>
+			<DisplayName>Luyện Thân Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong6_d6">
-			<DisplayName>Divine Elixircraft</DisplayName>
+			<DisplayName>Thần Luyện Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong6_d6_1">
-			<DisplayName>Body Forging</DisplayName>
+			<DisplayName>Luyện Thân Pháp</DisplayName>
 		</Text>
 		<Text Name="Gong6_d7">
-			<DisplayName>Resilient</DisplayName>
+			<DisplayName>Phạt mao tẩy tủy</DisplayName>
 		</Text>
 		<Text Name="Gong6_d8">
-			<DisplayName>Enlightened</DisplayName>
+			<DisplayName>Đề hồ quán đỉnh</DisplayName>
 		</Text>
 		<Text Name="Gong6_d9">
-			<DisplayName>Charismatic</DisplayName>
+			<DisplayName>Tái tạo hình thần.</DisplayName>
 		</Text>
 		<Text Name="Gong6_d10">
-			<DisplayName>Perceptive</DisplayName>
+			<DisplayName>Khai thiên nhãn.</DisplayName>
 		</Text>
 		<Text Name="Gong6_e4">
-			<DisplayName>Eureka Pill</DisplayName>
+			<DisplayName>Thiên Đạo Thần Đan</DisplayName>
 		</Text>
 		<Text Name="Gong6_e8">
-			<DisplayName>Taoist Artifact</DisplayName>
+			<DisplayName>Thiên Đạo Thần Khí</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

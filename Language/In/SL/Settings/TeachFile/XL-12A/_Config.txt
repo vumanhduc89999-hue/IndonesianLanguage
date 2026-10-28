@@ -593,4 +593,5 @@
 /Settings/TeachFile/XL-12A.osave	Skill.SkillDefs.TDamageSkill-615.DisplayName	阴阳飞星神雷	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/XL-12A.osave	OtherSchool.SchoolMsg.0.Txt	据传昆仑宫的大能闻蓉在铜陵山出没。	0	
 /Settings/TeachFile/XL-12A.osave	OtherSchool.SchoolMsg.1.Txt	据传正一道的大能花民在铜陵山出没。	1	
-/Settings/TeachFile/XL-12A.osave	OtherSchool.SchoolMsg.2.Txt	据传紫霄宗的大能马刚在南屏村出没。	2	
+/Settings/TeachFile/XL-12A.osave	OtherSchool.SchoolMsg.2.Txt	据传紫霄宗的大能马刚在南屏村出没。	2
+

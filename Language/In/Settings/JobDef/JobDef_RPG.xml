@@ -1,52 +1,53 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="JobAIPathMove">
-			<DisplayName>Move</DisplayName>
+			<DisplayName>Di chuyển</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIFree">
-			<DisplayName>Wander</DisplayName>
+			<DisplayName>Dạo chơi</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIStay">
-			<DisplayName>Stay</DisplayName>
+			<DisplayName>Dừng lại</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIRoute">
-			<DisplayName>Patrol</DisplayName>
+			<DisplayName>Tuần tra</DisplayName>
 		</Text>
 		<Text Name="JobRPGAIPatrol">
-			<DisplayName>Roam</DisplayName>
+			<DisplayName>Lang thang</DisplayName>
 		</Text>
 		<Text Name="JobRPGPlayerMove">
-			<DisplayName>Move</DisplayName>
+			<DisplayName>Di chuyển</DisplayName>
 		</Text>
 		<Text Name="JobRPGOpt">
-			<DisplayName>Move</DisplayName>
+			<DisplayName>Di chuyển</DisplayName>
 		</Text>
 		<Text Name="JobRPGMine">
-			<DisplayName>Mine</DisplayName>
+			<DisplayName>Khai thác mỏ</DisplayName>
 		</Text>
 		<Text Name="JobRPGCutoff">
-			<DisplayName>Chop</DisplayName>
+			<DisplayName>Chặt</DisplayName>
 		</Text>
 		<Text Name="JobRPGPickup">
-			<DisplayName>Collect</DisplayName>
+			<DisplayName>Nhặt lên</DisplayName>
 		</Text>
 		<Text Name="JobRPGEat">
-			<DisplayName>Eat</DisplayName>
+			<DisplayName>Ăn uống</DisplayName>
 		</Text>
 		<Text Name="JobRPGDialog">
-			<DisplayName>Talk</DisplayName>
+			<DisplayName>Đối thoại</DisplayName>
 		</Text>
 		<Text Name="JobRPGEquip">
-			<DisplayName>Equip</DisplayName>
+			<DisplayName>Trang bị</DisplayName>
 		</Text>
 		<Text Name="JobRPGPassiveMove">
-			<DisplayName>Move</DisplayName>
+			<DisplayName>Di chuyển</DisplayName>
 		</Text>
 		<Text Name="JobRPGMoveTo">
-			<DisplayName>Move To</DisplayName>
+			<DisplayName>Di chuyển đến</DisplayName>
 		</Text>
 		<Text Name="JobRPGSlaughter">
-			<DisplayName>Butcher</DisplayName>
+			<DisplayName>Giết mổ</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

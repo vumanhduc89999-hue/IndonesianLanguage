@@ -1,50 +1,51 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Zhen_XianTianMuLing">
-			<DisplayName>Domain of Wood Essence</DisplayName>
-			<Desc>Mengaktifkan potensi tubuh dan meningkatkan ketahanan terhadap cedera fisik.</Desc>
+			<DisplayName>Tiên Thiên Mộc Linh Giới</DisplayName>
+			<Desc>Kích hoạt tiềm năng cơ thể, tăng khả năng hồi phục tổn thương cơ thể của bản thân.</Desc>
 		</Text>
 		<Text Name="Zhen_ZTLYQLSJ">
-			<DisplayName>Domain of Heavenly Serenity</DisplayName>
-			<Desc>Meningkatkan Suasana Hati, Keadaan Mental dan Kecepatan Kultivasi.</Desc>
+			<DisplayName>Chư Thiên Lục Ngự Thanh Linh Thắng Cảnh</DisplayName>
+			<Desc>Cải thiện tâm trạng, tâm cảnh, tốc độ tu luyện.</Desc>
 		</Text>
 		<Text Name="Zhen_ZhenEnginePower1">
-			<DisplayName>Small Formation Load</DisplayName>
+			<DisplayName>Khả năng chịu tải trận pháp ít</DisplayName>
 		</Text>
 		<Text Name="Zhen_ZhenEnginePower2">
-			<DisplayName>Medium Formation Load</DisplayName>
+			<DisplayName>Khả năng chịu tải trận pháp vừa</DisplayName>
 		</Text>
 		<Text Name="Zhen_ZhenEnginePower3">
-			<DisplayName>Large Formation Load</DisplayName>
+			<DisplayName>Khả năng chịu tải trận pháp nhiều</DisplayName>
 		</Text>
 		<Text Name="Zhen_ZhenEnginePower4">
-			<DisplayName>Advanced Formation</DisplayName>
+			<DisplayName>Trận pháp cao cấp</DisplayName>
 		</Text>
 		<Text Name="Zhen_FashuhejiEffect">
-			<DisplayName>Joint Spell Attack</DisplayName>
-			<Desc>Ucapkan mantra berikutnya dengan menggabungkan kekuatan semua orang di Formasi.</Desc>
+			<DisplayName>Pháp thuật hợp kích</DisplayName>
+			<Desc>Dùng sức mạnh của tất cả người trong trận pháp để thi triển pháp thuật tiếp theo</Desc>
 		</Text>
 		<Text Name="Zhen_LinkEffect">
-			<DisplayName>Form Formation</DisplayName>
+			<DisplayName>Kết trận</DisplayName>
 		</Text>
 		<Text Name="Zhen_LinkEffectCore">
-			<DisplayName>Pillar</DisplayName>
+			<DisplayName>Trận trục</DisplayName>
 		</Text>
 		<Text Name="Zhen_RevealEffect">
-			<DisplayName>Exposed Auxiliary</DisplayName>
-			<Desc>Alat bantu tersebut kini telah terekspos, serangan terhadapnya akan menimbulkan kerusakan ekstra. Itu bisa disembunyikan dengan mengubah formasi.</Desc>
+			<DisplayName>Lộ trận nhãn</DisplayName>
+			<Desc>Trận nhãn này đã bị lộ, tấn công vào nó có thể gây thêm tổn thương, cũng có thể che giấu bằng cách biến trận.</Desc>
 		</Text>
 		<Text Name="Zhen_CancelZhenRecover">
-			<DisplayName>Restore Formation</DisplayName>
-			<Desc>Formasi sedang dalam pemulihan.</Desc>
+			<DisplayName>Trận pháp hồi phục</DisplayName>
+			<Desc>Đang trong trạng thái hồi phục trận pháp</Desc>
 		</Text>
 		<Text Name="Zhen_ChangeEffect">
-			<DisplayName>Change Formation</DisplayName>
-			<Desc>Pilar tersebut telah diubah untuk sementara tetapi perubahan tersebut akan dikembalikan setelah beberapa saat.</Desc>
+			<DisplayName>Biến trận</DisplayName>
+			<Desc>Tạm thời thay đổi trận trung, sau khi thời gian kết thúc sẽ hoàn nguyên.</Desc>
 		</Text>
 		<Text Name="BDPW_Lock">
-			<DisplayName>Marked</DisplayName>
-			<Desc>Ditandai dengan Battle Aloofness.</Desc>
+			<DisplayName>Đánh dấu</DisplayName>
+			<Desc>Bị đánh dấu bởi Bắc Đẩu Phá Vọng</Desc>
 		</Text>
 	</List>
 </Texts>
+

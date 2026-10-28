@@ -1,9 +1,10 @@
 <Texts Type="Story">
 	<List>
 		<Text Name="Sup">
-			<DisplayName>Incorporate</DisplayName>
-			<Desc>Menggabungkan</Desc>
-			<Selections.0.Display>Tidak terjadi apa-apa...</Selections.0.Display>
+			<DisplayName>Thu phục</DisplayName>
+			<Desc>Thu phục</Desc>
+			<Selections.0.Display>Không có gì xảy ra</Selections.0.Display>
 		</Text>
 	</List>
 </Texts>
+

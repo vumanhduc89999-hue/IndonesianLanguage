@@ -1,28 +1,29 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="GoodsAnimal">
-			<IVNUMBER.0.Animal.DisplayName>Beautiful Rabbit Cage</IVNUMBER.0.Animal.DisplayName>
-			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor kelinci dalam kondisi Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</IVNUMBER.0.Animal.Tip>
-			<IVNUMBER.1.Animal.DisplayName>Beautiful Chicken Cage</IVNUMBER.1.Animal.DisplayName>
-			<IVNUMBER.1.Animal.Tip>Di dalamnya ada seekor ayam dalam kondisi Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</IVNUMBER.1.Animal.Tip>
-			<IVNUMBER.2.Animal.DisplayName>Beautiful Wolf Cage</IVNUMBER.2.Animal.DisplayName>
-			<IVNUMBER.2.Animal.Tip>Di dalamnya ada serigala dalam kondisi Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</IVNUMBER.2.Animal.Tip>
-			<IVNUMBER.3.Animal.DisplayName>Beautiful Snake Cage</IVNUMBER.3.Animal.DisplayName>
-			<IVNUMBER.3.Animal.Tip>Di dalamnya ada seekor ular dalam kondisi Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</IVNUMBER.3.Animal.Tip>
-			<IVNUMBER.4.Animal.DisplayName>Beautiful Boar Cage</IVNUMBER.4.Animal.DisplayName>
-			<IVNUMBER.4.Animal.Tip>Di dalamnya ada seekor babi hutan dalam kondisi Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</IVNUMBER.4.Animal.Tip>
-			<IVNUMBER.5.Animal.DisplayName>Beautiful Bear Cage</IVNUMBER.5.Animal.DisplayName>
-			<IVNUMBER.5.Animal.Tip>Di dalamnya ada seekor beruang dalam kondisi Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</IVNUMBER.5.Animal.Tip>
-			<IVNUMBER.6.Animal.DisplayName>Beautiful Turtle Cage</IVNUMBER.6.Animal.DisplayName>
-			<IVNUMBER.6.Animal.Tip>Di dalamnya ada kura-kura dalam kondisi Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</IVNUMBER.6.Animal.Tip>
-			<IVNUMBER.7.Animal.DisplayName>Beautiful Frog Cage</IVNUMBER.7.Animal.DisplayName>
-			<IVNUMBER.7.Animal.Tip>Di dalamnya ada seekor katak dalam kondisi Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</IVNUMBER.7.Animal.Tip>
-			<IVNUMBER.8.Animal.DisplayName>Beautiful Cat Cage</IVNUMBER.8.Animal.DisplayName>
-			<IVNUMBER.8.Animal.Tip>Di dalamnya ada seekor kucing dalam kondisi Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</IVNUMBER.8.Animal.Tip>
-			<IVNUMBER.9.Animal.DisplayName>Beautiful Bull Cage</IVNUMBER.9.Animal.DisplayName>
-			<IVNUMBER.9.Animal.Tip>Di dalamnya ada seekor banteng di Tingkat Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</IVNUMBER.9.Animal.Tip>
-			<IVNUMBER.10.Animal.DisplayName>Beautiful Tiger Cage</IVNUMBER.10.Animal.DisplayName>
-			<IVNUMBER.10.Animal.Tip>Di dalamnya ada seekor harimau dalam kondisi Kebangkitan, yang telah memperoleh 3 Pecahan Intelijen.</IVNUMBER.10.Animal.Tip>
+			<IVNUMBER.0.Animal.DisplayName>Chuồng thỏ tinh xảo</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con thỏ kỳ khai trí, đã nhận được ba mảnh linh trí.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Chuồng gà tinh xảo</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Bên trong có một con gà kỳ khai trí, đã nhận được ba mảnh linh trí.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Chuồng sói tinh xảo</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Bên trong có một con sói kỳ khai trí, đã nhận được ba mảnh linh trí.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Chuồng rắn tinh xảo</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Bên trong có một con rắn kỳ khai trí, đã nhận được ba mảnh linh trí.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Chuồng lợn rừng tinh xảo</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Bên trong có một con lợn rừng kỳ khai trí, đã nhận được ba mảnh linh trí.</IVNUMBER.4.Animal.Tip>
+			<IVNUMBER.5.Animal.DisplayName>Chuồng gấu tinh xảo</IVNUMBER.5.Animal.DisplayName>
+			<IVNUMBER.5.Animal.Tip>Bên trong có một con gấu kỳ khai trí, đã nhận được ba mảnh linh trí.</IVNUMBER.5.Animal.Tip>
+			<IVNUMBER.6.Animal.DisplayName>Chuồng rùa tinh xảo</IVNUMBER.6.Animal.DisplayName>
+			<IVNUMBER.6.Animal.Tip>Bên trong có một con rùa kỳ khai trí, đã nhận được ba mảnh linh trí.</IVNUMBER.6.Animal.Tip>
+			<IVNUMBER.7.Animal.DisplayName>Chuồng ếch tinh xảo</IVNUMBER.7.Animal.DisplayName>
+			<IVNUMBER.7.Animal.Tip>Bên trong có một con ếch kỳ khai trí, đã nhận được ba mảnh linh trí.</IVNUMBER.7.Animal.Tip>
+			<IVNUMBER.8.Animal.DisplayName>Chuồng mèo tinh xảo</IVNUMBER.8.Animal.DisplayName>
+			<IVNUMBER.8.Animal.Tip>Bên trong có một con mèo kỳ khai trí, đã nhận được ba mảnh linh trí.</IVNUMBER.8.Animal.Tip>
+			<IVNUMBER.9.Animal.DisplayName>Chuồng bò tinh xảo</IVNUMBER.9.Animal.DisplayName>
+			<IVNUMBER.9.Animal.Tip>Bên trong có một con bò kỳ khai trí, đã nhận được ba mảnh linh trí.</IVNUMBER.9.Animal.Tip>
+			<IVNUMBER.10.Animal.DisplayName>Chuồng hổ tinh xảo</IVNUMBER.10.Animal.DisplayName>
+			<IVNUMBER.10.Animal.Tip>Bên trong có một con hổ kỳ khai trí, đã nhận được ba mảnh linh trí.</IVNUMBER.10.Animal.Tip>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,55 +1,58 @@
 ID	Txt
-1	Yang Mahakuasa [TITLE], saya hanya mencoba melihat apakah Anda dapat mendengar saya...hehe.
-2	Yang Maha Kuasa [TITLE], semoga masalah lutut saya segera hilang.
-3	Yang Mahakuasa [TITLE], Tuhan memberkati saya, saya ingin berkencan dengan gadis yang saya sukai.
-4	Yang Mahakuasa [TITLE], saya ingin makan enak besok...
-5	Yang Mahakuasa [TITLE], saya ingin mencari uang di lapangan.
-6	Yang Mahakuasa [TITLE], saya harap belum ada yang menunjuk Nona Lüzhu besok di rumah bordil.
-7	Yang Mahakuasa [TITLE], saya berharap manajer dapat membayar saya secara penuh besok.
-8	Yang Mahakuasa [TITLE], saya berharap seseorang merayakan ulang tahun saya bersama saya tahun ini.
-9	Yang Mahakuasa [TITLE], saya berharap bisa mendapatkan gelar dalam ujian kekaisaran.
-10	Yang Mahakuasa [TITLE], kuharap kita punya anak laki-laki kali ini.
-11	Yang Maha Kuasa [TITLE], semoga keluarga saya baik-baik saja dan sehat.
-12	Yang Maha Kuasa [TITLE], semoga kita bisa mendapatkan panen yang baik tahun ini.
-13	Yang Mahakuasa [TITLE], saya berharap dapat membeli rumah baru di kota ini tahun ini.
-14	Yang Maha Kuasa [TITLE], semoga desa kami mendapat hasil panen yang melimpah...
-15	Yang Maha Kuasa [TITLE], semoga tidak ada bencana di desa tahun ini.
-16	Yang Maha Kuasa [TITLE], semoga desa ini dapat segera dibangun kembali.
-17	Yang Mahakuasa [TITLE], saya berharap semuanya baik-baik saja di desa kami.
-18	Yang Mahakuasa [TITLE], saya berharap tidak ada serangan binatang buas di gunung tahun ini.
-19	Yang Mahakuasa [TITLE], saya berharap cuaca di kampung halaman saya baik-baik saja tahun ini.
-20	Yang Mahakuasa [TITLE], saya berharap tidak ada gelombang dingin di musim dingin ini.
-21	Yang Maha Kuasa [TITLE], semoga tahun ini curah hujan berkurang dan banjir tidak terjadi lagi.
-22	Yang Mahakuasa [TITLE], semoga tahun ini lebih banyak hujan dan tidak ada lagi kekeringan.
-23	Yang Mahakuasa [TITLE], saya berharap kota kita tidak lagi diserang oleh binatang iblis tahun ini.
-24	Yang Maha Kuasa [TITLE], semoga negara kita mendapat rejeki terbaik untuk ribuan generasi.
-25	Yang Mahakuasa [TITLE], saya berharap perdamaian akan menguasai negeri ini di tahun ini.
-26	Yang Mahakuasa [TITLE], saya berharap permusuhan di dunia ini berkurang!
-27	Yang Mahakuasa [TITLE], saya berharap semua orang di dunia ini menjadi seperti naga, yang terus-menerus memperbaiki diri!
-28	Yang Maha Kuasa [TITLE], semoga ada kedamaian dan kesejahteraan abadi di dunia.
-29	Yang Maha Kuasa [TITLE], saya berharap bos menginjak tumpukan kotoran anjing.
-30	Yang Mahakuasa [TITLE], saya berharap orang di sebelah mengalami hari kerja yang buruk.
-31	Yang Mahakuasa [TITLE], saya berharap lawan saya melakukan kesalahan hari ini.
-32	Yang Mahakuasa [TITLE], saya berharap pencuri yang mencuri dari rumah saya kemarin meninggal dengan kematian yang mengenaskan.
-33	Yang Maha Kuasa [TITLE], kuharap si idiot yang menyumpahiku itu tidak bisa buang air besar dengan tenang.
-34	Yang Mahakuasa [TITLE], saya berharap kemalangan besar menimpa keluarga keji di sebelah.
-35	Yang Mahakuasa [TITLE], saya berharap orang-orang terkutuk di sebelah itu mati dengan cara yang mengenaskan.
-36	Yang Mahakuasa [TITLE], saya berharap sesuatu yang buruk terjadi pada atasan saya sehingga saya dapat menggantikan mereka.
-37	Yang Maha Kuasa [TITLE], kuharap babi hutan merusak ladang tetanggaku.
-38	Yang Maha Kuasa [TITLE], kuharap bajingan yang mencuri uangku tersambar petir.
-39	Yang Mahakuasa [TITLE], saya berharap desa jahat di sebelah kita dihancurkan oleh binatang iblis.
-40	Yang Maha Kuasa [TITLE], semoga kita bisa menghilangkan segala potensi ancaman yang ada di sekitar desa kita.
-41	Yang Mahakuasa [TITLE], saya berharap kita dapat mengalahkan dan mencaplok desa tetangga.
-42	Yang Mahakuasa [TITLE], semoga desa tetangga mendapat hukuman dari surga.
-43	Yang Maha Kuasa [TITLE], semoga desa tetangga tersapu banjir tahun ini.
-44	Yang Mahakuasa [TITLE], saya berharap semua bandit gunung di daerah ini mati dengan cara yang kejam.
-45	Yang Maha Kuasa [TITLE], saya berharap semua orang jahat di kota ini mati dengan cara yang mengenaskan.
-46	Yang Mahakuasa [TITLE], saya berharap binatang yang menyakiti manusia punah.
-47	Yang Mahakuasa [TITLE], saya berharap setiap orang dalam jarak seratus mil menjadi pelayan saya yang rendah hati.
-48	Yang Mahakuasa [TITLE], saya harap saya bisa menangkap semua mangsa di gunung tahun ini!
-49	Yang Mahakuasa [TITLE], saya berharap Surga menunjukkan keadilan dan menghancurkan orang-orang barbar.
-50	Yang Mahakuasa [TITLE], semoga negara musuh segera dimusnahkan...sehingga kita bisa menghentikan pertempuran.
-51	Yang Mahakuasa [TITLE], saya berharap mereka yang lebih baik dari saya tidak dapat meninggal dengan damai.
-52	Yang Mahakuasa [TITLE], saya berharap kutukan dari surga turun ke atas semua orang jahat di dunia.
-53	Yang Mahakuasa [TITLE], saya berharap mereka yang menentang saya tidak mati dengan damai.
-54	Semoga hatiku selamanya tinggal di Alam Ilahi, bebas dari rasa sakit dan penderitaan serta menikmati keadaan kemurnian spiritual...
+
+1	[TITLE] tại thượng, tôi sẽ thử xem bạn có nghe thấy không... hehe
+2	[TITLE] tại thượng, hy vọng chân tôi khỏi bệnh.
+3	[TITLE] tại thượng, xin thần linh phù hộ, hy vọng có thể theo đuổi được cô gái tôi thích.
+4	[TITLE] tại thượng, hy vọng ngày mai được ăn một bữa ngon...
+5	[TITLE] tại thượng, hy vọng có thể nhặt được tiền.
+6	[TITLE] tại thượng, hy vọng ngày mai cô Giao ở Y Hồng Viện không ai gọi.
+7	[TITLE] tại thượng, hy vọng chủ quán ngày mai thanh toán không nợ nần.
+8	[TITLE] tại thượng, hy vọng năm nay có ai đó ăn mừng sinh nhật cùng tôi.
+9	[TITLE] tại thượng, hy vọng có thể thi đỗ.
+10	[TITLE] tại thượng, hy vọng lần này nhà tôi sinh được hài tử.
+11	[TITLE] tại thượng, hy vọng cả nhà sức khỏe dồi dào.
+12	[TITLE] tại thượng, hy vọng năm nay có mùa màng bội thu.
+13	[TITLE] tại thượng, hy vọng năm nay có thể mua được một mảnh đất trong thành phố.
+14	[TITLE] tại thượng, hy vọng làng tôi có mùa màng tốt tươi...
+15	[TITLE] tại thượng, hy vọng năm nay làng không gặp phải tai họa gì.
+16	[TITLE] tại thượng, hy vọng làng sớm được tái thiết.
+17	[TITLE] tại thượng, hy vọng khu vực xung quanh làng yên ổn.
+18	[TITLE] tại thượng, hy vọng năm nay trên núi không xảy ra dịch thú.
+19	[TITLE] tại thượng, hy vọng năm nay quê hương mưa thuận gió hòa.
+20	[TITLE] tại thượng, hy vọng năm nay mùa đông không có đợt lạnh.
+21	[TITLE] tại thượng, hy vọng năm nay mưa ít hơn, không còn lũ lụt nữa.
+22	[TITLE] tại thượng, hy vọng năm nay mưa nhiều hơn, không còn hạn hán nữa.
+23	[TITLE] tại thượng, hy vọng năm nay thành phố không bị yêu thú tấn công.
+24	[TITLE] tại thượng, hy vọng quốc gia tôi thịnh vượng, ngàn đời bền vững.
+25	[TITLE] tại thượng, hy vọng năm nay thế giới hòa bình.
+26	[TITLE] tại thượng, hy vọng xã hội bớt đi những điều ác ý!
+27	[TITLE] tại thượng, mong rằng mọi người trên thế gian đều như rồng, tự cường không ngừng!
+28	[TITLE] tại thượng, mong rằng nhân gian như đất Phật, mọi người sống hòa thuận!
+29	[TITLE] tại thượng, hy vọng chủ quán ra ngoài dẫm phải phân chó...
+30	[TITLE] tại thượng, hy vọng hàng xóm hôm nay làm ăn thất bát.
+31	[TITLE] tại thượng, hy vọng đối thủ của tôi hôm nay gặp phải sai sót.
+32	[TITLE] tại thượng, hy vọng tên trộm đã vào nhà tôi hôm qua không được chết tốt.
+33	[TITLE] tại thượng, hy vọng tên ngu ngốc đã mắng tôi không thể đi tiêu.
+34	[TITLE] tại thượng, xin thần linh phù hộ, hy vọng gia đình ác nhân bên cạnh gặp xui xẻo.
+35	[TITLE] tại thượng, hy vọng bọn khốn nạn bên cạnh không được chết tốt.
+36	[TITLE] tại thượng, hy vọng sếp gặp tai nạn, để tôi có cơ hội thăng tiến.
+37	[TITLE] tại thượng, hy vọng ruộng của hàng xóm bị lợn rừng phá hoại.
+38	[TITLE] tại thượng, hy vọng tên cướp tiền của tôi bị sét đánh.
+39	[TITLE] tại thượng, hy vọng làng bên cạnh bị yêu thú tàn phá.
+40	[TITLE] tại thượng, hy vọng làng chúng tôi có thể tiêu diệt mọi mối đe dọa xung quanh.
+41	[TITLE] tại thượng, hy vọng chúng tôi có thể tiêu diệt và sáp nhập làng bên cạnh.
+42	[TITLE] tại thượng, hy vọng làng bên cạnh bị thiên đao giáng xuống.
+43	[TITLE] tại thượng, hy vọng năm nay lũ lụt có thể cuốn trôi làng bên cạnh.
+44	[TITLE] tại thượng, hy vọng bọn cướp trên núi đều chết hết.
+45	[TITLE] tại thượng, hy vọng những kẻ ác trong thành phố không được chết tốt.
+46	[TITLE] tại thượng, hy vọng những con thú dữ gây thương tích đều chết sạch.
+47	[TITLE] tại thượng, hy vọng vùng này đều là nô lệ và thuộc hạ của tôi.
+48	[TITLE] tại thượng, hy vọng năm nay tôi có thể săn được tất cả thú trên núi!
+49	[TITLE] tại thượng, hy vọng trời có mắt, diệt trừ những bộ tộc man rợ.
+50	[TITLE] tại thượng, hy vọng quốc gia thù sớm bị diệt vong... đừng kéo dài thêm nữa.
+51	[TITLE] tại thượng, hy vọng những người sống tốt hơn tôi đều không có kết thúc tốt đẹp.
+52	[TITLE] tại thượng, hy vọng những kẻ ác trên thế gian đều bị thiên đao giáng xuống.
+53	[TITLE] tại thượng, hy vọng những người đối đầu với tôi đều không được chết tốt.
+54	Mong rằng tâm tôi mãi ở trong thần quốc, không lo không khó khăn, được hưởng cảnh giới thanh bình...
+
+

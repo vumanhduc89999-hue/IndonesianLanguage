@@ -1,68 +1,69 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="WorkPlace" sParam="Building">
-			<ThingName>Work Place</ThingName>
-			<Desc>Tidak memerlukan bahan apa pun, cukup sebidang tanah untuk membuat alat sederhana.</Desc>
+			<ThingName>Điểm thủ công</ThingName>
+			<Desc>Không cần nguyên liệu chế tạo, chỉ cần vẽ một khu vực trên mặt đất để có thể chế tạo một số công cụ đơn giản.</Desc>
 		</Text>
 		<Text Name="MaterialWorkPlace" sParam="Building">
-			<ThingName>Material Work place</ThingName>
-			<Desc>Tidak memerlukan bahan apapun, cukup area di tanah untuk mengolah bahan sederhana.</Desc>
+			<ThingName>Điểm gia công nguyên liệu</ThingName>
+			<Desc>Không cần nguyên liệu chế tạo, chỉ cần vẽ một khu vực trên mặt đất để có thể gia công một số nguyên liệu đơn giản.</Desc>
 		</Text>
 		<Text Name="Bonfire" sParam="Building">
-			<ThingName>Bonfire</ThingName>
-			<Desc>Sumber api sederhana yang dibangun dari kayu bakar yang dapat membawa cahaya dan panas ke sekitarnya. Bisa juga digunakan untuk memasak sederhana.</Desc>
+			<ThingName>Đống lửa</ThingName>
+			<Desc>Nguồn lửa đơn giản được tạo từ việc chất đống gỗ, có thể mang lại ánh sáng và nhiệt cho khu vực xung quanh. Có thể sử dụng để nấu ăn đơn giản.</Desc>
 		</Text>
 		<Text Name="Kitchen" sParam="Building">
-			<ThingName>Stove</ThingName>
-			<Desc>Tempat memasak makanan.</Desc>
+			<ThingName>Bếp lò</ThingName>
+			<Desc>Bàn làm việc dùng để nấu ăn.</Desc>
 		</Text>
 		<Text Name="StoneMaker" sParam="Building">
-			<ThingName>Stonework</ThingName>
-			<Desc>Sebuah stasiun kerja yang digunakan untuk memoles balok batu menjadi batu bata.</Desc>
+			<ThingName>Bàn thợ đá</ThingName>
+			<Desc>Bàn làm việc dùng để mài và cắt đá thô thành gạch đá.</Desc>
 		</Text>
 		<Text Name="WeaponMaker" sParam="Building">
-			<ThingName>Forge</ThingName>
-			<Desc>Stasiun kerja yang digunakan untuk menempa batangan logam menjadi senjata yang berbeda.</Desc>
+			<ThingName>Bàn rèn sắt</ThingName>
+			<Desc>Bàn làm việc dùng để rèn thỏi kim loại thành các công cụ kim loại khác nhau.</Desc>
 		</Text>
 		<Text Name="Furnace" sParam="Building">
-			<ThingName>Furnace</ThingName>
-			<Desc>Stasiun kerja yang digunakan untuk melebur bijih menjadi batangan logam.</Desc>
+			<ThingName>Lò luyện kim</ThingName>
+			<Desc>Bàn làm việc dùng để luyện quặng kim loại thành thỏi kim loại.</Desc>
 		</Text>
 		<Text Name="TextileTable" sParam="Building">
-			<ThingName>Loom</ThingName>
-			<Desc>Tempat kerja yang digunakan untuk membuat kain dengan cara menenun benang atau benang.</Desc>
+			<ThingName>Máy dệt</ThingName>
+			<Desc>Bàn làm việc dùng để dệt sợi thành vải và len.</Desc>
 		</Text>
 		<Text Name="TailorTable" sParam="Building">
-			<ThingName>Sewing Table</ThingName>
-			<Desc>Tempat kerja yang digunakan untuk membuat pakaian.</Desc>
+			<ThingName>Bàn may</ThingName>
+			<Desc>Bàn làm việc dùng để may quần áo.</Desc>
 		</Text>
 		<Text Name="WoodShed" sParam="Building">
-			<ThingName>Timber Station</ThingName>
-			<Desc>Tempat kerja yang digunakan untuk mengolah kayu menjadi Kayu. Ini dapat sangat memudahkan penggunaan kayu secara efisien.</Desc>
+			<ThingName>Khu vực chặt củi</ThingName>
+			<Desc>Gia công gỗ thành vật liệu gỗ, giúp tăng hiệu suất sử dụng gỗ đáng kể.</Desc>
 		</Text>
 		<Text Name="MillStone" sParam="Building">
-			<ThingName>Mill</ThingName>
-			<Desc>Stasiun kerja yang digunakan untuk menggiling biji-bijian menjadi bubuk untuk disimpan. Ini dapat memfasilitasi efisiensi penggunaan biji-bijian.</Desc>
+			<ThingName>Cối xay</ThingName>
+			<Desc>Xay ngũ cốc thành bột để bảo quản tốt hơn và tăng hiệu suất sử dụng thực phẩm.</Desc>
 		</Text>
 		<Text Name="HandWorkTable" sParam="Building">
-			<ThingName>Handcraft Station</ThingName>
-			<Desc>Sebuah stasiun kerja yang digunakan untuk membuat barang-barang sederhana dengan tangan.</Desc>
+			<ThingName>Bàn thủ công</ThingName>
+			<Desc>Bàn làm việc dùng để chế tạo các vật dụng thủ công đơn giản.</Desc>
 		</Text>
 		<Text Name="Well" sParam="Building">
-			<ThingName>Well</ThingName>
-			<Desc>Sumber air. Air sumur lebih sehat dibandingkan air dari hutan belantara, sehingga kecil kemungkinannya untuk membawa penyakit.</Desc>
+			<ThingName>Giếng nước</ThingName>
+			<Desc>Có thể lấy nước từ đây. Nước giếng sạch hơn nước ngoài tự nhiên, giúp giảm nguy cơ mắc bệnh.</Desc>
 		</Text>
 		<Text Name="MedicineTable" sParam="Building">
-			<ThingName>Medicine Table</ThingName>
-			<Desc>Tempat kerja yang digunakan untuk membuat obat.</Desc>
+			<ThingName>Bàn bào chế thuốc</ThingName>
+			<Desc>Bàn làm việc dùng để chế tạo dược phẩm.</Desc>
 		</Text>
 		<Text Name="Building_YiTui" sParam="Building">
-			<ThingName>Immortal's Mortal Body</ThingName>
-			<Desc>Tubuh bagian yang ditinggalkan oleh Ascended Immortals.</Desc>
+			<ThingName>Di thể tiên nhân</ThingName>
+			<Desc>Di thể còn lại sau khi tiên nhân phi thăng.</Desc>
 		</Text>
 		<Text Name="Building_YiTui1" sParam="Building">
-			<ThingName>Deity's Body</ThingName>
-			<Desc>Tubuh sebagian yang ditinggalkan oleh Dewa Yang Terangkat.</Desc>
+			<ThingName>Di thể thần linh</ThingName>
+			<Desc>Di thể còn lại sau khi thần linh phi thăng.</Desc>
 		</Text>
 	</List>
 </Texts>
+

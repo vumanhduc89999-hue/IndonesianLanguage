@@ -1,12 +1,13 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Panda1">
-			<DisplayName>Lazy &amp; Naughty</DisplayName>
-			<Desc>Malas tapi nakal. Lambat dan ceroboh saat bekerja. Sangat menawan.</Desc>
+			<DisplayName>Lại Nọa Điều Bì</DisplayName>
+			<Desc>Vừa lười biếng vừa nghịch ngợm, làm việc chậm chạp và cẩu thả, nhưng lại khiến người ta rất yêu mến.</Desc>
 		</Text>
 		<Text Name="Panda2">
-			<DisplayName>Body of Yin and Yang</DisplayName>
-			<Desc>Tubuhnya merupakan kombinasi Yin dan Yang, dengan peningkatan kecepatan pembentukan ulang dan kecepatan belajar.</Desc>
+			<DisplayName>Thân thể âm dương</DisplayName>
+			<Desc>Cơ thể là sản phẩm của âm dương, tốc độ ta luyện và tốc độ học tập đều được cải thiện.</Desc>
 		</Text>
 	</List>
 </Texts>
+

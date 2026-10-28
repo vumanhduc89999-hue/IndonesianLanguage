@@ -1,8 +1,9 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="RPGSelectNpc">
-			<DisplayName>Common Training Special Effect</DisplayName>
-			<Desc>Efek Khusus Pelatihan Umum</Desc>
+			<DisplayName>Hiệu ứng huấn luyện thông thường</DisplayName>
+			<Desc>Hiệu ứng huấn luyện thông thường</Desc>
 		</Text>
 	</List>
 </Texts>
+

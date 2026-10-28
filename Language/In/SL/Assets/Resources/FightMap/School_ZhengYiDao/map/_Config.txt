@@ -16,3 +16,4 @@
 /Assets/Resources/FightMap/School_ZhengYiDao/map.txt	OtherItem.7._hd.Ss.1	万里霓光衫	7.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_ZhengYiDao/map.txt	OtherItem.8.Fabao.OName	狼皮厚制下裳	8	_ReplaceFabaoOName
 /Assets/Resources/FightMap/School_ZhengYiDao/map.txt	OtherItem.8._hd.Ss.1	己土屠神衣	8.1	_ReplaceThingName
+

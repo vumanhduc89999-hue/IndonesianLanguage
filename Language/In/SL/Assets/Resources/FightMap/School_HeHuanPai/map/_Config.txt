@@ -26,3 +26,4 @@
 /Assets/Resources/FightMap/School_HeHuanPai/map.txt	OtherItem.12._hd.Ss.1	青龙三清绢	12.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_HeHuanPai/map.txt	OtherItem.13.Fabao.OName	白布手帕	13	_ReplaceFabaoOName
 /Assets/Resources/FightMap/School_HeHuanPai/map.txt	OtherItem.13._hd.Ss.1	苍龙白骨绢	13.1	_ReplaceThingName
+

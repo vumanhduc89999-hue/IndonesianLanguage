@@ -1,4 +1,6 @@
-Tier I,Umbilicus,Elementary,Yellowbud,Viscera,Fundamental,Herbal,Prudent,Five Precepts
-Tier II,Qi Chant,Essential,Yin Yang,Humanely,Golden Core,Refinement,Mind Gate,State Nova
-Tier III,Primordial Unity,Three Talents,Shapeshifting,Virtuous,Ingenious,Atmospheric,Peak,Obliviousness
-Tier IV,Spirit Chant,Grand Supreme,Intrinsic,Candid,Purple Cloud,Jade Void,Great Vastness,Destiny
+Nhất Giai,Hoàng Đình,Sơ Giải,Hoàng Nha,Ngũ Nội,Đạo Cơ,Vi Thảo,Tri Tiết,Ngũ Giới
+Nhị Giai,Ngự Khí,Long Hổ,Âm Dương,Nhập Đạo,Kim Đan,Chân Đan,Huyền Quan,Tân Cảnh
+Tam Giai,Thái Ất,Tam Tài,Hóa Hình,Triệt Pháp,Huyền Cơ,Lục Khí,Lăng Tiêu,Vong Tình
+Tứ Giai,Ngự Thần,Thái Thượng,Bản Nguyên,Quy Chân,Tử Tiêu,Ngọc Hư,Hồng Mông,Tạo Hóa
+
+

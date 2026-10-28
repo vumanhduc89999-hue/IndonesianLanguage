@@ -1,25 +1,26 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="_OnTheWay">
-			<DisplayName>On the Way</DisplayName>
+			<DisplayName>Trên đường</DisplayName>
 		</Text>
 		<Text Name="_GodOnTheWay">
-			<DisplayName>God On the Way</DisplayName>
+			<DisplayName>Thần trên đường</DisplayName>
 		</Text>
 		<Text Name="_InMap">
-			<DisplayName>Area</DisplayName>
+			<DisplayName>Cảnh tượng</DisplayName>
 		</Text>
 		<Text Name="_StayFree">
-			<DisplayName>Wandering around on adventures.</DisplayName>
+			<DisplayName>Rèn luyện khắp nơi, hành tung bất định</DisplayName>
 		</Text>
 		<Text Name="Place_OldSchool">
-			<DisplayName>Ancient Sect</DisplayName>
+			<DisplayName>Môn phái cũ</DisplayName>
 		</Text>
 		<Text Name="_TestMap">
-			<DisplayName>On the Way</DisplayName>
+			<DisplayName>Trên đường</DisplayName>
 		</Text>
 		<Text Name="_LOSTPALCE">
-			<DisplayName>Lost Land (Empty)</DisplayName>
+			<DisplayName>Vùng đất mất tích (mô-đun bị mất)</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

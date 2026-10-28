@@ -1,7 +1,9 @@
-General,Iridescent Cloud,Dragon Vanquishing,Chakram,Eon,Heavenly Merger,Heavenly Heart,Purple Cloud,Five Clouds,Purple Morning Glow,Crape Myrtle,Heavenly Abode,Seven Slaughters,Falling Cherry Blossom,Falling Shadows,Heavenly Grace,Dubhe,Merak,Phecda,Megrez,Alioth,Mizar,Alkaid,Daroth,Supreme,Infinite,All Phenomena,Starlite,All Generations,Constellations,Falling Star,The Firmament of Heaven,Lotus Flower,Sea of Clouds,Big Day,Triple Purity,Facing the Void,The Grand Chariot,Fogbow,Heavenly Merger,Plume,Heaven and Earth,Universe,The Nine Palaces,Three Talents,The Four Statues,The Five Elements,The Six Directions,The Seven Stars,The Eight Poles,The Supreme Pole,Infinite,,,,,,,,,,,,,,,,,,,,,,,
-Metal,Western,White Tiger,Celestial Thunder,Thunderbolt,Thunderstorm,Heavenly Creation,Demolition,Five Thunders
-Wood,Azuragon,Opalescent,Longevity,Eastern,Marinagon,Colossal
-Water,Cascade,Equable,Northern,Black Tortoise,Serpent,Millennial Origins,Primeval,Converging,Aqua,Turquoise,Marine,Icy Silver
-Fire,Fervent,Ardent,Southern,Vermillion Bird,Ablaze,Fiery,Skyfire,Flare,Blazing,Scorching,Glaring
-Earth,Grim,Dismal,Central,Kirin,Groundragon,Earthbound,Hill Rise,Hill Fall,Trekking,Marching,Crest
-Hybrid,Chaos
+Thông Dụng,Thải Vân,Hàng Long,Hoàn Không,Huyễn Không,Hợp Thiên,Thiên Tâm,Tử Vân,Ngũ Vân,Tử Hà,Tử Vi,Thiên Phủ,Thất Sát,Lạc Anh,Lạc Ảnh,Thiên Thiền,Thiên Xu,Thiên Tuyền,Thiên Cơ,Thiên Quyền,Ngọc Hành,Khai Dương,Dao Quang,Thiên Huyền,Vô Thượng,Vô Cực,Vạn Tượng,Phi Tinh,Vạn Thế,Tinh Túc,Lưu Tinh,Thương Khung,Liên Hoa,Vân Lãng,Đại Nhật,Tam Thanh,Trùng Hư,Thiên Cương,Bạch Hồng,Tiên Thiên,Phi Vũ,Thiên Địa,Càn Khôn,Cửu Cung,Tam Tài,Tứ Tượng,Ngũ Hành,Lục Hợp,Thất Tinh,Bát Cực,Thái Cực,Vô Cực,,,,,,,,,,,,,,,,,,,,,,,
+Kim Hệ,Canh Tân,Bạch Hổ,Thiên Lôi,Phích Lịch,Chấn Lôi,Khai Thiên,Đoạn Nhạc,Ngũ Lôi
+Mộc Hệ,Thanh Long,Bích Quang,Trường Sinh,Giáp Ất,Thương Long,Thương Mãng
+Thủy Hệ,Nhâm Thủy,Quý Thủy,Nhâm Quý,Huyền Vũ,Tu Xà,Vạn Nguyên,Quy Nguyên,Bách Hối,Ngưng Quang,Kinh Ba,Nghịch Lãng,Băng Ngân
+Hỏa Hệ,Bính Hỏa,Đinh Hỏa,Bính Đinh,Chu Tước,Sí Hoàng,Xích Viêm,Thiên Hỏa,Bôn Liệt,Phần Nhật,Nhiên Hồn,Tử Hỏa
+Thổ Hệ,Mậu Thổ,Kỷ Thổ,Mậu Kỷ,Kỳ Lân,Địa Long,Khôn Nguyên,Đằng Nhạc,Trấn Nhạc,Hành Cương,Vạn Lý,Thiên Lĩnh
+Hỗn Nguyên,Hỗn Độn
+
+

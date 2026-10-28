@@ -1,49 +1,50 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="ClothBase" sParam="Item">
-			<Desc>Kain tenun yang terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.FabaoSuffix>Textile, Yarn, Gauze</Item.FabaoSuffix>
-			<Item.BeMaterial.NamePrefix>Fabric</Item.BeMaterial.NamePrefix>
+			<Desc>Vải được dệt từ bông, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.FabaoSuffix>Lụa, sa, la</Item.FabaoSuffix>
+			<Item.BeMaterial.NamePrefix>Vải</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_CottonCloth" sParam="Item">
-			<ThingName>Patterned Fabric</ThingName>
-			<Desc>Kain tenun dari[patterned]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Patterned Fabric</Item.BeMaterial.NamePrefix>
+			<ThingName>Vải hoa</ThingName>
+			<Desc>Vải được dệt từ bông với họa tiết hoa, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải hoa</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_DeepBlueCloth" sParam="Item">
-			<ThingName>Indigo Fabric</ThingName>
-			<Desc>Kain tenun dari[indigo]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Indigo Fabric</Item.BeMaterial.NamePrefix>
+			<ThingName>Vải lam chàm</ThingName>
+			<Desc>Vải được dệt từ bông với màu lam chàm, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải lam chàm</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_PurpleCloth" sParam="Item">
-			<ThingName>Purple Fabric</ThingName>
-			<Desc>Kain tenun dari[purple]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Purple Fabric</Item.BeMaterial.NamePrefix>
+			<ThingName>Vải tím</ThingName>
+			<Desc>Vải được dệt từ bông với màu tím, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải tím</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_YellowCloth" sParam="Item">
-			<ThingName>Yellow Fabric</ThingName>
-			<Desc>Kain tenun dari[yellow]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Yellow Fabric</Item.BeMaterial.NamePrefix>
+			<ThingName>Hoàng bố</ThingName>
+			<Desc>Vải được dệt từ bông với màu vàng, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Hoàng bố</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_BlueCloth" sParam="Item">
-			<ThingName>Blue Fabric</ThingName>
-			<Desc>Kain tenun dari[blue]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Blue Fabric</Item.BeMaterial.NamePrefix>
+			<ThingName>Vải xanh</ThingName>
+			<Desc>Vải được dệt từ bông với màu xanh, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải xanh</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_RedCloth" sParam="Item">
-			<ThingName>Red Fabric</ThingName>
-			<Desc>Kain tenun dari[red]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Red Fabric</Item.BeMaterial.NamePrefix>
+			<ThingName>Vải đỏ</ThingName>
+			<Desc>Vải được dệt từ bông với màu đỏ, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải đỏ</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_WhiteCloth" sParam="Item">
-			<ThingName>White Fabric</ThingName>
-			<Desc>Kain tenun dari[white]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>White Fabric</Item.BeMaterial.NamePrefix>
+			<ThingName>Vải trắng</ThingName>
+			<Desc>Vải được dệt từ bông với màu trắng, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Vải trắng</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_BlackCloth" sParam="Item">
-			<ThingName>Black Fabric</ThingName>
-			<Desc>Kain tenun dari[black]warna terbuat dari bahan katun. Dapat digunakan untuk membuat pakaian dan lain-lain.</Desc>
-			<Item.BeMaterial.NamePrefix>Black Fabric</Item.BeMaterial.NamePrefix>
+			<ThingName>Hắc bộ</ThingName>
+			<Desc>Vải được dệt từ bông với màu đen, có thể dùng để chế tạo quần áo và các vật dụng khác.</Desc>
+			<Item.BeMaterial.NamePrefix>Hắc bộ</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>
+

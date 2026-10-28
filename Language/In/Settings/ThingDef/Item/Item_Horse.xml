@@ -1,46 +1,47 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="Item_HorseBase" sParam="Item">
-			<Item.FabaoSuffix>Scroll,Image,Contract</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Quyển, Đồ, Khế</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_HorseFromJY_Rabbit" sParam="Item">
-			<ThingName>Spirit Contract: Rabbit</ThingName>
+			<ThingName>Linh Khế: Thỏ</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Chicken" sParam="Item">
-			<ThingName>Spirit Contract: Chicken</ThingName>
+			<ThingName>Linh Khế: Trĩ</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Wolf" sParam="Item">
-			<ThingName>Spirit Contract: Wolf</ThingName>
+			<ThingName>Linh Khế: Sói</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Snake" sParam="Item">
-			<ThingName>Spirit Contract: Snake</ThingName>
+			<ThingName>Linh Khế: Rắn</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Boar" sParam="Item">
-			<ThingName>Spirit Contract: Boar</ThingName>
+			<ThingName>Linh Khế: Lợn</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Bear" sParam="Item">
-			<ThingName>Spirit Contract: Bear</ThingName>
+			<ThingName>Linh Khế: Gấu</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Frog" sParam="Item">
-			<ThingName>Spirit Contract: Frog</ThingName>
+			<ThingName>Linh Khế: Ếch</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Turtle" sParam="Item">
-			<ThingName>Spirit Contract: Turtle</ThingName>
+			<ThingName>Linh Khế: Rùa</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Cat" sParam="Item">
-			<ThingName>Spirit Contract: Cat</ThingName>
+			<ThingName>Linh Khế: Mèo</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Cattle" sParam="Item">
-			<ThingName>Spirit Contract: Bull</ThingName>
+			<ThingName>Linh Khế: Bò</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromJY_Tiger" sParam="Item">
-			<ThingName>Spirit Contract: Tiger</ThingName>
+			<ThingName>Linh Khế: Hổ</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromLuShu" sParam="Item">
-			<ThingName>Spirit Contract: Lushu</ThingName>
+			<ThingName>Linh Khế: Lộc Thục</ThingName>
 		</Text>
 		<Text Name="Item_HorseFromFei" sParam="Item">
-			<ThingName>Spirit Contract: Fei</ThingName>
+			<ThingName>Linh Khế: Phi</ThingName>
 		</Text>
 	</List>
 </Texts>
+

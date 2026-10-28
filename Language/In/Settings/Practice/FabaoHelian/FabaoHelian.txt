@@ -1,77 +1,79 @@
 ID	Des	Disname
 
--1	Kosong	Empty
-1	Berikan artefak tersebut sejumlah kecil Artifact Mastery Epiphany.	Tao Epiphany: Small
-2	Berikan artefak tersebut sejumlah kecil Artifact Mastery Epiphany.	Tao Epiphany: Large
-3	Berikan artefak dengan sedikit Spellcraft Epiphany.	Tao Epiphany: Small
-4	Berikan artefak dengan Spellcraft Epiphany dalam jumlah besar.	Tao Epiphany: Large
-5	Berikan artefak tersebut sejumlah kecil Protection Epiphany.	Tao Epiphany: Small
-6	Berikan artefak tersebut dengan Epiphany Perlindungan dalam jumlah besar.	Tao Epiphany: Large
-7	Berikan artefak tersebut sedikit Alchemy Epiphany.	Tao Epiphany: Small
-8	Berikan artefak tersebut Alchemy Epiphany dalam jumlah besar.	Tao Epiphany: Large
-9	Berikan artefak tersebut dengan sejumlah kecil Artifact Crafting Epiphany.	Tao Epiphany: Small
-10	Berikan artefak tersebut dengan Artifact Crafting Epiphany dalam jumlah besar.	Tao Epiphany: Large
-11	Berikan artefak dengan panduan pemula Penguasaan Artefak.	Secret Epiphany: [TXT]
-12	Berikan artefak dengan manual tingkat lanjut Penguasaan Artefak.	Secret Epiphany: [TXT]
-13	Berikan artefak tersebut dengan panduan Penguasaan Artefak yang sangat bagus.	Secret Epiphany: [TXT]
-14	Berikan artefak tersebut panduan mendalam tentang Penguasaan Artefak.	Secret Epiphany: [TXT]
-15	Berikan artefak dengan panduan pemula Spellcraft.	Secret Epiphany: [TXT]
-16	Berikan artefak dengan manual tingkat lanjut Spellcraft.	Secret Epiphany: [TXT]
-17	Berikan artefak tersebut dengan manual Spellcraft yang sangat bagus.	Secret Epiphany: [TXT]
-18	Berikan artefak tersebut dengan panduan mendalam tentang Spellcraft.	Secret Epiphany: [TXT]
-19	Berikan artefak tersebut dengan panduan Perlindungan pemula.	Secret Epiphany: [TXT]
-20	Berikan artefak tersebut panduan Perlindungan tingkat lanjut.	Secret Epiphany: [TXT]
-21	Berikan artefak tersebut panduan Perlindungan yang sangat bagus.	Secret Epiphany: [TXT]
-22	Berikan artefak tersebut panduan Perlindungan yang mendalam.	Secret Epiphany: [TXT]
-23	Berikan artefak tersebut dengan panduan pemula Alkimia.	Secret Epiphany: [TXT]
-24	Berikan artefak tersebut dengan manual Alkimia tingkat lanjut.	Secret Epiphany: [TXT]
-25	Berikan artefak tersebut dengan panduan Alkimia yang sangat bagus.	Secret Epiphany: [TXT]
-26	Berikan artefak tersebut dengan panduan Alkimia yang mendalam.	Secret Epiphany: [TXT]
-27	Berikan artefak tersebut dengan panduan pemula Pembuatan Artefak.	Secret Epiphany: [TXT]
-28	Berikan artefak tersebut panduan lanjutan Pembuatan Artefak.	Secret Epiphany: [TXT]
-29	Berikan artefak tersebut dengan panduan Pembuatan Artefak yang sangat bagus.	Secret Epiphany: [TXT]
-30	Berikan artefak tersebut panduan mendalam tentang Pembuatan Artefak.	Secret Epiphany: [TXT]
-31	Berikan artefak tersebut dengan panduan budidaya pemula.	Secret Epiphany: [TXT]
-32	Berikan artefak tersebut dengan manual Budidaya tingkat lanjut.	Secret Epiphany: [TXT]
-33	Berikan artefak tersebut dengan panduan Budidaya yang sangat bagus.	Secret Epiphany: [TXT]
-34	Berikan artefak tersebut dengan panduan mendalam tentang Budidaya.	Secret Epiphany: [TXT]
-35	Berikan artefak dengan sedikit keterampilan, sehingga meningkatkan Kekuatan Artefaknya.	Skill Epiphany: Tiny
-36	Berikan artefak dengan sedikit keterampilan, sehingga meningkatkan Kekuatan Artefaknya.	Skill Epiphany: Small
-37	Berikan artefak dengan keterampilan dalam jumlah sedang, sehingga meningkatkan Kekuatan Artefaknya.	Skill Epiphany: Medium
-38	Berikan artefak dengan keterampilan dalam jumlah besar, sehingga meningkatkan Kekuatan Artefaknya.	Skill Epiphany: Large
-39	Berikan artefak dengan keterampilan dalam jumlah besar, sehingga meningkatkan Kekuatan Artefaknya.	Skill Epiphany: Huge
-40	Berikan artefak dengan keterampilan dalam jumlah besar, sehingga meningkatkan Kekuatan Artefaknya.	Skill Epiphany: Massive
-41	Berikan artefak dengan sedikit keterampilan, yang akan meningkatkan Kekuatan Mantranya.	Skill Epiphany: Tiny
-42	Berikan artefak dengan sedikit keterampilan, tingkatkan Kekuatan Mantranya.	Skill Epiphany: Small
-43	Berikan artefak dengan keterampilan dalam jumlah sedang, sehingga meningkatkan Kekuatan Mantranya.	Skill Epiphany: Medium
-44	Berikan artefak dengan keterampilan dalam jumlah besar, sehingga meningkatkan Kekuatan Mantranya.	Skill Epiphany: Large
-45	Berikan artefak dengan keterampilan dalam jumlah besar, tingkatkan Kekuatan Mantranya.	Skill Epiphany: Huge
-46	Berikan artefak dengan keterampilan dalam jumlah besar, sehingga meningkatkan Kekuatan Mantranya.	Skill Epiphany: Massive
-47	Berikan artefak itu sedikit keterampilan, yang akan meningkatkan Kekuatan Penghalangnya.	Skill Epiphany: Tiny
-48	Berikan artefak dengan sedikit keterampilan, tingkatkan Kekuatan Penghalangnya.	Skill Epiphany: Small
-49	Berikan artefak dengan keterampilan dalam jumlah sedang, sehingga meningkatkan Kekuatan Penghalangnya.	Skill Epiphany: Medium
-50	Berikan artefak dengan keterampilan dalam jumlah besar, sehingga meningkatkan Kekuatan Penghalangnya.	Skill Epiphany: Large
-51	Berikan artefak tersebut keterampilan dalam jumlah besar, sehingga meningkatkan Kekuatan Penghalangnya.	Skill Epiphany: Huge
-52	Berikan artefak tersebut keterampilan dalam jumlah besar, sehingga meningkatkan Kekuatan Penghalangnya.	Skill Epiphany: Massive
-53	Berikan artefak tersebut sedikit keterampilan, yang akan meningkatkan Tingkat Keberhasilan Artefak Besarnya.	Skill Epiphany: Tiny
-54	Berikan artefak dengan sedikit keterampilan, sehingga meningkatkan Tingkat Keberhasilan Artefak Besarnya.	Skill Epiphany: Small
-55	Berikan artefak dengan keterampilan dalam jumlah sedang, sehingga meningkatkan Tingkat Keberhasilan Artefak Besarnya.	Skill Epiphany: Medium
-56	Berikan artefak dengan keterampilan dalam jumlah besar, sehingga meningkatkan Tingkat Keberhasilan Artefak Besarnya.	Skill Epiphany: Large
-57	Berikan artefak tersebut keterampilan dalam jumlah besar, yang akan meningkatkan Tingkat Keberhasilan Artefak Besarnya.	Skill Epiphany: Huge
-58	Berikan artefak tersebut keterampilan dalam jumlah besar, yang akan meningkatkan Tingkat Keberhasilan Artefak Besarnya.	Skill Epiphany: Massive
-59	Berikan artefak tersebut sedikit keterampilan, yang akan meningkatkan Hasil Alkimianya.	Skill Epiphany: Tiny
-60	Berikan artefak dengan sedikit keterampilan, sehingga meningkatkan Hasil Alkimia.	Skill Epiphany: Small
-61	Berikan artefak dengan keterampilan dalam jumlah sedang, sehingga meningkatkan Hasil Alkimia.	Skill Epiphany: Medium
-62	Berikan artefak dengan keterampilan dalam jumlah besar, sehingga meningkatkan Hasil Alkimia.	Skill Epiphany: Large
-63	Berikan artefak dengan keterampilan dalam jumlah besar, sehingga meningkatkan Hasil Alkimia.	Skill Epiphany: Huge
-64	Berikan artefak dengan keterampilan dalam jumlah besar, sehingga meningkatkan Hasil Alkimia.	Skill Epiphany: Massive
-65	Berikan artefak dengan sedikit keterampilan, tingkatkan Kecepatan Budidaya.	Skill Epiphany: Tiny
-66	Berikan artefak dengan sedikit keterampilan, tingkatkan Kecepatan Budidaya.	Skill Epiphany: Small
-67	Berikan artefak dengan keterampilan dalam jumlah sedang, sehingga meningkatkan Kecepatan Budidaya.	Skill Epiphany: Medium
-68	Berikan artefak dengan keterampilan dalam jumlah besar, tingkatkan Kecepatan Budidaya.	Skill Epiphany: Large
-69	Berikan artefak dengan keterampilan dalam jumlah besar, tingkatkan Kecepatan Budidaya.	Skill Epiphany: Huge
-70	Berikan artefak dengan keterampilan dalam jumlah besar, tingkatkan Kecepatan Budidaya.	Skill Epiphany: Massive
-71	Berikan artefak dengan kemampuan Artifact Flight. (Yang asli tidak akan kehilangan kemampuan ini)	Artifact Flight
-72	Berikan artefak tersebut dengan Qi Shield kecil tambahan. (Yang asli tidak akan kehilangan kemampuan ini)	Qi Shield: Small
-73	Berikan artefak dengan media Qi Shield tambahan. (Yang asli tidak akan kehilangan kemampuan ini)	Qi Shield: Medium
-74	Berikan artefak dengan Qi Shield tambahan yang besar. (Yang asli tidak akan kehilangan kemampuan ini)	Qi Shield: Large
+-1	模组丢失	模组丢失
+1	Ký thác một số cảm Ngộ về đạo khí vào vật này.	Đại đạo chi ngộ: Thô giản
+2	Ký thác nhiều cảm Ngộ hơn về đạo khí vào vật này.	Đại đạo chi ngộ: Tinh thâm
+3	Ký thác một số cảm Ngộ về đạo thuật vào vật này.	Đại đạo chi ngộ: Thô giản
+4	Ký thác nhiều cảm Ngộ hơn về đạo thuật vào vật này.	Đại đạo chi ngộ: Tinh thâm
+5	Ký thác một số cảm Ngộ về đạo bảo vệ vào vật này.	Đại đạo chi ngộ: Thô giản
+6	Ký thác nhiều cảm Ngộ hơn về đạo bảo vệ vào vật này.	Đại đạo chi ngộ: Tinh thâm
+7	Ký thác một số cảm Ngộ về đạo luyện đan vào vật này.	Đại đạo chi ngộ: Thô giản
+8	Ký thác nhiều cảm Ngộ hơn về đạo luyện đan vào vật này.	Đại đạo chi ngộ: Tinh thâm
+9	Ký thác một số cảm Ngộ về đạo luyện khí vào vật này.	Đại đạo chi ngộ: Thô giản
+10	Ký thác nhiều cảm Ngộ hơn về đạo luyện khí vào vật này.	Đại đạo chi ngộ: Tinh thâm
+11	Ký thác một cuốn bí kíp đạo khí cấp nhập môn vào vật này.	Bí tịch chi ngộ: [TXT]
+12	Ký thác một cuốn bí kíp đạo khí cấp nâng cao vào vật này.	Bí tịch chi ngộ: [TXT]
+13	Ký thác một cuốn bí kíp đạo khí cấp tinh diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+14	Ký thác một cuốn bí kíp đạo khí cấp huyền diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+15	Ký thác một cuốn bí kíp đạo thuật cấp nhập môn vào vật này.	Bí tịch chi ngộ: [TXT]
+16	Ký thác một cuốn bí kíp đạo thuật cấp nâng cao vào vật này.	Bí tịch chi ngộ: [TXT]
+17	Ký thác một cuốn bí kíp đạo thuật cấp tinh diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+18	Ký thác một cuốn bí kíp đạo thuật cấp huyền diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+19	Ký thác một cuốn bí kíp đạo bảo vệ cấp nhập môn vào vật này.	Bí tịch chi ngộ: [TXT]
+20	Ký thác một cuốn bí kíp đạo bảo vệ cấp nâng cao vào vật này.	Bí tịch chi ngộ: [TXT]
+21	Ký thác một cuốn bí kíp đạo bảo vệ cấp tinh diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+22	Ký thác một cuốn bí kíp đạo bảo vệ cấp huyền diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+23	Ký thác một cuốn bí kíp đạo luyện đan cấp nhập môn vào vật này.	Bí tịch chi ngộ: [TXT]
+24	Ký thác một cuốn bí kíp đạo luyện đan cấp nâng cao vào vật này.	Bí tịch chi ngộ: [TXT]
+25	Ký thác một cuốn bí kíp đạo luyện đan cấp tinh diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+26	Ký thác một cuốn bí kíp đạo luyện đan cấp huyền diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+27	Ký thác một cuốn bí kíp đạo luyện khí cấp nhập môn vào vật này.	Bí tịch chi ngộ: [TXT]
+28	Ký thác một cuốn bí kíp đạo luyện khí cấp nâng cao vào vật này.	Bí tịch chi ngộ: [TXT]
+29	Ký thác một cuốn bí kíp đạo luyện khí cấp tinh diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+30	Ký thác một cuốn bí kíp đạo luyện khí cấp huyền diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+31	Ký thác một cuốn bí kíp đạo tu luyện cấp nhập môn vào vật này.	Bí tịch chi ngộ: [TXT]
+32	Ký thác một cuốn bí kíp đạo tu luyện cấp nâng cao vào vật này.	Bí tịch chi ngộ: [TXT]
+33	Ký thác một cuốn bí kíp đạo tu luyện cấp tinh diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+34	Ký thác một cuốn bí kíp đạo tu luyện cấp huyền diệu vào vật này.	Bí tịch chi ngộ: [TXT]
+35	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp bảo một cách nhẹ nhàng vào vật này.	Kỹ xảo chi ngộ: Vi lượng
+36	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp bảo một cách ít nhiều vào vật này.	Kỹ xảo chi ngộ: Ít lượng
+37	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp bảo vào vật này.	Kỹ xảo chi ngộ: Trung bình
+38	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp bảo nhiều hơn vào vật này.	Kỹ xảo chi ngộ: Khá nhiều
+39	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp bảo một cách đáng kể vào vật này.	Kỹ xảo chi ngộ: Rất nhiều
+40	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp bảo một cách rất lớn vào vật này.	Kỹ xảo chi ngộ: Khổng lồ
+41	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp thuật một cách nhẹ nhàng vào vật này.	Kỹ xảo chi ngộ: Vi lượng
+42	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp thuật một cách ít nhiều vào vật này.	Kỹ xảo chi ngộ: Ít lượng
+43	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp thuật vào vật này.	Kỹ xảo chi ngộ: Trung bình
+44	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp thuật nhiều hơn vào vật này.	Kỹ xảo chi ngộ: Khá nhiều
+45	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp thuật một cách đáng kể vào vật này.	Kỹ xảo chi ngộ: Rất nhiều
+46	Ký thác một số kỹ xảo có thể tăng cường sức mạnh pháp thuật một cách rất lớn vào vật này.	Kỹ xảo chi ngộ: Khổng lồ
+47	Ký thác một số kỹ xảo có thể tăng cường độ mạnh của khiên một cách nhẹ nhàng vào vật này.	Kỹ xảo chi ngộ: Vi lượng
+48	Ký thác một số kỹ xảo có thể tăng cường độ mạnh của khiên một cách ít nhiều vào vật này.	Kỹ xảo chi ngộ: Ít lượng
+49	Ký thác một số kỹ xảo có thể tăng cường độ mạnh của khiên vào vật này.	Kỹ xảo chi ngộ: Trung bình
+50	Ký thác một số kỹ xảo có thể tăng cường độ mạnh của khiên nhiều hơn vào vật này.	Kỹ xảo chi ngộ: Khá nhiều
+51	Ký thác một số kỹ xảo có thể tăng cường độ mạnh của khiên một cách đáng kể vào vật này.	Kỹ xảo chi ngộ: Rất nhiều
+52	Ký thác một số kỹ xảo có thể tăng cường độ mạnh của khiên một cách rất lớn vào vật này.	Kỹ xảo chi ngộ: Khổng lồ
+53	Ký thác một số kỹ xảo có thể tăng cường tỷ lệ thành công luyện chế thần khí một cách nhẹ nhàng vào vật này.	Kỹ xảo chi ngộ: Vi lượng
+54	Ký thác một số kỹ xảo có thể tăng cường tỷ lệ thành công luyện chế thần khí một cách ít nhiều vào vật này.	Kỹ xảo chi ngộ: Ít lượng
+55	Ký thác một số kỹ xảo có thể tăng cường tỷ lệ thành công luyện chế thần khí vào vật này.	Kỹ xảo chi ngộ: Trung bình
+56	Ký thác một số kỹ xảo có thể tăng cường tỷ lệ thành công luyện chế thần khí nhiều hơn vào vật này.	Kỹ xảo chi ngộ: Khá nhiều
+57	Ký thác một số kỹ xảo có thể tăng cường tỷ lệ thành công luyện chế thần khí một cách đáng kể vào vật này.	Kỹ xảo chi ngộ: Rất nhiều
+58	Ký thác một số kỹ xảo có thể tăng cường tỷ lệ thành công luyện chế thần khí một cách rất lớn vào vật này.	Kỹ xảo chi ngộ: Khổng lồ
+59	Ký thác một số kỹ xảo có thể tăng cường sản lượng luyện đan một cách nhẹ nhàng vào vật này.	Kỹ xảo chi ngộ: Vi lượng
+60	Ký thác một số kỹ xảo có thể tăng cường sản lượng luyện đan một cách ít nhiều vào vật này.	Kỹ xảo chi ngộ: Ít lượng
+61	Ký thác một số kỹ xảo có thể tăng cường sản lượng luyện đan vào vật này.	Kỹ xảo chi ngộ: Trung bình
+62	Ký thác một số kỹ xảo có thể tăng cường sản lượng luyện đan nhiều hơn vào vật này.	Kỹ xảo chi ngộ: Khá nhiều
+63	Ký thác một số kỹ xảo có thể tăng cường sản lượng luyện đan một cách đáng kể vào vật này.	Kỹ xảo chi ngộ: Rất nhiều
+64	Ký thác một số kỹ xảo có thể tăng cường sản lượng luyện đan một cách rất lớn vào vật này.	Kỹ xảo chi ngộ: Khổng lồ
+65	Ký thác một số kỹ xảo có thể tăng cường tốc độ tu luyện một cách nhẹ nhàng vào vật này.	Kỹ xảo chi ngộ: Vi lượng
+66	Ký thác một số kỹ xảo có thể tăng cường tốc độ tu luyện một cách ít nhiều vào vật này.	Kỹ xảo chi ngộ: Ít lượng
+67	Ký thác một số kỹ xảo có thể tăng cường tốc độ tu luyện vào vật này.	Kỹ xảo chi ngộ: Trung bình
+68	Ký thác một số kỹ xảo có thể tăng cường tốc độ tu luyện nhiều hơn vào vật này.	Kỹ xảo chi ngộ: Khá nhiều
+69	Ký thác một số kỹ xảo có thể tăng cường tốc độ tu luyện một cách đáng kể vào vật này.	Kỹ xảo chi ngộ: Rất nhiều
+70	Ký thác một số kỹ xảo có thể tăng cường tốc độ tu luyện một cách rất lớn vào vật này.	Kỹ xảo chi ngộ: Khổng lồ
+71	Ký thác khả năng bay trên không vào vật này. (Thân thể sẽ không mất đi khả năng này)	Ngự không phi hành
+72	Ký thác khả năng mở một lá chắn linh khí nhỏ vào vật này. (Thân thể sẽ không mất đi khả năng này)	Linh khí hộ thể: Ít
+73	Ký thác khả năng mở một lá chắn linh khí trung bình vào vật này. (Thân thể sẽ không mất đi khả năng này)	Linh khí hộ thể: Trung
+74	Ký thác khả năng mở một lá chắn linh khí lớn vào vật này. (Thân thể sẽ không mất đi khả năng này)	Linh khí hộ thể: Lớn
+
+

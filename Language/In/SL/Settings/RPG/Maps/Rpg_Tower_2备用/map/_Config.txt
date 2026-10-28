@@ -73,3 +73,4 @@
 /Settings/RPG/Maps/Rpg_Tower_2备用/map.txt	Things.Things.571._hd.Ss.1	木栅栏	571.1	_ReplaceThingName
 /Settings/RPG/Maps/Rpg_Tower_2备用/map.txt	Things.Things.572._hd.Ss.1	木篝火	572.1	_ReplaceThingName
 /Settings/RPG/Maps/Rpg_Tower_2备用/map.txt	Things.Things.573._hd.Ss.1	母牛	573.1	_ReplaceThingName
+

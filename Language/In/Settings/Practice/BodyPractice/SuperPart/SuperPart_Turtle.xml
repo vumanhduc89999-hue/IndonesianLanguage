@@ -1,13 +1,14 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Turtle_1">
-			<Prefix>Creed Endurance</Prefix>
-			<Suffix>Shell</Suffix>
-			<Desc>Sebuah tubuh rahasia yang diturunkan oleh orang bijak penyu kuno yang membentuk kembali cangkangnya dengan Force of Creed. Setelah tercapai, hampir mustahil untuk ditembus.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Secara mendasar meningkatkan daya tahan rahasia tubuh dalam jumlah sedang.\n Secara drastis meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah besar.</Levels.1.Desc>
+			<Prefix>Đạo Hóa Thần Quy</Prefix>
+			<Suffix>Giáp</Suffix>
+			<Desc>Bí thể truyền thừa của Yêu Thánh tộc Quy thượng cổ, dùng lực đạo hóa rèn luyện mai rùa, một khi luyện thành, hầu như không pháp nào xâm phạm.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình độ bền bí thể từ gốc rễ\nTăng mạnh tỷ lệ phòng thủ thành công của bí thể.</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh độ bền bí thể từ gốc rễ.</Levels.1.Desc>
 		</Text>
 	</List>
 </Texts>
+

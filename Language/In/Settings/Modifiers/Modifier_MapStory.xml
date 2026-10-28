@@ -1,48 +1,49 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Story_PracticeSpeed1">
-			<DisplayName>Increases Cultivation speed by 5%.</DisplayName>
-			<Desc>Meningkatkan kecepatan Budidaya sebesar 5%.</Desc>
+			<DisplayName>Tăng 5% tốc độ tu luyện.</DisplayName>
+			<Desc>Tăng 5% tốc độ tu luyện.</Desc>
 		</Text>
 		<Text Name="Story_LingMax1">
-			<DisplayName>Increases Max Qi by 2%.</DisplayName>
-			<Desc>Meningkatkan Maks Qi sebesar 2%.</Desc>
+			<DisplayName>Tăng 2% giới hạn linh khí tối đa từ gốc rễ.</DisplayName>
+			<Desc>Tăng 2% giới hạn linh khí tối đa từ gốc rễ.</Desc>
 		</Text>
 		<Text Name="Story_FabaoPower1">
-			<DisplayName>Increases Artifact Power by 5%.</DisplayName>
-			<Desc>Meningkatkan Kekuatan Artefak sebesar 5%.</Desc>
+			<DisplayName>Tăng 5% uy lực pháp bảo từ gốc rễ.</DisplayName>
+			<Desc>Tăng 5% uy lực pháp bảo từ gốc rễ.</Desc>
 		</Text>
 		<Text Name="Story_LingAbsorbSpeed1">
-			<DisplayName>Increases Qi Absorption Rate by 10%.</DisplayName>
-			<Desc>Meningkatkan Tingkat Penyerapan Qi sebesar 10%.</Desc>
+			<DisplayName>Tăng 10% tốc độ hấp thụ linh khí từ gốc rễ.</DisplayName>
+			<Desc>Tăng 10% tốc độ hấp thụ linh khí từ gốc rễ.</Desc>
 		</Text>
 		<Text Name="Story_WorldMapFlySpeedAddP1">
-			<DisplayName>Sword Flying Speed increased by 50%.</DisplayName>
-			<Desc>Kecepatan Terbang Pedang meningkat sebesar 50%.</Desc>
+			<DisplayName>Tăng 50% tốc độ phi hành bằng kiếm.</DisplayName>
+			<Desc>Tăng 50% tốc độ phi hành bằng kiếm.</Desc>
 		</Text>
 		<Text Name="Story_ShieldConversionRate1">
-			<DisplayName>Qi Shield Efficiency increased by 10%.</DisplayName>
-			<Desc>Efisiensi Qi Shield meningkat sebesar 10%.</Desc>
+			<DisplayName>Tăng 10% hiệu quả khiên linh khí.</DisplayName>
+			<Desc>Tăng 10% hiệu quả khiên linh khí.</Desc>
 		</Text>
 		<Text Name="Story_DragonBlood">
-			<DisplayName>Dragon's Bloodline</DisplayName>
-			<Desc>Kebangkitan Garis Darah Naga: Konstitusi meningkat sebesar 20%; Persepsi meningkat sebesar 20%; Secara mendasar meningkatkan Max Qi sebesar 25%.</Desc>
+			<DisplayName>Long chi huyết mạch</DisplayName>
+			<Desc>Thức Tỉnh Huyết Mạch Rồng: Tăng 20% căn cốt; tăng 20% thần thức; tăng tối đa linh khí cơ bản lên 25%.</Desc>
 		</Text>
 		<Text Name="Modifier_Story_BossLong_Wish1">
-			<DisplayName>Gifting</DisplayName>
+			<DisplayName>Ban Tặng</DisplayName>
 		</Text>
 		<Text Name="Modifier_Story_BossLong_Wish2">
-			<DisplayName>Gifting</DisplayName>
+			<DisplayName>Ban Tặng</DisplayName>
 		</Text>
 		<Text Name="Modifier_Story_BossLong_Wish3">
-			<DisplayName>Gifting</DisplayName>
+			<DisplayName>Ban Tặng</DisplayName>
 		</Text>
 		<Text Name="Modifier_Story_BossLong_Wish4">
-			<DisplayName>Gifting</DisplayName>
+			<DisplayName>Ban Tặng</DisplayName>
 		</Text>
 		<Text Name="Modifier_GreenBrothel">
-			<DisplayName>Feeling Good</DisplayName>
-			<Desc>Bersenang-senang di Green Manor, suasana hati yang baik akan berlanjut selama 5 hari.</Desc>
+			<DisplayName>Tâm Trạng Tốt</DisplayName>
+			<Desc>Sau khi giải trí tại Lục Lâu Phường, sẽ có tâm trạng tốt kéo dài 5 ngày.</Desc>
 		</Text>
 	</List>
 </Texts>
+

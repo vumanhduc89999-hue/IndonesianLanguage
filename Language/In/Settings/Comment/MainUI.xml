@@ -1,44 +1,45 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="MainUIWorldTime">
-			<Notes>Comment Panel of World Clock</Notes>
-			<Title>World Clock</Title>
-			<Desc>Waktu dunia, yang jumlahnya bertambah seiring berjalannya permainan.</Desc>
-			<Tips>Tekan tombol untuk membuka panel komentar[color=#D06508]Jam Dunia[/color].</Tips>
+			<Notes>Bảng thời gian thế giới</Notes>
+			<Title>Thời gian thế giới</Title>
+			<Desc>Thời gian của thế giới sẽ tăng dần theo tiến trình trò chơi.</Desc>
+			<Tips>Nhấp chuột phải để mở trang bình luận [color=#D06508]Thời gian thế giới[/color]</Tips>
 		</Text>
 		<Text Name="MainUIWeather">
-			<Notes>Only used to show tips at the entrance of comment panel of Weather.</Notes>
-			<Tips>Tekan tombol untuk membuka panel komentar[color=#D06508]Cuaca[/color].</Tips>
+			<Notes>Chỉ dùng để cung cấp mẹo vào bảng bình luận về thời tiết</Notes>
+			<Tips>Nhấp chuột phải để mở trang bình luận [color=#D06508]Thời tiết này[/color]</Tips>
 		</Text>
 		<Text Name="MainUISectFengShui">
-			<Notes>Comment Panel of Sect's Feng Shui</Notes>
-			<Title>Sect's Feng Shui</Title>
-			<Desc>Feng Shui sebuah sekte.</Desc>
-			<Tips>Tekan tombol untuk membuka panel komentar[color=#D06508]Feng Shui Sekte[/color].</Tips>
+			<Notes>Bảng phong thủy môn phái</Notes>
+			<Title>Phong thủy môn phái</Title>
+			<Desc>Phong thủy của môn phái.</Desc>
+			<Tips>Nhấp chuột phải để mở trang bình luận [color=#D06508]Phong thủy môn phái[/color]</Tips>
 		</Text>
 		<Text Name="MainUIRoomFengShui">
-			<Notes>Comment Panel of Room's Feng Shui</Notes>
-			<Title>Room's Feng Shui</Title>
-			<Desc>Feng Shui sebuah ruangan.</Desc>
-			<Tips>Tekan tombol untuk membuka panel komentar[color=#D06508]Feng Shui Kamar[/color].</Tips>
+			<Notes>Bảng phong thủy phòng</Notes>
+			<Title>Phong thủy phòng</Title>
+			<Desc>Phong thủy của phòng.</Desc>
+			<Tips>Nhấp chuột phải để mở trang bình luận [color=#D06508]Phong thủy phòng[/color]</Tips>
 		</Text>
 		<Text Name="MainUILingShi">
-			<Notes>Comment Panel of Spirit Stone</Notes>
-			<Title>Spirit Stone Coin</Title>
-			<Desc>Komoditas yang diterima secara universal dan dapat digunakan sebagai mata uang untuk berdagang dengan pihak lain.</Desc>
-			<Tips>Tekan tombol untuk membuka panel komentar[color=#D06508]Batu Roh[/color].</Tips>
+			<Notes>Bảng linh thạch</Notes>
+			<Title>Linh thạch tiền tệ</Title>
+			<Desc>Vật tương đương chung trong giới tu hành, có thể dùng để trao đổi với người khác.</Desc>
+			<Tips>Nhấp chuột phải để mở trang bình luận [color=#D06508]Linh thạch tiền tệ[/color]</Tips>
 		</Text>
 		<Text Name="MainUIInfluence">
-			<Notes>Comment Panel of Influence</Notes>
-			<Title>Influence</Title>
-			<Desc>Pengaruh sekte Anda di dunia fana, dapat digunakan untuk memperluas kekuatan Anda di dunia fana.</Desc>
-			<Tips>Tekan tombol untuk membuka panel komentar[color=#D06508]Pengaruh[/color].</Tips>
+			<Notes>Bảng giá trị ảnh hưởng</Notes>
+			<Title>Giá trị ảnh hưởng</Title>
+			<Desc>Ảnh hưởng của môn phái trong phàm gian, có thể dùng để mở rộng thế lực phàm gian của mình.</Desc>
+			<Tips>Nhấp chuột phải để mở trang bình luận [color=#D06508]Giá trị ảnh hưởng[/color]</Tips>
 		</Text>
 		<Text Name="MainUIWuXingGraph">
-			<Notes>Comment Panel of Five Element Diagram</Notes>
-			<Title>Five Element Diagram</Title>
-			<Desc>Diagram Lima Elemen menunjukkan masing-masing hubungan ikat dan kontraaktif antara lima elemen - Logam, Kayu, Air, Api, dan Tanah.</Desc>
-			<Tips>Tekan tombol untuk membuka panel komentar[color=#D06508]Diagram Lima Elemen[/color].</Tips>
+			<Notes>Bảng Ngũ Hành Đồ</Notes>
+			<Title>Đồ hình Ngũ Hành</Title>
+			<Desc>Ngũ Hành Đồ thể hiện mối quan hệ tương sinh tương khắc của Kim, Mộc, Thủy, Hỏa, Thổ.</Desc>
+			<Tips>Nhấp chuột phải để mở trang bình luận [color=#D06508]Ngũ Hành Đồ[/color]</Tips>
 		</Text>
 	</List>
 </Texts>
+

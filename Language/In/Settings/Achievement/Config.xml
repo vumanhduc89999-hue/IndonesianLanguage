@@ -1,73 +1,74 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="kind_1">
-			<Desc>Karakter yang Ascendant: {0:F0}</Desc>
+			<Desc>Phi thăng: {0:F0} người</Desc>
 		</Text>
 		<Text Name="kind_2">
-			<Desc>Petualangan: {0:F0}</Desc>
+			<Desc>Luyện tập: {0:F0} lần</Desc>
 		</Text>
 		<Text Name="kind_3">
-			<Desc>Obat/Alkimia: {0:F0}</Desc>
+			<Desc>Luyện đan: {0:F0} lần</Desc>
 		</Text>
 		<Text Name="kind_4">
-			<Desc>Artefak dibuat: {0:F0}</Desc>
+			<Desc>Luyện bảo: {0:F0} lần</Desc>
 		</Text>
 		<Text Name="kind_5">
-			<Desc>Talisman digambar: {0:F0}</Desc>
+			<Desc>Vẽ bùa: {0:F0} lần</Desc>
 		</Text>
 		<Text Name="kind_6">
-			<Desc>Makhluk yang Terbunuh: {0:F0}</Desc>
+			<Desc>Hạ sát sinh vật: {0:F0} con</Desc>
 		</Text>
 		<Text Name="kind_7">
-			<Desc>Cultivator yang Terbunuh: {0:F0}</Desc>
+			<Desc>Giết chết tu sĩ: {0:F0} người</Desc>
 		</Text>
 		<Text Name="kind_8">
-			<Desc>Makanan yang dibuat: {0:F0} Jenis</Desc>
+			<Desc>Chế biến thức ăn: {0:F0} loại</Desc>
 		</Text>
 		<Text Name="kind_9">
-			<Desc>Seni Langka: {0:F0}</Desc>
+			<Desc>Tác phẩm nghệ thuật quý hiếm: {0:F0} cái</Desc>
 		</Text>
 		<Text Name="kind_10">
-			<Desc>Persuasi yang Berhasil: {0:F0}</Desc>
+			<Desc>Thuyết phục thành công: {0:F0} lần</Desc>
 		</Text>
 		<Text Name="kind_11">
-			<Desc>Buku teks yang dipelajari: {0:F0}</Desc>
+			<Desc>Học được bí kíp: {0:F0} quyển</Desc>
 		</Text>
 		<Text Name="kind_12">
-			<Desc>Murid yang meninggal: {0:F0}</Desc>
+			<Desc>Đệ tử đã chết: {0:F0} người</Desc>
 		</Text>
 		<Text Name="kind_13">
-			<Desc>Murid inti yang meninggal: {0:F0}</Desc>
+			<Desc>Đệ tử nội môn tử vong: {0:F0} người</Desc>
 		</Text>
 		<Text Name="kind_14">
-			<Desc>Kepemilikan: {0:F0}</Desc>
+			<Desc>Đoạt xác: {0:F0} lần</Desc>
 		</Text>
 		<Text Name="kind_15">
-			<Desc>Meditasi: {0:F0} detik</Desc>
+			<Desc>Nhập định: {0:F0} giây</Desc>
 		</Text>
 		<Text Name="kind_16">
-			<Desc>Pencarian Jiwa: {0:F0}</Desc>
+			<Desc>Tìm hồn đại pháp: {0:F0} lần</Desc>
 		</Text>
 		<Text Name="kind_17">
-			<Desc>Umur yang Diambil: {0:F0} detik</Desc>
+			<Desc>Chiếm đoạt tuổi thọ: {0:F0} giây</Desc>
 		</Text>
 		<Text Name="kind_18">
-			<Desc>Jiwa yang Terbebas/Dimurnikan: {0:F0}</Desc>
+			<Desc>Luyện hồn: {0:F0} lần</Desc>
 		</Text>
 		<Text Name="kind_19">
-			<Desc>Jiwa yang Tertangkap: {0:F0}</Desc>
+			<Desc>Nhiếp thần ngự quỷ: {0:F0} lần</Desc>
 		</Text>
 		<Text Name="kind_20">
-			<Desc>Mayat yang dimurnikan: {0:F0}</Desc>
+			<Desc>Luyện hóa xác chết: {0:F0}</Desc>
 		</Text>
 		<Text Name="kind_21">
-			<Desc>Pengorbanan: {0:F0}</Desc>
+			<Desc>Hiến tế: {0:F0} lần</Desc>
 		</Text>
 		<Text Name="kind_22">
-			<Desc>Roh Berhantu: {0:F0}</Desc>
+			<Desc>Ký sinh hồn thể: {0:F0} lần</Desc>
 		</Text>
 		<Text Name="kind_23">
-			<Desc>Artefak tingkat tinggi: {0:F0}</Desc>
+			<Desc>Thu nhận pháp bảo trấn phái: {0:F0} cái</Desc>
 		</Text>
 	</List>
 </Texts>
+

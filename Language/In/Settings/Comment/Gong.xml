@@ -1,20 +1,21 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="GongDengXian">
-			<Title>Ascension Law</Title>
-			<Desc>Hukum semacam ini menghubungkan Anda dengan jalan keabadian secara langsung, memungkinkan Anda untuk naik menuju keabadian.</Desc>
+			<Title>Phương pháp đăng tiên</Title>
+			<Desc>Loại công pháp này có thể trực tiếp thông đến tiên đạo, phi thăng thành tiên.</Desc>
 		</Text>
 		<Text Name="GongYuanShen">
-			<Title>Primordial Spirit Law</Title>
-			<Desc>Hukum semacam ini memungkinkan Anda pada akhirnya mencapai Keadaan Jiwa Primordial.</Desc>
+			<Title>Phương pháp Nguyên Thần</Title>
+			<Desc>Loại công pháp này cao nhất có thể tu luyện đạt đến cảnh giới Nguyên Thần.</Desc>
 		</Text>
 		<Text Name="GongJinDan">
-			<Title>Golden Core Law</Title>
-			<Desc>Hukum semacam ini pada akhirnya dapat mengarah pada Pembentukan Inti Emas.</Desc>
+			<Title>Phương pháp Kim Đan</Title>
+			<Desc>Loại công pháp này cao nhất có thể kết thành Kim Đan.</Desc>
 		</Text>
 		<Text Name="GongFanSu">
-			<Title>Worldly Law</Title>
-			<Desc>Hukum semacam ini cukup biasa, bahkan tidak cukup untuk Pembentukan Inti.</Desc>
+			<Title>Phương pháp Phàm Tục</Title>
+			<Desc>Loại công pháp này rất bình thường, thậm chí không thể kết đan.</Desc>
 		</Text>
 	</List>
 </Texts>
+

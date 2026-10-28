@@ -31,4 +31,5 @@
 /Settings/RPG/Maps/Rpg_Tower_16/map.txt	Skills.SkillDefs.TSheildSkill-225.DisplayName	乐梦柏上仙金刚诀	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_16/map.txt	Skills.SkillDefs.TDamageSkill-561.DisplayName	本源陨星咒	-1	_ReplaceSkillDisplaceName
 /Settings/RPG/Maps/Rpg_Tower_16/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param1	在世界开始灭亡后，我便开始环游世界，已经几十年没见过活人了……想不到在这最后之地，竟然还能遇到一名外来者共同见证。	0	
-/Settings/RPG/Maps/Rpg_Tower_16/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param2	也好，观世界破时，我领悟五行辟易之道。就在这生命的最后与你做个验证吧！	0	
+/Settings/RPG/Maps/Rpg_Tower_16/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param2	也好，观世界破时，我领悟五行辟易之道。就在这生命的最后与你做个验证吧！	0
+

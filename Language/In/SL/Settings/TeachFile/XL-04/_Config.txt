@@ -148,3 +148,4 @@
 /Settings/TeachFile/XL-04.osave	Esoterica.Data.61.DisplayName	罡煞合流	61	_ReplaceEsotericaName
 /Settings/TeachFile/XL-04.osave	Skill.SkillDefs.TFabaoSkill-1.DisplayName	化影诀	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/XL-04.osave	Skill.SkillDefs.TSheildSkill-1.DisplayName	太乙不朽神雷	-1	_ReplaceSkillDisplaceName
+

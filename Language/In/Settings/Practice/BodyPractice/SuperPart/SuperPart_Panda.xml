@@ -1,22 +1,23 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Panda_1">
-			<Prefix>Mixed Element</Prefix>
-			<Suffix>Body</Suffix>
-			<Desc>Tubuh rahasia yang diturunkan dari garis keturunan panda kuno Yaoguai yang menggunakan Yin dan Yang untuk membentuk kembali tubuhnya. Setelah tercapai, Itu bisa menghancurkan segalanya.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan kekuatan tubuh rahasia Secara mendasar\nSedikit meningkatkan penetrasi penghalang Qi tubuh rahasia</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan kekuatan tubuh rahasia Secara mendasar\nSedikit meningkatkan penetrasi penghalang Qi tubuh rahasia</Levels.1.Desc>
+			<Prefix>Hỗn Nguyên</Prefix>
+			<Suffix>Thân</Suffix>
+			<Desc>Bí thể truyền thừa trong huyết mạch Mặc Yêu thượng cổ, dùng lực Âm Dương rèn luyện thân thể, hợp nhất chân khí toàn thân, hợp hình mà va chạm, vạn vật đều tan nát.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh uy lực bí thể từ gốc rễ\nTăng nhẹ tỷ lệ xuyên thủng linh khí hộ thuẫn của bí thể.</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh uy lực bí thể từ gốc rễ\nTăng trung bình tỷ lệ xuyên thủng linh khí hộ thuẫn của bí thể.</Levels.1.Desc>
 		</Text>
 		<Text Name="SuperPart_Panda_2">
-			<Prefix>Yin Yang</Prefix>
-			<Suffix>Hug</Suffix>
-			<Desc>Sebuah badan rahasia yang diturunkan dari garis keturunan panda kuno Yaoguai, pandai dalam menekan arifak. Menggunakan Yin untuk membentuk kembali lengan kiri dan Yang untuk membentuk kembali lengan kanan, setelah mencapai dua lengan dapat memotong musuh menjadi beberapa bagian, seperti kincir langit dan bumi.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan kekuatan tubuh rahasia secara mendasar dalam jumlah besar\nMeningkatkan peluang penindasan artefak tubuh rahasia secara besar-besaran.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan kekuatan tubuh rahasia secara mendasar dalam jumlah besar\nMeningkatkan peluang penindasan artefak tubuh rahasia secara besar-besaran.</Levels.1.Desc>
+			<Prefix>Âm Dương</Prefix>
+			<Suffix>Bão</Suffix>
+			<Desc>Bí thể truyền thừa trong huyết mạch Mặc Yêu thượng cổ, cực kỳ giỏi trấn áp pháp bảo. Dùng lực âm rèn luyện cánh tay trái, lực dương rèn luyện cánh tay phải, vận hành lực Âm Dương hai cánh tay như cối xay trời đất nghiền nát kẻ địch thành bột mịn.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh uy lực bí thể từ gốc rễ\nTăng mạnh tỷ lệ trấn áp pháp bảo của bí thể.</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh uy lực bí thể từ gốc rễ\nTăng cực mạnh tỷ lệ trấn áp pháp bảo của bí thể.</Levels.1.Desc>
 		</Text>
 	</List>
 </Texts>
+

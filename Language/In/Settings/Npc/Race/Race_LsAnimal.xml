@@ -1,28 +1,29 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LsDog">
-			<DisplayName>Huajuan</DisplayName>
-			<Desc>Anjing Ilahi Huajuan adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
-			<TalkBefore>warisan warisan,</TalkBefore>
-			<TalkAfter>, ah!</TalkAfter>
+			<DisplayName>Thần khuyển Hoa Quyển</DisplayName>
+			<Desc>Thần khuyển Hoa Quyển là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>Gâu gâu,</TalkBefore>
+			<TalkAfter>, Gâu!</TalkAfter>
 		</Text>
 		<Text Name="LsFox">
-			<DisplayName>Qin Muxue</DisplayName>
-			<Desc>Spirit Rubah Qinmuxue adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
-			<TalkBefore>Melolong melolong,</TalkBefore>
-			<TalkAfter>, melolong!</TalkAfter>
+			<DisplayName>Linh Hồ Tần Mộ Tuyết</DisplayName>
+			<Desc>Linh Hồ Tần Mộ Tuyết là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>U u,</TalkBefore>
+			<TalkAfter>, U!</TalkAfter>
 		</Text>
 		<Text Name="LsDragon">
-			<DisplayName>Changhai</DisplayName>
-			<Desc>Naga Terbang Changhai adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
-			<TalkBefore>Baris baris,</TalkBefore>
-			<TalkAfter>, menggeram!</TalkAfter>
+			<DisplayName>Phù Long Trường Hải</DisplayName>
+			<Desc>Phù Long Trường Hải là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>Gầm gầm,</TalkBefore>
+			<TalkAfter>，Gầm!</TalkAfter>
 		</Text>
 		<Text Name="LsPhoenix">
-			<DisplayName>Yiming</DisplayName>
-			<Desc>Phoenix Kegelapan Yiming adalah hewan spiritual fantastis yang muncul secara alami antara langit dan bumi. Ini adalah manifestasi dari beberapa aturan alam.</Desc>
-			<TalkBefore>Kicauan kicauan,</TalkBefore>
-			<TalkAfter>, kicauan!</TalkAfter>
+			<DisplayName>Huyền Phượng Dã Minh</DisplayName>
+			<Desc>Huyền Phượng Dã Minh là loài sinh vật kỳ lạ tự nhiên sinh ra trong trời đất, là sự hiện thân của một quy tắc nào đó.</Desc>
+			<TalkBefore>Chít chít,</TalkBefore>
+			<TalkAfter>, Chít!</TalkAfter>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,118 +1,119 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Gong_3_1">
-			<Prefix>Demon Poison</Prefix>
-			<Suffix>Fang</Suffix>
-			<Desc>Membentuk kembali kedua taringnya untuk memberi mereka energi beracun dan terkorosi. Unggul dalam memecahkan penghalang Qi para kultivator.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Sedikit meningkatkan kinerja serangan tubuh rahasia.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan akurasi serangan tubuh rahasia secara moderat.</Levels.1.Desc>
-			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
-			<Levels.2.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.2.Desc>
+			<Prefix>Yêu Độc</Prefix>
+			<Suffix>Răng</Suffix>
+			<Desc>Luyện hai răng, khiến chúng mang khí độc ăn mòn, rất giỏi phá vỡ linh khí hộ thuẫn của người tu hành.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu suất tấn công của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ đánh trúng của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình sức mạnh cơ bản của bí thể</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_2">
-			<Prefix>Shadow Slayer</Prefix>
-			<Suffix>Tail</Suffix>
-			<Desc>Bentuk kembali ekor panjangnya hingga lincah seperti lengan dan bisa membunuh segalanya dalam sekejap. Unggul dalam penindasan artefak.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Sedikit meningkatkan kinerja serangan tubuh rahasia.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan peluang penindasan artefak badan rahasia secara moderat.</Levels.1.Desc>
-			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
-			<Levels.2.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.2.Desc>
+			<Prefix>Yêu Ảnh Liệt Phong</Prefix>
+			<Suffix>Đuôi</Suffix>
+			<Desc>Luyện đuôi dài đến mức có thể điều khiển như tay, có thể cắt bóng, xé không gian, giỏi trấn áp pháp bảo.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ hiệu suất tấn công của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ trấn áp pháp bảo của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình sức mạnh cơ bản của bí thể</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_3">
-			<Prefix>Void Rupture</Prefix>
-			<Suffix>Claw</Suffix>
-			<Desc>Mencetak ulang keempat cakarnya untuk membuatnya sangat tajam. Setelah tercapai, ia dapat memecahkan kekosongan dan tidak ada yang bisa lolos dari serangan alternatifnya.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan akurasi serangan tubuh rahasia secara moderat.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Secara drastis meningkatkan akurasi serangan tubuh rahasia.</Levels.1.Desc>
-			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
-			<Levels.2.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.2.Desc>
+			<Prefix>Động Hư</Prefix>
+			<Suffix>Vuốt</Suffix>
+			<Desc>Luyện bốn vuốt đến mức sắc bén không gì sánh được, khi luyện thành, sức mạnh của chúng có thể xuyên thủng không gian, liên tục tấn công khiến đối phương không thể né tránh.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình tỷ lệ đánh trúng của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh tỷ lệ đánh trúng của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình sức mạnh cơ bản của bí thể</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_4">
-			<Prefix>Peak</Prefix>
-			<Suffix>Step</Suffix>
-			<Desc>Tubuh rahasia yang kuat yang membentuk kembali tubuh dengan energi Yin dan Yang. Legenda mengatakan bahwa seorang bijak Yaoguai kuno pernah menggunakannya untuk naik ke atas puncak dan melangkahi semua makhluk abadi, sehingga dinamakan Langkah Puncak.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.0.Desc>
+			<Prefix>Lăng Tiêu</Prefix>
+			<Suffix>Bước</Suffix>
+			<Desc>Bí thể vô cùng mạnh mẽ, sử dụng lực âm dương để luyện vào cơ thể, truyền thuyết kể rằng thời cổ đại, yêu tộc đại thánh đã dùng bước này để đạp vỡ Lăng Tiêu, quét sạch các tiên gia vô địch, do đó mà có tên gọi này.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình sức mạnh cơ bản của bí thể</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_5">
-			<Prefix>Demonic Radiance</Prefix>
-			<Suffix>Bristles</Suffix>
-			<Desc>Mencetak kembali bulu-bulu di leher dengan teknik dan menstimulasinya untuk menyemburkan seperti seribu sinar cahaya perak, terutama digunakan untuk menembus perlindungan Qi.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Sedikit meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Cukup meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.1.Desc>
-			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
-			<Levels.2.Desc>Secara drastis meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.2.Desc>
+			<Prefix>Thiên Mang Yêu</Prefix>
+			<Suffix>Lông</Suffix>
+			<Desc>Sử dụng bí pháp luyện lông cứng ở cổ, khi kích hoạt chân khí sẽ như hàng ngàn tia bạc bắn ra, chuyên phá hộ thể cương khí.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng lớn tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_6">
-			<Prefix>Bonerust</Prefix>
-			<Suffix>Wind</Suffix>
-			<Desc>Membentuk kembali sayap dengan teknik untuk menghasilkan True Qi yang sangat korosif. Unggul dalam menembus penghalang Qi.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Sedikit meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Sedikit meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.1.Desc>
-			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
-			<Levels.2.Desc>Sedikit meningkatkan penetrasi penghalang Qi tubuh rahasia.</Levels.2.Desc>
+			<Prefix>Thực Cốt</Prefix>
+			<Suffix>Thần Phong</Suffix>
+			<Desc>Sử dụng bí pháp luyện cánh, có thể phát ra chân khí có sức ăn mòn mạnh, giỏi xuyên thủng linh khí hộ thuẫn.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng nhẹ tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng nhẹ tỷ lệ xuyên qua khiên linh khí của bí thể</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_7">
-			<Prefix>Chaotic</Prefix>
-			<Suffix>Shell</Suffix>
-			<Desc>Membentuk kembali seluruh bulu dan bulu menjadi satu kesatuan untuk melindungi tubuh dari bahaya.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia dalam jumlah yang sangat besar.</Levels.0.Desc>
+			<Prefix>Hỗn Thiên Yêu</Prefix>
+			<Suffix>Giáp</Suffix>
+			<Desc>Luyện toàn bộ da lông thành một thể, có thể chống lại mọi tổn hại xung quanh.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng cực mạnh tỷ lệ thành công phòng thủ của bí thể</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_8">
-			<Prefix>Demonshield</Prefix>
-			<Suffix>Scale</Suffix>
-			<Desc>Mengembangkan otot tubuh menjadi sesuatu yang menyerupai sisik naga. Unggul dalam menahan dampak kuat.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Pada dasarnya meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Secara drastis meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.1.Desc>
+			<Prefix>Yêu Ngự</Prefix>
+			<Suffix>Huyền Lân</Suffix>
+			<Desc>Tiến hóa cơ bắp thành tồn tại giống như vảy rồng, rất giỏi chống lại những cú va chạm mạnh.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình độ bền bỉ của bí thể từ gốc rễ</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng lớn tỷ lệ phòng thủ thành công của bí thể</Levels.1.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_9">
-			<Prefix>Impermanence</Prefix>
-			<Suffix>Feather</Suffix>
-			<Desc>Badan rahasia legendaris yang digunakan oleh orang bijak merak Yaoguai untuk perlindungan. Mencetak kembali bulu-bulu dengan kekuatan ketidakkekalan.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah besar.\n Secara drastis saya meningkatkan peluang penekanan artefak tubuh rahasia.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah besar.\n Secara drastis saya meningkatkan peluang penekanan artefak tubuh rahasia.</Levels.1.Desc>
-			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
-			<Levels.2.Desc>Secara drastis meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.</Levels.2.Desc>
+			<Prefix>Vạn Hóa</Prefix>
+			<Suffix>Y Vũ</Suffix>
+			<Desc>Truyền thuyết kể lại bí thể hộ thân của yêu thánh Khổng Tước, sử dụng lực vạn hóa để luyện lông vũ, công dụng vô tận.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh khả năng bền bỉ cơ bản của bí thể\nTăng mạnh tỷ lệ trấn áp pháp bảo của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh khả năng bền bỉ cơ bản của bí thể\nTăng mạnh tỷ lệ trấn áp pháp bảo của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng lớn tỷ lệ phòng thủ thành công của bí thể</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_10">
-			<Prefix>Illusion</Prefix>
-			<Suffix>Will</Suffix>
-			<Desc>Menggunakan kekuatan Yaoguai tertinggi untuk membentuk kembali otak dan membekukan Kehendak Ilusi. Menggunakan Illusion Will di Remold dapat meningkatkan hasilnya secara efektif. Jika metode ini digunakan untuk membentuk kembali otak, maka dapat bermutasi dan mengembangkan potensi evolusi seluruh organ.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Dapatkan Mantra Remold: Remold Ilusi</Levels.0.Desc>
+			<Prefix>Thái Hư Yêu</Prefix>
+			<Suffix>Thức</Suffix>
+			<Desc>Sử dụng yêu lực vô thượng để luyện não, ngưng tụ Thái Hư Yêu Thức. Sử dụng bí pháp này có thể hiệu quả nâng cao kết quả luyện thể, nếu luyện não bộ, thậm chí có thể khiến não bộ biến đổi, phát triển tiềm năng tiến hóa của toàn bộ cơ quan trong cơ thể.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Học được phương pháp luyện thể: Thái Hư Yêu Thức</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_11">
-			<Prefix>Bestial</Prefix>
-			<Suffix>Breath</Suffix>
-			<Desc>Sebuah badan rahasia yang diciptakan dengan menggabungkan teknik pernapasan rahasia semua binatang. Digunakan untuk meningkatkan pemulihan True Qi secara drastis.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Sedikit meningkatkan tingkat pemulihan True Qi badan rahasia.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan tingkat pemulihan True Qi badan rahasia secara moderat.</Levels.1.Desc>
-			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
-			<Levels.2.Desc>Secara drastis meningkatkan tingkat pemulihan True Qi badan rahasia.</Levels.2.Desc>
+			<Prefix>Vạn Thú Quy</Prefix>
+			<Suffix>Nghỉ ngơi</Suffix>
+			<Desc>Tập hợp huyền bí của hơi thở và nạp khí của vạn thú, cuối cùng luyện thành bí thể. Có thể tăng mạnh khả năng hồi phục chân khí.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng nhẹ khả năng hồi phục chân khí của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình khả năng hồi phục chân khí của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng mạnh khả năng hồi phục chân khí của bí thể</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_3_12">
-			<Prefix>Astral</Prefix>
-			<Suffix>Tail</Suffix>
-			<Desc>Badan rahasia yang tidak lazim. Membentuk kembali ekornya dengan teknik khusus untuk memberinya kekuatan memanggil semua bintang dan secara drastis meningkatkan keseimbangan fisik kultivator, sehingga meningkatkan akurasi global.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Secara drastis meningkatkan akurasi serangan dari tubuh rahasia penggarap fisik.\n Secara drastis meningkatkan tingkat keberhasilan pertahanan dari tubuh rahasia penggarap fisik.\n Secara drastis meningkatkan kemungkinan penindasan artefak dari tubuh rahasia penggarap fisik.\n Secara drastis meningkatkan penghindaran global dari penggarap fisik.</Levels.0.Desc>
+			<Prefix>Định Tinh</Prefix>
+			<Suffix>Đuôi</Suffix>
+			<Desc>Bí thể độc đáo, sử dụng phương pháp đặc biệt để luyện đuôi, khiến nó có sức mạnh giao cảm với các sao trời, tăng mạnh khả năng cân bằng của người luyện thể, từ đó nâng cao độ chính xác toàn diện.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ đánh trúng của tất cả bí thể của người luyện thể\nTăng mạnh tỷ lệ thành công phòng thủ của tất cả bí thể của người luyện thể\nTăng mạnh tỷ lệ trấn áp pháp bảo của tất cả bí thể của người luyện thể\nTăng mạnh tỷ lệ né tránh toàn diện của người luyện thể</Levels.0.Desc>
 		</Text>
 	</List>
 </Texts>
+

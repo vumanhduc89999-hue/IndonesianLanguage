@@ -1,36 +1,37 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Modifier_Magic_XuanWuHeart">
-			<DisplayName>Peaceful Breath</DisplayName>
-			<Desc>Tidak diperlukan makanan, air atau tidur selama 3 hari, namun pergerakan akan menjadi lambat.</Desc>
+			<DisplayName>Tĩnh Tâm Nạp Khí</DisplayName>
+			<Desc>Trong ba ngày không cần ăn uống, cũng không cảm thấy mệt mỏi, nhưng tốc độ di chuyển bị chậm lại.</Desc>
 		</Text>
 		<Text Name="Modifier_XuanWuShield">
-			<DisplayName>Darkarmor Shield</DisplayName>
-			<Desc>Secara drastis meningkatkan penghalang Qi dan daya tahan tubuh rahasia dalam rentang waktu singkat.</Desc>
+			<DisplayName>Huyền giáp hộ thể</DisplayName>
+			<Desc>Trong thời gian ngắn tăng mạnh độ bền của linh khí hộ thể và bí thể.</Desc>
 		</Text>
 		<Text Name="Modifier_XuanWuBreak">
-			<DisplayName>Conquest Breach</DisplayName>
-			<Desc>Mengurangi Qi Barrier dan daya tahan tubuh rahasia secara signifikan dalam kurun waktu singkat.</Desc>
+			<DisplayName>Chân Vũ phá thể</DisplayName>
+			<Desc>Trong thời gian ngắn, giảm mạnh độ bền của khiên linh khí và thể chất bí mật.</Desc>
 		</Text>
 		<Text Name="Modifier_JinFish">
-			<DisplayName>Golden Claw Essence</DisplayName>
-			<Desc>Meningkatkan Qi Barrier dan rahasia daya tahan tubuh dalam kurun waktu singkat.</Desc>
+			<DisplayName>Tinh Hoa Kim Ngao</DisplayName>
+			<Desc>Trong thời gian ngắn, tăng cường khiên linh khí và độ bền thể chất bí mật.</Desc>
 		</Text>
 		<Text Name="Modifier_LongTou1">
-			<DisplayName>Clear Mind</DisplayName>
-			<Desc>Sedikit meningkatkan Kondisi Mental setelah berdoa dengan tulus dan membuat permohonan di acara tahunan Persembahan Dupa Naga.</Desc>
+			<DisplayName>Tâm cảnh thanh tịnh</DisplayName>
+			<Desc>Thành tâm cầu phúc trong lễ hội Long Đầu Hương hàng năm, tâm cảnh được nâng cao đôi chút.</Desc>
 		</Text>
 		<Text Name="Modifier_LongTou2">
-			<DisplayName>Higher Level</DisplayName>
-			<Desc>Sangat meningkatkan peluang Terobosan setelah berdoa dengan tulus dan membuat permohonan dalam acara tahunan Persembahan Dupa Naga.</Desc>
+			<DisplayName>Tiến thêm một bước</DisplayName>
+			<Desc>Thành tâm cầu phúc trong lễ hội Long Đầu Hương hàng năm, xác suất đột phá bình cảnh tăng lên đáng kể.</Desc>
 		</Text>
 		<Text Name="Modifier_LongTou3">
-			<DisplayName>Good Fortune</DisplayName>
-			<Desc>Sedikit meningkatkan Pertahanan setelah berdoa dengan tulus dan membuat permohonan di acara tahunan Persembahan Dupa Naga.</Desc>
+			<DisplayName>Gặp hung hóa cát</DisplayName>
+			<Desc>Thành tâm cầu phúc trong lễ hội Long Đầu Hương hàng năm, phòng thủ được tăng lên đôi chút.</Desc>
 		</Text>
 		<Text Name="Modifier_LongTou5">
-			<DisplayName>Greed Punishment</DisplayName>
-			<Desc>Meskipun mendapat banyak berkah, menerima hukuman ilahi dan menurunkan Lima Atribut secara signifikan setelah membuat terlalu banyak permintaan dalam acara Persembahan Dupa Naga tahunan.</Desc>
+			<DisplayName>Dày vò tham lam</DisplayName>
+			<Desc>Cầu phúc một cách tham lam trong lễ hội Long Đầu Hương hàng năm, dù nhận được nhiều phúc lành nhưng cũng bị trừng phạt thần bí, năm thuộc tính bị giảm mạnh.</Desc>
 		</Text>
 	</List>
 </Texts>
+

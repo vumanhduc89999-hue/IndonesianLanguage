@@ -1,164 +1,166 @@
 ID	Content	WholeContent	TipDesc	Desc	TipsContent
 
-1	Cadangan makanan tidak mencukupi.	Cadangan makanan tidak mencukupi.			
-2	Cadangan obat tidak mencukupi.	Cadangan obat tidak mencukupi.			
-3	Cadangan stamina tidak mencukupi.	Cadangan stamina tidak mencukupi.			
-4	Musim panas akan datang.	Musim panas akan datang.	Harap bersiap menghadapi cuaca panas.		
-5	Musim dingin akan datang.	Musim dingin akan datang.	Harap bersiap menghadapi cuaca dingin.		
-6	Musuhmu muncul.	Musuhmu muncul.			
-7	{0}{1} sedang diserang.	Sekte ini sedang diserang.			
-8	Ada api.	Ada api.			
-9	Pejalan kaki membutuhkan bantuan.	Pejalan kaki membutuhkan bantuan.			
-10	{0} sedang mencoba mengambil item {1}.	Musuh sedang mencoba mengambil suatu item.			
-11	Musuh {0} mengambil item {1}.	Musuh mengambil barang itu.			
-12	Binatang ajaib {0} muncul.	Binatang ajaib muncul.			
-13	Harta karun yang jatuh.	Harta karun yang jatuh.			
-14	Abadi {0}_tiba/berangkat.	Yang abadi telah tiba.			
-15	{0} jatuh cinta pada {1}.	Perasaan cinta yang baru.			
-16	{0} berhenti mencintai {1}.	Perasaan cinta memudar.			
-17	{0} menyatakan perasaannya kepada {1} _dan mereka menjadi kekasih/tetapi gagal.	Seseorang menyatakan perasaannya.			
-18	{0} membujuk {1} _dan berhasil/dan gagal.	Seseorang mencoba persuasi.			
-19	Ditinggalkan	Ditinggalkan			
-20	{0} sedang dalam suasana hati yang buruk.	Seseorang sedang dalam suasana hati yang buruk.			
-21	Suasana hati {0} memburuk karena {1}.	Suasana hati seseorang memburuk.			
-22	{0} tidak stabil secara mental.	Seseorang tidak stabil secara mental.			
-23	{0}: _jatuh ke tanah/kehilangan kesadaran/sekarat.	Seseorang tidak berdaya.			
-24	Ditinggalkan	Ditinggalkan			
-25	{0}: meninggal.	Seseorang meninggal.			
-26	{0}: malas dalam bekerja.	Seseorang malas dalam pekerjaannya.			
-27	{0}: berhenti bermalas-malasan.	Seseorang berhenti bermalas-malasan dalam pekerjaannya.			
-28	{0} membutuhkan senjata untuk berburu.	Seseorang membutuhkan senjata untuk berburu.			
-29	{0} memerlukan alat untuk memotong.	Seseorang membutuhkan alat untuk memotong.			
-30	{0} memerlukan alat penambangan.	Seseorang membutuhkan alat penambangan.			
-31	{0} memerlukan alat pertanian.	Seseorang membutuhkan alat pertanian.			
-32	keahlian {0} untuk {1} naik level.	Keterampilan naik level.			
-33	{0}: jatuh ke sisi iblis.	Seseorang jatuh ke sisi iblis.			
-34	{0} berhasil meletakkan fondasi.	Seseorang berhasil meletakkan fondasinya.			
-35	{0} mencapai batas.	Seseorang mencapai batasnya.			
-36	Batas {0} hampir habis.	Batasan seseorang hampir berakhir.			
-37	Batas {0} telah berakhir.	Batasan seseorang telah berakhir.			
-38	{0} membuat artefak {1} _dan berhasil/tetapi gagal.	Seseorang membuat artefak.			
-39	Melakukan alkimia _dan berhasil/tetapi gagal.	Seseorang melakukan alkimia.			
-40	{0} mengakui {1} sebagai master.	Seseorang punya tuan baru.			
-41	{0} mempunyai keluhan tentang sekte tersebut.	Seseorang mempunyai keluhan tentang sekte tersebut.			
-42	{0} kembali dari petualangan.	Seseorang kembali dari petualangan.			
-43	{0} melakukan terobosan _dan berhasil/tetapi gagal.	Seseorang sedang melakukan terobosan.			
-44	Pandangan ke Masa Depan Universal: {0}.	Pandangan ke Depan Universal.			
-45	{0} membutuhkan pemimpin cabang.	Cabang membutuhkan pemimpin baru.			
-46	{0} lapar.	Seseorang lapar.	Dibutuhkan lebih banyak makanan.		
-47	{0} haus.	Seseorang haus.	Dibutuhkan lebih banyak sumber air.		
-48	{0} bosan.	Seseorang bosan.	Dibutuhkan lebih banyak fasilitas hiburan.		
-49	{0} lelah.	Seseorang lelah.	Dibutuhkan lebih banyak istirahat dan tidur.		
-50	{0}: sakit.	Seseorang terluka.			
-51	{0}: cedera memburuk.	Cedera seseorang semakin parah.			
-52	{0}: lumpuh.	Seseorang lumpuh.			
-53	Penyimpanan selesai.				
-54	{0}: kondisi pertumbuhan yang tidak sesuai.	Kondisi pertumbuhan tanaman spiritual menjadi tidak sesuai.			
-55	{0} dalam bahaya.	Perasaan bahaya yang aneh hadir.			
-56	A {1} merasakan Qi dan menerobos menjadi binatang buas.				
-57	Binatang {0} telah muncul.	Seekor binatang buas muncul.			
-58	Beast {0} merasakan Qi dan menerobos.	Binatang menerobos.			
-59	Binatang purba {0} sedang menyerang!	Seekor binatang purba sedang menyerang!			
-60	{0} mengaktifkan artefak {1}.				
-61	{0} melewati Masa Kesengsaraan _dan berhasil/tetapi gagal.	Selamat dari Kesengsaraan			
-62	Relik muncul!	Peninggalan Muncul			
-63	{0} diklaim oleh {1}.				
-64	Versi baru tersedia		Versi baru tersedia: {0}.		
-65	{0} mencoba menyalin {1} _dan berhasil/tetapi gagal.	Disimpan di Paviliun Manual			
-66	Kondisi mental {0} dinaikkan menjadi [{1}] dan juga meningkatkan keilahiannya.				
-67	{0} kehilangan kendali atas obsesinya dan akan menghadapi Kesusahan Kepercayaan.	Terobsesi			
-68	{0} membuat relik suci {1} _dan berhasil/tetapi gagal.	Membuat Relik Suci			
-69	Obsesi {0} terhadap {1} muncul.	Obsesi Muncul			
-70	{0} telah mencapai keilahian penuh dan akan segera naik.	Kenaikan			
-71	{0} memutuskan obsesi mereka: [{1}]				
-72	Gelar dewa {0} telah berubah.	Gelar Ilahi			
-73	{0} mencoba mempelajari {1} _dan berhasil/tetapi gagal.	Belajar			
-74	{1} menemukan sepotong {0} saat sedang makan pangsit.				
-75	{0} menjadi terang	Animisme Tao			
-76	{0} memiliki kesadaran diri dan telah menjadi Roh yang Hidup	Kebangkitan Roh Makhluk Hidup			
-77	{0} Penyaluran gagal	Penyaluran gagal			
-78	{0} muncul	Roh Hidup Lewat			
-79	{1} milik {0} telah dibentuk ulang				
-80	Batu Yin Yang telah mendapatkan kembali kekuatannya.	Batu Yin Yang telah mendapatkan kembali kekuatannya.			
-81	Prasasti Ibu Bumi telah mendapatkan kembali kekuatannya.	Prasasti Ibu Bumi telah mendapatkan kembali kekuatannya.			
-82	Sebuah item telah terbang keluar dari Otherworld Rift.	Sebuah item telah terbang keluar dari Otherworld Rift.			
-83	{0}： Ikan mengambil umpannya!	Penangkapan ikan			
-84	{0} telah mempelajari {1}	Pelatihan			
-85	Hadiah Volume dao yang sebenarnya {0} diklaim	Hadiah diklaim			
-86	Hadiah Volume dao yang sebenarnya {0} diklaim ke tempat hadiah	Hadiah diklaim			
-87	Jade Tablet Space: {0} Klaim Berhasil	Hadiah diklaim			
-88	Jade Tablet Space: {0} telah dikumpulkan ke Tempat Hadiah	Hadiah diklaim			
-89	Anda Memiliki Email Baru	Surel Baru			
-90	Penyimpanan Normal: {0} Klaim Berhasil	Hadiah diklaim			
-91	Penyimpanan Umum: {0} telah dikumpulkan ke Tempat Hadiah	Hadiah diklaim			
-10001	Gua Misterius			Gempa bumi yang semakin sering terjadi di sekte Anda tiba-tiba berhenti baru-baru ini, dan pada saat yang sama, sebuah gua misterius muncul di tanah. Anda dapat merasakan keinginan yang kuat namun tidak jelas dari suatu makhluk dari dalam gua. Anda tidak tahu apa itu. \n Kultivator kuno mulai lebih sering muncul di dunia ini. Mungkin Anda bisa menanyakan informasi kepada mereka.	
-10002	Mengancam			Gua misterius itu tiba-tiba menjadi mengancam, dan ia ingin Anda melakukan [TXT].	
-10003	Mengancam			Gua misterius itu tiba-tiba menjadi mengancam, dan ia ingin Anda melakukan [TXT].	
-10004	Mengancam			Gua misterius itu tiba-tiba menjadi mengancam, dan ia ingin Anda melakukan [TXT].	
-10005	Dikorbankan			Anda menyelesaikan ritual di depan gua, dan makhluk misterius itu sangat puas.	
-10006	Bencana Alam			Makhluk misterius di dalam gua sangat marah, dan menimbulkan bencana: [TXT].	
-10007	Bencana Binatang Buas			Makhluk misterius di dalam gua itu sangat marah, dan itu menarik beberapa monster untuk menyerang sekte Anda.	
-10008	Bencana Kehancuran			Makhluk misterius di dalam gua itu sangat marah, dan menyemburkan semburan air yang menembus permukaan tanah.	
-10009	Keluar dari Abu			Naga yang marah itu menerobos tanah dan muncul.	
-10010	Terbunuh			Setelah pertarungan yang panjang dan sulit, Naga itu akhirnya terbunuh.	
-10011	Panas Ekstrim			Untuk alasan yang tidak diketahui, suhu rata-rata di dunia ini tiba-tiba meningkat sedikit. Kenaikan suhu ini jauh melampaui perubahan cuaca normal. Ini mungkin mengindikasikan sesuatu yang tidak biasa.	
-10012	Monster yang Tidak Tertekuk			Kekeringan ekstrim telah membuat monster menjadi gila, dan beberapa monster yang tidak berdaya muncul di dekat sekte tersebut.	
-10013	Sayap Berkobar Jatuh			Gelombang panas menyapu langit, dan sesuatu yang aneh jatuh.	
-10014	Kekeringan yang Berkepanjangan			Panas yang terus berlanjut telah menyebabkan kekeringan. Anda merasakan suhu meningkat semakin tinggi. Jika Anda tidak mengambil tindakan sekarang, situasinya mungkin akan bertambah buruk.	
-10015	Binatang yang Tidak Tertekuk			Beberapa monster menjadi gila karena ketakutan, dan mereka bahkan meninggalkan wilayah mereka sendiri untuk membuat kekacauan di mana-mana!	
-10016	Sayap Berkobar Jatuh			Gelombang panas menyapu langit, dan sesuatu yang aneh jatuh.	
-10017	Suara Melengking			Setelah mengucapkan mantra untuk mengusir kekeringan yang berkepanjangan, Anda menemukan bahwa dunia tampak menjadi sangat sunyi selama satu jam. Beberapa saat kemudian, sekawanan besar burung tiba-tiba terbang dari beberapa gunung terpencil. Suara melengking dan seram memecah kesunyian.	
-10018	Phoenoxica Tiba			Phoenix yang ganas mendekat.	
-10019	Air Terjun Phoenoxica			Setelah pertarungan yang panjang dan sulit, Phoenix akhirnya terbunuh.	
-10020	Malam Kutub Dimulai			Untuk alasan yang tidak diketahui, alam tiba-tiba kehilangan keseimbangan Yin dan Yang. Area di sekitar sekte Anda menjadi gelap gulita, seolah-olah saat itu malam hari.	
-10021	Telur Yin			Beberapa telur aneh tiba-tiba muncul di dekat sekte Anda di tengah malam. Ada sesuatu yang menetas di dalam diri mereka...	
-10022	Hari Kutub Dimulai			Untuk alasan yang tidak diketahui, alam tiba-tiba kehilangan keseimbangan Yin dan Yang. Tiba-tiba menjadi tengah hari di daerah sekitar sekte Anda... Anda tidak tahu berapa lama kekacauan ini akan berlanjut.	
-10023	Telur Yang			Beberapa telur aneh tiba-tiba muncul di dekat sekte Anda di tengah hari. Ada sesuatu yang menetas di dalam diri mereka...	
-10024	Kekacauan Obor Naga			Kekacauan Yin dan Yang yang terus berlanjut akhirnya mencapai batasnya. Sambil menghela nafas panjang, makhluk raksasa mulai bermanifestasi di dalam dunia!	
-10025	Penetasan Telur			Saat telur aneh mulai menetas, alam Yin dan Yang perlahan kehilangan keseimbangan!	
-10026	Pemecahan Telur			Saat telur-telur aneh itu dihancurkan, Yin dan Yang dari alam ini perlahan-lahan kehilangan keseimbangan!	
-10027	Perubahan Drastis			Tiba-tiba terjadi ledakan Qi di Dataran Tengah. Pada awalnya, tidak ada yang terlalu memperhatikannya, mengira itu adalah perubahan normal dalam aliran Qi. Seiring berjalannya waktu, masyarakat mulai menyadari bahwa skala dan intensitas ledakan tersebut melampaui ekspektasi. Ini telah menyebar dari pusat gempa selama lebih dari sebulan, membuktikan bahwa pada akhirnya ini adalah perubahan drastis yang akan mempengaruhi semua kultivator.\n Sekarang, pengaruh ledakan tersebut telah mencapai sekte Anda. Saat semua orang menikmati Qi yang melimpah, Anda bertanya-tanya apa arti perubahan drastis ini bagi Anda semua...	
-10028	Gelombang Seribu Tahun			Sudah berhari-hari sejak ledakan Qi selesai menyebar ke seluruh dunia. Dari membaca dokumen-dokumen lama, sekte-sekte terkenal akhirnya memutuskan bahwa gelombang Qi-lah yang melonjak setiap 3.000 tahun. Para penggarap kuno yang tertidur karena berbagai alasan mulai dihidupkan kembali satu per satu oleh Gelombang Seribu Tahun.\n Tanpa tatanan dan aturan saat ini, para penggarap di zaman dahulu percaya pada hukum rimba. Para kultivator dengan kepercayaan kuno dan pengalaman yang signifikan dalam kultivasi ini telah menyebabkan kekacauan di dunia kultivator hanya dalam waktu beberapa hari...	
-10029	Bencana di Wild South			Sebuah bencana misterius terjadi baru-baru ini di pegunungan di perbatasan utara. Dikatakan bahwa tanah dan gunung berguncang selama satu menit, dan suaranya sangat keras hingga menyebar ribuan mil. Ketika para penggarap terdekat tiba, mereka hanya menemukan semua gunung tenggelam dalam air, dengan Qi kuat yang tidak menyenangkan merembes ke area tersebut.\n Tampaknya beberapa binatang purba langka dan sulit ditangkap yang bersembunyi di pegunungan dan danau terpengaruh oleh Gelombang Seribu Tahun dan menjadi aktif kembali.	
-10030	Kebisingan Bawah Tanah			Gelombang Seribu Tahun telah berlalu. Dalam waktu kurang dari sebulan, para pembudidaya kuno dihidupkan kembali, dan binatang buas purba mulai aktif kembali... Dunia para pembudidaya dihadapkan pada perubahan drastis. Seiring berjalannya waktu, dunia kultivator secara bertahap mendapatkan kembali kedamaian dan keseimbangannya. Segalanya tampak kembali ke jalurnya. \n Namun, gempa bawah tanah mulai sering terjadi di sekte Anda. Anda tidak tahu apa yang sedang terjadi...	
-10031	Kesengsaraan Naga			Kekuatan Kesengsaraan Surgawi telah membunuh semua Naga Banjir yang belum lahir...	
-10032	Mengancam			Gua misterius itu tiba-tiba menjadi mengancam, dan ia ingin Anda melakukan [TXT].	
-10033	Pencapaian ({0}) gagal	Prestasi		Prestasi Gagal	
-20001	Rumor di Dunia				
-20002	Gangguan Dunia Lain			Ada pembicaraan bahwa Celah ke dunia lain tiba-tiba terbuka akhir-akhir ini dan beberapa harta karun berkilau keluar darinya, tersebar ke seluruh dunia. Anda merasakan sesuatu yang aneh sedang terjadi. Tampaknya Anda memiliki hubungan spiritual dengan harta karun ini dan diperlukan pencarian yang cermat.	
-30001	Agen {0} telah tiba di {1}.	Agen telah mencapai		Kedatangan Berhasil	
-30002	Berhasil menetapkan {0}.	Tugas berhasil		Tugas Berhasil	
-30003	Selesai membangun {0}.	Bangunan selesai		Bangunan selesai	
-30004	Menyelesaikan peningkatan aula utama {0}.	Peningkatan Aula Utama		Peningkatan Selesai	
-30005	{0}	Suatu peristiwa terjadi.		Peristiwa terjadi	
-30006	{0}	Sebuah bencana terjadi.		Bencana terjadi	
-30007	Pedagang {0} telah tiba.	Pedagang Tiba		Pedagang Keliling telah tiba	
-30008	Kami telah membangun {0}!	Bangunan Selesai		Keajaiban Dibangun	
-40000	Merchant Union telah mengumumkan kecaman mereka!	Kecaman dari Merchant Union	Karena perilaku kasar Anda, Merchant Union telah memutuskan untuk melarang Anda dari daftar perdagangan mereka selamanya.		
-30009	keyakinan {0} penuh.	Keyakinan Penuh	{0} telah mengumpulkan cukup banyak keyakinan. Tolong kirimkan murid untuk mengumpulkannya.		
-30010	Penyimpanan {0} penuh.	Penyimpanannya penuh.	Penyimpanan {0} penuh, harap klaim secara manual.		
-30011	{0}	Pilih Kebijakan			
-31001	Peri Kecil yang Aneh	Peri Kecil yang Aneh	Elf Kecil yang Aneh telah tiba.		Elf Kecil yang Aneh telah tiba.
-31002	Naga Obor yang bermutasi	Naga Obor yang bermutasi	Naga Obor yang bermutasi telah muncul.		Naga Obor yang bermutasi telah muncul.
-32001	Seekor anak anjing muncul di dekatnya!	Seekor anak anjing muncul di dekatnya!	Seekor anak anjing muncul di dekatnya!		
-32002	Seekor rubah muncul di dekatnya!	Seekor rubah muncul di dekatnya!	Seekor rubah muncul di dekatnya!		
-32003	{0} digunakan untuk menggemeretakkan gigi	Sekte sedang diserang	Sekte sedang diserang		
-32004	Seekor kura-kura hitam muncul di dekatnya!	Seekor kura-kura hitam muncul di dekatnya!	Seekor kura-kura hitam muncul di dekatnya!		
-33001	{0} belum melewati Kesengsaraan Surgawi yang Berubah Bentuk	Kesengsaraan Surgawi yang Berubah Bentuk gagal	{0} belum melewati Kesengsaraan Surgawi yang Berubah Bentuk dan bertemu dengan pembuatnya		
-33002	{0} belum melewati Kesengsaraan Surgawi yang Berubah Bentuk	Kesengsaraan Surgawi yang Berubah Bentuk gagal	{0} belum melewati Kesengsaraan Surgawi yang Berubah Bentuk dan menjadi Monster		
-34001	{0} sangat membutuhkan Berpikir	Kebutuhan mendesak untuk Berpikir	Telah memperoleh Pemikiran yang cukup, lanjutkan dan mulai Berpikir.		
-34002	{0} memasuki Kondisi Kebangkitan	Keadaan Kebangkitan			
-34003	{0} mulai belajar	Tahap Pembelajaran			
-34004	{0} telah matang	Tahap Dewasa			
-34005	{0} ragu-ragu	Ragu-ragu			
-34006	Kecerdasan {0} sudah maksimal	Latihan			
-34007	Qi {0} sudah maksimal	Latihan			
-34008	Mantra {0} sudah maksimal	Latihan			
-34009	Inti {0} telah mencapai batas maksimal	Latihan			
-34010	Perlindungan {0} telah mencapai batas maksimal	Latihan			
-34011	Seekor panda dewa telah muncul di dekat sini!	Seekor panda dewa telah muncul di dekat sini!	Seekor panda dewa telah muncul di dekat sini!		
-34101	Batu Roh dari Altar Gema Surga telah tiba	Batu Roh dari Altar Gema Surga telah tiba			
-34102	Batu Roh di Altar Gema Surga menunggu untuk dikumpulkan	Batu Roh di Altar Gema Surga menunggu untuk dikumpulkan			
-34103	Batu Roh Mengkristal Selesai!	Batu Roh Mengkristal Selesai!			
-34200	Buka Kunci Mantel: {0}	Buka Kunci Mantel.	Dapat diproduksi di meja jahit.		
-41001	Kekacauan Surgawi	Kekacauan Surgawi			
+1	Dự trữ thực phẩm không đủ	Dự trữ thực phẩm không đủ			
+2	Dự trữ thuốc không đủ	Dự trữ thuốc không đủ			
+3	Dự trữ tinh nguyên không đủ	Dự trữ tinh nguyên không đủ			
+4	Mùa hè sắp đến	Mùa hè sắp đến	Vui lòng chuẩn bị để tránh nóng		
+5	Mùa đông sắp đến	Mùa đông sắp đến	Vui lòng chuẩn bị để giữ ấm		
+6	Kẻ thù xuất hiện	Kẻ thù xuất hiện			
+7	{0}{1} đang bị tấn công	Môn phái đang bị tấn công			
+8	Bị cháy rồi	Bị cháy			
+9	Người qua đường cần giúp đỡ	Người qua đường cần giúp đỡ			
+10	Kẻ thù {0} đang cố gắng cướp lấy vật phẩm {1}	Kẻ thù đang cố gắng cướp đồ			
+11	Kẻ thù {0} đã cướp được vật phẩm {1}	Kẻ thù đã cướp đồ			
+12	Linh thú {0} xuất hiện	Linh thú xuất hiện			
+13	Bảo vật rơi xuống	Bảo vật rơi xuống			
+14	Tiên nhân {0} hạ xuống/rời đi	Có tiên nhân giáng trần			
+15	{0} thích {1}	Có tình cảm xảy ra			
+16	{0} không còn thích {1}	Có tình cảm biến mất			
+17	{0} tỏ tình với {1} _thành công và trở thành nhân yêu/thất bại	Có người tỏ tình			
+18	{0} thuyết phục {1} _thành công/thất bại	Có người thuyết phục			
+19	Bị bỏ rơi	Bị bỏ hoang			
+20	{0} tâm trạng kém	Có người cảm thấy tâm trạng rất tồi tệ			
+21	Tâm trạng của {0} bắt đầu xấu đi vì {1}	Có người tâm trạng xấu đi			
+22	Tâm trạng của {0} không ổn định	Có người tâm trạng không ổn định			
+23	{0}: _ngã xuống/hôn mê/sắp chết	Có người không thể hành động			
+24	Bị bỏ rơi	Bị bỏ hoang			
+25	{0}: qua đời	Có người đã chết			
+26	{0}: làm việc chểnh mảng	Có người lười biếng			
+27	{0}: khôi phục làm việc	Có người phục hồi từ sự lười biếng			
+28	{0} cần vũ khí săn bắn	Có người cần vũ khí săn bắn			
+29	{0} cần công cụ chặt cây	Có người cần công cụ chặt cây			
+30	{0} cần công cụ khai thác	Có người cần công cụ khai thác			
+31	{0} cần dụng cụ nông nghiệp	Có người cần nông cụ			
+32	Kỹ năng của {0} {1} đã nâng cấp	Kỹ năng nâng cấp			
+33	{0}: nhập ma	Có người nhập ma			
+34	{0} thành công xây dựng nền tảng	Có người thành công trong việc xây dựng căn cơ			
+35	{0} gặp phải bế tắc	Có người gặp phải bế tắc			
+36	Thời gian bế tắc của {0} sắp đến	Có người thời gian bế tắc sắp đến			
+37	Thời gian bế tắc của {0} đã đến	Có người thời gian bế tắc đã đến			
+38	{0} luyện chế pháp bảo {1} _thành công/thất bại	Có người luyện bảo			
+39	Luyện đan _thành công/thất bại	Có người luyện đan			
+40	{0} bái {1} làm sư phụ	Có người bái sư			
+41	{0} có chút không hài lòng với môn phái	Có người không hài lòng với môn phái			
+42	{0} trở về sau khi rèn luyện	Có người trở về sau khi rèn luyện			
+43	{0} phá vỡ bế tắc _thành công/thất bại	Có người phá vỡ bế tắc			
+44	Thiên tượng thần toán: {0}	Chu thiên thần toán			
+45	{0} cần chủ đường	Có phân đường cần đường chủ			
+46	{0} cảm thấy đói	Có người cảm thấy đói	Cần thêm thực phẩm		
+47	{0} cảm thấy khát	Có người cảm thấy khát	Cần nguồn nước sử dụng		
+48	{0} cảm thấy chán	Có người cảm thấy buồn chán	Cần thêm cơ sở giải trí		
+49	{0} cảm thấy mệt mỏi	Có người cảm thấy mệt mỏi	Cần nghỉ ngơi và ngủ		
+50	{0}: bị thương	Có người bị thương			
+51	{0}: vết thương xấu đi	Có người vết thương xấu đi			
+52	{0}: xuất hiện tật nguyền	Có người xuất hiện tàn tật			
+53	Hoàn tất ghi lưu trữ				
+54	{0}: điều kiện sinh trưởng không phù hợp	Có điều kiện sinh trưởng của linh thực không thích hợp.			
+55	{0} cảm thấy nguy hiểm	Cảm thấy một mối nguy hiểm mơ hồ			
+56	Có {1} cảm nhận được linh khí của trời đất đã bùng nổ, biến thành yêu thú!				
+57	Yêu thú {0} xuất hiện	Có yêu thú xuất hiện			
+58	Yêu thú {0} cảm nhận được linh khí của trời đất đã bùng nổ!	Yêu thú phá vỡ			
+59	Thú cổ xưa {0} tấn công!	Có thú cổ xưa xâm nhập!			
+60	{0} đã kích hoạt pháp bảo {1}				
+61	{0} vượt qua kiếp nạn _thành công/thất bại	Có người vượt qua kiếp nạn			
+62	Xuất hiện vật trấn!	Xuất hiện trấn vật			
+63	{0} nhận chủ {1}				
+64	Có phiên bản cập nhật		Phiên bản trò chơi đã cập nhật {0}		
+65	{0} nhập kho {1} _thành công/thất bại	Nhập kho tàng kinh các			
+66	Tầng tâm cảnh của {0} đã nâng cao lên [{1}], đồng thời thần tính cũng được nâng cao.				
+67	{0} bùng nổ ý niệm, kiếp nạn tín ngưỡng sắp đến.	Chấp niệm bùng phát			
+68	{0} luyện chế thánh vật {1} _hoàn thành/thất bại	Luyện chế thánh vật			
+69	Ý niệm của {0} về {1} hiện ra	Chấp niệm hiện ra			
+70	Thần tính của {0} tràn đầy, sắp bay lên.	Sắp bay lên			
+71	{0} chặt đứt ý niệm: [{1}]				
+72	Tên thần của {0} đã thay đổi	Thần danh			
+73	{0} nghiên cứu {1} _thành công/thất bại	Nghiên cứu			
+74	{1} từ bánh bao ăn ra một cái {0}				
+75	{0} đã vào trạng thái thông linh	Vạn vật thông linh			
+76	{0} đã có ý thức riêng, trở thành tinh quái	Tinh quái thức tỉnh			
+77	{0} thông linh thất bại	Thông linh thất bại			
+78	{0} xuất hiện	Tinh quái đi ngang qua			
+79	{0} của {1} đã hoàn thành tái tạo				
+80	Âm dương kỳ thạch phục hồi sinh khí	Âm dương kỳ thạch phục hồi sinh khí			
+81	Địa mẫu thạch bia phục hồi sinh khí	Địa mẫu thạch bia phục hồi sinh khí			
+82	Một vật phẩm từ khe không gian bay ra	Một món đồ từ khe nứt dị giới bay ra			
+83	{0}: Có cá cắn câu rồi!	Câu cá			
+84	{0} đã học được {1}	Tu luyện			
+85	Phần thưởng Bảo Điển Thái Chân: {0} nhận thành công	Nhận thưởng thành công			
+86	Phần thưởng Thái chân Bảo Điển: {0} đã được nhận về Điểm trở về sau lịch luyện	Nhận thưởng thành công			
+87	Không gian Ngọc Điệp: {0} nhận thành công	Nhận thưởng thành công			
+88	Không gian Ngọc Tịch: {0} đã nhận tại Điểm trở về sau Lịch luyện	Nhận thưởng thành công			
+89	Bạn có một thư mới	Thư mới			
+90	Kho thường: {0} đã nhận thành công	Nhận thưởng thành công			
+91	Kho Bình thường: {0} đã nhận tại Điểm trở về sau Lịch luyện	Nhận thưởng thành công			
+10001	Động huyền bí			    Gần đây, những rung động ngày càng thường xuyên dưới lòng đất của môn phái bỗng dưng dừng lại, đồng thời, một hang động bí ẩn xuất hiện trên mặt đất. Từ hang động truyền ra những ý niệm mơ hồ và mạnh mẽ, không biết có nguồn gốc từ đâu. Gần đây, có nhiều tu sĩ cổ xưa xuất hiện, có lẽ có thể hỏi thăm họ một số tin tức.	
+10002	Cần tế lễ			    Từ hang động bí ẩn bỗng truyền đến một ý niệm đầy đe dọa, nó muốn bạn [TXT]	
+10003	Cần tế lễ			    Từ hang động bí ẩn bỗng truyền đến một ý niệm đầy đe dọa, nó muốn bạn [TXT]	
+10004	Cần tế lễ			    Từ hang động bí ẩn bỗng truyền đến một ý niệm đầy đe dọa, nó muốn bạn [TXT]	
+10005	Hoàn thành tế lễ			    Bạn đã hoàn thành lễ cúng trước hang động, ý niệm bí ẩn rất hài lòng.	
+10006	Thiên tượng tai họa			    Ý niệm bí ẩn vô cùng tức giận, mang đến một thảm họa [TXT]	
+10007	Yêu thú tai họa			    Ý niệm bí ẩn vô cùng tức giận, triệu hồi một số yêu thú xâm nhập.	
+10008	Tai họa diệt vong			    Ý niệm bí ẩn vô cùng tức giận, phun ra vài dòng cuồng nộ, phá hủy mặt đất.	
+10009	Phá đất mà ra			    Rồng giận dữ phá đất mà ra.	
+10010	Rồng rơi			    Sau những trận chiến khốc liệt, dốc toàn lực môn phái, cuối cùng đã chém chết yêu rồng.	
+10011	Nhiệt độ bất thường cao			    Không biết vì lý do gì, nhiệt độ trong thiên địa bỗng nhiên tăng cao, sự thay đổi thời tiết này vượt xa phạm vi bình thường, dường như ẩn chứa điều gì bất thường.	
+10012	Dã thú nổi loạn			    Khí hậu khô hạn bất thường khiến các thú hoang xung quanh rơi vào cơn điên cuồng, một bầy thú hoang nổi loạn xuất hiện gần môn phái!	
+10013	Thiên rơi lửa			    Một cơn sóng nhiệt lướt qua bầu trời, dường như có thứ gì đó đang rơi xuống.	
+10014	Hạn hán gia tăng			    Nhiệt độ cao kéo dài mang đến một đợt hạn hán, không biết có phải là ảo giác không, nhiệt độ dường như ngày càng cao, nếu không thực hiện biện pháp gì, tình hình có thể trở nên tồi tệ hơn.	
+10015	Yêu thú điên cuồng			    Một số yêu thú dường như vì sợ hãi mà phát cuồng, thậm chí rời khỏi lãnh thổ của mình để bắt đầu phá hoại!	
+10016	Thiên rơi lửa			    Một cơn sóng nhiệt lướt qua bầu trời, dường như có thứ gì đó đang rơi xuống.	
+10017	Tiếng gào thảm thiết			    Sau khi thi triển phép thuật để xua tan cơn hạn hán ngày càng gia tăng, thiên địa dường như kỳ quái lặng im trong nửa nhang. Sau một khoảng lặng ngắn, từ xa, dãy núi bỗng nhiên làm kinh động hàng loạt chim bay lên, một tiếng gào thét thê lương vang vọng khắp chín tầng trời!	
+10018	Phượng hoàng hung ác hạ xuống			    Phượng hoàng hung dữ hạ xuống.	
+10019	Phượng hoàng hung ác rơi xuống			    Sau những trận chiến khốc liệt, dốc toàn lực môn phái, cuối cùng đã chém chết phượng hoàng hung dữ.	
+10020	Đêm vĩnh cửu bắt đầu			    Không biết vì lý do gì, lực lượng âm dương trong thiên địa bỗng nhiên rơi vào hỗn loạn, khu vực gần môn phái bỗng nhiên chìm vào đêm tối.	
+10021	Trứng âm xuất hiện			    Trong đêm tối, một số quả trứng kỳ lạ bỗng xuất hiện gần đó, dường như đang ấp ủ điều gì…	
+10022	Ngày cực dương bắt đầu			    Không biết vì lý do gì, lực lượng âm dương trong thiên địa bỗng nhiên rơi vào hỗn loạn, khu vực gần môn phái bỗng nhiên chuyển sang giữa trưa… không biết sự hỗn loạn âm dương này sẽ kéo dài bao lâu?	
+10023	Trứng dương xuất hiện			    Trong ban ngày, một số quả trứng kỳ lạ bỗng xuất hiện gần đó, dường như đang ấp ủ điều gì…	
+10024	Chùy long xuất hiện			    Hơi thở âm dương hỗn loạn kéo dài cuối cùng đạt đến cực điểm, cùng với một tiếng thở dài dài dằng dặc, một hình bóng khổng lồ hiện ra từ thiên địa!	
+10025	Trứng nở			    Khi những quả trứng kỳ lạ nở ra, hơi thở âm dương trong thiên địa bắt đầu rơi vào hỗn loạn!	
+10026	Trứng bị vỡ			    Khi những quả trứng kỳ lạ bị phá hủy, hơi thở âm dương trong thiên địa bắt đầu rơi vào hỗn loạn!	
+10027	Biến động của trời đất			    Gần đây, trung nguyên bỗng xảy ra một đợt bùng nổ linh khí. Ban đầu không ai chú ý, chỉ cho rằng đây là sự biến động bình thường của linh mạch. Tuy nhiên, theo thời gian trôi qua, mọi người mới nhận ra quy mô và cường độ của đợt bùng nổ linh khí này vượt xa mong đợi, từ điểm bùng nổ lan tỏa ra xung quanh, đã kéo dài hơn một tháng, thực sự là một cuộc biến động ảnh hưởng đến toàn bộ giới tu luyện. Nay, dư âm của đợt bùng nổ linh khí đã lan tỏa đến môn phái của bạn, mọi người trong khi tận hưởng linh khí phong phú cũng không khỏi nghi ngờ cuộc biến động này có ý nghĩa gì…	
+10028	Ngàn năm linh trào			    Kể từ khi cơn cuồng phong linh khí quét qua giới tu luyện đã qua vài ngày, các môn phái lớn trong giới tu luyện cũng dần xác định từ điển tịch của môn phái rằng, sự biến động này có thể là cơn thủy triều linh khí ba ngàn năm một lần lại đến. Chịu ảnh hưởng của cơn thủy triều linh khí ngàn năm, một số tu sĩ cổ xưa vì nhiều lý do đã ngủ say cũng lần lượt tỉnh dậy. Thời cổ đại, giới tu luyện chưa có trật tự như hiện nay, chỉ tuân theo nguyên tắc mạnh được yếu thua. Những tu sĩ theo con đường cổ xưa này với tu vi mạnh mẽ, trong vòng vài ngày ngắn ngủi, đã khuấy động cả giới tu luyện...	
+10029	Nam hoang biến động			    Gần đây, trong dãy núi Bắc Giang xảy ra một thảm họa thiên nhiên bí ẩn. Người ta nói rằng lúc đó núi rung đất lắc trong suốt vài chục nhịp, âm thanh vang vọng hàng ngàn dặm. Khi các tu sĩ gần đó đến nơi, chỉ phát hiện ra rằng cả trăm dặm núi đồi đã biến thành một vùng đầm lầy, chỉ cảm nhận được khí tức yêu ma khổng lồ lan tỏa. Có vẻ như chịu ảnh hưởng của cơn thủy triều linh khí ngàn năm, một số yêu thú cổ xưa thường ẩn mình trong những vùng núi sâu và đầm lầy khó gặp gỡ cũng bắt đầu trở nên hoạt động.	
+10030	Âm thanh lạ dưới đất			    Cơn thủy triều linh khí ngàn năm đã sắp qua, chỉ trong thời gian ngắn hơn một tháng, các tu sĩ cổ đại xuất hiện, yêu thú cổ xưa trở lại hoạt động… Cục diện giới tu luyện đã xảy ra biến đổi lớn. Tuy nhiên, theo thời gian trôi qua, giới tu luyện cũng dần đạt được sự ổn định mới, mọi thứ dường như đã trở lại quỹ đạo. Nhưng gần đây, dưới lòng đất của môn phái dường như thường xuyên rung chuyển, không biết nguyên nhân gì…	
+10031	Thiên uy sát rồng			    Lực lượng thiên kiếp đã tiêu diệt hoàn toàn sinh cơ của con rồng chưa hoàn toàn nở.	
+10032	Cần tế lễ			    Từ hang động bí ẩn bỗng truyền đến một ý niệm đầy đe dọa, nó muốn bạn [TXT]	
+10033	Thành tựu ({0}) thất bại	Thành tựu		    Thành công thất bại	
+20001	Tin đồn giang hồ				
+20002	Biến động từ thế giới khác			    Trong giang hồ truyền rằng, gần đây một vết nứt dị giới bỗng mở ra, hàng loạt ánh sáng từ vết nứt bay ra, rơi xuống khắp nơi trên thế giới. Trong vô thức, bạn cảm thấy như những vật phẩm này có mối liên hệ lớn với mình, có lẽ cần phải tìm kiếm một phen.	
+30001	Đại diện {0} đã đến {1}	Đại diện đã đến		    Thành công đến nơi	
+30002	{0} đã vào ở thành công	Nhập cư thành công		    Đăng ký thành công	
+30003	{0} đã hoàn thành xây dựng	Xây dựng hoàn thành		    Xây dựng hoàn thành	
+30004	Cung điện chính của {0} đã nâng cấp hoàn thành	Chính điện nâng cấp		    Nâng cấp hoàn thành	
+30005		Xuất hiện sự kiện		    Xảy ra sự kiện	
+30006		Xuất hiện thảm họa		    Xảy ra thảm họa	
+30007	Thương nhân {0} đã đến	Hành thương đã đến		    Thương nhân đã đến	
+30008	Chúng ta đã xây dựng thành công {0}!	Công trình đã hoàn thành		    Kỳ quan đã được xây dựng xong	
+40000	Hiệp hội thương nhân phát đi lời chỉ trích!	Sự lên án của hành thương hội	Do hành vi thô bạo của bạn, hội thương nhân quyết định không giao dịch với bạn nữa		
+30009	Tín ngưỡng của {0} đã đầy	Niềm tin đã đầy	Tín ngưỡng của {0} đã đầy, vui lòng gửi đệ tử đi thu thập		
+30010	Kho của {0} đã đầy	Kho đã đầy	Kho của {0} đã đầy, vui lòng nhận thủ công		
+30011		Chọn chính sách			
+31001	Tiểu yêu tinh kỳ lạ	Tiểu yêu quái kỳ lạ	Một yêu tinh kỳ lạ đã đến		Một yêu tinh kỳ lạ đã đến
+31002	Chùy long biến dị	Nến rồng biến dị	Rồng nến biến dị xuất hiện		Rồng nến biến dị xuất hiện
+32001	Một con chó con xuất hiện gần đó!	Một chú chó nhỏ xuất hiện gần đây!	Một chú chó con xuất hiện gần đây!		
+32002	Một con cáo xuất hiện gần đó!	Một con cáo xuất hiện gần đây!	Một con cáo xuất hiện gần đây!		
+32003	{0} đang được dùng để mài răng	Đang bị tấn công	Đang bị tấn công		
+32004	Một con huyền vũ xuất hiện gần đó!	Một con huyền vũ xuất hiện gần đây!	Một con rùa xuất hiện gần đây!		
+33001	{0} chưa vượt qua kiếp hóa hình	Hóa hình thiên kiếp thất bại	{0} chưa vượt qua kiếp nạn hóa hình, đã tan thành mây khói		
+33002	{0} chưa vượt qua kiếp hóa hình	Hóa hình thiên kiếp thất bại	{0} chưa vượt qua kiếp nạn hóa hình, đã trở thành một yêu thú		
+34001	{0} cần suy nghĩ gấp	Cần suy nghĩ gấp.	Đã thu thập đủ ý tưởng, cần suy nghĩ gấp.		
+34002	{0} đã vào giai đoạn khai trí	Thời kỳ khai trí			
+34003	{0} đã vào giai đoạn trưởng thành	Thời kỳ trưởng thành			
+34004	{0} đã vào giai đoạn trưởng thành	Thời kỳ trưởng thành			
+34005	{0} đang do dự	Do dự			
+34006	Trí tuệ của {0} đã đạt giá trị tối đa	Rèn luyện			
+34007	Linh khí của {0} đã đạt giá trị tối đa	Rèn luyện			
+34008	Pháp thuật của {0} đã đạt giá trị tối đa	Rèn luyện			
+34009	Đan dược của {0} đã đạt giá trị tối đa	Rèn luyện			
+34010	Bảo vệ của {0} đã đạt giá trị tối đa	Rèn luyện			
+34011	Một con thiên mạch xuất hiện gần đó!	Một con thiên mạc xuất hiện gần đây!	Một con thiên mạc xuất hiện gần đây!		
+34101	Linh thạch được ngưng tụ bởi Đài ứng thiên đã được gửi đến	Linh thạch ngưng tụ tại Ứng Thiên Đài đã được gửi đến			
+34102	Đài ứng thiên có Linh thạch có thể nhận	Ứng Thiên Đài có linh thạch có thể nhận			
+34103	Hoàn thành ngưng tụ Linh thạch tại Đài ứng thiên	Ngưng tụ linh thạch tại Ứng Thiên Đài hoàn thành			
+34200	Mở khóa công thức áo choàng: {0}	Mở khóa công thức áo choàng	Có thể chế tạo qua bàn may.		
+41001	Dị động thiên đạo	Dị động thiên đạo			
+
+

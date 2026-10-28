@@ -2,18 +2,19 @@
 	<List>
 		<Text Name="Mutation_Extent_Shallow">
 			<DisplayName>Turbulent</DisplayName>
-			<Desc>Efek kekacauan menghilang setelah jumlah pemicunya habis.</Desc>
+			<Desc>The chaos effect disappears after its trigger count is exhausted.</Desc>
 			<ExpireDesc>{0} times.</ExpireDesc>
 		</Text>
 		<Text Name="Mutation_Extent_Middle">
 			<DisplayName>Yin Yang</DisplayName>
-			<Desc>Efek kekacauan memudar setelah 112 hari.</Desc>
+			<Desc>The chaos effect fades after 112 days.</Desc>
 			<ExpireDesc>{0} days.</ExpireDesc>
 		</Text>
 		<Text Name="Mutation_Extent_Deep">
 			<DisplayName>Constant</DisplayName>
-			<Desc>Efek kekacauan secara permanen berlaku di dunia ini.</Desc>
+			<Desc>The chaos effect permanently takes effect in this world.</Desc>
 			<ExpireDesc>Permanent</ExpireDesc>
 		</Text>
 	</List>
 </Texts>
+

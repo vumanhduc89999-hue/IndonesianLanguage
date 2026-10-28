@@ -1,54 +1,55 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FightSkillEsoterica_1">
-			<DisplayName>Innate Qi</DisplayName>
-			<Desc>Sebuah teknik dasar yang dipelajari oleh para kultivator. Melibatkan pemusatan Qi di telapak tangan, dan melepaskannya ke arah target.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Qi[/color][/size] bawaan</EffectDesc>
+			<DisplayName>Tiên Thiên Cương Khí</DisplayName>
+			<Desc>Pháp thuật nhập môn của tu sĩ, tụ chân khí vào lòng bàn tay rồi phát ra tấn công mục tiêu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Tiên Thiên Cương Khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_2">
-			<DisplayName>Firestorm</DisplayName>
-			<Desc>Memanfaatkan energi unsur api yang berlimpah di seluruh dunia, dan memanipulasinya untuk menghanguskan target.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Firestorm[/color][/size]</EffectDesc>
+			<DisplayName>Liệt Diệm Quyết</DisplayName>
+			<Desc>Điều động linh năng hệ hỏa trong thiên địa, thiêu đốt mục tiêu mãnh liệt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Liệt Diệm Quyết[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_3">
-			<DisplayName>Divine Bolt</DisplayName>
-			<Desc>Memanfaatkan energi unsur Logam yang berlimpah di seluruh dunia, dan memfokuskannya ke dalam aliran Qi untuk menyerang musuh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Divine Bolt[/color][/size]</EffectDesc>
+			<DisplayName>Canh Kim Thần Lôi</DisplayName>
+			<Desc>Điều động linh năng hệ kim trong thiên địa, hóa thành Canh Kim Thần Lôi tấn công mục tiêu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Canh Kim Thần Lôi[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_4">
-			<DisplayName>Soulsmite</DisplayName>
-			<Desc>Memancarkan sinar cahaya yang sangat cepat ke sasaran, menghancurkan semangat mereka.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Soulsmite[/color][/size]</EffectDesc>
+			<DisplayName>Nguyên Từ Diệt Tuyệt Thần Quang</DisplayName>
+			<Desc>Phát ra một tia thần quang nhanh như chớp, tiêu diệt nguyên thần của mục tiêu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Diệt Tuyệt Thần Quang[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong1_1">
-			<DisplayName>Heavenly Panacea</DisplayName>
-			<Desc>Memanggil kekuatan penyembuhan air kuno untuk memulihkan Qi untuk semua karakter ramah.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan Keterampilan: Obat mujarab Surgawi[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Thủy Hóa Thương Thuật</DisplayName>
+			<Desc>Dẫn động lực lượng Quý Thủy trong thiên địa, hồi phục linh khí cho tất cả đồng minh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Thiên Thủy Hóa Thương Thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong3_1">
-			<DisplayName>Resonant Blade</DisplayName>
-			<Desc>Gabungkan semangat Anda dengan Artefak, tingkatkan kekuatannya secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Bilah Resonansi[/color][/size]</EffectDesc>
+			<DisplayName>Thần Kiếm Cộng Minh</DisplayName>
+			<Desc>Làm cộng hưởng nguyên thần của bản thân với pháp bảo, tăng cường đáng kể uy lực của pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Thần Kiếm Cộng Minh[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong4_1">
-			<DisplayName>Chaos Void</DisplayName>
-			<Desc>Memicu kekuatan Chaos Jade untuk membuka portal menuju kehampaan, menimbulkan kerusakan besar pada semua target musuh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Chaos Void[/color][/size]</EffectDesc>
+			<DisplayName>Ngọc Thanh Thái Hư Thần Lôi</DisplayName>
+			<Desc>Dẫn động Ngọc Thanh Thái Hư Thần Lôi hỗn nguyên, gây sát thương lớn cho tất cả mục tiêu đối địch.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Ngọc Thanh Thái Hư Thần Lôi[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong4_2">
-			<DisplayName>Spirit Shield</DisplayName>
-			<Desc>Meningkatkan efek Qi Shield untuk semua karakter ramah.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Perisai Roh[/color][/size]</EffectDesc>
+			<DisplayName>Hậu Thổ Chi Thuẫn</DisplayName>
+			<Desc>Tăng cường hiệu quả linh khí hộ thuẫn cho tất cả đồng minh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Hậu Thổ Chi Thuẫn[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong4_3">
-			<DisplayName>Vitality Chant</DisplayName>
-			<Desc>Manfaatkan energi restoratif dari hutan untuk memulihkan Qi Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Nyanyian Vitalitas[/color][/size]</EffectDesc>
+			<DisplayName>Hồi Xuân Quyết</DisplayName>
+			<Desc>Kêu gọi hơi thở của Mộc, hồi phục linh khí cho bản thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Hồi Xuân Quyết[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="FightSkillEsoterica_Gong9_1">
-			<DisplayName>Reversa Cycle</DisplayName>
-			<Desc>Manfaatkan siklus transmigrasi reinkarnasi untuk memulihkan Qi Anda secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperoleh Keterampilan: Siklus Pembalikan[/color][/size]</EffectDesc>
+			<DisplayName>Nghịch Chuyển Luân Hồi</DisplayName>
+			<Desc>Sử dụng lực lượng luân hồi, hồi phục linh khí của bản thân một cách đáng kể.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được bí thuật: Luân Hồi Nghịch Chuyển[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>
+

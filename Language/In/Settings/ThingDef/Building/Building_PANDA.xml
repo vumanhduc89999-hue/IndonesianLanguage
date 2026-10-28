@@ -1,28 +1,29 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="LsPanda_Carve" sParam="Building">
-			<ThingName>Divine Panda Statue</ThingName>
-			<Desc>Patung panda dewa. Dapat digunakan untuk menghidupkan kembali atau memanggil panda dewa.</Desc>
+			<ThingName>Tượng Thiên Mạc</ThingName>
+			<Desc>Tượng Thiên Mạc. Có thể được sử dụng để hồi sinh hoặc triệu hồi Thiên Mạc.</Desc>
 		</Text>
 		<Text Name="BambooBed" sParam="Building">
-			<ThingName>Bamboo Bed</ThingName>
-			<Desc>Tempat tidur single bambu yang nyaman dapat memberikan Anda tidur malam yang nyenyak.</Desc>
+			<ThingName>Giường tre</ThingName>
+			<Desc>Một chiếc giường tre mát mẻ dành cho một người, giúp ngươi có một giấc ngủ ngon.</Desc>
 		</Text>
 		<Text Name="Building_BambooScreen1" sParam="Building">
-			<ThingName>Bamboo Folding Screen</ThingName>
+			<ThingName>Bình phong tre</ThingName>
 		</Text>
 		<Text Name="Building_WaterWheel" sParam="Building">
-			<ThingName>Waterwheel</ThingName>
+			<ThingName>thủy xa</ThingName>
 		</Text>
 		<Text Name="Building_BambooScreen2" sParam="Building">
-			<ThingName>Bamboo Folding Screen</ThingName>
+			<ThingName>Bình phong tre</ThingName>
 		</Text>
 		<Text Name="BambooLight" sParam="Building">
-			<ThingName>Bamboo Lamp Post</ThingName>
-			<Desc>Lampu hias yang bersinar di malam hari untuk menerangi sekelilingnya.</Desc>
+			<ThingName>Trụ đèn tre</ThingName>
+			<Desc>Công trình chiếu sáng tinh xảo, sẽ phát sáng vào ban đêm, soi sáng khu vực xung quanh.</Desc>
 		</Text>
 		<Text Name="Building_BambooPavilion" sParam="Building">
-			<ThingName>Bamboo Pavilion</ThingName>
+			<ThingName>Đình tre</ThingName>
 		</Text>
 	</List>
 </Texts>
+

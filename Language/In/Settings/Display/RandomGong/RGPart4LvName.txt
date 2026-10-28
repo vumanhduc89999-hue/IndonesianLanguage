@@ -1,4 +1,6 @@
-Level 1 Suffix,Fragmented Codex,Fragmented Law,Fragmented Scroll,Fragmented Annotations,Fragmented Record,Fragmented Stele,Fragmented Inscription,Fragmented Method,Fragmented Manual,Fragmented Book,Fragmented Chapter
-Level 2 Suffix,General Codex,General Law,General Scroll,General Annotations,General Records,General Stele,General Inscription,General Method,General Manual,General Book,General Chapter
-Level 3 Suffix,Fine Codex,Fine Law,Fine Scroll,Fine Annotations,Fine Records,Fine Stele,Fine Inscription,Fine Method,Fine Manual,Fine Book,Fine Chapter,Spiritual Codex,Spiritual Law,Spiritual Scroll,Spiritual Annotations,Spiritual Records,Spiritual Stele,Spiritual Inscription,Spiritual Biography,Spiritual Manual,Spiritual Book,Spiritual Chapter
-Level 4 Suffix,True Codex,True Law,True Scroll,True Annotations,True Records,True Stele,True Inscription,True Method,True Manual,True Book,True Chapter,Secret Codex,Secret Law,Secret Scroll,Secret Annotations,Secret Records,Secret Stele,Secret Inscription,Secret Method,Secret Manual,Secret Book,Secret Chapter
+1Cấp hậu tố,Tàn Điển,Tàn Pháp,Tàn Quyển,Tàn Giải,Tàn Lục,Tàn Bi,Tàn Khắc,Tàn Truyện,Tàn Sách,Tàn Thư,Tàn Chương
+2Cấp hậu tố,Thông Điển,Thông Pháp,Thông Quyển,Thông Giải,Thông Lục,Thông Bi,Thông Khắc,Thông Truyện,Thông Sách,Thông Thư,Thông Chương
+3Cấp hậu tố,Diệu Điển,Diệu Pháp,Diệu Quyển,Diệu Giải,Diệu Lục,Diệu Bi,Diệu Khắc,Diệu Truyện,Diệu Sách,Diệu Thư,Diệu Chương,Linh Điển,Linh Pháp,Linh Quyển,Linh Giải,Linh Lục,Linh Bi,Linh Khắc,Linh Truyện,Linh Sách,Linh Thư,Linh Chương
+4Cấp hậu tố,Chân Điển,Chân Pháp,Chân Quyển,Chân Giải,Chân Lục,Chân Bi,Chân Khắc,Chân Truyện,Chân Sách,Chân Thư,Chân Chương,Bí Điển,Bí Pháp,Bí Quyển,Bí Giải,Bí Lục,Bí Bi,Bí Khắc,Bí Truyện,Bí Sách,Bí Thư,Bí Chương
+
+

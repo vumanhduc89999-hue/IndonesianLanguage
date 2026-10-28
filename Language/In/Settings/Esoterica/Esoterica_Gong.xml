@@ -1,789 +1,790 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="God2_Dan">
-			<DisplayName>Eureka Pill</DisplayName>
-			<Desc>Pahami sepenuhnya jalan Surga setelah selamat dari kesengsaraan surgawi. Setelah Anda mencapai tingkat alkimia elit, Anda mulai memahami bagaimana jalan surga dapat dimanfaatkan untuk menciptakan ramuan ilahi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep ramuan berikut: \nEureka Pill[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Đạo Thần Đan</DisplayName>
+			<Desc>độ kiếp, thấu hiểu thiên đạo. Nếu đạt đến đỉnh cao trong nghệ thuật luyện đan, có thể lĩnh ngộ thuật luyện chế thần đan Thiên Đạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được đan phương: \nThiên Đạo Thần Đan[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="God2_Fabao">
-			<DisplayName>Taoist Artifact</DisplayName>
-			<Desc>Pahami sepenuhnya jalan Surga setelah selamat dari kesengsaraan surgawi. Setelah Anda mencapai tingkat elit dalam pembuatan artefak, Anda mulai memahami bagaimana jalan surga dapat dimanfaatkan untuk membantu upaya Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan pembuatan Artefak Besar secara signifikan.\nMengurangi kecepatan pembuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Đạo Thần Khí</DisplayName>
+			<Desc>độ kiếp, thấu hiểu thiên đạo. Nếu đạt đến đỉnh cao trong nghệ thuật luyện khí, có thể lĩnh ngộ thuật luyện chế thần khí Thiên Đạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể tỷ lệ thành công luyện thần khí\nGiảm đáng kể tốc độ luyện chế pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_1">
-			<DisplayName>Mindful Springs</DisplayName>
-			<Desc>Visualisasikan mata air yang memancar di hutan yang dipenuhi sinar matahari, menenangkan dan meningkatkan pikiran Anda. Melakukan pelatihan Qi seperti itu memungkinkan seseorang untuk memperkuat koneksi mereka dengan bumi di sekitar mereka serta Surga, sehingga meningkatkan penyerapan Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nMeningkatkan efisiensi Penyerapan Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Ngũ Tuyền Địch Tâm Pháp</DisplayName>
+			<Desc>Quán tưởng suối trong gột rửa tâm linh, luyện khí theo pháp này có thể giao tiếp sâu sắc hơn với thiên địa, làm tâm cảnh trong sáng và tăng hiệu suất hít khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tâm cảnh\nTăng hiệu suất hít khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_2">
-			<DisplayName>Harmonious Chant</DisplayName>
-			<Desc>Sebuah teknik untuk mengendalikan Qi seseorang, sebagaimana tercatat dalam Hukum Enam Belas Langkah Tertinggi. Nyanyian tersebut menekankan bagaimana aliran Qi harus dimanfaatkan dan dikendalikan oleh pikiran seseorang, seperti gelombang pasang di bulan. Sangat meningkatkan kekuatan Jurus Rahasia seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Tingkatkan Kekuatan Mantra Anda.[/color][/size]</EffectDesc>
+			<DisplayName>Thái Hòa Ngự Khí Quyết</DisplayName>
+			<Desc>Thuật ngự khí được ghi chép trong Thái Hòa Thập Lục Động Thiên, nhấn mạnh việc dùng ý như thủy triều, dùng ý ngự khí. Học được pháp này có thể tăng cường uy lực bí thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_3">
-			<DisplayName>Windrider's Chant</DisplayName>
-			<Desc>Nyanyian mistis yang merinci teknik memanfaatkan kekuatan angin untuk terbang ke atas pedang seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Terbang dalam petualangan.\nMeningkatkan kemampuan Bladeriding Anda.[/color][/size]</EffectDesc>
+			<DisplayName>Thừa Phong Quyết</DisplayName>
+			<Desc>Bí quyết ghi chép kỹ thuật ngự kiếm mượn gió mà đi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ bay khi lịch luyện\nTăng độ linh hoạt của phi kiếm[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_4">
-			<DisplayName>Amalgam</DisplayName>
-			<Desc>Sebuah teknik rahasia yang menyerap dan menggabungkan Qi positif dan negatif dari dunia fana dan Surga.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Sedikit meningkatkan Kekuatan Mantra.\nSedikit meningkatkan Max Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Cương Sát Hợp Lưu</DisplayName>
+			<Desc>Bí pháp luyện hóa cương khí và sát khí giữa trời đất vào nguyên thần.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng nhẹ uy lực pháp thuật\nTăng nhẹ giá trị tối đa linh khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_5">
-			<DisplayName>Chant of the Rapids</DisplayName>
-			<Desc>Fokuskan Qi di dalam tubuh Anda dan tingkatkan kekuatannya, menyebabkan Qi melonjak seperti sungai yang mengamuk di antara meridian Anda. Melepaskan batas inti Anda, tempat seseorang mengumpulkan Qi mereka. Jadilah seorang kultivator ahli, dan Anda akan dapat mengumpulkan Qi tidak hanya di inti Anda tetapi di seluruh tubuh Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan tingkat pemulihan Qi Anda secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Bôn Lưu Quyết</DisplayName>
+			<Desc>Biến toàn bộ linh khí trong cơ thể thành một luồng, chảy mãi không ngừng trong kinh mạch. Từ đó phá bỏ ràng buộc của đan điền, nơi nào có chân khí, nơi đó là đan điền.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ hồi phục linh khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_6">
-			<DisplayName>Aquamarine Chant</DisplayName>
-			<Desc>Pusatkan energi Anda dan gunakan kekuatan utama air, sehingga memperkuat total cadangan energi Anda. Mempraktikkan keterampilan ini meningkatkan pemahaman dasar seseorang, meningkatkan Max Qi secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Sangat meningkatkan Max Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Thái Thủy Quyết</DisplayName>
+			<Desc>Dùng thần niệm thu thập tiên thiên chân thủy chi khí giữa trời đất, bổ sung tổn thất hậu thiên của con người. Tu luyện pháp này có thể cải thiện căn cơ, từ gốc rễ tăng giá trị tối đa linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị tối đa linh khí từ gốc rễ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_7">
-			<DisplayName>Essential Osmosis</DisplayName>
-			<Desc>Lengkapi stamina batin Anda dengan kekuatan utama air, perkuat dan segarkan seluruh keberadaan Anda. Mempraktikkan keterampilan ini secara signifikan meningkatkan Konstitusi seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Thủy Tinh Chân Hình</DisplayName>
+			<Desc>Dùng tiên thiên chân thủy bổ sung nguyên khí tinh huyết, đạt đến cảnh giới chân hình. Tu luyện thuật này có thể tăng mạnh căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_8">
-			<DisplayName>Meridian Osmosis</DisplayName>
-			<Desc>Lengkapi meridian Anda dengan kekuatan utama air, perkuat dan segarkan seluruh keberadaan Anda. Mempraktikkan keterampilan ini secara signifikan meningkatkan Karisma dan efisiensi Penyerapan Qi seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan efisiensi penyerapan Qi secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Thủy Khí Chân Hình</DisplayName>
+			<Desc>Dùng tiên thiên chân thủy bổ sung nguyên khí khí mạch, đạt đến cảnh giới chân hình. Tu luyện thuật này có thể tăng mạnh mị lực và cải thiện hiệu suất hấp thụ khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mị lực 1 thành\nTăng mạnh hiệu suất hấp thụ khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong1_Esoterica_9">
-			<DisplayName>Inner Osmosis</DisplayName>
-			<Desc>Lengkapi kemampuan mental Anda dengan kekuatan utama air, perkuat dan segarkan seluruh keberadaan Anda. Mempraktikkan keterampilan ini secara signifikan meningkatkan Kecerdasan seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecerdasan sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Thủy Thần Chân Hình</DisplayName>
+			<Desc>Dùng tiên thiên chân thủy bổ sung nguyên khí thần niệm, đạt đến cảnh giới chân hình. Tu luyện thuật này có thể tăng mạnh ngộ tính.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng ngộ tính 1 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_1">
-			<DisplayName>Conditioning Chant</DisplayName>
-			<Desc>Bagian penting dari pelatihan dasar yang diberikan di Mt. Sunshade. Kondisikan tubuh Anda, perkuat dan perkuat kekuatan alami Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 5%.\nMeningkatkan Konstitusi sebesar 5%.\nSedikit meningkatkan Max Qi.\nSedikit meningkatkan Tingkat Keberhasilan pembuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Bách Luyện Quyết</DisplayName>
+			<Desc>Bài học nhập môn của núi Đan Hà, có thể luyện tập lặp đi lặp lại để rèn luyện thân thể, củng cố nền tảng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thần thức nửa thành\nTăng căn cốt nửa thành\nTăng nhẹ giá trị tối đa linh khí\nTăng nhẹ tỷ lệ thành công luyện chế pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_2">
-			<DisplayName>Aura Refinement</DisplayName>
-			<Desc>Sebuah metode pemurnian bahan menggunakan Qi. Mempraktikkan teknik ini akan meningkatkan keterampilan membuat Artefak Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kualitas pembuatan Artefak.\nMeningkatkan Tingkat Keberhasilan pembuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Linh Tẩy Pháp</DisplayName>
+			<Desc>Giảng giải phương pháp dùng linh khí để tẩy luyện vật liệu, tu luyện có thể tăng kỹ năng luyện chế pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng chất lượng pháp bảo\nTăng tỷ lệ thành công luyện chế pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_3">
-			<DisplayName>Karmic Fires</DisplayName>
-			<Desc>Wujudkan api takdir dan sempurnakan di dalam tubuh Anda, untuk dilepaskan bila diperlukan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Toleransi Suhu secara signifikan.\nMeningkatkan Kekuatan Mantra secara signifikan.\nMeningkatkan Tingkat Keberhasilan pembuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Bính Đinh Lôi Trạch Hỏa</DisplayName>
+			<Desc>Dùng bí pháp ngưng tụ một đóa Bính Đinh Lôi Trạch Hỏa trong cơ thể, có nhiều diệu dụng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh nhiệt độ cực hạn\nTăng mạnh uy lực pháp thuật\nTăng mạnh tỷ lệ thành công luyện khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_4">
-			<DisplayName>Primal Blaze</DisplayName>
-			<Desc>Manfaatkan teknik rahasia untuk menyalakan api utama di dalam tubuh Anda, bersihkan jiwa Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan pembuatan Artefak secara signifikan.\nMeningkatkan kualitas Artefak yang dibuat.[/color][/size]</EffectDesc>
+			<DisplayName>Thượng Thanh Tiên Thiên Chân Diễm</DisplayName>
+			<Desc>Dùng bí pháp ngưng tụ một đóa Thượng Thanh Tiên Thiên Chân Diễm trong cơ thể, có nhiều diệu dụng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tỷ lệ thành công luyện khí\nTăng chất lượng luyện khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_5">
-			<DisplayName>Mindblast</DisplayName>
-			<Desc>Belajarlah untuk berkonsentrasi dan meningkatkan cadangan mental Anda, meningkatkan kekuatan magis Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Max Qi secara signifikan.\nMeningkatkan Kecerdasan sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Tâm Diễm</DisplayName>
+			<Desc>Dùng bí pháp ngưng tụ một đóa Tâm Diễm trong cơ thể, có nhiều diệu dụng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị tối đa linh khí\nTăng ngộ tính 1 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_6">
-			<DisplayName>Purified Energies</DisplayName>
-			<Desc>Tarik Qi primal dan kembangkan, kumpulkan simpanan energi murni. Meningkatkan Rasa Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan level Qi Sense sebesar 2.[/color][/size]</EffectDesc>
+			<DisplayName>Thượng Thanh Chân Khí</DisplayName>
+			<Desc>Thu thập tiên thiên thanh khí ngưng tụ thành Thượng Thanh Chân Khí. Có thể tăng cảm giác khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cảm giác khí 2 cấp[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_7">
-			<DisplayName>Natural History Compendium</DisplayName>
-			<Desc>Sebuah karya referensi yang merinci karakteristik fisik berbagai bahan yang umum ditemukan di seluruh Tiongkok. Meningkatkan Tingkat Keberhasilan pembuatan Artefak.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan pembuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Bác Vật Chí</DisplayName>
+			<Desc>Sách ghi chép đặc tính vật liệu thường thấy trong cửu châu. Có thể tăng tỷ lệ thành công luyện khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tỷ lệ thành công luyện khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_8">
-			<DisplayName>Artifact Crafting for Dummies</DisplayName>
-			<Desc>Panduan pemula untuk pembuatan Artefak, dengan basis pembaca yang besar di seluruh dunia pembudidaya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan pembuatan Artefak.\nMeningkatkan Tingkat Keberhasilan pembuatan Artefak.\nMeningkatkan tingkat pembuatan Artefak.\nMeningkatkan kualitas Artefak yang dibuat.[/color][/size]</EffectDesc>
+			<DisplayName>Luyện Khí Thập Yếu</DisplayName>
+			<Desc>Giảng giải kỹ năng nhập môn luyện khí, được lưu truyền rộng rãi trong giới tu hành.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ luyện chế pháp bảo\nTăng tỷ lệ thành công luyện chế pháp bảo\nTăng phẩm cấp pháp bảo\nTăng chất lượng pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_9">
-			<DisplayName>Artisan's Handbook</DisplayName>
-			<Desc>Menjelaskan teknik untuk menangani Artefak, yang dapat membantu meningkatkan tingkatannya secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan tingkatan Artefak yang dibuat.\nMeningkatkan Tingkat Keberhasilan pembuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Trác Ngọc Sách</DisplayName>
+			<Desc>Ghi chép kỹ thuật chạm khắc pháp bảo trong quá trình luyện chế, có thể tăng mạnh phẩm cấp pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng phẩm cấp pháp bảo\nTăng tỷ lệ thành công luyện chế pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong2_Esoterica_10">
-			<DisplayName>Supreme Analysis of Creation</DisplayName>
-			<Desc>Teknik pembuatan artefak diturunkan secara eksklusif oleh Sekte Ketamakan. Menggabungkan catatan tentang sifat fisik bahan yang tak terhitung jumlahnya ke dalam satu buku panduan yang sangat berharga, buku ini dianggap sebagai cawan suci manual pengerjaan pengrajin.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan pembuatan Artefak secara signifikan.\nMeningkatkan Tingkat Keberhasilan pembuatan Artefak secara signifikan.\nMeningkatkan tingkatan Artefak yang dibuat secara signifikan.\nMeningkatkan kualitas Artefak yang dibuat secara signifikan.\n\nDapatkan Jimat: \nTalisman of Riches\nKeajaiban Jimat[/color][/size]</EffectDesc>
+			<DisplayName>Thượng Thanh Bí Truyền Tạo Hóa Chân Giải</DisplayName>
+			<Desc>Thuật luyện khí độc truyền của môn hạ Linh Bảo Thiên Tôn, hội tụ huyền diệu của vạn vật vào một sách, được coi là bí điển tối cao của thuật luyện khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ luyện chế pháp bảo\nTăng mạnh tỷ lệ thành công luyện chế pháp bảo\nTăng mạnh phẩm cấp pháp bảo\nTăng mạnh chất lượng pháp bảo\nHọc được Phù Đồ:\nThái Thượng Thông Bảo Phù\nNgũ Phương Linh Bảo Phù[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_1">
-			<DisplayName>Killing Intent</DisplayName>
-			<Desc>Persyaratan dasar untuk memulai Pedang Tujuh Pembantaian. Terima finalitas kematian, dan tingkatkan Kekuatan Artefak.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nSangat meningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Sát Ý</DisplayName>
+			<Desc>Nhập môn Thất Sát Kiếm Quyết, ngưng tụ sát ý thuần túy, có thể từ gốc rễ tăng uy lực pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tâm cảnh\nTăng uy lực pháp bảo từ gốc rễ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_2">
-			<DisplayName>Seven-Slaughtering Form</DisplayName>
-			<Desc>Kendalikan niat membunuh Anda untuk mengilhami meridian Anda dengan kekuatan Tujuh Pembantaian. Secara signifikan meningkatkan Konstitusi. Anda juga belajar cara membuat Blade Pill.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 20%.\nSedikit meningkatkan Max Qi.\nDapatkan Resep Elixir: Blade Pill[/color][/size]</EffectDesc>
+			<DisplayName>Thất Sát Ma Thể</DisplayName>
+			<Desc>Dùng sát ý tẩy luyện kinh mạch, đúc thành Thất Sát Ma Thể. Có thể tăng mạnh căn cốt. Ngoài ra còn ghi chép phương pháp luyện chế Kiếm Hoàn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 2 thành\nTăng nhẹ giá trị tối đa linh khí\nHọc được Đan Phương: Kiếm Hoàn[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_3">
-			<DisplayName>Demonic Aura</DisplayName>
-			<Desc>Keterampilan pedang dari Sekte Tujuh Pembantaian. Dalam menciptakannya, iblis diberi makan pedang jahat yang telah membunuh para pahlawan dalam pertempuran, sebelum dikendalikan oleh aura mereka. Meningkatkan sepenuhnya kekuatan Penguasaan Artefak seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMeningkatkan tingkat pemulihan Artefak Qi.\nMeningkatkan Qi Artefak.\nMeningkatkan Kecepatan Artefak.\nMeningkatkan kecepatan putaran Artefak.\nMeningkatkan panjang jejak Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Ma Lưu Kiếm Ý</DisplayName>
+			<Desc>Tâm pháp trấn cung Thất Sát Ma Cung, trước dùng kiếm nuôi ma, sau mượn kiếm khống chế ma, có thể tăng toàn diện uy lực thuật khống chế pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nTăng tốc độ hồi phục linh khí pháp bảo\nTăng giá trị linh khí pháp bảo\nTăng tốc độ pháp bảo\nTăng tốc độ chuyển hướng pháp bảo\nTăng độ dài vệt sáng pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_4">
-			<DisplayName>Sword Control</DisplayName>
-			<Desc>Keterampilan penguasaan artefak dasar yang tercatat dalam Pedang Tujuh Pembantaian. Menggunakan artefak melalui metode ini dapat memungkinkan seseorang untuk me aktivitas meridiannya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Pengganda Pemulihan Qi Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Ngự Kiếm Thuật</DisplayName>
+			<Desc>Thuật nhập môn ngự vật được ghi chép trong Thất Sát Kiếm Quyết, theo pháp này ngự vật có thể làm khí mạch dài lâu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tỷ lệ hồi linh pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_5">
-			<DisplayName>Blade Oath</DisplayName>
-			<Desc>Seseorang harus berdedikasi pada pedang, dan tidak memedulikan gangguan lainnya. Ini adalah Sumpah Pedang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nSangat meningkatkan Kekuatan Artefak.\nSangat meningkatkan Kecepatan Artefak.\nSangat meningkatkan kecepatan putaran Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Kiếm Tâm Thông Minh</DisplayName>
+			<Desc>Cực tình với kiếm, không bị ngoại vật quấy nhiễu, đó là thông minh kiếm tâm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cao tâm cảnh\nTăng cường sức mạnh pháp bảo từ gốc rễ\nTăng tốc độ pháp bảo từ gốc rễ\nTăng tốc độ chuyển hướng pháp bảo từ gốc rễ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_6">
-			<DisplayName>Blade Cohesion</DisplayName>
-			<Desc>Pedang terhubung dengan batin Anda, bagian dari pikiran Anda, seolah-olah Anda dilahirkan dengan pedang itu.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nSangat meningkatkan Kekuatan Artefak.\nSangat meningkatkan Artefak Qi.\nSangat meningkatkan tingkat pemulihan Artefak Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Tâm kiếm giao cảm</DisplayName>
+			<Desc>Cảm nhận kiếm bằng tâm, như cá gặp nước, đó là tâm kiếm giao cảm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cao tâm cảnh\nTăng cường sức mạnh pháp bảo từ gốc rễ\nTăng giá trị linh khí pháp bảo từ gốc rễ\nTăng tốc độ hồi phục linh khí pháp bảo từ gốc rễ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_7">
-			<DisplayName>Divine Mastery</DisplayName>
-			<Desc>Sadarilah potensi penuh dari Aura Pedang Anda, dengan memfokuskan sepenuhnya pada semangat pedang itu sendiri.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nSangat meningkatkan Kekuatan Artefak.\nSangat meningkatkan Kecepatan Artefak.\nSangat meningkatkan kecepatan putaran Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Thần ngự kiếm</DisplayName>
+			<Desc>Tập trung vào linh tính của kiếm, phát huy hoàn toàn kiếm ý, gọi là thần ngự chi kiếm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cao tâm cảnh\nTăng cường sức mạnh pháp bảo từ gốc rễ\nTăng tốc độ pháp bảo từ gốc rễ\nTăng tốc độ chuyển hướng pháp bảo từ gốc rễ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_8">
-			<DisplayName>Swordmind</DisplayName>
-			<Desc>Menjadi satu dengan pedang, dan biarkan pedang memenuhi seluruh keberadaan Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nSangat meningkatkan Kekuatan Artefak.\nSangat meningkatkan Artefak Qi.\nSangat meningkatkan tingkat pemulihan Artefak Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Thần hợp kiếm</DisplayName>
+			<Desc>Tâm thần hợp nhất với kiếm, gọi là thần hợp chi kiếm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Nâng cao tâm cảnh\nTăng cường sức mạnh pháp bảo từ gốc rễ\nTăng giá trị linh khí pháp bảo từ gốc rễ\nTăng tốc độ hồi phục linh khí pháp bảo từ gốc rễ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_9">
-			<DisplayName>Sword Ultima I</DisplayName>
-			<Desc>Anda mengabdikan keberadaan Anda pada pedang, sejauh tidak ada hal lain yang penting. Hal ini secara signifikan meningkatkan kondisi mental dan kecepatan artefak.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental secara signifikan.\nMeningkatkan Kecepatan Artefak secara signifikan.\nMeningkatkan kecepatan putaran Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Cực kiếm·Nhất</DisplayName>
+			<Desc>Lấy kiếm làm duy nhất, ngoài kiếm không có gì, phương pháp này có thể tăng mạnh tâm cảnh và tốc độ pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tâm cảnh\nTăng mạnh tốc độ pháp bảo\nTăng mạnh tốc độ chuyển hướng pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_10">
-			<DisplayName>Selfsword I</DisplayName>
-			<Desc>Metode terakhir menggabungkan roh primal seseorang dengan pedang. Secara signifikan meningkatkan kondisi mental seseorang dan artefak Qi mereka.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental secara signifikan.\nMeningkatkan Qi Artefak secara signifikan.\nMeningkatkan tingkat pemulihan Artifact Qi secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Ngã kiếm·Nhất</DisplayName>
+			<Desc>Tuyệt thế kiếm pháp hợp nhất nguyên thần với kiếm, phương pháp này có thể tăng mạnh tâm cảnh và linh khí pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tâm cảnh\nTăng mạnh giá trị linh khí pháp bảo\nTăng mạnh tốc độ hồi phục linh khí pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_11">
-			<DisplayName>Strike Chant</DisplayName>
-			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Kích tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cường sức mạnh pháp bảo[/color][/size] </EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_12">
-			<DisplayName>Stab Chant</DisplayName>
-			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Thứ tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ pháp bảo[/color][/size] </EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_13">
-			<DisplayName>Cleanse Chant</DisplayName>
-			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Qi Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Tẩy tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị linh khí pháp bảo[/color][/size] </EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_14">
-			<DisplayName>Crush Chant</DisplayName>
-			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Băng tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cường sức mạnh pháp bảo[/color][/size] </EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_15">
-			<DisplayName>Thrust Chant</DisplayName>
-			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Điểm tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ pháp bảo[/color][/size] </EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_16">
-			<DisplayName>Slash Chant</DisplayName>
-			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Qi Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Phách tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị linh khí pháp bảo[/color][/size] </EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_17">
-			<DisplayName>Control Chant</DisplayName>
-			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Ngự tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cường sức mạnh pháp bảo[/color][/size] </EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_18">
-			<DisplayName>Transformation Chant</DisplayName>
-			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Hóa tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ pháp bảo[/color][/size] </EffectDesc>
 		</Text>
 		<Text Name="Gong3_Esoterica_19">
-			<DisplayName>Severance Chant</DisplayName>
-			<Desc>Sebuah teknik rahasia yang digunakan dalam pelatihan ilmu pedang, tercatat dalam Pedang Tujuh Pembantaian. Membutuhkan latihan bertahun-tahun untuk menguasainya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Qi Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Phân tự quyết</DisplayName>
+			<Desc>Bí thuật luyện kiếm ghi chép trong Thất Sát Kiếm Quyết, cần khổ luyện để thành thạo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị linh khí pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_1">
-			<DisplayName>Waterfall Flow</DisplayName>
-			<Desc>Sebuah metode tersembunyi yang berasal dari Istana Kunlun, dapat meningkatkan aktivitas meridian seseorang dan memperluas cadangan Qi mereka secara besar-besaran.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Sangat meningkatkan Max Qi.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
+			<DisplayName>Ngọc Kinh Phi Lưu Pháp</DisplayName>
+			<Desc>Bí pháp rèn luyện khí mạch độc môn của Côn Luân Cung, có thể mở rộng khí hải.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tối đa linh khí từ gốc rễ\nTăng cường sức mạnh pháp thuật[/color][/size] </EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_2">
-			<DisplayName>Heavenly Harmony</DisplayName>
-			<Desc>Dengan menyelaraskan diri Anda dengan pergerakan Surga, Anda belajar menyesuaikan diri dengan getaran alam, yang secara signifikan meningkatkan keberuntungan Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Keberuntungan sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Hòa Quang Đồng Trần</DisplayName>
+			<Desc>Thuận theo thiên ý, hòa cùng ánh sáng và bụi trần, có thể tăng cơ duyên.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cơ duyên 1 thành[/color][/size] </EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_3">
-			<DisplayName>Reflection Chant</DisplayName>
-			<Desc>Sebuah teknik yang dirahasiakan oleh Sekte Jadesprite. Melalui nyanyian ini, seseorang dapat mulai memahami misteri di balik aliran Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mengurangi Waktu Pembuangan Mantra.\nMengurangi Masa Istirahat Mantra.[/color][/size]</EffectDesc>
+			<DisplayName>Hồi Quang Quyết</DisplayName>
+			<Desc>Bí thuật không truyền ra ngoài của Ngọc Hư Môn, nắm bắt huyền diệu của dòng chảy linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm thời gian thi triển thuật pháp[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_4">
-			<DisplayName>Elemental Origins</DisplayName>
-			<Desc>Kekuatan Lima Elemen yang pernah hilang kembali ke inti Anda, berada di dalam Lima Organ, dan menyelaraskan Qi batin. Berfungsi untuk memperpanjang umur seseorang, meningkatkan Qi dan sangat meningkatkan efisiensi penyerapan Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur.\nMeningkatkan Qi Maks.[/color][/size]</EffectDesc>
+			<DisplayName>Ngũ Khí Quy Nguyên</DisplayName>
+			<Desc>Ngũ hành quy về ngũ tạng, điều hòa nội tức bản thân. Có thể kéo dài tuổi thọ, tăng linh khí và tăng mạnh hiệu suất hấp thụ khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ\nTăng tối đa linh khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_5">
-			<DisplayName>Meticulous Revision</DisplayName>
-			<Desc>Periksa kembali secara menyeluruh dan pahami semua yang telah Anda pelajari dan saksikan dalam upaya Anda memecahkan misteri Surga. Mengurangi Pencapaian tanpa mempengaruhi kekuatan sebenarnya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Menurunkan Pencapaian sebesar 10.[/color][/size]</EffectDesc>
+			<DisplayName>Vạn Pháp Quy Tàng</DisplayName>
+			<Desc>Dung hợp tất cả những gì đã học, lĩnh hội thiên cơ. Có thể giảm đạo hạnh mà không ảnh hưởng đến thực lực.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm đạo hạnh 10 điểm[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_6">
-			<DisplayName>Goddess of the Grain's Blessing</DisplayName>
-			<Desc>Dia menganugerahkan artefak itu kepada kita; pelarian dari kematian: oleh karena itu, kita mengenalnya sebagai Dewi Gandum. Dengan ini, seseorang dapat memperpanjang Umurnya serta meningkatkan kapasitas Qi-nya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur.\nMeningkatkan Maks Qi.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
+			<DisplayName>Cốc Thần Đại Pháp</DisplayName>
+			<Desc>Cốc thần bất tử, gọi là huyền tẫn. Luyện thành pháp này có thể tăng mạnh tuổi thọ và dung lượng linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ\nTăng tối đa linh khí\nTăng cường sức mạnh pháp thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_7">
-			<DisplayName>Primordial Embryo</DisplayName>
-			<Desc>Suatu hal yang dirahasiakan oleh Sekolah Jadesprite, seseorang dapat diberkahi dengan kesadaran purba, Roh Batin, yang memungkinkan kemampuan manipulasi Qi yang lebih besar. Dengan melakukan hal ini, Anda sangat meningkatkan kemampuan Roh Batin untuk berinteraksi dan memanfaatkan sumber Qi eksternal.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan tingkat pemulihan Qi secara signifikan.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
+			<DisplayName>Nguyên Thủy Chi Thai</DisplayName>
+			<Desc>Bí thuật không truyền ra ngoài của Ngọc Hư Môn, rèn luyện nguyên thai thành nguyên thủy chi thai. Có thể tăng mạnh khả năng giao tiếp giữa nguyên anh và linh khí bên ngoài.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ hồi phục linh khí\nTăng cường sức mạnh pháp thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_8">
-			<DisplayName>Divine Awareness</DisplayName>
-			<Desc>Kembangkan kemampuan kognitif seseorang, tingkatkan Persepsi dan tingkatkan kekuatan Artefak secara signifikan. Hal ini juga memungkinkan seseorang untuk memanfaatkan cara Berkilau sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 10%.\nMeningkatkan Kekuatan Artefak.\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
+			<DisplayName>Canh Kim Nguyên Thần</DisplayName>
+			<Desc>Ngưng luyện Canh Kim Nguyên Thần, tăng thần thức, tăng mạnh sức mạnh ngự khí. Đồng thời có thể dẫn dắt đạo Canh Kim để phân hóa một nguyên thần phân thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thần thức 1 thành\nTăng sức mạnh ngự khí\nThêm một nguyên thần phân thân[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_9">
-			<DisplayName>Celestial Oak</DisplayName>
-			<Desc>Tanamkan dalam pikiran seseorang ketahanan pohon ek legendaris, yang terkenal memiliki getah pemberi keabadian, meningkatkan Konstitusi seseorang dan memperpanjang Umur secara signifikan. Hal ini juga memungkinkan seseorang untuk memanfaatkan cara Exuberant sebagai katalis untuk memisahkan satu cabang sub-spirit.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMemperpanjang Umur.\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
+			<DisplayName>Giáp Mộc Nguyên Thần</DisplayName>
+			<Desc>Ngưng luyện Giáp Mộc Nguyên Thần, tăng căn cốt, tăng mạnh tuổi thọ. Đồng thời có thể dẫn dắt đạo Giáp Mộc để phân hóa một nguyên thần phân thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành\nTăng tuổi thọ\nThêm một nguyên thần phân thân[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_10">
-			<DisplayName>Hallowed Cascade</DisplayName>
-			<Desc>Qi seseorang mengalir dengan kekuatan Hallowed Cascade, air di dalam saluran suci yang berasal dari awal waktu. Meningkatkan Karisma dan Max Qi. Hal ini juga memungkinkan seseorang untuk memanfaatkan cara Cascade sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan Maks Qi.\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
+			<DisplayName>Nhâm Thủy Nguyên Thần</DisplayName>
+			<Desc>Ngưng luyện Nhâm Thủy Nguyên Thần, tăng mị lực, tăng tối đa linh khí. Đồng thời có thể dẫn dắt đạo Nhâm Thủy để phân hóa một nguyên thần phân thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mị lực 1 thành\nTăng tối đa linh khí\nThêm một nguyên thần phân thân[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_11">
-			<DisplayName>Fervent Spirit</DisplayName>
-			<Desc>Rangkullah kekuatan Roh yang Bersemangat, memberi Anda kejelasan dan kekuatan untuk meningkatkan Intelijen dan Kekuatan Mantra. Hal ini juga memungkinkan seseorang untuk memanfaatkan cara Fervent sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecerdasan sebesar 10%.\nMeningkatkan Kekuatan Mantra.\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
+			<DisplayName>Bính Hỏa Nguyên Thần</DisplayName>
+			<Desc>Ngưng luyện Bính Hỏa Nguyên Thần, tăng ngộ tính, tăng cường sức mạnh pháp thuật. Đồng thời có thể dẫn dắt đạo Bính Hỏa để phân hóa một nguyên thần phân thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng ngộ tính 1 thành\nTăng cường sức mạnh pháp thuật\nThêm một nguyên thần phân thân[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong4_Esoterica_12">
-			<DisplayName>Terraforce</DisplayName>
-			<Desc>Di dalam bumi terdapat kekuatan sejak jaman dahulu yang melindungi mereka yang memanfaatkan kekuatannya, memberikan keberuntungan dan memperkuat Perisai Qi. Hal ini juga memungkinkan seseorang untuk memanfaatkan cara Grim sebagai katalis untuk memisahkan satu cabang sub-roh.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Keberuntungan sebesar 10%.\nMeningkatkan Efek Penghalang Qi.\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
+			<DisplayName>Mậu Thổ Nguyên Thần</DisplayName>
+			<Desc>Ngưng luyện Mậu Thổ Nguyên Thần, tăng cơ duyên, tăng cường sức mạnh linh khí hộ thuẫn. Đồng thời có thể dẫn dắt đạo Mậu Thổ để phân hóa một nguyên thần phân thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cơ duyên 1 thành\nTăng hiệu quả linh khí hộ thuẫn\nThêm một nguyên thần phân thân[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_1">
-			<DisplayName>Defiled Image</DisplayName>
-			<Desc>Sebuah metode budidaya gelap yang tercatat dalam Hukum Mencuri Surga. Sedikit memperbaiki Konstitusi dengan merusak penampilan seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMengurangi Karisma sebesar 20%.[/color][/size]</EffectDesc>
+			<DisplayName>Hình Dung Chi Thực</DisplayName>
+			<Desc>Đạo pháp tà ác ghi chép trong T thâu thiên quyết, tự tổn hại hình dung, một chút nâng cao căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành\nGiảm sức hấp dẫn 2 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_2">
-			<DisplayName>Defiled Senses</DisplayName>
-			<Desc>Sebuah metode budidaya gelap yang tercatat dalam Hukum Mencuri Surga. Sedikit meningkatkan Konstitusi dengan merusak kemampuan sensoriknya sendiri.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMenurunkan Persepsi sebesar 20%.[/color][/size]</EffectDesc>
+			<DisplayName>Ngũ Cảm Chi Thực</DisplayName>
+			<Desc>Đạo pháp tà ác ghi chép trong T thâu thiên quyết, tự tổn hại ngũ cảm, một chút nâng cao căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành\nGiảm thần thức 2 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_3">
-			<DisplayName>Defiled Mind</DisplayName>
-			<Desc>Sebuah metode budidaya gelap yang tercatat dalam Hukum Mencuri Surga. Sedikit memperbaiki Konstitusi dengan merusak kewarasan diri sendiri.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMenurunkan Kecerdasan sebesar 20%.[/color][/size]</EffectDesc>
+			<DisplayName>Thần Trí Chi Thực</DisplayName>
+			<Desc>Đạo pháp tà ác ghi chép trong T thâu thiên quyết, tự tổn hại thần trí, một chút nâng cao căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành\nGiảm ngộ tính 2 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_4">
-			<DisplayName>Defiled Fortune</DisplayName>
-			<Desc>Sebuah metode budidaya gelap yang tercatat dalam Hukum Mencuri Surga. Sedikit meningkatkan Konstitusi dengan mengorbankan Keberuntungan seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMengurangi Keberuntungan sebesar 20%.[/color][/size]</EffectDesc>
+			<DisplayName>Khí Vận Chi Thực</DisplayName>
+			<Desc>Đạo pháp tà ác ghi chép trong T thâu thiên quyết, tự tổn hại cơ duyên, một chút nâng cao căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành\nGiảm cơ duyên 2 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_5">
-			<DisplayName>Nether Redemption</DisplayName>
-			<Desc>Setelah menderita Empat Kekotoran Citra, Indera, Pikiran dan Kewarasan, orang-orang yang benar-benar rusak dapat menarik Qi yang berasal dari Nether untuk memulihkan semangat mereka yang rusak, dan memperpanjang umur mereka.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur Secara Signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Cửu U Phản Chiếu</DisplayName>
+			<Desc>Sau bốn loại thực, nhờ vào sự suy yếu của bản thân, hấp thụ khí Cửu U phản chiếu lại bản thân, từ đó làm tăng tuổi thọ một cách đáng kể.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ đáng kể[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_6">
-			<DisplayName>Reformed Lifeblood</DisplayName>
-			<Desc>Sebuah praktik misterius di mana jantung dan jaringan tulang direformasi, tidak hanya memproses sel darah tetapi juga Qi yang mengalir tanpa henti ke seluruh tubuh Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan tingkat pemulihan Qi secara signifikan.\nSedikit meningkatkan Max Qi.\nMerusak jantung![/color][/size]</EffectDesc>
+			<DisplayName>Huyết Cốt Luyện Hình</DisplayName>
+			<Desc>Bí pháp tế luyện trái tim, sử dụng huyết khí hóa thành linh khí, sinh sinh bất tận.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ phục hồi linh khí đáng kể\nTăng một chút giá trị tối đa của linh khí\nTrái tim bị tổn hại![/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_7">
-			<DisplayName>Ancient Barrier</DisplayName>
-			<Desc>Perlindungan yang didirikan oleh para penggarap di masa lalu, yang berpuncak pada pengalaman mereka dalam pertempuran yang tak terhitung jumlahnya. Meningkatkan kemampuan seseorang untuk menahan kerusakan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan efektivitas Qi Shield.[/color][/size]</EffectDesc>
+			<DisplayName>Hộ Thể Huyết Cương</DisplayName>
+			<Desc>Kỹ năng được đúc kết từ những cuộc chiến vô tận của các tu sĩ thời thượng cổ, có thể nâng cao khả năng của lá chắn chống lại thương tổn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng hiệu quả của lá chắn linh khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_8">
-			<DisplayName>Turtle Chant</DisplayName>
-			<Desc>Sebuah nyanyian terbentuk selama ribuan tahun dan diturunkan selama bertahun-tahun. Pelajari dan perbanyak teknik pernapasan penyu keriput, yang memberikan umur panjang dan kesehatan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur.[/color][/size]</EffectDesc>
+			<DisplayName>Quy Tức Quyết</DisplayName>
+			<Desc>Bí quyết truyền lại từ cổ đại, hít thở giống như hơi thở của rùa, có thể kéo dài tuổi thọ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_9">
-			<DisplayName>Spiritual Seclusion</DisplayName>
-			<Desc>Masuki suatu bentuk hibernasi spiritual di mana Anda menjadi tersembunyi dari semua orang, bahkan dari pengawasan Surga. Mempraktikkan keterampilan ini dapat memperpanjang umur seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur Secara Signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Trạch Mệnh Pháp</DisplayName>
+			<Desc>Ẩn giấu khí tức bản thân, để tránh sự tuần tra của thiên đạo. Học tập pháp này có thể kéo dài tuổi thọ một cách đáng kể.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ đáng kể[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_10">
-			<DisplayName>Heavenly Deception</DisplayName>
-			<Desc>Diwariskan selama berabad-abad, metode ini dapat memungkinkan seseorang untuk menunda datangnya Kesengsaraan Surgawi untuk waktu yang cukup lama.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Menunda Kesengsaraan Surgawi berikutnya secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Khi Thiên</DisplayName>
+			<Desc>Bí pháp cổ đại, học tập pháp này có thể làm cho thời gian thiên kiếp đến lần sau kéo dài đáng kể.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Kéo dài đáng kể thời gian thiên kiếp đến lần sau[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_11">
-			<DisplayName>Divine Theft</DisplayName>
-			<Desc>Diwariskan selama berabad-abad. Manfaatkan cara Surga, kalikan umur dasar Anda dengan 5.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66] Kalikan umur dasar Anda dengan 5.[/color][/size]</EffectDesc>
+			<DisplayName>Thất Thiên</DisplayName>
+			<Desc>Bí quyết cổ đại, bằng cách sử dụng bí pháp để lừa gạt thiên cơ, có thể tăng gấp 5 lần tuổi thọ cơ bản.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng gấp 5 lần tuổi thọ cơ bản[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong5_Esoterica_12">
-			<DisplayName>Endurance</DisplayName>
-			<Desc>Merampas kekuatan Surga untuk memperpanjang hidup Anda sendiri.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur Secara Signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>T thâu thiên</DisplayName>
+			<Desc>Đánh cắp thiên cơ, tăng đáng kể tuổi thọ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ đáng kể[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_1">
-			<DisplayName>Refined Tonic</DisplayName>
-			<Desc>Digunakan dalam pelatihan dasar Tao Qi. Dengan memperkuat siklus Qi dalam tubuh Anda, Anda mengeluarkan kotoran dan meningkatkan Qi maksimum Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMeningkatkan Max Qi secara mendasar.[/color][/size]</EffectDesc>
+			<DisplayName>Ngọc Dịch Luyện Hình Quyết</DisplayName>
+			<Desc>Pháp quyết luyện khí nhập môn của Đạo giáo, dùng ngọc dịch luyện chu thiên, có thể loại bỏ tạp chất trong cơ thể, nâng cao giá trị tối đa của linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành\nTăng giá trị tối đa của linh khí từ căn bản[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_2">
-			<DisplayName>Mind Cleanse</DisplayName>
-			<Desc>Melalui perhatian dan harmoni Anda menenangkan pikiran, meningkatkan Kecerdasan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecerdasan sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Tẩy Tâm Chú</DisplayName>
+			<Desc>Sử dụng ngọc dịch để tẩy rửa tâm hồn, có thể nâng cao ngộ tính.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng ngộ tính 1 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_3">
-			<DisplayName>Moral Purification</DisplayName>
-			<Desc>Metode utama Tao. Kembangkan moralitas dan kode etik Anda dengan sempurna, dan raih ketenangan hati dan jiwa. Setelah mengembangkan kemampuan ini, seseorang menikmati kondisi mental yang unggul sebagai hasilnya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan nilai Keadaan Mental dasar.[/color][/size]</EffectDesc>
+			<DisplayName>Đạo Đức Thanh Tịnh Pháp</DisplayName>
+			<Desc>Tâm pháp tối cao của Đạo giáo, tu dưỡng tư tưởng đạo đức, đạt được tâm thanh tịnh. Sau khi tu thành có thể nâng cao tâm cảnh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị cơ bản của tâm cảnh[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_4">
-			<DisplayName>Pharmacopoeia</DisplayName>
-			<Desc>Sebuah volume Tao yang menjelaskan dan merinci berbagai ramuan dasar. Pembacaan menyeluruh memberikan pemahaman yang lebih baik tentang Alkimia kepada pembaca.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan Alkimia.\nDapatkan Resep Elixir: \nPil Pembentuk\nPil Penyembuhan\nBubuk Penyembuhan\nPil Euforia\nPil Inedia\nPil Kemurnian[/color][/size]</EffectDesc>
+			<DisplayName>Dược Điển</DisplayName>
+			<Desc>Sách ghi chép về các loại đan dược cơ bản của Đạo môn. Đọc thuộc có thể nâng cao tỷ lệ thành công khi luyện đan.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tỷ lệ thành công khi luyện đan\nHọc được Đan phương:\nTrúc Cơ Đan\nLiệu Thương Đan\nQuy Nguyên Tán\nCực Lạc Đan\nẨm Khí Đan\nThanh Tâm Đan[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_5">
-			<DisplayName>1,000 Herbs and Minerals</DisplayName>
-			<Desc>Bacalah buku ini untuk mendapatkan wawasan tentang khasiat obat dari hampir setiap ramuan dan mineral di bawah Langit, yang akan sangat meningkatkan keterampilan Alkimia Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan Alkimia.\nMeningkatkan Kecepatan Alkimia.\nDapatkan Resep Ramuan: \nPil Logam\nPil Tanah\nBubuk Api\nPil Logam\nPil Air[/color][/size]</EffectDesc>
+			<DisplayName>Bách Thảo Kim Thạch Lục</DisplayName>
+			<Desc>Học được cuốn sách này có thể hiểu rõ tính dược của vạn vật, có thể nâng cao kỹ thuật luyện đan một cách lớn lao.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tỷ lệ thành công khi luyện đan\nTăng tốc độ luyện đan\nHọc được Đan phương:\nCanh Kim Vạn Hóa Đan\nBích Xuân Đan\nThiên Nhất Thừa Khí Tán\nHỏa Chân Đan\nĐịnh Khôn Đan[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_6">
-			<DisplayName>Elixirs of the Supreme Tao</DisplayName>
-			<Desc>Sebuah antologi resep ramuan, disusun oleh Elixir Sages. Di dalam sampulnya orang dapat menemukan beasiswa terbaik selama ribuan tahun tentang alkimia Tao.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Dapatkan resep obat mujarab berikut: \nPil Matahari\nPil Pikiran\nPil Kecambah\nBubuk Esensi Resin\nPil Kehidupan\nVitata Elixir\nPil Samsara\nBubuk Ilahi\n\nDapatkan Jimat: \nTusita Jimat\nJimat Ketidakkekalan\n\nMeningkatkan Alkimia secara signifikan hasil.\nMeningkatkan Tingkat Keberhasilan Alkimia secara signifikan.\nMeningkatkan Kecepatan Alkimia.[/color][/size]</EffectDesc>
+			<DisplayName>Thái Thượng Đan Kinh</DisplayName>
+			<Desc>Bí quyết luyện đan do Thái Thượng truyền lại, là tinh hoa của ngoại đan thuật Đạo giáo qua hàng trăm năm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Học được Đan phương:\nTử Dương Đan\nHoàng Đình Đan\nHoàng Nha Đan\nHuyết Giáp Tán\nTrường Sinh Đan\nHuyền Phân Tục Mệnh Tán\nCửu Chuyển Kim Đan\nVạn Linh Tán\nHọc được Phù Đồ:\nĐầu Suất Thần Phù\nVạn Hóa Thừa Đan Phù\nTăng đáng kể sản lượng luyện đan\nTăng đáng kể tỷ lệ thành công khi luyện đan\nTăng tốc độ luyện đan[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_7">
-			<DisplayName>Crystaleye Chant</DisplayName>
-			<Desc>Latih mata Anda sesuai dengan Hukum Rahasia kultivasi dan tingkatkan Persepsi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Minh Mục Quyết</DisplayName>
+			<Desc>Sử dụng bí pháp ta luyện đôi mắt, để nâng cao thần thức.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thần thức 1 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_8">
-			<DisplayName>The 9 Refinement Pillars</DisplayName>
-			<Desc>Sembilan metode penyelesaian dan pemurnian ramuan yang dibuat. Pengetahuan penting bagi semua alkemis yang diturunkan oleh pendahulunya yang sangat meningkatkan kesuksesan Alkimia seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan Alkimia secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Khai Lò Cửu Quyết</DisplayName>
+			<Desc>Cổ nhân tổng kết ra chín loại thủ pháp khi mở lò luyện đan, có thể nâng cao tỷ lệ thành công khi luyện đan một cách lớn lao.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể tỷ lệ thành công khi luyện đan[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_9">
-			<DisplayName>Hastened Elixircraft</DisplayName>
-			<Desc>Sebuah metode ramuan yang dirahasiakan oleh Sekte Sage Elixir yang membuat resep yang lebih memakan waktu tidak terlalu menyakitkan untuk dilaksanakan. Dengan mengolah metode ini seseorang dapat meningkatkan kecepatan mereka dalam melakukan Alkimia.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Alkimia secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Tốc Luyện Pháp</DisplayName>
+			<Desc>Bí pháp luyện đan dưới sự dẫn dắt của Thái Thượng, học tập có thể nâng cao tốc độ luyện đan một cách lớn lao.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể tốc độ luyện đan[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_10">
-			<DisplayName>Elite Elixircraft</DisplayName>
-			<Desc>Sebuah metode ramuan yang dirahasiakan oleh Sekte Sage Elixir yang meningkatkan efisiensi alkimia seseorang. Dengan mengolah metode ini seseorang dapat meningkatkan hasil Alkimia mereka secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan hasil Alkimia secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Tinh Luyện Pháp</DisplayName>
+			<Desc>Bí pháp luyện đan dưới sự dẫn dắt của Thái Thượng, học tập có thể nâng cao sản lượng luyện đan một cách lớn lao.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể sản lượng luyện đan[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_11">
-			<DisplayName>Divine Elixircraft</DisplayName>
-			<Desc>Sebuah metode ramuan yang dirahasiakan oleh Sekte Sage Elixir yang memungkinkan seseorang untuk meningkatkan keahlian mereka, sangat meningkatkan keberhasilan yang dialami saat meramu ramuan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Tingkat Keberhasilan Alkimia secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Thần Luyện Pháp</DisplayName>
+			<Desc>Bí pháp luyện đan dưới sự dẫn dắt của Thái Thượng, học tập có thể nâng cao tỷ lệ thành công khi luyện đan.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể tỷ lệ thành công khi luyện đan[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_12">
-			<DisplayName>Essence Chant</DisplayName>
-			<Desc>Kumpulkan sari ramuan Hedyotis untuk memberi tubuh nutrisi yang melimpah. Meningkatkan Konstitusi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Tinh Hoa Quyết</DisplayName>
+			<Desc>Thu thập tinh hoa của đan thảo để nuôi dưỡng thân thể, có thể nâng cao căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_13">
-			<DisplayName>Reabsorption Chant</DisplayName>
-			<Desc>Yang kedua, setara dengan Nyanyian Esensi. Mengkonsumsi kembali nutrisi penting yang diserap untuk mengekstraksi nilai obat maksimumnya, meningkatkan efisiensi penyerapan Qi dan Qi maksimum seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Qi.\nMeningkatkan efisiensi Penyerapan Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Quy Nguyên Quyết</DisplayName>
+			<Desc>Tiến cấp của Tinh Hoa Quyết, tiếp tục luyện hóa lượng thuốc còn sót lại trong cơ thể, có thể nâng cao giá trị tối đa của linh khí, và nâng cao hiệu suất hấp thụ khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị tối đa của linh khí\nTăng hiệu suất hấp thụ khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong6_Esoterica_14">
-			<DisplayName>Inner Canon of the Elixir Sages</DisplayName>
-			<Desc>Analisis dan studi paling mendalam tentang tubuh manusia, seperti yang dilakukan oleh Elixir Sage Sect. Dapat berfungsi untuk memperpanjang umur seseorang secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur Secara Signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Thái Thượng Nội Kinh</DisplayName>
+			<Desc>Tinh hoa nghiên cứu về cơ thể con người của Thái Thượng, học tập có thể nâng cao tuổi thọ một cách lớn lao.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ đáng kể[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_1">
-			<DisplayName>Mind Fasting</DisplayName>
-			<Desc>Suatu bentuk asketisme mental di mana seseorang mengendalikan pikirannya, yang dapat meningkatkan nilai-nilai dasar suasana hati dan mempercepat kultivasi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan nilai Mood dasar.\nMeningkatkan Kecepatan Kultivasi.[/color][/size]</EffectDesc>
+			<DisplayName>Tâm Trai</DisplayName>
+			<Desc>Pháp Tâm Trai dùng để thu thập ý niệm, hành động này có thể nâng cao giá trị cơ bản của tâm trạng, tăng tốc độ tu luyện.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị cơ bản của tâm trạng\nTăng tốc độ tu luyện[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_2">
-			<DisplayName>Gaia Plane</DisplayName>
-			<Desc>Fokuskan pikiran Anda pada rerumputan dan pepohonan, keagungan lembut sungai dan gunung. Rasakan keheningan alam, kebal terhadap angin dan hujan. Melalui latihan, Anda dapat sedikit meningkatkan Karisma dan meningkatkan Kondisi Mental Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan Kondisi Mental.[/color][/size]</EffectDesc>
+			<DisplayName>Kỹ thuật gửi tình cảm</DisplayName>
+			<Desc>Gửi tình vào núi sông, cỏ cây, cảm nhận trạng thái của vật vô tri, không bị ảnh hưởng bởi gió mưa sấm chớp. Tu luyện pháp này có thể tăng nhẹ sức hấp dẫn và nâng cao tâm cảnh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng sức hấp dẫn 10%\nTăng tâm cảnh[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_3">
-			<DisplayName>Empathy Chant</DisplayName>
-			<Desc>Menjadi selaras secara telepati dengan kesadaran orang-orang di sekitar Anda, burung-burung di langit, orang-orang yang Anda temui. Alami datang dan perginya seribu jiwa. Metode ini sangat meningkatkan Karisma dan keterampilan Sosial seseorang, serta memupuk rasa Empati yang meningkatkan aliran Qi mereka.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan keterampilan Sosial secara signifikan.\nMeningkatkan Max Qi secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Đồng Tâm Quyết</DisplayName>
+			<Desc>Dùng tâm niệm để cảm nhận lòng dạ của chim thú và con người, thấu hiểu trạng thái của vạn vật. Tu luyện pháp này có thể tăng mạnh sức hấp dẫn và khả năng đối nhân xử thế, đồng thời trong trạng thái đồng tâm sẽ gia tăng linh lực bản thân.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng sức hấp dẫn 10%\nTăng mạnh kỹ năng đối nhân xử thế\nTăng mạnh giới hạn linh khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_4">
-			<DisplayName>Sagely Stoic</DisplayName>
-			<Desc>Rangkullah aliran emosi yang berasal dari dunia sekitar Anda sampai Anda menjadi toleran terhadapnya, dan emosi tersebut tidak lagi menguasai Anda. Pandanglah alam fana ini dengan hati yang pantang menyerah, dan dapatkan penerimaan dari semua orang di sekitar Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan nilai Mood dasar secara signifikan.\nMenjadi tahan terhadap rasa sakit.[/color][/size]</EffectDesc>
+			<DisplayName>Thái Thượng Vong Tình</DisplayName>
+			<Desc>Quan sát vạn tình, sau đó quên tình. Dùng tâm vô tình để nhìn nhân gian, vạn sự viên mãn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tâm trạng cơ bản\nKhông cảm thấy đau đớn[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_5">
-			<DisplayName>Curious Reformation</DisplayName>
-			<Desc>Manfaatkan Nyanyian Panjang Umur untuk membentuk kembali bentuk fisik Anda, sehingga sangat meningkatkan Konstitusi dan Ketahanan Alam.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMeningkatkan Ketahanan Alam secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Thoát Thai Hoán Cốt</DisplayName>
+			<Desc>Dùng tâm pháp Trường Sinh Quyết để tái tạo thân thể, có thể tăng mạnh căn cốt và khả năng hồi phục tự nhiên.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 10%\nTăng mạnh khả năng hồi phục tự nhiên[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_6">
-			<DisplayName>Doctrine of Self-Nourishment</DisplayName>
-			<Desc>Merinci teknik ajaib untuk mengkondisikan tubuh dan pikiran. Meningkatkan Karisma dan max Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Karisma sebesar 10%.\nMeningkatkan Maks Qi secara signifikan.\nMeningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Dưỡng Ngã Kinh</DisplayName>
+			<Desc>Phương pháp điều hòa thân tâm kỳ diệu, có thể tăng sức hấp dẫn và giới hạn linh khí tối đa.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng sức hấp dẫn 10%\nTăng giới hạn linh khí tối đa từ gốc rễ\nTăng uy lực pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_7">
-			<DisplayName>Sitting in Oblivion</DisplayName>
-			<Desc>Sebuah latihan untuk menyempurnakan Qi seseorang, yang diciptakan oleh Istana Skydome. Melalui budidaya tekun dengan metode ini, seseorang dapat meningkatkan kemampuan mentalnya dan mempercepat budidaya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan nilai Keadaan Mental dasar.\nMeningkatkan Kecepatan Budidaya.\nMeningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Tọa Vong Luận</DisplayName>
+			<Desc>Thuật luyện khí của Cực Thiên Cung, tu luyện lâu dài có thể tăng cường tâm cảnh và tốc độ tu luyện.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị cơ bản của tâm cảnh\nTăng tốc độ tu luyện\nTăng uy lực pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_8">
-			<DisplayName>Longevity Chant</DisplayName>
-			<Desc>Sebuah buku tebal menakjubkan yang diwariskan dari generasi ke generasi, pernah ditulis oleh makhluk abadi kuno. Ini dapat membantu mengembangkan potensi berbagai titik meridian di seluruh tubuh, sehingga sangat memperpanjang umur seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur Secara Signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Trường Sinh Quyết</DisplayName>
+			<Desc>Bí thư kỳ diệu truyền từ tiên gia thượng cổ, có thể khai phá tiềm năng huyệt đạo trong cơ thể, kéo dài tuổi thọ đáng kể.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ đáng kể[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_9">
-			<DisplayName>Spirit Gale</DisplayName>
-			<Desc>Kumpulkan kekuatan spiritual seseorang di dalam tubuh, dan biarkan mengalir bebas seperti angin. Memberikan kebebasan dan fluiditas seperti awan dalam pikiran dan tubuh. Menguasai ini akan memberikan peningkatan besar pada Max Qi seseorang dan sangat meningkatkan Karisma.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Max Qi secara signifikan.\nMeningkatkan Karisma sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Phong Thần Vân Thể</DisplayName>
+			<Desc>Hợp nhất thân và thần, gió mây tùy thân. Tu luyện pháp này có thể tăng mạnh giới hạn linh khí tối đa và tăng đáng kể sức hấp dẫn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh giới hạn linh khí tối đa\nTăng sức hấp dẫn 10%[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_10">
-			<DisplayName>Reflected Self</DisplayName>
-			<Desc>Keterampilan pamungkas yang diajarkan dalam 'Way of Oblivion' Elixir Sages. Temukan jati diri Anda, saat Anda memutuskan semua ikatan dengan dunia fana. Sangat meningkatkan Kecepatan Budidaya. Meningkatkan kekuatan Artifact Mastery secara signifikan jika digunakan pada skill pedang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Budidaya secara signifikan.\nMeningkatkan Kekuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Trảm Đạo Kiến Ngã</DisplayName>
+			<Desc>Tâm pháp tối cao của Thái Thượng Vong Tình Đạo, dùng kiếm trí tuệ để trảm đạo, thấy được chân ngã. Có thể tăng mạnh tốc độ tu luyện. Nếu áp dụng vào kiếm pháp, có thể tăng mạnh uy lực ngự khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ tu luyện\nTăng mạnh uy lực pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_11">
-			<DisplayName>Bladereader</DisplayName>
-			<Desc>Penguasaan memungkinkan seseorang membaca hati orang lain. Kemampuan beradaptasi dan kuat.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMeningkatkan kecepatan putar Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Tâm Kiếm</DisplayName>
+			<Desc>Tu luyện thành kiếm này có thể thấu triệt lòng người, linh hoạt vô cùng, uy lực kinh người.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nTăng tốc độ chuyển hướng của pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_12">
-			<DisplayName>Sword of Sentiment</DisplayName>
-			<Desc>Gabungkan tujuh emosi umat manusia, serahkan semuanya ke dalam pedangmu. Melakukan hal itu akan sangat meningkatkan kelincahan Bladeriding seseorang, namun gravitasi dari emosi yang kuat juga memperlambat waktu pemulihan Bladeriding.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Qi Artefak Maks.\nMengurangi tingkat pemulihan Artefak Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Thất Tình Kiếm</DisplayName>
+			<Desc>Ngưng tụ thất tình vào kiếm, tăng mạnh linh tính của phi kiếm, nhưng thất tình gây tổn thương, tốc độ hồi phục của phi kiếm sẽ rất chậm.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giới hạn linh khí của pháp bảo\nGiảm tốc độ hồi phục linh khí của pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong7_Esoterica_13">
-			<DisplayName>Steelweight Passion</DisplayName>
-			<Desc>Fokuskan dan segel emosi yang paling berat dan kuat di dalam Artefak agar ia terbang dengan kecepatan sangat tinggi, membunuh semua Hukumnya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak secara signifikan.\nMeningkatkan Kecepatan Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Cực Tình Kiếm</DisplayName>
+			<Desc>Ngưng tụ tình cảm mãnh liệt vào ngự khí, nhanh như chim bay, không gì không thể chém đứt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp bảo\nTăng mạnh tốc độ pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_1">
-			<DisplayName>Records of the Perfected Warrior</DisplayName>
-			<Desc>Catatan-catatan ini merinci teknik meditasi di mana seseorang memvisualisasikan Prajurit Sempurna, dewa Kereta Agung. Ini juga menjadi landasan bagi Hukum Perselisihan. Mempraktikkan metode-metode yang disebutkan di dalamnya dapat mencerahkan pikiran seseorang dan membantu pemahaman mereka tentang berbagai hal spiritual.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nMeningkatkan Kecerdasan sebesar 10%.\nMeningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Chân Võ Lục</DisplayName>
+			<Desc>Giảng giải tâm pháp quán tưởng Chân Võ Bắc Đẩu trong lúc tĩnh tọa, cũng là nền tảng của Bắc Đẩu Động Tâm. Tu luyện pháp này có thể giúp thần niệm sáng suốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tâm cảnh\nTăng ngộ tính 10%\nTăng uy lực pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_2">
-			<DisplayName>The Compass Doctrine</DisplayName>
-			<Desc>Menjelaskan cara memanfaatkan kekuatan bintang dan konstelasi dalam mengendalikan diri. Ini juga menetapkan garis besar Tujuh Keterampilan Utama dari Prajurit yang Sempurna. Menumbuhkan keterampilan seperti itu memungkinkan seseorang untuk meningkatkan Konstitusi melalui kekuatan Grand Chariot.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nMeningkatkan Qi Maks.\nMeningkatkan Qi Artefak Maks.\nMeningkatkan tingkat pemulihan Qi Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Tư Nam Kinh</DisplayName>
+			<Desc>Ghi chép bí pháp mượn lực tinh tú để rèn luyện bản thân, cũng là tổng cương của Bắc Đẩu Thất Tuyệt. Tu luyện pháp này có thể mượn lực sao Bắc Đẩu để tăng căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 10%\nTăng giới hạn linh khí tối đa\nTăng giới hạn linh khí của pháp bảo\nTăng tốc độ hồi phục linh khí của pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_3">
-			<DisplayName>Dubhe Chant</DisplayName>
-			<Desc>Manfaatkan kekuatan bintang Grand Chariot Dubhe untuk Anda gunakan sendiri. Cahaya Dubhe yang bersinar, penuh dengan niat membunuh tertentu, dapat diasimilasikan ke dalam Artefak untuk meningkatkan kekuatannya secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Xu Quyết</DisplayName>
+			<Desc>Thu thập lực sao Thiên Xu để sử dụng, ánh sao Thiên Xu mang sát ý lạnh lùng, dung nhập vào pháp bảo có thể tăng mạnh uy lực ngự khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_4">
-			<DisplayName>Merak Chant</DisplayName>
-			<Desc>Manfaatkan kekuatan bintang Grand Chariot Merak untuk Anda gunakan sendiri. Cahaya Merak yang bersinar, berkelap-kelip dengan kelincahan yang cekatan, dapat diasimilasikan ke dalam Artefak untuk memberikan kecepatan seperti angin.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan putaran Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Tuyền Quyết</DisplayName>
+			<Desc>Thu thập lực sao Thiên Tuyền để sử dụng, ánh sao Thiên Tuyền lấp lánh nhẹ nhàng, dung nhập vào pháp bảo có thể khiến ngự khí linh động như gió.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ chuyển hướng của pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_5">
-			<DisplayName>Phegda Chant</DisplayName>
-			<Desc>Manfaatkan kekuatan bintang Grand Chariot Phegda untuk Anda gunakan sendiri. Cahaya Phegda yang bersinar, memancarkan rasa hormat dan kemegahan, dapat diasimilasikan ke dalam Artefak untuk mengusir kejahatan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Ketahanan Knockback Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Cơ Quyết</DisplayName>
+			<Desc>Thu thập lực sao Thiên Cơ để sử dụng, ánh sao Thiên Cơ tôn quý hoa lệ, dung nhập vào pháp bảo có thể giúp ngự khí tránh tà ngoại.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng khả năng chống đẩy lùi của pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_6">
-			<DisplayName>Megrez Chant</DisplayName>
-			<Desc>Manfaatkan kekuatan bintang Grand Chariot Megrez untuk Anda gunakan sendiri. Cahaya Megrez yang bersinar, kuno dan adil, dapat diasimilasikan ke dalam Artefak untuk memberikan soliditas yang luar biasa.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Qi Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Quyền Quyết</DisplayName>
+			<Desc>Thu thập lực sao Thiên Quyền để sử dụng, ánh sao Thiên Quyền hòa hợp trung chính, dung nhập vào pháp bảo có thể giúp ngự khí có nội lực thâm hậu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị linh khí pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_7">
-			<DisplayName>Alioth Chant</DisplayName>
-			<Desc>Manfaatkan kekuatan bintang Grand Chariot Alioth untuk Anda gunakan sendiri. Cahaya Alioth yang bersinar, bersinar dengan kekuatan yang tak kenal lelah, dapat diasimilasikan ke dalam Artefak untuk meningkatkan keberlanjutannya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan tingkat pemulihan Artefak Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Ngọc Hành Quyết</DisplayName>
+			<Desc>Thu thập lực sao Ngọc Hành để sử dụng, ánh sao Ngọc Hành kéo dài liên miên, dung nhập vào pháp bảo có thể giúp ngự khí duy trì sức mạnh lâu dài.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ hồi phục linh khí của pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_8">
-			<DisplayName>Mizar Chant</DisplayName>
-			<Desc>Manfaatkan kekuatan bintang Grand Chariot Mizar untuk Anda gunakan sendiri. Cahaya Mizar yang bersinar, berkilau dengan kekuatan yang dahsyat, dapat diasimilasikan ke dalam Artefak untuk menjadikannya hampir tak terhentikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Jarak Knockback Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Khai Dương Quyết</DisplayName>
+			<Desc>Thu thập sức mạnh của sao Khai Dương làm của mình, ánh sáng sao Khai Dương mạnh mẽ và tràn đầy, dung nhập vào pháp bảo có thể khiến việc điều khiển pháp bảo trở nên không thể ngăn cản.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng khoảng cách đẩy lùi của pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_9">
-			<DisplayName>Alkaid Chant</DisplayName>
-			<Desc>Manfaatkan kekuatan bintang Grand Chariot Alkaid untuk Anda gunakan sendiri. Cahaya Alkaid yang bersinar, menusuk dan cemerlang, dapat diasimilasikan ke dalam Artefak untuk membuatnya secepat kilat.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Dao Quang Quyết</DisplayName>
+			<Desc>Thu thập sức mạnh của sao Dao Quang làm của mình, ánh sáng sao Dao Quang rực rỡ và sắc bén, dung nhập vào pháp bảo có thể khiến việc điều khiển pháp bảo nhanh như tia chớp.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_10">
-			<DisplayName>Grand Chariot Ultimate (Sevenstar Chant)</DisplayName>
-			<Desc>Sebuah keterampilan dengan kekuatan tak tertandingi, itu adalah teknik terhebat dari Hukum Perselisihan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMeningkatkan Kecepatan Artefak.\nMeningkatkan kecepatan memutar Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Bắc Đẩu Tuyệt Thức-Thất Tinh Quyết</DisplayName>
+			<Desc>Bí quyết tối cao của pháp Bắc Đẩu Động Tâm Kiếp, uy lực vô song.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nTăng tốc độ pháp bảo\nTăng tốc độ chuyển hướng pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_11">
-			<DisplayName>Breakthrough Incantation</DisplayName>
-			<Desc>Sejajarkan diri Anda dengan siklus Qi universal. Dengan melakukan itu, Anda membebaskan diri dari segala ego dan dapat menemukan jati diri Anda. Latih keterampilan ini untuk meningkatkan perhatian dan meningkatkan kemampuan mental Anda secara keseluruhan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nMeningkatkan nilai Mood dasar.[/color][/size]</EffectDesc>
+			<DisplayName>Động Tâm Chú</DisplayName>
+			<Desc>Đặt mình giữa trời đất vô tận, từ đó buông bỏ cái ta, thấu hiểu bản tâm. Tu luyện pháp này có thể nâng cao tâm tính.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tâm cảnh\nTăng cảm xúc cơ bản[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_12">
-			<DisplayName>Exchange Incantation</DisplayName>
-			<Desc>Keluarkan energi vital untuk memperkuat keberadaan Anda, meningkatkan Lima Atribut secara komprehensif. Meskipun ampuh, metode ini meningkatkan kemampuan Anda dengan mengorbankan sepersepuluh dari total kumpulan Qi dan 120 tahun kehidupan Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperpendek Umur.\nSangat mengurangi Max Qi.\nMeningkatkan Lima Atribut sebesar 5%.[/color][/size]</EffectDesc>
+			<DisplayName>Kiếp Tâm Chú</DisplayName>
+			<Desc>Tiêu hao tâm huyết bản nguyên để ta luyện thân thể, tăng cường toàn diện ngũ hành. Pháp này sẽ tiêu hao hai giáp tử tuổi thọ và giảm một phần mười giá trị linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm tuổi thọ\nGiảm tối đa giá trị linh khí từ gốc\nTăng ngũ hành nửa phần[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong8_Esoterica_13">
-			<DisplayName>Stargazer</DisplayName>
-			<Desc>Tanamkan dalam mata Anda kekuatan yang berasal dari konstelasi bintang itu sendiri. Dapatkan peningkatan Persepsi, dan buat cahaya bintang menembus kegelapan yang Anda lihat di sekitar Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 20%.\nMenghilangkan kabut perang di peta (satu kali).[/color][/size]</EffectDesc>
+			<DisplayName>Mắt Sao Đẩu</DisplayName>
+			<Desc>Dùng đôi mắt kết nối sức mạnh của các sao, tăng cường thần thức đáng kể, có thể mượn sức mạnh của sao trời để soi sáng bốn phương.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thần thức 2 phần\nPhá sương mù bản đồ (một lần)[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_1">
-			<DisplayName>Third Eye Incarnate</DisplayName>
-			<Desc>Latih penglihatan Anda menggunakan teknik tersembunyi yang sudah lama dianggap punah. Dapatkan kemampuan untuk menatap hati dan pikiran orang lain di sekitar Anda. Latih keterampilan ini untuk meningkatkan Persepsi secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Luân Hồi Tâm Nhãn</DisplayName>
+			<Desc>Dùng bí pháp luyện đôi mắt, có khả năng thấu hiểu tâm linh. Tu luyện pháp này, thần thức sẽ tăng mạnh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thần thức 1 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_2">
-			<DisplayName>Tri Vision</DisplayName>
-			<Desc>Jatuh ke dalam keadaan seperti kesurupan, dan hidupkan kembali kenangan kehidupan ini dan kehidupan masa lalu Anda, dan ramalkan kehidupan berikutnya. Dengan kekayaan pengalaman ini, Anda secara bertahap dapat memahami jati diri Anda. Mempraktikkan keterampilan ini dapat mempercepat kultivasi dan mendorong kondisi mental yang lebih stabil, karena Anda tidak lagi takut akan misteri hidup dan mati.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan Kultivasi.\nMeningkatkan Kondisi Mental.[/color][/size]</EffectDesc>
+			<DisplayName>Tam Thế Động Chân Pháp</DisplayName>
+			<Desc>Trong trạng thái mờ mịt, bắt lấy ký ức trôi dạt giữa ba thế giới, dần dần làm sáng tỏ bản thân. Tu luyện pháp này giúp tâm cảnh ổn định, không còn sợ hãi bí ẩn sinh tử, tăng tốc độ tu luyện.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tốc độ tu luyện\nTăng tâm cảnh[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_3">
-			<DisplayName>Mortality Records</DisplayName>
-			<Desc>Sebuah buku rahasia yang berisi catatan tentang kebenaran kehidupan, kematian, dan banyak sekali keterkaitannya. Diwariskan selama berabad-abad dari Guru abadi kuno. Mempelajari buku ini dapat memperpanjang umur seseorang dan meningkatkan kekuatan mantra.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
+			<DisplayName>Sinh Tử Lục</DisplayName>
+			<Desc>Bí quyển ghi lại đạo lý chuyển hóa giữa sinh và tử, truyền từ cổ tiên Quy Chân Tử. Tu luyện quyển này có thể tăng tuổi thọ, tăng uy lực pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ\nTăng uy lực pháp thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_4">
-			<DisplayName>Reincarnated Form</DisplayName>
-			<Desc>Lakukan teknik yang diuraikan dalam Catatan Kematian untuk memicu Transfigurasi Genetik, dan ubah tubuh Anda menjadi Bentuk Reinkarnasi. Melakukan casting saat tubuh seseorang dalam Bentuk Reinkarnasi memberikan Kekuatan Mantra yang jauh lebih besar sementara biaya Qi tetap sama.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Mantra secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Thân Thể Luân Hồi</DisplayName>
+			<Desc>Dùng bí pháp ghi trong Sinh Tử Lục để thúc đẩy thai hóa dị hình, tái tạo thân thể thành thân thể luân hồi. Dùng thân thể luân hồi thi pháp có thể tăng mạnh uy lực pháp thuật mà không tiêu hao thêm linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_5">
-			<DisplayName>Reincarnated Psyche</DisplayName>
-			<Desc>Dengan memperhatikan suka dan duka yang dialami lebih dari seratus reinkarnasi jiwa yang berbeda, kondisi mental seseorang menjadi tenang dan kuat. Setelah memperoleh wawasan tentang keberadaan yang tak terhitung jumlahnya, seseorang mencapai Jiwa Reinkarnasi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kondisi Mental.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
+			<DisplayName>Tâm Luân Hồi</DisplayName>
+			<Desc>Quan sát trăm kiếp luân hồi, buồn vui ly hợp, để rèn luyện tâm cảnh, thấu hiểu vạn pháp, tu thành Tâm Luân Hồi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tâm cảnh\nTăng uy lực pháp thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_6">
-			<DisplayName>Doctrine of Reincarnation</DisplayName>
-			<Desc>Sebuah doktrin misterius yang diyakini berasal dari Dunia Bawah, dan menjadi dasar Kitab Reinkarnasi. Sangat meningkatkan Max Qi seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Sangat meningkatkan Max Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Luân Hồi Kinh</DisplayName>
+			<Desc>Bí pháp truyền từ địa phủ, là cốt lõi và nền tảng của Luân Hồi Kinh trường sinh. Tu luyện pháp này có thể tăng tối đa giá trị linh khí từ gốc.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị tối đa linh khí từ gốc rễ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_7">
-			<DisplayName>Earthen Absorption</DisplayName>
-			<Desc>Manfaatkan Qi yang dikeluarkan dari pepohonan dan tanaman di sekitar Anda untuk memelihara cadangan Qi Anda sendiri. Mempraktikkan keterampilan ini secara moderat meningkatkan efisiensi Konstitusi dan penyerapan Qi Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 10%.\nSedikit meningkatkan Efisiensi Penyerapan Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Dưỡng Thân Pháp</DisplayName>
+			<Desc>Mượn hơi thở của trời đất cỏ cây để nuôi dưỡng bản thân. Tu luyện pháp này có thể tăng chút căn cốt và tăng hiệu quả hấp thụ khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 1 phần\nTăng hiệu quả hấp thụ khí một chút[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_8">
-			<DisplayName>Records of Coexistence</DisplayName>
-			<Desc>Catatan yang merinci bagaimana mungkin mencapai sinkronisasi dengan alam di sekitar kita, jika dipelajari dengan cermat. Melakukan hal itu dapat membantu pemahaman tentang Artefak. Melalui pemahaman terhadap catatan-catatan ini seseorang dapat meningkatkan kemampuan Penguasaan Artefak secara komprehensif.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMeningkatkan tingkat pemulihan Artefak Qi.\nMeningkatkan Qi Artefak.\nMeningkatkan kecepatan Artefak.\nMeningkatkan kecepatan memutar Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Hợp Vật Chí</DisplayName>
+			<Desc>Đồng điều bản thân với vạn vật, mượn đá núi khác để mài ngọc núi mình. Tu luyện pháp này có thể tăng toàn diện khả năng điều khiển pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nTăng tốc độ phục hồi linh khí pháp bảo\nTăng giá trị linh khí pháp bảo\nTăng tốc độ pháp bảo\nTăng tốc độ chuyển hướng pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_9">
-			<DisplayName>Unity Chant</DisplayName>
-			<Desc>Kembangkan sinkronisasi yang terjalin antara diri Anda dan alam lebih jauh lagi, hingga pernapasan Anda selaras dengan aliran Qi alami. Latih keterampilan ini untuk meningkatkan Max Qi dan tingkat pemulihan Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Qi.\nMeningkatkan tingkat pemulihan Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Thông Tức Quyết</DisplayName>
+			<Desc>Trên cơ sở đồng điệu với vạn vật, tiến thêm một bước để thông cảm và cảm nhận cùng vạn vật. Tu luyện pháp này có thể tăng tối đa linh khí và tốc độ hồi phục linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tối đa linh khí\nTăng tốc độ hồi phục linh khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_10">
-			<DisplayName>Genetic Transfiguration</DisplayName>
-			<Desc>Sebuah teknik rahasia yang memungkinkan seseorang untuk membentuk kembali bentuk fisiknya. Latihan untuk meningkatkan Konstitusi dan Karisma serta Potensi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 5%.\nMeningkatkan Karisma sebesar 5%.\nMeningkatkan Potensi.[/color][/size]</EffectDesc>
+			<DisplayName>Thai Hóa Dễ Hình</DisplayName>
+			<Desc>Bí pháp tái tạo thân thể, tu luyện pháp này có thể tăng căn cốt và mị lực, đồng thời tăng tiềm năng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 0.5\nTăng mị lực 0.5\nTăng tiềm năng[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_11">
-			<DisplayName>Doctrine of Interception</DisplayName>
-			<Desc>Meningkatkan pengetahuan seseorang tentang siklus reinkarnasi, dan cara-cara yang dapat digunakan untuk meningkatkan Kecerdasan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecerdasan sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Thần Tiệt Kinh</DisplayName>
+			<Desc>Dùng thần diệu của Lục Đạo để củng cố bản thân, tu luyện pháp này có thể tăng ngộ tính.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng ngộ tính 1 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_12">
-			<DisplayName>Hallowed Form - Tier I</DisplayName>
-			<Desc>Mengubah tubuh seseorang menjadi makhluk surgawi, memperpanjang Umurnya, meningkatkan Ketahanan Alami, dan meningkatkan Kekuatan Mantra.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Memperpanjang Umur.\nMeningkatkan Ketahanan Alami.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Nhân Chi Thể·Nhất Giai</DisplayName>
+			<Desc>Bước đầu chuyển hóa cơ thể thành Thiên Nhân Chi Thể, tăng tuổi thọ, khả năng hồi phục tự nhiên và uy lực pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tuổi thọ\nTăng khả năng hồi phục tự nhiên\nTăng uy lực pháp thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_13">
-			<DisplayName>True Form - Tier I</DisplayName>
-			<Desc>Melalui penyaluran Qi yang dikeluarkan pada saat reinkarnasi, seseorang dapat menjalani pelatihan untuk menyempurnakan bentuk fisiknya. Sangat meningkatkan Max Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Sangat meningkatkan Max Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Chân Ngã Chi Thể·Nhất Giai</DisplayName>
+			<Desc>Luyện hóa cơ thể hoàn mỹ bằng thần diệu Lục Đạo, thích hợp cho những người có căn cơ không ổn định sau khi nhanh chóng đột phá cảnh giới. Có thể tăng đáng kể tối đa linh khí từ gốc rễ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng đáng kể tối đa linh khí từ gốc rễ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong9_Esoterica_14">
-			<DisplayName>Supreme Form - Tier I</DisplayName>
-			<Desc>Membangun pengetahuan sebelumnya dan kekuatan Qi untuk berubah menjadi makhluk yang lebih besar, meningkatkan kemampuan tempur secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMeningkatkan Kekuatan Mantra.\nMeningkatkan efektivitas Perisai Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Tu La Chi Thể·Nhất Giai</DisplayName>
+			<Desc>Dùng thần diệu của Tu La Đạo để chuyển hóa cơ thể thành Tu La Chi Thể, tăng mạnh khả năng chiến đấu.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nTăng uy lực pháp thuật\nTăng hiệu quả khiên linh khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_1">
-			<DisplayName>Mana Codex</DisplayName>
-			<Desc>Kodeks kuno yang telah lama hilang dan dapat memberikan peningkatan mendasar pada Kekuatan Mantra seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Sangat meningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
+			<DisplayName>Ngự Chân Bí Điển</DisplayName>
+			<Desc>Bí pháp thất truyền cổ đại, có thể tăng uy lực pháp thuật từ gốc rễ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp thuật từ gốc rễ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_2">
-			<DisplayName>Steadfast Incantation</DisplayName>
-			<Desc>Melalui kekuatan kemauan belaka, buat Qi mengalir ke seluruh tubuh Anda dan tingkatkan potensi mantra Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Toleransi Suhu.\nMeningkatkan Kekuatan Mantra.[/color][/size]</EffectDesc>
+			<DisplayName>Tam Dương Xích Tâm Chú</DisplayName>
+			<Desc>Dùng tâm niệm thúc đẩy linh khí toàn thân sôi trào, có thể tăng uy lực pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng nhiệt độ cực hạn\nTăng uy lực pháp thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_3">
-			<DisplayName>Sunstream Chant</DisplayName>
-			<Desc>Memanfaatkan energi Qi yang tersebar melalui sinar matahari, dan sangat meningkatkan Kekuatan Mantra.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Mantra secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Thủy Nhật Chân Quyết</DisplayName>
+			<Desc>Dựa vào sức mạnh chí dương giữa trời đất, tăng đáng kể uy lực pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_4">
-			<DisplayName>Spellfire</DisplayName>
-			<Desc>Tempelkan tubuh Anda dengan api energi murni. Sangat meningkatkan sifat unsur mantra, dan meningkatkan potensinya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Tingkatkan Kekuatan Mantra Anda.[/color][/size]</EffectDesc>
+			<DisplayName>Chân Hỏa Luyện Thân</DisplayName>
+			<Desc>Dùng chân hỏa của trời đất để luyện hóa cơ thể, có thể tăng mạnh tính tương hợp pháp thuật và uy lực pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_5">
-			<DisplayName>Helios Gaze</DisplayName>
-			<Desc>Kumpulkan dan konsentrasikan Qi Anda dengan memvisualisasikan matahari dalam bentuk aslinya yang purba. Sangat meningkatkan Max Qi seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Sangat meningkatkan Max Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Kim Ô Quán</DisplayName>
+			<Desc>Quán tưởng hình thái chân thực của mặt trời để tụ tập chân khí. Tu luyện pháp này có thể tăng tối đa linh khí từ gốc rễ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng giá trị tối đa linh khí từ gốc rễ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_6">
-			<DisplayName>Visceral Blaze</DisplayName>
-			<Desc>Tambahkan Lima Organ Anda dengan kekuatan Roh yang Bersemangat untuk meningkatkan fungsinya, menyebabkan sedikit peningkatan pada Lima Atribut, dan meningkatkan tingkat konversi Stamina.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan masing-masing Lima Atribut sebesar 5%.\nMeningkatkan Tingkat Konversi Stamina.[/color][/size]</EffectDesc>
+			<DisplayName>Ngũ Nội Dưỡng Hỏa</DisplayName>
+			<Desc>Ngưng tụ sức mạnh Bính Hỏa để luyện hóa ngũ tạng, tăng cường chức năng nội tạng, có thể tăng nhẹ ngũ thuộc tính và tỷ lệ chuyển hóa tinh nguyên.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng 0.5 cho mỗi thuộc tính ngũ hành\nTăng tỷ lệ chuyển hóa tinh nguyên[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_7">
-			<DisplayName>Skyfire Meridians</DisplayName>
-			<Desc>Sempurnakan titik meridian Anda dengan api suci. Meningkatkan Qi maksimum dan sedikit meningkatkan Konstitusi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Qi.\nMeningkatkan Konstitusi sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Tam Dương Chân Mạch</DisplayName>
+			<Desc>Dùng Tam Dương Chân Hỏa để luyện hóa kinh mạch, có thể tăng tối đa linh khí và một ít căn cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tối đa linh khí\nTăng căn cốt 1[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_8">
-			<DisplayName>Mindblaze</DisplayName>
-			<Desc>Nyalakan api Qi jauh di dalam pikiran Anda yang menyala terus menerus untuk mengurangi interval dan biaya casting.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Menurunkan cooldown penggunaan mantra.\nMengurangi konsumsi Qi Mantra.[/color][/size]</EffectDesc>
+			<DisplayName>Tâm Hỏa</DisplayName>
+			<Desc>Đốt cháy ngọn lửa tâm niệm, giảm mạnh tiêu hao khi thi triển pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Giảm tiêu hao linh khí khi thi triển pháp thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_9">
-			<DisplayName>Divine Fire Incantation</DisplayName>
-			<Desc>Sebuah teknik berapi-api dengan potensi yang tak tertandingi. Berlatihlah untuk meningkatkan kerusakan mantra secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kerusakan Mantra secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Thông Thiên Thần Hỏa Chú</DisplayName>
+			<Desc>Bí thuật tối cao của pháp thuật hỏa hệ, tu luyện có thể tăng mạnh sát thương pháp thuật.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh sát thương pháp thuật[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_10">
-			<DisplayName>Cleansing Flame</DisplayName>
-			<Desc>Lepaskan api spiritual yang murni ke dalam pikiran Anda, yang akan sangat meningkatkan Kecerdasan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecerdasan sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Tịnh Hỏa Chước Tâm</DisplayName>
+			<Desc>Dùng ngọn lửa tinh khiết thiêu đốt tâm niệm, tăng mạnh ngộ tính.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng ngộ tính 1 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong10_Esoterica_11">
-			<DisplayName>Heavenly Radiance</DisplayName>
-			<Desc>Menjadi satu dengan neraka Surga, karena dunia di bawah bersatu menjadi satu. Kembangkan keterampilan ini untuk meningkatkan Keberuntungan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Keberuntungan sebesar 5%.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Hỏa Đồng Nhân</DisplayName>
+			<Desc>Thiên Hỏa Đồng Nhân, Thiên Hạ Đại Đồng. Tu luyện pháp này có thể tăng mạnh cơ duyên.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cơ duyên nửa phần[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_1">
-			<DisplayName>Lunar Form</DisplayName>
-			<Desc>Sempurnakan bentuk fisik seseorang dengan menggunakan energi Yin Qi yang terpancar dari cahaya bulan. Mengakibatkan pembalikan gender jika penggarap yang mempraktikkannya adalah laki-laki.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Ubah energi di dalam tubuh Anda menjadi energi Yin murni.\nSangat meningkatkan Max Qi.\nSangat meningkatkan Kekuatan Artefak.[/color][/size]</EffectDesc>
+			<DisplayName>Thái Âm Đoán Thể</DisplayName>
+			<Desc>Ta luyện thân thể bằng khí Thái Âm. Nếu nam nhân tu luyện, giới tính sẽ bị đảo ngược.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Chuyển hóa thành thuần âm chi thể\nTăng tối đa linh khí từ căn bản\nTăng uy lực pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_2">
-			<DisplayName>Exorcise</DisplayName>
-			<Desc>Suatu bentuk Penguasaan Artefak yang memanfaatkan energi Yin murni untuk meningkatkan kecepatan Artefak secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Tị Tà Chân Pháp</DisplayName>
+			<Desc>Pháp môn sử dụng thuần âm chi khí để điều khiển vật, có thể tăng mạnh tốc độ pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_3">
-			<DisplayName>Earthbound Teachings</DisplayName>
-			<Desc>Sebuah manual rahasia yang merinci bagaimana kekuatan Bumi dapat digunakan untuk mengembangkan perisai Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan efektivitas Qi Shield.[/color][/size]</EffectDesc>
+			<DisplayName>Thái Hư Nguyên Cương</DisplayName>
+			<Desc>Bí điển giảng giải cách mượn lực Khôn Nguyên để ngưng tụ linh khí hộ thuẫn.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng hiệu quả của lá chắn linh khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_4">
-			<DisplayName>Void Worship</DisplayName>
-			<Desc>Percayakan diri Anda pada kehampaan untuk melihat para dewa yang ada di dalamnya. Meningkatkan Keberuntungan dan Kekuatan Artefak secara signifikan, dan secara kebetulan memperoleh sub-spirit. Itulah teknik rahasia terhebat yang disebutkan dalam Sunspirit Codex.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Keberuntungan sebesar 20%.\nMeningkatkan Kekuatan Artefak secara signifikan.\nMendapatkan satu sub-spirit.[/color][/size]</EffectDesc>
+			<DisplayName>Hư Không Nghệ Thần Pháp</DisplayName>
+			<Desc>Dựa vào hư không để gặp thần linh. Tăng mạnh cơ duyên, uy lực pháp bảo, đồng thời phân hóa một đạo nguyên thần phân thân. Đây là huyền bí tối cao của Quỳ Hoa Luyện Thần Bảo Điển.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng cơ duyên 2 phần\nTăng mạnh uy lực pháp bảo\nThêm một đạo nguyên thần phân thân[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_5">
-			<DisplayName>Way of the Nine Provinces</DisplayName>
-			<Desc>Benamkan diri Anda dalam memvisualisasikan bentang alam kuno yang membentuk geografi Tiongkok, mengembangkan Qi purba Anda. Secara efektif meningkatkan Max Qi seseorang.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Qi Maks.[/color][/size]</EffectDesc>
+			<DisplayName>Cửu Châu Đại Pháp</DisplayName>
+			<Desc>Quán tưởng hình dáng Cửu Châu đại địa, ngưng tụ nguyên khí. Có thể tăng hiệu quả tối đa linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tối đa linh khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_6">
-			<DisplayName>Descry</DisplayName>
-			<Desc>Manfaatkan kekuatan Bumi untuk meningkatkan penglihatan Anda, memungkinkan Anda melihat melalui sihir ilusi yang mengubah dunia yang Anda lihat di hadapan Anda. Meningkatkan kemampuan perseptif Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Persepsi sebesar 10%.[/color][/size]</EffectDesc>
+			<DisplayName>Linh Thị Thần Quan</DisplayName>
+			<Desc>Mượn lực Khôn Nguyên để ngưng tụ đôi mắt, có thể nhìn thấu hầu hết các thuật che mắt và tăng thần thức.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thần thức 1 thành[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_7">
-			<DisplayName>The Eight Extremes</DisplayName>
-			<Desc>Bumi memiliki empat titik kompas, dan empat titik ordinal di antara keduanya. Demikian pula tubuh manusia juga memiliki delapan titik akupuntur. Dengan menyempurnakan delapan titik akupuntur tubuh ini, bentuk fisik seseorang dapat diubah seluruhnya secara efektif.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 5%.\nMeningkatkan Karisma sebesar 5%.[/color][/size]</EffectDesc>
+			<DisplayName>Bát Cực Luyện Hình Quyết</DisplayName>
+			<Desc>Thiên địa có bát cực, thân người cũng có bát cực. Ngưng tụ tám huyệt đạo trên cơ thể, có hiệu quả thoát thai hoán cốt.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt nửa phần\nTăng mị lực nửa phần[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_8">
-			<DisplayName>Spiritravel</DisplayName>
-			<Desc>Bergerak dengan kecepatan luar biasa, seolah-olah dunia telah menyusut di bawah Anda, dan Anda menempuh jarak satu mil dengan setiap langkah.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Gerakan secara signifikan.\nMeningkatkan Kecepatan Terbang dalam petualangan.[/color][/size]</EffectDesc>
+			<DisplayName>Thần Hành Thuật</DisplayName>
+			<Desc>Thu nhỏ khoảng cách, di chuyển như thần.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ di chuyển\nTăng tốc độ phi hành khi lịch luyện[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_9">
-			<DisplayName>Notes on Moral Integrity</DisplayName>
-			<Desc>Seseorang harus memastikan untuk mewujudkan kebajikan dalam segala hal; seorang bangsawan yang perkasa dan mengesankan seperti lautan dan gunung. Melalui latihan, seseorang menjadi mampu mengatasi perselisihan melalui kebajikan dan moralitasnya. Mengembangkan integritas seseorang dengan cara ini berfungsi untuk memperpanjang umurnya.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Sangat memperpanjang Umur.[/color][/size]</EffectDesc>
+			<DisplayName>Hậu Đức Thiên</DisplayName>
+			<Desc>Địa thế Khôn, quân tử lấy hậu đức tải vật. Tu luyện pháp này có thể dùng hậu đức để chống lại thiên kiếp, kéo dài tuổi thọ cực đại.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tuổi thọ[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_10">
-			<DisplayName>Spectral Swordplay</DisplayName>
-			<Desc>Sebuah keterampilan pedang yang berasal dari dalam Netherworld. Dengan mengorbankan energi artefak, kekuatan mereka dapat ditingkatkan secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nSangat mengurangi Qi Artefak Maks.[/color][/size]</EffectDesc>
+			<DisplayName>U Kiếm</DisplayName>
+			<Desc>Kiếm pháp truyền thừa từ U Minh, lấy việc hy sinh hậu lực để đổi lấy sát thương cực mạnh.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nGiảm tối đa linh khí của pháp bảo từ căn bản[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_11">
-			<DisplayName>Quickdraw</DisplayName>
-			<Desc>Sebuah keterampilan pedang yang berasal dari dalam Netherworld. Memanfaatkan elemen kejutan, tarik senjata Anda dengan kecepatan yang menghancurkan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan kecepatan putaran Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Thuấn Sát Quyết</DisplayName>
+			<Desc>Kiếm pháp truyền thừa từ U Minh, xuất kiếm cực nhanh, quỷ dị vô song.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ chuyển hướng của pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_12">
-			<DisplayName>Lunar rock</DisplayName>
-			<Desc>Sebuah keterampilan pedang yang berasal dari dalam Netherworld. Kumpulkan energi Yin murni di dalam pedang Anda, yang sangat meningkatkan ketahanan pukulan balik Anda.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Ketahanan Knockback Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Thái Âm Quyết</DisplayName>
+			<Desc>Kiếm pháp truyền thừa từ U Minh, ngưng tụ kiếm thần bằng thuần âm chi tức, có thể tăng mạnh khả năng kháng đẩy lùi.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh khả năng kháng đẩy lùi của pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_13">
-			<DisplayName>Abyssal Swell</DisplayName>
-			<Desc>Sebuah keterampilan pedang yang berasal dari dalam Netherworld. Sangat meningkatkan kekuatan Artefak dengan mengorbankan tingkat pemulihan Artifact Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak.\nMenurunkan tingkat pemulihan Artefak Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Uyên Ngục Quyết</DisplayName>
+			<Desc>Kiếm pháp truyền thừa từ U Minh, lấy việc giảm tốc độ hồi phục linh khí của pháp bảo để đổi lấy lượng lớn uy lực.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng uy lực pháp bảo\nGiảm tốc độ hồi phục linh khí của pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_14">
-			<DisplayName>Annihila Thrust</DisplayName>
-			<Desc>Apa yang dikatakan sebagai keterampilan pedang terhebat di Dunia Bawah. Memberikan peningkatan besar dalam kekuatan Artefak.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kekuatan Artefak secara signifikan.[/color][/size]</EffectDesc>
+			<DisplayName>Hoại Diệt Quyết</DisplayName>
+			<Desc>U Minh Tuyệt Kiếm, tăng mạnh uy lực pháp bảo.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh uy lực pháp bảo[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_15">
-			<DisplayName>Earthmother</DisplayName>
-			<Desc>Panduan budidaya mistik yang menjelaskan cara memerintahkan jiwa dan roh. Dipercaya diturunkan dari Istana Enam Ibu Bumi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Rasa Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Địa Mẫu Huyền Kinh</DisplayName>
+			<Desc>Bí điển ghi chép nhiều thuật điều khiển hồn phách, truyền thuyết lưu truyền từ Lục Địa Mẫu Thần Cung.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng khí cảm[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong11_Esoterica_16">
-			<DisplayName>Earthbound Qi</DisplayName>
-			<Desc>Perbaiki satu menit Qi Kuno yang Membumi untuk memberi diri Anda peningkatan luar biasa dalam Max Qi Anda sendiri.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Qi sebesar 15.000.[/color][/size]</EffectDesc>
+			<DisplayName>Khôn Nguyên Chân Khí</DisplayName>
+			<Desc>Luyện hóa một tia tiên thiên Khôn Nguyên chi khí, tăng mạnh tối đa linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tối đa linh khí 15000 điểm[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_1">
-			<DisplayName>Comprehensive Book of Talismans</DisplayName>
-			<Desc>Manual rahasia yang mencatat beberapa jimat umum yang diperlukan dalam budidaya.</Desc>
-			<EffectDesc>Membuka Jimat: \nJimat Keberangkatan Bayangan\nJimat Hati Surgawi\nJimat Hati Tenang\nJimat Kemakmuran Sipil\nJimat Kemakmuran Militer</EffectDesc>
+			<DisplayName>Thông Phù Thư</DisplayName>
+			<Desc>Bí sách ghi chép các phù chú thường dùng trong tu luyện.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nPhân Ảnh Độn Không Phù\nThiên Tâm Phù\nNinh Tâm Phù\nVăn Xương Phù\nVõ Xương Phù</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_2">
-			<DisplayName>Records of Profound Talismans</DisplayName>
-			<Desc>Mencatat jimat yang dapat meningkatkan kemampuan pertahanan.</Desc>
-			<EffectDesc>Membuka Jimat: \nJimat Darkarmor</EffectDesc>
+			<DisplayName>Huyền Phù Lục</DisplayName>
+			<Desc>Ghi chép các phù chú tăng cường sức mạnh phòng ngự.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nHuyền Giáp Phù</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_3">
-			<DisplayName>Records of Sword Talismans</DisplayName>
-			<Desc>Mencatat jimat yang dapat meningkatkan Penguasaan Pedang.</Desc>
-			<EffectDesc>Membuka Jimat: \nJimat Pedang Tajam</EffectDesc>
+			<DisplayName>Kiếm Phù Lục</DisplayName>
+			<Desc>Ghi chép các phù chú tăng cường sức mạnh ngự kiếm.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nLợi Kiếm Phù</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_4">
-			<DisplayName>Records of Incantation Talismans</DisplayName>
-			<Desc>Merekam jimat yang dapat meningkatkan kekuatan Mantra.</Desc>
-			<EffectDesc>Membuka Jimat: \nJimat Kutukan Jahat</EffectDesc>
+			<DisplayName>Chú Phù Lục</DisplayName>
+			<Desc>Ghi chép các phù chú tăng cường sức mạnh chú pháp.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nLệ Chú Phù</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_5">
-			<DisplayName>Heavensent Talismans</DisplayName>
-			<Desc>Ini mencatat Jimat kuat yang dianggap sudah lama hilang. Talisman ini mampu meningkatkan kualifikasi pemakainya secara paksa, sehingga disebut sebagai Heavensent.</Desc>
-			<EffectDesc>Membuka Talisman: \nHeavensent Talisman</EffectDesc>
+			<DisplayName>Thông Thiên Phù Pháp</DisplayName>
+			<Desc>Ghi chép các phù chú mạnh mẽ đã thất truyền trong giới tu luyện, những phù chú này thậm chí có thể cải thiện tư chất người đeo, vì thế được gọi là Thông Thiên.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nThông Thiên Phù</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_6">
-			<DisplayName>Heavenlent Talismans</DisplayName>
-			<Desc>Dikatakan bahwa Jimat yang dicatat dalam buku ini dapat memanfaatkan kekuatan Surga.</Desc>
-			<EffectDesc>Membuka Jimat: \nJimat Surgawi</EffectDesc>
+			<DisplayName>Tá Thiên Phù</DisplayName>
+			<Desc>Bí sách ghi chép phù chú được đồn có thể mượn sức mạnh Thiên Đạo.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nTá Thiên Phù</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_7">
-			<DisplayName>Supreme Divine Talismans</DisplayName>
-			<Desc>Jimat yang beredar pada zaman dahulu konon diambil untuk penanaman Hukum Shendao yang telah lama hilang.</Desc>
-			<EffectDesc>Membuka Jimat: \nJimat Kediaman Ilahi\nJimat Persepsi Ilahi\nJimat Otoritas Ilahi\nJimat Penyembunyian Ilahi</EffectDesc>
+			<DisplayName>Vô Thượng Thần Phù</DisplayName>
+			<Desc>Phù chú cổ đại lưu truyền, được cho là dành cho tu luyện Thần Đạo, nay đã thất truyền.</Desc>
+			<EffectDesc>Mở khóa Phù Đồ:\nThần Cư Phù\nThần Cảm Phù\nThần Uy Phù\nThần Ẩn Phù</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_8">
-			<DisplayName>Cloudwalker</DisplayName>
-			<Desc>Sebuah teknik bagus yang terinspirasi dari pengamatan evolusi awan dan asap. Mempraktikkannya secara signifikan meningkatkan Kecepatan Terbang seseorang dalam Petualangan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Kecepatan Terbang secara signifikan dalam petualangan.[/color][/size]</EffectDesc>
+			<DisplayName>Vân Hành Pháp</DisplayName>
+			<Desc>Diệu pháp ngộ ra từ sự biến hóa của mây khói, tu luyện có thể tăng mạnh tốc độ phi hành luyện tập.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng mạnh tốc độ phi hành luyện tập[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_9">
-			<DisplayName>Cloudy Confluence</DisplayName>
-			<Desc>Cara unik mengatur sirkulasi Qi batin seseorang. Meningkatkan Maks Qi.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Maks Qi sebesar 1.000.[/color][/size]</EffectDesc>
+			<DisplayName>Vân Khí Hội Lưu</DisplayName>
+			<Desc>Pháp vận khí độc đáo, có thể tăng tối đa linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng tối đa linh khí 1000 điểm[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_10">
-			<DisplayName>Scripture of Cloudforming</DisplayName>
-			<Desc>Konsentrasikan Qi seluruh tubuh Anda ke dalam bentuk yang menyerupai awan, yang secara efektif meningkatkan efek pertahanan Qi Barrier.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Efek Penghalang Qi.[/color][/size]</EffectDesc>
+			<DisplayName>Kết Vân Kinh</DisplayName>
+			<Desc>Ngưng tụ linh khí toàn thân thành hình dạng như đám mây, có thể tăng hiệu quả phòng ngự của khiên linh khí.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng hiệu quả khiên linh khí[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_11">
-			<DisplayName>Theory of Naivety</DisplayName>
-			<Desc>Pada zaman kuno, orang-orang pada masa itu hidup melalui lebih dari seratus musim semi dan musim gugur, namun kebugaran fisik mereka tidak terhalang. Mempraktikkan keterampilan ini dapat meningkatkan Konstitusi dan Umur seseorang secara signifikan.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Meningkatkan Konstitusi sebesar 20%, dan memperpanjang Umur hingga 300 tahun.[/color][/size]</EffectDesc>
+			<DisplayName>Thiên Chân Luận</DisplayName>
+			<Desc>Người cổ đại, xuân thu đều trăm tuổi mà động tác không suy, tu luyện thuật này có thể tăng mạnh căn cốt và tuổi thọ.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng căn cốt 2\nTăng tuổi thọ 300 năm[/color][/size]</EffectDesc>
 		</Text>
 		<Text Name="Gong12_Esoterica_12">
-			<DisplayName>Soul-splitting Book of Eastwood</DisplayName>
-			<Desc>Teknik rahasia pemisahan jiwa yang diwariskan oleh Istana Kayu Timur. Jika dibudidayakan secara ekstrim, ia dapat membagi total sepuluh sub-roh. Sangat ajaib.</Desc>
-			<EffectDesc>[size=16][color=#CCFF66]Mendapatkan satu sub-roh.[/color][/size]</EffectDesc>
+			<DisplayName>Đông Mộc Phân Thần Thư</DisplayName>
+			<Desc>Bí pháp phân thần truyền từ Đông Phương Mộc Thần Cung, tu luyện đến cực hạn có thể tạo ra mười phân thần, huyền diệu vô cùng.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Tăng thêm một phân thần nguyên thần[/color][/size]</EffectDesc>
 		</Text>
 	</List>
 </Texts>
+

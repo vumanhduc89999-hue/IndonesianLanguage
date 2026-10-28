@@ -18,3 +18,4 @@
 /Assets/Resources/FightMap/School_QiQianWu/map.txt	OtherItem.8.Fabao.OName	木矿镐	8	_ReplaceFabaoOName
 /Assets/Resources/FightMap/School_QiQianWu/map.txt	OtherItem.8._hd.Ss.1	苍莽流光镐	8.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_QiQianWu/map.txt	OtherItem.9._hd.Ss.1	七阡本册-神农	9.1	_ReplaceThingName
+

@@ -48,3 +48,4 @@
 /Assets/Resources/FightMap/School_QingLianJianZong/map.txt	OtherItem.23._hd.Ss.1	炼心剑	23.1	_ReplaceThingName
 /Assets/Resources/FightMap/School_QingLianJianZong/map.txt	OtherItem.24.Fabao.OName	灵木刀	24	_ReplaceFabaoOName
 /Assets/Resources/FightMap/School_QingLianJianZong/map.txt	OtherItem.24._hd.Ss.1	叛逆刀	24.1	_ReplaceThingName
+

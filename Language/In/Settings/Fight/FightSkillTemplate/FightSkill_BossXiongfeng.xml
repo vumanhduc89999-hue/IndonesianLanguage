@@ -1,13 +1,14 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Xiongfeng_penhuo">
-			<DisplayName>Flame Eruption</DisplayName>
+			<DisplayName>Phun lửa</DisplayName>
 		</Text>
 		<Text Name="Jiaolong_fennuhuodan">
-			<DisplayName>Fire Bomb</DisplayName>
+			<DisplayName>Đạn lửa</DisplayName>
 		</Text>
 		<Text Name="Xiongfeng_penhuoaoe">
-			<DisplayName>Flame Eruption</DisplayName>
+			<DisplayName>Phun lửa</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

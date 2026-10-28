@@ -1,114 +1,115 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SuperPart_Gong_5_1">
-			<Prefix>Ethereal</Prefix>
-			<Suffix>Hand - Left</Suffix>
-			<Desc>Badan rahasia yang dibuat dengan menggunakan Esensi Ethereal sebagai intinya. Latihlah secara ekstrem dan setelah True Qi dihasilkan, lengan bisa menjadi tidak terlihat dan membuat musuh tidak berdaya.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan akurasi serangan tubuh rahasia secara moderat.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara moderat.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Secara mendasar meningkatkan kekuatan rahasia tubuh dalam jumlah sedang.\n Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.</Levels.1.Desc>
-			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
-			<Levels.2.Desc>Meningkatkan peluang penekanan artefak tubuh rahasia secara moderat.\n Meningkatkan tingkat penetrasi penghalang Qi tubuh rahasia secara moderat.</Levels.2.Desc>
+			<Prefix>Vô Hình</Prefix>
+			<Suffix>Tay·Trái</Suffix>
+			<Desc>Bí thể được luyện từ tinh túy vô hình làm lõi, khi luyện đến cảnh giới tối cao, một khi vận hành chân khí, có thể khiến cánh tay hóa thành vô hình, khiến đối phương không thể phòng bị.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình tỷ lệ đánh trúng của bí thể\nTăng trung bình tỷ lệ thành công phòng thủ của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình sức mạnh cơ bản của bí thể\nTăng trung bình khả năng bền bỉ cơ bản của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình tỷ lệ trấn áp pháp bảo của bí thể\nTăng trung bình tỷ lệ xuyên thủng linh khí hộ thuẫn của bí thể</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_5_1_1">
-			<Prefix>Ethereal</Prefix>
-			<Suffix>Hand - Right</Suffix>
-			<Desc>Badan rahasia tingkat pemula untuk pembudidaya fisik, mudah dicapai dengan komponen yang seimbang dan potensi pengembangan yang besar.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan akurasi serangan tubuh rahasia secara drastis.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara drastis.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Secara mendasar meningkatkan kekuatan rahasia tubuh dalam jumlah sedang.\n Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.</Levels.1.Desc>
-			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
-			<Levels.2.Desc>Meningkatkan peluang penekanan artefak tubuh rahasia secara moderat.\n Meningkatkan tingkat penetrasi penghalang Qi tubuh rahasia secara moderat.</Levels.2.Desc>
+			<Prefix>Vô Hình</Prefix>
+			<Suffix>Tay·Phải</Suffix>
+			<Desc>Bí thể nhập môn của người luyện thể, rất dễ luyện thành, các mặt đều khá cân bằng, không gian phát triển rất lớn.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ đánh trúng của bí thể\nTăng mạnh tỷ lệ thành công phòng thủ của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình sức mạnh cơ bản của bí thể\nTăng trung bình khả năng bền bỉ cơ bản của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình tỷ lệ trấn áp pháp bảo của bí thể\nTăng trung bình tỷ lệ xuyên thủng linh khí hộ thuẫn của bí thể</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_5_2">
-			<Prefix>Divine Blaze</Prefix>
-			<Suffix>Palm - Left</Suffix>
-			<Desc>Sebuah tubuh rahasia yang menarik energi dari jantung dan menghasilkan True Qi yang sangat panas, yang mana penghalang Qi normal sama sekali tidak dapat ditangkis secara efektif.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah besar.\n Meningkatkan tingkat penetrasi penghalang Qi tubuh rahasia secara moderat.</Levels.1.Desc>
+			<Prefix>Phần Thần</Prefix>
+			<Suffix>Bàn Tay·Trái</Suffix>
+			<Desc>Bí thể có thể sử dụng lực tâm hỏa để kích phát chân khí cực kỳ nóng, linh khí hộ thuẫn thông thường không thể phòng thủ hiệu quả.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình sức mạnh cơ bản của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh sức mạnh cơ bản của bí thể\nTăng trung bình tỷ lệ xuyên thủng linh khí hộ thuẫn của bí thể</Levels.1.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_5_3">
-			<Prefix>Frozen Soul</Prefix>
-			<Suffix>Palm - Right</Suffix>
-			<Desc>Tubuh rahasia yang mengambil energi dari ginjal dan menghasilkan True Qi yang sangat dingin. Unggul dalam penindasan artefak.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah sedang.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Secara mendasar meningkatkan kekuatan tubuh rahasia dalam jumlah besar.\n Meningkatkan tingkat penetrasi penghalang Qi tubuh rahasia secara moderat.</Levels.1.Desc>
+			<Prefix>Đông Phách</Prefix>
+			<Suffix>Bàn Tay·Phải</Suffix>
+			<Desc>Bí thể có thể sử dụng lực thận thủy để kích phát chân khí cực kỳ lạnh, rất giỏi trấn áp pháp bảo.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình sức mạnh cơ bản của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh sức mạnh cơ bản của bí thể\nTăng trung bình tỷ lệ trấn áp pháp bảo của bí thể</Levels.1.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_5_4">
-			<Prefix>Mooncatcher</Prefix>
-			<Suffix>Hands</Suffix>
-			<Desc>Membentuk kembali otot-otot tangan dengan Lunar Essence untuk menjadikannya lincah seperti hantu yang tidak dapat ditembus oleh apa pun.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara moderat.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Meningkatkan peluang penekanan artefak tubuh rahasia secara moderat.</Levels.1.Desc>
-			<Levels.2.Title>Lapisan Ketiga</Levels.2.Title>
-			<Levels.2.Desc>Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara moderat.\n Meningkatkan peluang penekanan artefak tubuh rahasia secara moderat.</Levels.2.Desc>
+			<Prefix>Tróc Nguyệt</Prefix>
+			<Suffix>Đôi Tay</Suffix>
+			<Desc>Luyện cơ tay bằng tinh hoa Thái Âm, khiến chúng linh hoạt như ma quỷ, đôi tay liên hoàn, không thể bị xuyên phá.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình khả năng bền bỉ cơ bản của bí thể\nTăng trung bình tỷ lệ thành công phòng thủ của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng trung bình tỷ lệ trấn áp pháp bảo của bí thể</Levels.1.Desc>
+			<Levels.2.Title>Trọng Thứ Ba</Levels.2.Title>
+			<Levels.2.Desc>Tăng trung bình khả năng bền bỉ cơ bản của bí thể\nTăng trung bình tỷ lệ thành công phòng thủ của bí thể\nTăng trung bình tỷ lệ trấn áp pháp bảo của bí thể</Levels.2.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_5_5">
-			<Prefix>Sunchaser</Prefix>
-			<Suffix>Legs</Suffix>
-			<Desc>Badan rahasia legendaris yang digunakan oleh seorang kultivator fisik bijak kuno. Legenda mengatakan bahwa orang bijak menjadi secepat kilat setelah mencapai tubuh rahasia dan mengejar matahari.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan akurasi serangan tubuh rahasia secara moderat.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara moderat.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Secara drastis meningkatkan akurasi serangan tubuh rahasia.\n Secara drastis meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.\n Secara drastis meningkatkan penghindaran global kultivator fisik.</Levels.1.Desc>
+			<Prefix>Đuổi Mặt Trời</Prefix>
+			<Suffix>Chân</Suffix>
+			<Desc>Bí thể truyền từ một đại thánh luyện thể thời cổ đại, truyền thuyết kể rằng đại thánh này sau khi luyện thành bí thể, thân hình như điện, đuổi theo mặt trời mà chạy.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình tỷ lệ đánh trúng của bí thể\nTăng trung bình tỷ lệ thành công phòng thủ của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh tỷ lệ đánh trúng của bí thể\nTăng mạnh tỷ lệ thành công phòng thủ của bí thể\nTăng mạnh tỷ lệ né tránh toàn diện của người luyện thể</Levels.1.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_5_6">
-			<Prefix>Illusion</Prefix>
-			<Suffix>Body</Suffix>
-			<Desc>Membentuk kembali tubuh dengan Ethereal Essence untuk secara efektif menghentikan pergerakan penyerang.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara drastis.\n Meningkatkan peluang penindasan artefak tubuh rahasia secara drastis.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Secara drastis meningkatkan penghindaran global kultivator fisik.</Levels.1.Desc>
+			<Prefix>Hư Hóa Chi</Prefix>
+			<Suffix>Thân</Suffix>
+			<Desc>Luyện thân thể bằng tinh túy vô hình, có thể cực kỳ làm rối loạn ý đồ của kẻ tấn công.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ thành công phòng thủ của bí thể\nTăng mạnh tỷ lệ trấn áp pháp bảo của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh tỷ lệ né tránh toàn diện của người luyện thể</Levels.1.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_5_7">
-			<Prefix>Granular</Prefix>
-			<Suffix>Arms</Suffix>
-			<Desc>Membentuk kembali daging di lengan menjadi bentuk mutasi yang dapat memperluas jaringan granulasi untuk mencekik benda asing di dekatnya. Sangat jahat dan aneh.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia secara drastis.\n Meningkatkan peluang penindasan artefak tubuh rahasia secara drastis.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Secara drastis meningkatkan tingkat keberhasilan pertahanan tubuh rahasia.\n Secara drastis meningkatkan peluang penindasan artefak tubuh rahasia.\n Secara drastis meningkatkan peluang penindasan artefak pada tubuh rahasia kultivator fisik.\n Mengurangi karisma secara drastis.</Levels.1.Desc>
+			<Prefix>Ngàn Xúc Tà</Prefix>
+			<Suffix>Cánh Tay</Suffix>
+			<Desc>Luyện máu thịt cánh tay thành dị thể, có thể đột biến ra các thịt nhỏ quấn quanh các vật dị. Rất tà dị.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng mạnh tỷ lệ thành công phòng thủ của bí thể\nTăng mạnh tỷ lệ trấn áp pháp bảo của bí thể</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh tỷ lệ thành công phòng thủ của bí thể\nTăng mạnh tỷ lệ trấn áp pháp bảo của bí thể\nTăng mạnh tỷ lệ trấn áp pháp bảo của tất cả bí thể của người luyện thể\nGiảm mạnh sức hút</Levels.1.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_5_8">
-			<Prefix>Perception</Prefix>
-			<Suffix>Body</Suffix>
-			<Desc>Membentuk kembali seluruh daging menjadi bentuk mutasi yang menumbuhkan banyak mata aneh untuk melihat perubahan apa pun di sekitar mereka, sehingga musuh tidak memiliki kesempatan untuk menyerang.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Meningkatkan akurasi serangan badan rahasia penggarap fisik secara moderat.\n Meningkatkan tingkat keberhasilan pertahanan badan rahasia penggarap fisik secara moderat.\n Meningkatkan peluang penekanan artefak pada badan rahasia penggarap fisik secara moderat.\n Mengurangi karisma secara drastis.</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Secara drastis meningkatkan akurasi serangan dari tubuh rahasia penggarap fisik.\n Secara drastis meningkatkan tingkat keberhasilan pertahanan dari tubuh rahasia penggarap fisik.\n Secara drastis meningkatkan kemungkinan penindasan artefak dari tubuh rahasia penggarap fisik.\n Mengurangi karisma dalam jumlah besar.</Levels.1.Desc>
+			<Prefix>Động Chân Chi</Prefix>
+			<Suffix>Thân</Suffix>
+			<Desc>Luyện máu thịt cơ thể thành dị thể, mọc ra vô số dị nhãn, có thể nhìn thấu mọi biến đổi xung quanh, khiến đối phương không có cơ hội lợi dụng.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình tỷ lệ đánh trúng của tất cả bí thể của người luyện thể\nTăng trung bình tỷ lệ thành công phòng thủ của tất cả bí thể của người luyện thể\nTăng trung bình tỷ lệ trấn áp pháp bảo của tất cả bí thể của người luyện thể\nGiảm mạnh sức hút</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Tăng mạnh tỷ lệ đánh trúng của tất cả bí thể của người luyện thể\nTăng mạnh tỷ lệ thành công phòng thủ của tất cả bí thể của người luyện thể\nTăng mạnh tỷ lệ trấn áp pháp bảo của tất cả bí thể của người luyện thể\nGiảm cực mạnh sức hút</Levels.1.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_5_9">
-			<Prefix>Bony</Prefix>
-			<Suffix>Shell</Suffix>
-			<Desc>Memutasi semua tulang agar mampu menembus kulit dan menutupi seluruh tubuh dengan cangkang tulang untuk menahan kerusakan bila diperlukan.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Secara mendasar meningkatkan daya tahan tubuh rahasia dalam jumlah sedang.\n Meningkatkan tingkat keberhasilan pertahanan tubuh rahasia dalam jumlah besar.</Levels.0.Desc>
+			<Prefix>Ngoại Cốt</Prefix>
+			<Suffix>Tà Giáp</Suffix>
+			<Desc>Dị hóa toàn bộ hệ xương, khi cần thiết có thể xuyên qua da bao phủ toàn thân, hình thành giáp xương, chống lại tổn thương.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Tăng trung bình khả năng bền bỉ cơ bản của bí thể\nTăng cực mạnh tỷ lệ thành công phòng thủ của bí thể</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_5_10">
-			<Prefix>Transcendent</Prefix>
-			<Suffix>Heart</Suffix>
-			<Desc>Membentuk kembali hati dengan objek kejahatan sejati dan membuatnya menghasilkan Qi Sejati yang aneh. Menggunakan cetakan ulang ini secara efektif dapat meningkatkan hasilnya. Jika metode ini digunakan untuk membentuk kembali jantung, ia dapat bermutasi dan mengembangkan potensi evolusi seluruh daging.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Dapatkan Mantra Remold: Remold Penolakan</Levels.0.Desc>
+			<Prefix>Siêu Việt</Prefix>
+			<Suffix>Chi Tâm</Suffix>
+			<Desc>Luyện tim bằng vật chí tà, khiến nó tạo ra chân khí kỳ dị. Sử dụng bí pháp này có thể hiệu quả nâng cao kết quả luyện thể, nếu luyện tim, thậm chí có thể khiến tim biến đổi, phát triển tiềm năng tiến hóa của toàn bộ máu thịt.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Học được phương pháp luyện thể: Trừ Dị Luyện Thể Pháp</Levels.0.Desc>
 		</Text>
 		<Text Name="SuperPart_Gong_5_11">
-			<Prefix>Rejected</Prefix>
-			<Suffix>Body</Suffix>
-			<Desc>Membentuk kembali tulang belakang dengan benda-benda jahat dan membuatnya menghasilkan Qi Sejati yang aneh. Menghasilkan Qi Sejati semacam ini dapat mempercepat metabolisme seluruh tubuh, secara drastis meningkatkan tingkat konsumsi umur dan memperoleh beberapa keterampilan khusus.</Desc>
-			<Levels.0.Title>Lapisan Pertama</Levels.0.Title>
-			<Levels.0.Desc>Pelajari Keajaiban: Kehidupan Singkat</Levels.0.Desc>
-			<Levels.1.Title>Lapisan Kedua</Levels.1.Title>
-			<Levels.1.Desc>Pelajari Keajaiban: Kehidupan yang Salah</Levels.1.Desc>
+			<Prefix>Xích Dị</Prefix>
+			<Suffix>Chi Thân</Suffix>
+			<Desc>Luyện cột sống bằng vật chí tà, khiến nó tạo ra chân khí kỳ dị. Khi vận hành chân khí này có thể tăng tốc độ trao đổi chất toàn thân, cực kỳ tăng tốc độ tiêu thụ sinh lực, đồng thời đạt được một số năng lực đặc biệt.</Desc>
+			<Levels.0.Title>Trọng Thứ Nhất</Levels.0.Title>
+			<Levels.0.Desc>Học được thần thông: Cuộc Sống Chớp Nhoáng</Levels.0.Desc>
+			<Levels.1.Title>Trọng Thứ Hai</Levels.1.Title>
+			<Levels.1.Desc>Học được thần thông: Cuộc Sống Hư Vọng</Levels.1.Desc>
 		</Text>
 	</List>
 </Texts>
+

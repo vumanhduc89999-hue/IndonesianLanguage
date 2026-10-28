@@ -68,4 +68,5 @@
 /Settings/RPG/Maps/Rpg_Tower_22/map.txt	Things.Things.229.PropertyMgr._hd.RelationData.Cache.2.SName	武	229.2	_ReplaceNpcNameInRelationData
 /Settings/RPG/Maps/Rpg_Tower_22/map.txt	Things.Things.229.Titles.0.title	不朽的痛苦	229.0	
 /Settings/RPG/Maps/Rpg_Tower_22/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param1	不朽？不过是末日的开端，永翳的阴影，毁灭的前驱……	0	
-/Settings/RPG/Maps/Rpg_Tower_22/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param2	成为不朽就意味着一切的衰亡……这个轮回，就从你开始！	0	
+/Settings/RPG/Maps/Rpg_Tower_22/map.txt	RPGInfo.Objects.0.LuaPostProcessing.Param2	成为不朽就意味着一切的衰亡……这个轮回，就从你开始！	0
+

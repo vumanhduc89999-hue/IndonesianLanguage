@@ -4,8 +4,8 @@ Up	Up		W	UpArrow	LeftAlt		Player
 down	Down		S	DownArrow	LeftAlt		Player
 left	Left		A	LeftArrow	LeftAlt		Player
 right	Right		D	RightArrow	LeftAlt		Player
-SpeedP	Lower speed		Q				Player
-SpeedN	Raise speed		E				Player
+SpeedP	Lower game speed		Q				Player
+SpeedN	Raise game speed		E				Player
 GamePauseOrPlay	Pause/Stop		Space				Player
 Attack	Attack		BackQuote				Character
 RunAway	Flee		LeftControl+BackQuote				Character
@@ -17,7 +17,7 @@ World	World Map		M				Menu
 Help	Help Menu		F10				Menu
 AttributePanel	Stats Panel		C				Character
 MoodPanel	Social/Mood Menu		F				Character
-HealthPanel	Health Menu		H				Character
+HealthPanel	Health menu		H				Character
 PracticePanel	Cultivation Menu		X				Character
 EquipmentPanel	Equipment Menu		Z				Character
 Interaction	Interaction 1-9	F1-F9				1	Character
@@ -34,10 +34,12 @@ Melting	Smelt Items		LeftControl+Y				Area
 Hunting	Hunt Animals		LeftControl+H				Area
 CancelCMD	Cancel Order		LeftControl+D				Area
 BuildPanel	Build Menu		B				Menu
-SwichNpc	Change Target		Tab				Player
+SearchPanel	SearchPanel		Y				Menu
+ProducePanel	ProducePanel	LCtrl+1~9				1	Menu
+SwichNpc	Change Target	1~9				1	Player
 33	Target Team	L-Ctrl + 1-9				1	Player
-34	Select Team	1-9				1	Player
-36	Multiple	L-Shift				1	Player
+34	Select Team		Alpha1				Player
+36	Multiple		Alpha2				Player
 Story1	Adv. Option 1		Alpha1				Adventure
 Story2	Adv. Option 2		Alpha2				Adventure
 Story3	Adv. Option 3		Alpha3				Adventure
@@ -47,12 +49,12 @@ Story6	Adv. Option 6		Alpha6				Adventure
 Story7	Adv. Option 7		Alpha7				Adventure
 Story8	Adv. Option 8		Alpha8				Adventure
 Story9	Adv. Option 9		Alpha9				Adventure
-QuickSave	Quick Save		F9				System
+QuickSave	Quick Save	Esc				1	System
 ShowOrHide	Hide/Display UI		F11				System
-37	System Menu	Esc				1	System
+37	System Menu		Comma				System
 Zhen	Formation Menu		N				Menu
 MinMap	Minimap		Comma				Menu
 ShowElement	Five Element		L				Menu
-Power	Power		K				Menu
-Miwen	Secret		U				Menu
-IllHand	Encyclopedia		O				Menu
+Power	power		K				Menu
+
+

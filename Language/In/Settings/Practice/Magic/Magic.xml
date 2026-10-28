@@ -1,252 +1,253 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SYS_LOST">
-			<DisplayName>Empty</DisplayName>
-			<Desc>Sebuah bangunan hilang yang tidak dikenali oleh siapa pun. \n(Kosong.)</Desc>
+			<DisplayName>Mô-đun bị mất</DisplayName>
+			<Desc>Vật Đánh Mất, không ai biết đây là gì.\n(Mô-đun mất).</Desc>
 		</Text>
 		<Text Name="RebornSelf">
-			<DisplayName>Reverie Rebirth</DisplayName>
-			<Desc>Teknik rahasia unik dari Sekte Taiyi. Menggunakan Mutiara Jiwa sebagai katalisnya, teknik ini menghancurkan kultivasi seseorang dan membakar Inti Emasnya. Dengan demikian cara penciptaan dibalik dan seseorang akan bereinkarnasi sebagai manusia fana.</Desc>
+			<DisplayName>Huyền Tẫn Trọng Sinh</DisplayName>
+			<Desc>Bí pháp độc môn của Thái Nhất Môn, dùng Huyền Tẫn Châu làm dẫn, tự hủy tu vi, đốt sạch Kim Đan, nghịch chuyển tạo hóa, trở về phàm thai.</Desc>
 		</Text>
 		<Text Name="JieHuiDaoPowerUp">
-			<DisplayName>Tao Refinement</DisplayName>
-			<Desc>Konsumsi satu Kesengsaraan Ashe dan gunakan pada item, memberikan peluang untuk meningkatkan tingkat item sebanyak 1.</Desc>
+			<DisplayName>Pháp Luyện Đạo Tẩy</DisplayName>
+			<Desc>Sử dụng lên một vật phẩm, tiêu hao một lượng tro kiếp, có khả năng tăng cấp vật phẩm lên 1 cấp.</Desc>
 		</Text>
 		<Text Name="SoulCrystalYouPowerUp">
-			<DisplayName>Specter Refinement</DisplayName>
-			<Desc>Konsumsi satu Permata Jiwa Penderitaan untuk digunakan pada satu item, dengan peluang meningkatkan tingkat item sebanyak 1.</Desc>
+			<DisplayName>Pháp Luyện U Tẩy</DisplayName>
+			<Desc>Sử dụng lên một vật phẩm, tiêu hao một lượng u phách, có khả năng tăng cấp vật phẩm lên 1 cấp.</Desc>
 		</Text>
 		<Text Name="SoulCrystalLingPowerUp">
-			<DisplayName>Spiritual Refinement</DisplayName>
-			<Desc>Mengkonsumsi satu Permata Jiwa Roh untuk digunakan pada satu item, dengan peluang meningkatkan Tingkat Penahanan Qi item tersebut (jika item tersebut adalah artefak, tingkatkan Kapasitas Qi sebagai gantinya).</Desc>
+			<DisplayName>Pháp Luyện Linh Tẩy</DisplayName>
+			<Desc>Sử dụng lên một vật phẩm, tiêu hao một lượng linh phách, có khả năng tăng tỷ lệ dung nạp linh khí của vật phẩm (nếu là pháp bảo thì sẽ tăng dung lượng linh khí của nó).</Desc>
 		</Text>
 		<Text Name="MakeSoulCrystal">
-			<DisplayName>Soul Chant</DisplayName>
-			<Desc>Gunakan pada karakter yang belum digarap, karakter sekarat, atau Roh Hidup untuk mengumpulkan Permata Jiwa mereka. Hanya dapat digunakan sekali pada setiap target.</Desc>
+			<DisplayName>Ngưng Phách Quyết</DisplayName>
+			<Desc>Sử dụng lên một nhân vật không có tu vi, nhân vật đang hấp hối hoặc tinh quái, thu lấy phách của họ. Chỉ có thể sử dụng một lần trên cùng một đối tượng.</Desc>
 		</Text>
 		<Text Name="MakePuppet">
-			<DisplayName>Soul Mastery</DisplayName>
-			<Desc>Gunakan pada mayat untuk membangunkannya. Tubuh yang terbangun dapat melakukan pekerjaan fisik sederhana, dengan kualitas yang terkait dengan kondisi budidayanya saat masih hidup. \N[color=#D06508]Setiap pembudidaya hanya dapat mengendalikan satu kapal.[/color]</Desc>
+			<DisplayName>Ngự Linh Thuật</DisplayName>
+			<Desc>Giải phóng lên một thân thể, đánh thức nó. Thân thể được đánh thức có thể đảm nhận một số công việc lao động đơn giản, phẩm chất của nó liên quan đến cảnh giới của thân thể trước khi chết.\n[color=#D06508]Mỗi người tu hành chỉ có thể điều khiển một con rối[/color]</Desc>
 		</Text>
 		<Text Name="BuidPuppet">
-			<DisplayName>Ensoulment</DisplayName>
-			<Desc>Lepaskan pada wadah untuk memberkahinya dengan jiwa. Kapal yang dijiwai dapat melakukan pekerjaan fisik sederhana, dengan kualitas yang bergantung pada tingkatannya saat dibuat. \N[color=#D06508]Setiap pembudidaya hanya dapat mengendalikan satu kapal.[/color]</Desc>
+			<DisplayName>Phú Linh Thuật</DisplayName>
+			<Desc>Giải phóng lên một con rối, ban cho nó linh tính. Con rối được ban linh tính có thể đảm nhận một số công việc lao động đơn giản, phẩm chất của nó liên quan đến phẩm cấp của con rối.\n[color=#D06508]Mỗi người tu hành chỉ có thể điều khiển một con rối[/color]</Desc>
 		</Text>
 		<Text Name="SeachSoul">
-			<DisplayName>Soul Inquiry</DisplayName>
-			<Desc>Gunakan pada karakter yang sekarat dan Anda memiliki peluang tertentu untuk mendapatkan manual rahasia atau pengetahuan lainnya. Melakukannya di lokasi dengan Feng Shui yang jahat dapat meningkatkan peluang memperoleh informasi.</Desc>
+			<DisplayName>Đại Pháp Tìm Hồn</DisplayName>
+			<Desc>Sử dụng lên một nhân vật đang hấp hối, có một tỷ lệ nhất định để nhận được công pháp bí kíp hoặc tri thức khác của họ. Khi thực hiện tại nơi hung sát sẽ tăng xác suất thu được thông tin.</Desc>
 		</Text>
 		<Text Name="ClosedDoor">
-			<DisplayName>Meditation</DisplayName>
-			<Desc>Masuki kondisi meditasi untuk berkultivasi sendiri. Ini akan dengan cepat menghabiskan umur dan stamina seseorang. Dapatkan Budidaya dengan cepat dan tingkatkan Qi maksimal.</Desc>
+			<DisplayName>Nhập Định</DisplayName>
+			<Desc>Vào trạng thái định cảnh để tu luyện, sẽ nhanh chóng tiêu hao tuổi thọ và tinh nguyên. Có thể nhanh chóng đạt được tu vi và tăng tối đa linh khí.</Desc>
 		</Text>
 		<Text Name="ClosedDoor_Gong1">
-			<DisplayName>Zen Reflection</DisplayName>
-			<Desc>Metode meditasi rahasia yang tercatat dalam Hukum Enam Belas Langkah Tertinggi. Visualisasikan cermin air di alam spiritual untuk memasuki kondisi meditasi dalam meditasi, dengan cepat menghasilkan stamina dengan menghabiskan umur. Dalam keadaan ini, roh praktisi memasuki kehampaan. Karena itu, bahkan pikirannya pun terhenti; oleh karena itu Budidaya tidak ditingkatkan selama ini.</Desc>
+			<DisplayName>Thủy Kính Quán Tâm Định</DisplayName>
+			<Desc>Bí pháp nhập định được ghi lại trong Thái Hòa Thập Lục Động Thiên, trong trạng thái định cảnh của nguyên thần, quán tưởng thủy kính, vào định trong định, nhanh chóng tiêu hao tuổi thọ để luyện hóa tinh nguyên. Trong trạng thái này, nguyên thần của người tu hành bước vào cảnh không vô, tư duy ngừng lại, vì vậy tu vi sẽ không tăng lên.</Desc>
 		</Text>
 		<Text Name="ClosedDoor_Gong4">
-			<DisplayName>Astral Meditation</DisplayName>
-			<Desc>Metode meditasi rahasia yang tercatat dalam Hukum Abadi Kemurnian Giok, memungkinkan roh seseorang melakukan perjalanan ke Alam Primordial di awal langit dan bumi. Ini lebih efisien dan biaya umurnya lebih rendah dibandingkan dengan teknik meditasi biasa.</Desc>
+			<DisplayName>Ngọc Thanh Định Cảnh</DisplayName>
+			<Desc>Bí pháp nhập định được ghi lại trong Ngọc Thanh Tiên Pháp, có thể dùng nguyên thần du ngoạn cảnh giới nguyên thủy của trời đất sơ khai, so với pháp nhập định thế truyền thì hiệu suất cao hơn, tiêu hao tuổi thọ ít hơn.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Aoe">
-			<DisplayName>Spiritual Breath Chant</DisplayName>
-			<Desc>Pergi ke lokasi yang ditentukan untuk menyerap Qi di lingkungannya.</Desc>
+			<DisplayName>Linh Tức Quyết</DisplayName>
+			<Desc>Đến địa điểm chỉ định để hấp thụ linh khí từ môi trường.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Live">
-			<DisplayName>Way of the Reaper</DisplayName>
-			<Desc>Gunakan pada makhluk hidup tanpa pengalaman kultivasi, gunakan umurnya untuk meningkatkan Qi Anda.</Desc>
+			<DisplayName>Minh Linh Chân Pháp</DisplayName>
+			<Desc>Sử dụng lên một sinh vật không có tu vi, tiêu hao tuổi thọ của mục tiêu, bổ sung linh khí cho bản thân.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Body">
-			<DisplayName>Sanguine Absorption</DisplayName>
-			<Desc>Transmutasi darah dan daging tubuh untuk meningkatkan Qi Anda.</Desc>
+			<DisplayName>Thiên Yêu Hóa Huyết Thuật</DisplayName>
+			<Desc>Luyện hóa một thi thể, luyện hóa máu thịt của nó, bổ sung linh khí cho bản thân.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Thing">
-			<DisplayName>One with Mountain</DisplayName>
-			<Desc>Gunakan pada bangunan, tanaman, dan mineral di peta untuk menyerap Qi-nya. Semakin banyak Qi yang dimiliki target dan semakin tinggi maksimum Qi Anda, semakin cepat kecepatan penyerapan Anda.</Desc>
+			<DisplayName>Thác Thể Đồng Sơn Quyết</DisplayName>
+			<Desc>Sử dụng lên các công trình, thực vật, khoáng vật trong cảnh quan, có thể hấp thụ linh khí từ chúng. Mục tiêu càng nhiều linh khí, giới hạn linh khí của bản thân càng cao, tốc độ hấp thụ càng nhanh.</Desc>
 		</Text>
 		<Text Name="AbsorbLing_Item">
-			<DisplayName>Palm of Absorption</DisplayName>
-			<Desc>Gunakan pada suatu item untuk menyerap Qi-nya untuk Anda gunakan sendiri.</Desc>
+			<DisplayName>Hấp Tinh Chưởng</DisplayName>
+			<Desc>Sử dụng lên một vật phẩm, hấp thụ linh khí của nó làm của mình.</Desc>
 		</Text>
 		<Text Name="Healing_Damage">
-			<DisplayName>Panacea</DisplayName>
-			<Desc>Gerakkan kekuatanmu untuk menyembuhkan Cedera Batin target. Efek penyembuhan berhubungan dengan jumlah Qi penyembuh.</Desc>
+			<DisplayName>Hóa Thương Thuật</DisplayName>
+			<Desc>Vận công chữa trị nội thương của một mục tiêu. Hiệu quả và lượng linh khí của người thực hiện liên quan đến nhau.</Desc>
 		</Text>
 		<Text Name="BuildBody">
-			<DisplayName>Reconstruction</DisplayName>
-			<Desc>Meregenerasi anggota tubuh target, memulihkan semua bagian tubuh mereka yang hilang.</Desc>
+			<DisplayName>Tái Tạo Thuật</DisplayName>
+			<Desc>Tái sinh một chi bị đứt, tái tạo tất cả các bộ phận đã mất của mục tiêu.</Desc>
 		</Text>
 		<Text Name="RobBodyLow">
-			<DisplayName>Yin God Possession</DisplayName>
-			<Desc>Teknik kepemilikan tingkat rendah. Rebut tubuh makhluk hidup yang tidak memiliki pengalaman berkultivasi. Namun, sebagian besar pengalaman kultivasi pengguna akan hilang, akibatnya menyebabkan ketidakcocokan jiwa.</Desc>
+			<DisplayName>Âm Thần Đoạt Xá</DisplayName>
+			<Desc>Phương pháp đoạt xá cấp thấp, đoạt lấy thân thể của một sinh vật không có tu vi. Nhưng sẽ mất nhiều công sức tu luyện, và do đó hồn phách không hòa hợp.</Desc>
 		</Text>
 		<Text Name="RobBodyHigh">
-			<DisplayName>Yang God Possession</DisplayName>
-			<Desc>Teknik kepemilikan tingkat lanjut. Rebut sepenuhnya tubuh makhluk hidup yang tidak memiliki pengalaman budidaya, tetapi sebagian besar pengalaman budidaya pengguna akan hilang.</Desc>
+			<DisplayName>Dương Thần Đoạt Xá</DisplayName>
+			<Desc>Phương pháp đoạt xá cao cấp, hoàn toàn đoạt lấy thân thể của một sinh vật không có tu vi, nhưng sẽ mất nhiều công sức tu luyện.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_1">
-			<DisplayName>Qi Absorption Cauldron</DisplayName>
-			<Desc>Menyerap umur makhluk hidup yang tidak memiliki pengalaman berkultivasi, meningkatkan pengalaman dan Inspirasi kultivasi seseorang. Lebih efektif pada target dengan Fisik yang lebih baik.</Desc>
+			<DisplayName>Đỉnh Lô Hấp Chân Thuật</DisplayName>
+			<Desc>Hấp thụ tuổi thọ của một sinh vật không có tu vi, tăng tu vi cho bản thân, đồng thời thu được tham ngộ. Thể chất của mục tiêu càng cao, hiệu quả càng mạnh.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_1_Gong9">
-			<DisplayName>Alleviation of Singularity</DisplayName>
-			<Desc>Memanfaatkan kekuatan enam alam eksistensi untuk memulai keajaiban penyerapan Kuali Dalam, memungkinkan seseorang untuk lebih efisien menyerap umur makhluk hidup tanpa pengalaman budidaya, meningkatkan pengalamannya sendiri dan mendapatkan Inspirasi. Lebih efektif pada target dengan Fisik yang lebih baik.</Desc>
+			<DisplayName>Nguyên Ương Quy Tức Pháp</DisplayName>
+			<Desc>Sử dụng lực luân hồi để thúc đẩy đỉnh lò hấp chân pháp quyết, có thể hấp thụ tuổi thọ của một sinh vật không có tu vi hiệu quả hơn, tăng tu vi cho bản thân, đồng thời thu được tham ngộ. Thể chất của mục tiêu càng cao, hiệu quả càng mạnh.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_2">
-			<DisplayName>Alluring Illusion</DisplayName>
-			<Desc>Ciptakan dunia ilusi untuk merayu makhluk hidup dari ras yang sama dengan pengguna yang tidak memiliki pengalaman budidaya lawan jenis, menyerap umur mereka untuk meningkatkan pengalaman sendiri dan mendapatkan Inspirasi. Lebih efektif pada target dengan Karisma lebih tinggi.</Desc>
+			<DisplayName>Phong Nguyệt Huyễn Cảnh</DisplayName>
+			<Desc>Sử dụng ảo cảnh mê hoặc một người hình không có tu vi khác giới, trong ảo cảnh đoạt lấy tuổi thọ của họ, tăng tu vi cho bản thân, đồng thời thu được tham ngộ. Mị lực của mục tiêu càng cao, hiệu quả càng mạnh.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_2_Gong7">
-			<DisplayName>Illusory Realm</DisplayName>
-			<Desc>Ciptakan dunia ilusi untuk merayu makhluk hidup dari ras yang sama dengan pengguna yang tidak memiliki pengalaman budidaya lawan jenis, menyerap umur mereka untuk meningkatkan pengalaman sendiri dan mendapatkan Inspirasi. Lebih efektif pada target dengan Karisma lebih tinggi.</Desc>
+			<DisplayName>Như Ý Ảo Cảnh</DisplayName>
+			<Desc>Sử dụng ảo cảnh mê hoặc một người hình không có tu vi khác giới, trong ảo cảnh đoạt lấy tuổi thọ của họ, tăng tu vi cho bản thân, đồng thời thu được tham ngộ. Mị lực của mục tiêu càng cao, hiệu quả càng mạnh.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_3">
-			<DisplayName>Soul Snatcher</DisplayName>
-			<Desc>Rebut tubuh makhluk hidup yang tidak memiliki pengalaman kultivasi, ubah dan manfaatkan kekuatannya untuk meningkatkan pengalaman kultivasi Anda sendiri sambil mendapatkan Inspirasi. Lebih efektif dengan target Intelegensi yang lebih tinggi.</Desc>
+			<DisplayName>Nhiếp Thần Ngự Quỷ Đại Pháp</DisplayName>
+			<Desc>Đoạt lấy hồn phách của một sinh vật không có tu vi, luyện hóa nó để tăng tu vi cho bản thân, đồng thời thu được tham ngộ. Ngộ tính của mục tiêu càng cao, hiệu quả càng mạnh.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_3_Gong11">
-			<DisplayName>Nether Spirit Forging</DisplayName>
-			<Desc>Memanfaatkan kekuatan Nether untuk mentransmutasikan jiwa makhluk hidup yang tidak memiliki pengalaman kultivasi, sehingga meningkatkan pengalamannya sendiri dan memperoleh Inspirasi. Lebih efektif dengan target Intelegensi yang lebih tinggi.</Desc>
+			<DisplayName>Cửu U Luyện Thần</DisplayName>
+			<Desc>Sử dụng lực Cửu U luyện hóa hồn phách của một sinh vật không có tu vi, từ đó tăng tu vi cho bản thân, đồng thời thu được tham ngộ. Ngộ tính của mục tiêu càng cao, hiệu quả càng mạnh.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_4">
-			<DisplayName>Refine Soul</DisplayName>
-			<Desc>Melakukan penyiksaan yang meleburkan jiwa pada makhluk hidup yang tidak memiliki pengalaman budidaya dari ras yang sama dengan penggunanya, menimbulkan rasa sakit yang luar biasa pada mereka. dan sangat menikmatinya.</Desc>
+			<DisplayName>Luyện hồn</DisplayName>
+			<Desc>Thi triển hình phạt luyện hồn lên một sinh vật hình người không có tu vi, khiến chúng cảm nhận nỗi đau to lớn. Và từ đó nhận được niềm vui.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_5">
-			<DisplayName>Exploitation of External Pleasures</DisplayName>
-			<Desc>Targetkan makhluk hidup yang tidak memiliki pengalaman budidaya dari ras yang sama dengan pengguna. Jika target berada dalam suasana hati yang ekstrem (bilah suasana hati di atas 160 atau di bawah 40), dapatkan Inspirasi dan pengalaman pengembangan darinya. Begitu mukjizat terjadi, pengaruhnya akan bertahan tanpa batas waktu. Semakin ekstrem Mood targetnya, semakin kuat pula efek keajaibannya. \nUntuk setiap target yang Anda gunakan, nilai dasar Kondisi Mental dan Suasana Hati Anda berkurang, dan target Anda menjadi lebih rentan terhadap kemarahan. Anda dapat berhenti melakukan keajaiban dengan menggunakannya kembali pada target yang sama.</Desc>
+			<DisplayName>Tha Hóa Tự Tại Đại Pháp</DisplayName>
+			<Desc>Thi triển pháp thuật lên một sinh vật hình người không có tu vi, khi mục tiêu ở trạng thái cảm xúc cực đoan (trên 160 hoặc dưới 40), có thể từ đó thu được tham ngộ và tu vi. Thần thông một khi được giải phóng sẽ tiếp tục tác dụng, cảm xúc của mục tiêu càng cực đoan, hiệu quả của thần thông càng mạnh.\nMỗi lần thi triển lên một mục tiêu, tâm trạng và giá trị tâm cảnh cơ bản của bản thân sẽ giảm đi một chút, mục tiêu sẽ dễ dàng trở nên kích động và tức giận hơn. Khi thi triển lại với mục tiêu đã được giải phóng, có thể thu hồi thần thông.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_6">
-			<DisplayName>Soul Infection</DisplayName>
-			<Desc>Pelajari Keajaiban: Infeksi Jiwa\nLepaskan makhluk tak terkultivasi yang sejenis dengan milik Anda, tempelkan secercah roh primordial Anda ke dalamnya dan ubah Fondasi dari target yang terinfeksi menjadi Budidaya dan Inspirasi Anda dalam jumlah yang setara setiap hari pada pukul 0:00. \nUntuk setiap unit yang Anda infeksi, pikiran Anda akan rusak dan jiwa Anda terbelah, dan target akan melemah karena parasit. Anda dapat berhenti melakukan keajaiban dengan menggunakannya kembali pada target yang sama.</Desc>
+			<DisplayName>Hồn Thể Ký Sinh</DisplayName>
+			<Desc>Học được thần thông: Hồn Thể Ký Sinh\nThi triển pháp thuật lên một sinh vật hình người không có tu vi, ký sinh một tia nguyên thần của bản thân lên đó. Mỗi ngày vào lúc 0 giờ, toàn bộ giá trị trúc cơ của mục tiêu ký sinh sẽ được chuyển hóa thành tu vi và sự ngộ đạo tương đương cho bản thân.\nMỗi lần ký sinh một đơn vị, bản thân sẽ bị tổn hại thần trí do phân hồn, còn mục tiêu sẽ trở nên suy yếu do bị ký sinh. Nếu thi triển lại lên mục tiêu đã ký sinh, có thể thu hồi thần thông.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_7">
-			<DisplayName>Sacrifice Offering</DisplayName>
-			<Desc>Tawarkan makhluk hidup tanpa pengalaman budidaya dari ras yang sama dengan pengguna sebagai pengorbanan kepada jiwa iblis, yang akan mengambil beberapa organ pengorbanan secara acak, dan memberi pengguna sejumlah besar pengalaman dan Inspirasi sebagai imbalannya. Semakin kuat Lima Atribut target, semakin besar efek pengorbanannya.</Desc>
+			<DisplayName>Hiến Tế</DisplayName>
+			<Desc>Hiến tế một sinh vật hình người không có tu vi cho ma hồn, ma hồn sẽ ngẫu nhiên lấy đi một số cơ quan của vật hiến tế và phản hồi lại cho ngươi một lượng lớn tu vi và sự ngộ đạo. Thuộc tính ngũ hành của mục tiêu càng mạnh, hiệu quả hiến tế càng cao.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_8">
-			<DisplayName>Incantation of Mind Cleansing</DisplayName>
-			<Desc>Ucapkan mantra dan berikan makhluk hidup yang tidak memiliki pengalaman budidaya dari ras yang sama dengan pengguna dengan status suasana hati yang positif.</Desc>
+			<DisplayName>Thanh Tâm Chú</DisplayName>
+			<Desc>Thi triển pháp thuật, mang lại tâm trạng tốt cho một sinh vật hình người không có tu vi.</Desc>
 		</Text>
 		<Text Name="PlantGrowUp">
-			<DisplayName>Chant of Wood Mastery</DisplayName>
-			<Desc>Konsentrasikan Qi purba Anda dan masukkan ke dalam tanaman target, sehingga meningkatkan laju pertumbuhannya secara signifikan. Berlangsung 1 hari. Kurang efektif pada tanaman tingkat tinggi. Metode ini sangat merusak Qi purba Anda, gunakan dengan hati-hati.</Desc>
+			<DisplayName>Ngự Mộc Quyết</DisplayName>
+			<Desc>Ngưng tụ nguyên khí của bản thân, truyền vào cây mục tiêu, tăng tốc độ sinh trưởng của nó một cách đáng kể trong 1 ngày. Cấp bậc của cây càng cao, hiệu quả càng giảm. Pháp thuật này gây tổn hại lớn đến nguyên khí, cần cẩn thận khi sử dụng.</Desc>
 		</Text>
 		<Text Name="PlantGrowUp_Gong1">
-			<DisplayName>Rainchant</DisplayName>
-			<Desc>Tingkatkan Qi langit dan bumi dan masukkan ke dalam tanaman target, sedikit tingkatkan laju pertumbuhannya selama 7 hari. Kurang efektif pada tanaman tingkat tinggi.</Desc>
+			<DisplayName>Thiên Lâm Quyết</DisplayName>
+			<Desc>Dẫn động khí sinh phát của trời đất, truyền vào cây mục tiêu, tăng tốc độ sinh trưởng của nó một chút trong 7 ngày. Cấp bậc của cây càng cao, hiệu quả càng giảm.</Desc>
 		</Text>
 		<Text Name="PlantGrowUp_Gong9">
-			<DisplayName>Botanic Revitalization</DisplayName>
-			<Desc>Memanfaatkan Qi murni dan halus dari elemen Kayu untuk menghidupkan sepenuhnya daya hidup tanaman, meningkatkan laju pertumbuhannya secara signifikan selama 1 hari. Kurang efektif pada tanaman tingkat tinggi.</Desc>
+			<DisplayName>Vạn Mộc Hồi Xuân</DisplayName>
+			<Desc>Kích hoạt toàn bộ sinh cơ của cây bằng linh khí thuộc tính mộc tinh khiết, có thể tăng tốc độ sinh trưởng của nó đáng kể trong 1 ngày. Cấp bậc của cây càng cao, hiệu quả càng giảm.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_9_1">
-			<DisplayName>Way of Celestial Heart</DisplayName>
-			<Desc>Mengkonsumsi 10 tahun umur pengguna untuk meningkatkan kemampuan mereka dalam waktu singkat dan memulihkan Qi.</Desc>
+			<DisplayName>Thiên Tâm Chính Pháp</DisplayName>
+			<Desc>Tiêu hao 10 năm tuổi thọ, trong thời gian ngắn tăng cường khả năng bản thân và phục hồi giá trị linh khí.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_9_2">
-			<DisplayName>Inner Demons Unchained</DisplayName>
-			<Desc>Mengkonsumsi 10 tahun umur pengguna untuk meningkatkan kemampuan mereka dalam waktu singkat dan memulihkan Qi.</Desc>
+			<DisplayName>Thiên Ma Giải Thể Đại Pháp</DisplayName>
+			<Desc>Tiêu hao 10 năm tuổi thọ, trong thời gian ngắn tăng cường khả năng bản thân và phục hồi giá trị linh khí.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_9_3">
-			<DisplayName>Incredible Force</DisplayName>
-			<Desc>Mengkonsumsi 10 tahun umur pengguna untuk meningkatkan kemampuan mereka dalam waktu singkat dan memulihkan Qi.</Desc>
+			<DisplayName>Sức Mạnh Bùng Nổ</DisplayName>
+			<Desc>Tiêu hao 10 năm tuổi thọ, trong thời gian ngắn tăng cường khả năng bản thân và phục hồi giá trị linh khí.</Desc>
 		</Text>
 		<Text Name="AbsorbGong_10">
-			<DisplayName>Wise Detachment</DisplayName>
-			<Desc>Ucapkan mantra pada makhluk hidup yang tidak memiliki pengalaman berkultivasi, hilangkan semua status suasana hati sementaranya.</Desc>
+			<DisplayName>Tuệ Kiếm Trảm Niệm</DisplayName>
+			<Desc>Thi triển pháp thuật lên một sinh vật không có tu vi, loại bỏ toàn bộ cảm xúc ngắn hạn của mục tiêu.</Desc>
 		</Text>
 		<Text Name="LingStoneMake">
-			<DisplayName>Spirit Stone Refinement</DisplayName>
-			<Desc>Padatkan setiap 5000 Qi menjadi Batu Roh. Proses ini akan berlanjut tanpa batas waktu hingga Anda menghentikannya atau Qi tidak mencukupi.</Desc>
+			<DisplayName>Luyện chế linh thạch.</DisplayName>
+			<Desc>Ngưng tụ linh khí thành linh thạch, mỗi 5000 linh khí tạo thành một viên. Hành động này sẽ tiếp tục thực hiện cho đến khi dừng lại hoặc linh khí không đủ.</Desc>
 		</Text>
 		<Text Name="LingCrystalMake">
-			<DisplayName>Spirit Crystal Refinement</DisplayName>
-			<Desc>Padatkan Qi menjadi Kristal Roh.</Desc>
+			<DisplayName>Luyện chế linh tinh.</DisplayName>
+			<Desc>Ngưng tụ linh khí thành linh tinh.</Desc>
 		</Text>
 		<Text Name="PrayForRain">
-			<DisplayName>Rainmaking</DisplayName>
-			<Desc>Membawa hujan melalui keajaiban. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.</Desc>
+			<DisplayName>Cầu Vũ Thuật</DisplayName>
+			<Desc>Sử dụng thần thông để cầu một trận mưa, nhưng hành động này làm can thiệp thiên số, sẽ tổn hại tuổi thọ.</Desc>
 		</Text>
 		<Text Name="PrayForSun">
-			<DisplayName>Chant of Cloud Dispelling</DisplayName>
-			<Desc>Ciptakan cuaca cerah melalui keajaiban. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.</Desc>
+			<DisplayName>Khu Vân Quyết</DisplayName>
+			<Desc>Sử dụng thần thông để làm trời quang đãng, nhưng hành động này làm can thiệp thiên số, sẽ tổn hại tuổi thọ.</Desc>
 		</Text>
 		<Text Name="PrayForRain_FeiHorse">
-			<DisplayName>Rain making(Fei)</DisplayName>
-			<Desc>Tekan Fei'talent dan buat hujan.</Desc>
+			<DisplayName>Thuật cầu mưa (Phi).</DisplayName>
+			<Desc>Kích phát thiên phú của Phi, cầu một trận mưa.</Desc>
 		</Text>
 		<Text Name="PrayForSun_LuShuHorse">
-			<DisplayName>Cloud Dispelling(LuShu)</DisplayName>
-			<Desc>Tekan bakat Lushu dan hilangkan awan.</Desc>
+			<DisplayName>Khu vân quyết (Lộc Thục).</DisplayName>
+			<Desc>Kích phát thiên phú của Lộc Thục, làm trời quang đãng.</Desc>
 		</Text>
 		<Text Name="PrayForRainstorm">
-			<DisplayName>Rainstorm</DisplayName>
-			<Desc>Membawa hujan badai melalui keajaiban di musim dingin dan musim panas. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.</Desc>
+			<DisplayName>Bạo Vũ Thuật</DisplayName>
+			<Desc>Vào mùa đông hoặc mùa hè, sử dụng thần thông cầu một trận mưa lớn, nhưng hành động này làm can thiệp thiên số, sẽ tổn hại tuổi thọ.</Desc>
 		</Text>
 		<Text Name="PrayForZhenShuiJieJie_Gong1">
-			<DisplayName>Qi Aquasphere</DisplayName>
-			<Desc>Memanfaatkan kekuatan sihir yang besar untuk menempatkan ladang air di dalam area yang ditentukan, menurunkan suhu sekitar secara signifikan. Secara signifikan meningkatkan ketahanan alami dan tingkat pemulihan Qi semua karakter ramah. Hanya satu bidang yang mungkin ada pada waktu tertentu.</Desc>
+			<DisplayName>Cửu Âm Chân Thủy Giới</DisplayName>
+			<Desc>Sử dụng đại pháp lực để bố trí kết giới chân thủy trong khu vực này, làm giảm nhiệt độ đáng kể, tăng tốc độ phục hồi tự nhiên và linh khí của tất cả các nhân vật phe ta. Chỉ có thể tồn tại một kết giới cùng lúc.</Desc>
 		</Text>
 		<Text Name="PrayForFohn">
-			<DisplayName>Foehn Wind</DisplayName>
-			<Desc>Panggil hembusan angin foehn melalui keajaiban di musim panas dan musim gugur. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.</Desc>
+			<DisplayName>Phần Phong Thuật</DisplayName>
+			<Desc>Vào mùa hè hoặc mùa thu, sử dụng thần thông triệu hồi gió nóng, nhưng hành động này làm can thiệp thiên số, sẽ tổn hại tuổi thọ.</Desc>
 		</Text>
 		<Text Name="PrayForZhenHuoJieJie_Gong10">
-			<DisplayName>Qi Ignosphere</DisplayName>
-			<Desc>Memanfaatkan kekuatan sihir yang besar untuk menempatkan medan terbakar di area yang ditentukan, meningkatkan suhu sekitar secara signifikan. Meningkatkan Kekuatan Sihir semua karakter teman secara signifikan. Hanya satu bidang yang mungkin ada pada waktu tertentu.</Desc>
+			<DisplayName>Cửu Dương Thần Hỏa Giới</DisplayName>
+			<Desc>Sử dụng đại pháp lực để bố trí kết giới thần hỏa cửu dương trong khu vực này, làm tăng nhiệt độ đáng kể, tăng sức mạnh pháp thuật của tất cả các nhân vật phe ta. Chỉ có thể tồn tại một kết giới cùng lúc.</Desc>
 		</Text>
 		<Text Name="PrayForDustStorm">
-			<DisplayName>Dust Devil</DisplayName>
-			<Desc>Membawa badai pasir melalui keajaiban di musim dingin dan musim semi. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.</Desc>
+			<DisplayName>Trần Bạo Thuật</DisplayName>
+			<Desc>Vào mùa đông hoặc mùa xuân, sử dụng thần thông cầu một trận bão cát, nhưng hành động này làm can thiệp thiên số, sẽ tổn hại tuổi thọ.</Desc>
 		</Text>
 		<Text Name="PrayForMiasma">
-			<DisplayName>Toxic Miasma</DisplayName>
-			<Desc>Ciptakan awan racun melalui keajaiban di musim semi dan musim panas. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.</Desc>
+			<DisplayName>Độc Chướng Thuật</DisplayName>
+			<Desc>Vào mùa xuân hoặc mùa hè, sử dụng thần thông cầu một vùng sương độc, nhưng hành động này làm can thiệp thiên số, sẽ tổn hại tuổi thọ.</Desc>
 		</Text>
 		<Text Name="PrayForLightningStorm">
-			<DisplayName>Thunderstorm</DisplayName>
-			<Desc>Hadirkan badai petir melalui keajaiban di musim panas dan musim gugur. Namun, tindakan ini mengganggu jalan surga dan akan mengurangi umur seseorang.</Desc>
+			<DisplayName>Lôi Bạo Thuật</DisplayName>
+			<Desc>Vào mùa hè hoặc mùa thu, sử dụng thần thông cầu một trận bão sét, nhưng hành động này làm can thiệp thiên số, sẽ tổn hại tuổi thọ.</Desc>
 		</Text>
 		<Text Name="PrayForBeiDouJianJie_Gong8">
-			<DisplayName>Grand Chariot Bladezone</DisplayName>
-			<Desc>Manfaatkan kekuatan sihir yang besar untuk menempatkan medan pedang di area yang ditentukan, secara signifikan meningkatkan kekuatan artefak untuk semua karakter ramah. Hanya satu bidang yang mungkin ada pada waktu tertentu.</Desc>
+			<DisplayName>Bắc Đẩu Kiếm Giới</DisplayName>
+			<Desc>Sử dụng đại pháp lực để bố trí kết giới kiếm Bắc Đẩu trong khu vực này, làm tăng sức mạnh pháp bảo của tất cả các nhân vật phe ta. Chỉ có thể tồn tại một kết giới cùng lúc.</Desc>
 		</Text>
 		<Text Name="Healing_Physique">
-			<DisplayName>Resilient</DisplayName>
-			<Desc>Mengkonsumsi umur 60 tahun dan Qi dalam jumlah besar untuk melakukan Pembersihan menyeluruh bagi makhluk hidup yang tidak memiliki pengalaman budidaya, meningkatkan Konstitusi mereka setidaknya 20%. Semakin rendah nilai awalnya, semakin besar pengaruhnya. Hanya dapat dilakukan satu kali pada suatu target selama masa pakainya.</Desc>
+			<DisplayName>Phạt mao tẩy tủy</DisplayName>
+			<Desc>Tiêu hao một giáp tử tuổi thọ và lượng lớn linh khí, thực hiện phạt mao tẩy tủy cho một sinh vật không có tu vi, tăng cường căn cốt của nó. Giá trị ban đầu càng thấp, hiệu quả càng cao, tối thiểu tăng 20% căn cốt. Mục tiêu chỉ có thể được thi triển một lần trong đời.</Desc>
 		</Text>
 		<Text Name="Healing_Intelligence">
-			<DisplayName>Enlightened</DisplayName>
-			<Desc>Mengkonsumsi umur 60 tahun dan Qi dalam jumlah besar untuk mencerahkan makhluk hidup tanpa pengalaman kultivasi secara menyeluruh, meningkatkan Kecerdasan mereka setidaknya 20%. Semakin rendah nilai awalnya, semakin besar pengaruhnya. Hanya dapat dilakukan satu kali pada suatu target selama masa pakainya.</Desc>
+			<DisplayName>Đề hồ quán đỉnh</DisplayName>
+			<Desc>Tiêu hao một giáp tử tuổi thọ và lượng lớn linh khí, thực hiện đề hồ quán đỉnh cho một sinh vật không có tu vi, tăng cường ngộ tính của nó. Giá trị ban đầu càng thấp, hiệu quả càng cao, tối thiểu tăng 20% ngộ tính. Mục tiêu chỉ có thể được thi triển một lần trong đời.</Desc>
 		</Text>
 		<Text Name="Healing_Charisma">
-			<DisplayName>Charismatic</DisplayName>
-			<Desc>Mengkonsumsi umur 60 tahun dan Qi dalam jumlah besar untuk merekonstruksi tubuh dan jiwa makhluk hidup tanpa pengalaman kultivasi, meningkatkan Karisma mereka setidaknya 20%. Semakin rendah nilai awalnya, semakin besar pengaruhnya. Hanya dapat dilakukan satu kali pada suatu target selama masa pakainya.</Desc>
+			<DisplayName>Tái tạo hình thần.</DisplayName>
+			<Desc>Tiêu hao một giáp tử tuổi thọ và lượng lớn linh khí, thực hiện tái tạo hình thần cho một sinh vật không có tu vi, tăng cường mị lực của nó. Giá trị ban đầu càng thấp, hiệu quả càng cao, tối thiểu tăng 20% mị lực. Mục tiêu chỉ có thể được thi triển một lần trong đời.</Desc>
 		</Text>
 		<Text Name="Healing_Perception">
-			<DisplayName>Perceptive</DisplayName>
-			<Desc>Mengkonsumsi umur 60 tahun dan Qi dalam jumlah besar untuk mengaktifkan Mata Ketiga pada makhluk hidup yang tidak memiliki pengalaman kultivasi, meningkatkan Persepsi mereka setidaknya 20%. Semakin rendah nilai awalnya, semakin besar pengaruhnya. Hanya dapat dilakukan satu kali pada suatu target selama masa pakainya.</Desc>
+			<DisplayName>Khai thiên nhãn.</DisplayName>
+			<Desc>Tiêu hao một giáp tử tuổi thọ và lượng lớn linh khí, thực hiện khai thiên nhãn cho một sinh vật không có tu vi, tăng cường thần thức của nó. Giá trị ban đầu càng thấp, hiệu quả càng cao, tối thiểu tăng 20% thần thức. Mục tiêu chỉ có thể được thi triển một lần trong đời.</Desc>
 		</Text>
 		<Text Name="Magic_Plant_Pee">
-			<DisplayName>Irrigate</DisplayName>
-			<Desc>Sirami tanaman dan buat mereka matang lebih cepat. Hanya dapat digunakan melalui perilaku hewan peliharaan, tidak dapat digunakan secara manual.</Desc>
+			<DisplayName>Thuật tưới nước</DisplayName>
+			<Desc>Tưới cây khiến chúng phát triển nhanh chóng đến giai đoạn trưởng thành. Không thể sử dụng thủ công, chỉ có thể kích hoạt thông qua hành vi của Linh Thú.</Desc>
 		</Text>
 		<Text Name="Magic_Healing_LingShou">
-			<DisplayName>Panacea</DisplayName>
-			<Desc>Menyembuhkan luka batin seorang murid. Hanya dapat digunakan melalui perilaku hewan peliharaan, tidak dapat digunakan secara manual.</Desc>
+			<DisplayName>Hóa Thương Thuật</DisplayName>
+			<Desc>Chữa trị vết thương nội môn của một đệ tử. Không thể sử dụng thủ công, chỉ có thể kích hoạt thông qua hành vi của Linh Thú.</Desc>
 		</Text>
 		<Text Name="Magic_Healing_Hot">
-			<DisplayName>Chilly Wind</DisplayName>
-			<Desc>Menyembuhkan serangan panas pada muridnya. Hanya dapat digunakan melalui perilaku hewan peliharaan, tidak dapat digunakan secara manual.</Desc>
+			<DisplayName>Thuật gió mát</DisplayName>
+			<Desc>Chữa trị cho một đệ tử bị say nắng. Không thể sử dụng thủ công, chỉ có thể kích hoạt thông qua hành vi của Linh Thú.</Desc>
 		</Text>
 		<Text Name="Magic_Healing_Freeze">
-			<DisplayName>Furnace Spell</DisplayName>
-			<Desc>Menyembuhkan radang dingin seorang murid. Hanya dapat digunakan melalui perilaku hewan peliharaan, tidak dapat digunakan secara manual.</Desc>
+			<DisplayName>Thuật Lô Ôn</DisplayName>
+			<Desc>Chữa trị cho một đệ tử bị tê cóng. Không thể sử dụng thủ công, chỉ có thể kích hoạt thông qua hành vi của Linh Thú.</Desc>
 		</Text>
 		<Text Name="Magic_ClearElixirGas">
-			<DisplayName>Five Qi Dispel</DisplayName>
-			<Desc>Hapus semua Alchemy Qi di sini.</Desc>
+			<DisplayName>Ngũ Khí Phá Hà</DisplayName>
+			<Desc>Xóa sạch Đan khí trong Area.</Desc>
 		</Text>
 	</List>
 </Texts>
+

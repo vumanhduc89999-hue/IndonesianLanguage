@@ -1,42 +1,43 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="MetalBlockBase" sParam="Item">
-			<Item.FabaoSuffix>Metal, Seal, Stele, Dualjade, Tablet, Tower, Boulder</Item.FabaoSuffix>
+			<Item.FabaoSuffix>Kim, Ấn, Bi, Giác, Khuê, Khuyết, Trấn</Item.FabaoSuffix>
 		</Text>
 		<Text Name="Item_IronBlock" sParam="Item">
-			<ThingName>Iron Bar</ThingName>
-			<Desc>Batangan logam dibuat dengan cara menuang besi yang dilebur. Dapat digunakan dalam kerajinan lebih lanjut.</Desc>
-			<Item.BeMaterial.NamePrefix>Iron</Item.BeMaterial.NamePrefix>
+			<ThingName>Thiết Đĩnh</ThingName>
+			<Desc>Thỏi kim loại được luyện từ quặng sắt, có thể dùng để chế tạo thêm.</Desc>
+			<Item.BeMaterial.NamePrefix>Sắt</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_CopperBlock" sParam="Item">
-			<ThingName>Igneocopper Bar</ThingName>
-			<Desc>Batangan logam dibuat dengan cara menuang Igneocopper yang dilebur. Dapat digunakan dalam kerajinan lebih lanjut.</Desc>
-			<Item.BeMaterial.NamePrefix>Igneocopper</Item.BeMaterial.NamePrefix>
+			<ThingName>Hỏa Đồng Đĩnh</ThingName>
+			<Desc>Thỏi kim loại được luyện từ quặng Hoả Đồng, có thể dùng để chế tạo thêm.</Desc>
+			<Item.BeMaterial.NamePrefix>Hoả Đồng</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SilverBlock" sParam="Item">
-			<ThingName>Ice Crystal Bar</ThingName>
-			<Desc>Batangan logam dibuat dengan cara menuang Es Kristal yang dilebur. Dapat digunakan dalam kerajinan lebih lanjut.</Desc>
-			<Item.BeMaterial.NamePrefix>Ice Crystal</Item.BeMaterial.NamePrefix>
+			<ThingName>Hàn Tinh Đĩnh</ThingName>
+			<Desc>Thỏi kim loại được luyện từ quặng tinh hàn, có thể dùng để chế tạo thêm.</Desc>
+			<Item.BeMaterial.NamePrefix>Tinh hàn</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_CopperBlock1" sParam="Item">
-			<ThingName>Fire Essence Bar</ThingName>
-			<Desc>Batangan logam dibuat dengan melebur Igneocopper dalam jumlah besar bersama dengan darah Beast. Butuh waktu lama untuk memproduksi setiap bagiannya.</Desc>
-			<Item.BeMaterial.NamePrefix>Fire Essence</Item.BeMaterial.NamePrefix>
+			<ThingName>Hỏa Đồng Đĩnh yêu</ThingName>
+			<Desc>Một lượng lớn quặng Hoả Đồng được luyện với Yêu Linh Huyết để tạo thành thỏi kim loại, mỗi thỏi đều mất rất nhiều thời gian luyện chế.</Desc>
+			<Item.BeMaterial.NamePrefix>Hỏa Tinh</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_SilverBlock1" sParam="Item">
-			<ThingName>Ice Essence Bar</ThingName>
-			<Desc>Batangan logam dibuat dengan melebur Kristal Es dalam jumlah besar bersama dengan darah Beast. Butuh waktu lama untuk memproduksi setiap bagiannya.</Desc>
-			<Item.BeMaterial.NamePrefix>Ice Essence</Item.BeMaterial.NamePrefix>
+			<ThingName>Hàn Tinh Đĩnh yêu</ThingName>
+			<Desc>Một lượng lớn quặng tinh hàn được luyện với Yêu Linh Huyết để tạo thành thỏi kim loại, mỗi thỏi đều mất rất nhiều thời gian luyện chế.</Desc>
+			<Item.BeMaterial.NamePrefix>Tinh hàn yêu</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_DarksteelBlock" sParam="Item">
-			<ThingName>Darksteel Bar</ThingName>
-			<Desc>Batangan logam dibuat dengan cara menuang Darksteel yang dilebur. Dapat digunakan dalam kerajinan lebih lanjut.</Desc>
-			<Item.BeMaterial.NamePrefix>Darksteel</Item.BeMaterial.NamePrefix>
+			<ThingName>Huyền Thiết Đĩnh</ThingName>
+			<Desc>Thỏi kim loại được luyện từ quặng huyền thiết, có thể dùng để chế tạo thêm.</Desc>
+			<Item.BeMaterial.NamePrefix>Huyền thiết</Item.BeMaterial.NamePrefix>
 		</Text>
 		<Text Name="Item_StarEssenceBlock" sParam="Item">
-			<ThingName>Lumina Core Bar</ThingName>
-			<Desc>Batangan logam dibuat dengan menuang inti lumina yang dilebur. Dapat digunakan dalam kerajinan lebih lanjut.</Desc>
-			<Item.BeMaterial.NamePrefix>Lumina Core</Item.BeMaterial.NamePrefix>
+			<ThingName>Tinh Tủy Đĩnh</ThingName>
+			<Desc>Tinh Tủy Đĩnh được luyện chế, có thể dùng để chế tạo thêm.</Desc>
+			<Item.BeMaterial.NamePrefix>Tinh tủy</Item.BeMaterial.NamePrefix>
 		</Text>
 	</List>
 </Texts>
+

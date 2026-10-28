@@ -1,28 +1,29 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Reader">
-			<DisplayName>Intellectual</DisplayName>
-			<Desc>Orang yang berpendidikan tinggi, mampu memahami konten yang tidak jelas.</Desc>
+			<DisplayName>Người đọc sách</DisplayName>
+			<Desc>Người này được giáo dục tốt, có thể hiểu rõ những nội dung khó hiểu.</Desc>
 		</Text>
 		<Text Name="Craftsman">
-			<DisplayName>Craftsman</DisplayName>
-			<Desc>Seseorang yang unggul dalam kerajinan tangan. Yang ini unggul dalam membuat segala sesuatunya cepat dan baik.</Desc>
+			<DisplayName>Thợ thủ công</DisplayName>
+			<Desc>Người này khéo tay, làm đồ nhanh và tốt.</Desc>
 		</Text>
 		<Text Name="CraftsmanEX">
-			<DisplayName>Gunpla Enthusiast</DisplayName>
-			<Desc>Seseorang yang terobsesi dengan model Gunpla yang memiliki sepasang tangan terampil sebagai hasilnya. Yang ini unggul dalam membuat segala sesuatunya cepat dan baik.</Desc>
+			<DisplayName>Cương Phổ Lạp Ái Hảo Giả</DisplayName>
+			<Desc>Người này đam mê Gundam, nhờ đó có đôi tay khéo léo, làm đồ nhanh và tốt.</Desc>
 		</Text>
 		<Text Name="Artist">
-			<DisplayName>Gifted Artist</DisplayName>
-			<Desc>Seseorang dengan hati sensitif yang kaya akan emosi, orang ini memiliki imajinasi yang tak tertandingi.</Desc>
+			<DisplayName>Nghệ sĩ</DisplayName>
+			<Desc>Người này có cảm xúc phong phú và tâm hồn nhạy cảm, có trí tưởng tượng phi thường bẩm sinh.</Desc>
 		</Text>
 		<Text Name="Warrior">
-			<DisplayName>Warrior</DisplayName>
-			<Desc>Seorang pejuang alami, yang satu ini mampu menahan rasa sakit yang luar biasa dan tetap tenang dalam keadaan apa pun.</Desc>
+			<DisplayName>Chiến binh</DisplayName>
+			<Desc>Người này là một chiến binh bẩm sinh, có thể chịu đựng đau đớn và luôn giữ được sự bình tĩnh.</Desc>
 		</Text>
 		<Text Name="DeepPotential">
-			<DisplayName>Talent</DisplayName>
-			<Desc>Seseorang yang terlahir dengan bakat luar biasa, dapat berkultivasi dengan mudah.</Desc>
+			<DisplayName>Thông minh</DisplayName>
+			<Desc>Người này bẩm sinh thông minh, dễ dàng tu luyện hơn người khác.</Desc>
 		</Text>
 	</List>
 </Texts>
+

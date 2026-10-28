@@ -207,3 +207,4 @@
 /Settings/TeachFile/XL-10.osave	Skill.SkillDefs.TDamageSkill-582.DisplayName	未来星宿绝杀神雷	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/XL-10.osave	Skill.SkillDefs.TDamageSkill-583.DisplayName	九极咒	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/XL-10.osave	Skill.SkillDefs.TFabaoSkill-97.DisplayName	东华七星咒	-1	_ReplaceSkillDisplaceName
+

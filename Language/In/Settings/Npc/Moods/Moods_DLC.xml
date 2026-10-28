@@ -1,29 +1,30 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Mood_BigFish">
-			<DisplayName>Caught a big fish.</DisplayName>
-			<Desc>Baru saja menangkap ikan besar dan rasanya enak.</Desc>
-			<StoryDesc>Menangkap ikan besar dan rasanya sangat menyenangkan</StoryDesc>
+			<DisplayName>Câu được cá lớn.</DisplayName>
+			<Desc>Vừa câu được cá lớn, tâm trạng sảng khoái.</Desc>
+			<StoryDesc>Câu được cá lớn, cảm thấy rất vui vẻ.</StoryDesc>
 		</Text>
 		<Text Name="Mood_BigBigFish">
-			<DisplayName>Caught a giant fish.</DisplayName>
-			<Desc>Baru saja menangkap ikan raksasa dan rasanya enak.</Desc>
-			<StoryDesc>Menangkap ikan raksasa dan rasanya sangat menyenangkan</StoryDesc>
+			<DisplayName>Câu được cá khổng lồ.</DisplayName>
+			<Desc>Vừa câu được cá khổng lồ, tâm trạng sảng khoái.</Desc>
+			<StoryDesc>Câu được cá khổng lồ, cảm thấy cực kỳ vui vẻ.</StoryDesc>
 		</Text>
 		<Text Name="Mood_BeFished">
-			<DisplayName>Caught.</DisplayName>
-			<Desc>Tertangkap setelah mengambil umpan.</Desc>
-			<StoryDesc>Merasa sedikit marah karena tertangkap</StoryDesc>
+			<DisplayName>Bị câu lên.</DisplayName>
+			<Desc>Trúng bẫy, bị câu lên.</Desc>
+			<StoryDesc>Bị kéo lên bờ, có chút tức giận.</StoryDesc>
 		</Text>
 		<Text Name="Mood_FishSmell">
-			<DisplayName>Stink</DisplayName>
-			<Desc>Makan Demon Flatfish, bau</Desc>
-			<StoryDesc>makan Demon Flatfish, bau</StoryDesc>
+			<DisplayName>Mùi hôi thối</DisplayName>
+			<Desc>Ăn cá bơn vằn độc, cả người bốc mùi hôi thối.</Desc>
+			<StoryDesc>Ăn cá bơn vằn độc, cả người bốc mùi hôi thối.</StoryDesc>
 		</Text>
 		<Text Name="Mood_FishGood">
-			<DisplayName>Delicious</DisplayName>
-			<Desc>Makan Ikan Cahaya Bulan, rasanya enak</Desc>
-			<StoryDesc>makan Ikan Cahaya Bulan, rasanya enak</StoryDesc>
+			<DisplayName>Dư vị.</DisplayName>
+			<Desc>Ăn cá ánh trăng tươi ngon, tâm trạng sảng khoái.</Desc>
+			<StoryDesc>Ăn cá ánh trăng tươi ngon, tâm trạng sảng khoái.</StoryDesc>
 		</Text>
 	</List>
 </Texts>
+

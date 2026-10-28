@@ -1,10 +1,12 @@
-Bullet Damage 1,Chant,Incantation,Mantra,Thunder
-Direct Damage 2,Cosmicurse,Cosmosmite
-Sword Enhancement 3 (Single),Sword Chant,Sword Evasion,Sword
-Sword Enhancement 4 (AoE),Sword Shield,Sword Chant,Sword Evasion,Sword
-Spell Enhancement 5 (Single),Chant,Incantation,Mantra,Law,Spell,Miracle
-Spell Enhancement 6 (AoE),Formation,Shield,Curse Field,Talisman Array
-Recovery 7 (Single),Chant,Incantation,Mantra,Law,Spell,Miracle
-Recovery 8 (AoE),Formation,Shield,Curse Field,Talisman Array
-Shield Enhancement 9 (Single),Chant,Incantation,Mantra,Law,Spell,Miracle
-Shield Enhancement 10 (AoE),Formation,Shield,Curse Field,Talisman Array
+Thiệt Hại Loại Đạn 1,Quyết,Chú,Chân Ngôn,Thần Lôi
+Thiệt Hại Tác Động Trực Tiếp 2,Thần Sát,Thần Cương
+Tăng Cường Kiếm Bay Đơn Thể 3,Kiếm Quyết,Kiếm Độn,Kiếm
+Tăng Cường Kiếm Bay Tập Thể 4,Kiếm Trận,Kiếm Quyết,Kiếm Độn,Kiếm
+Tăng Cường Thuật Pháp Đơn Thể 5,Quyết,Chú,Chân Ngôn,Đại Pháp,Pháp,Thần Thông
+Tăng Cường Thuật Pháp Tập Thể 6,Trận,Đại Trận,Chú Trận,Phù Trận
+Khôi Phục Máu Đơn Thể 7,Quyết,Chú,Chân Ngôn,Đại Pháp,Pháp,Thần Thông
+Khôi Phục Máu Tập Thể 8,Trận,Đại Trận,Chú Trận,Phù Trận
+Tăng Cường Lá Chắn Đơn Thể 9,Quyết,Chú,Chân Ngôn,Đại Pháp,Pháp,Thần Thông
+Tăng Cường Lá Chắn Tập Thể 10,Trận,Đại Trận,Chú Trận,Phù
+
+

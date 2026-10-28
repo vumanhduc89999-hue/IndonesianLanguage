@@ -140,3 +140,4 @@
 /Settings/TeachFile/XL-09.osave	Esoterica.Data.49.DisplayName	天道神器	49	_ReplaceEsotericaName
 /Settings/TeachFile/XL-09.osave	Skill.SkillDefs.TFabaoSkill-1.DisplayName	化影诀	-1	_ReplaceSkillDisplaceName
 /Settings/TeachFile/XL-09.osave	Skill.SkillDefs.TSheildSkill-1.DisplayName	太乙不朽神雷	-1	_ReplaceSkillDisplaceName
+

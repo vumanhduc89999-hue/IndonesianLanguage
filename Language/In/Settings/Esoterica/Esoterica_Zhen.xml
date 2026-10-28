@@ -1,216 +1,217 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Esoterica_ZhenFa_1">
-			<DisplayName>Taiyi's Intro to Formations</DisplayName>
-			<Desc>Pengantar studi Formasi yang dirancang untuk pemula dari Sekte Taiyi. Ini mencatat prototipe pilar umum dan alat bantu, yang sangat bagus bagi pelajar baru untuk berlatih tentang evolusi dan turunan dari penerapan Formasi. \nLingkaran Prototipe adalah dasar dari semua Formasi, oleh karena itu dapat digabungkan dengan Lingkaran tingkat lanjut lainnya. Meskipun tidak ada efek bonus bagi mereka yang terhubung melalui Proto-auxiliaries, setidaknya hal ini dapat memastikan bahwa Circle utuh dan beroperasi.</Desc>
-			<EffectDesc>Sedikit meningkatkan Beban Formasi Maks.\nPilar Pembuka: \nPilar-proto: Interval\nPilar-proto: Kabel\nPilar-proto: Kosong\nPilar-proto: Keseluruhan\n\nPembukaan Tambahan: \nProto-bantu: Ikatan\nProto-auxiliary: Pasangan\nProto-auxiliary: Partisi\nProto-auxiliary: Persatuan\nProto-auxiliary: Pemutusan\nProto-auxiliary: Cross\nProto-auxiliary: Sebar\nProto-auxiliary: Kritis</EffectDesc>
+			<DisplayName>Thái Nhất Trận Pháp Kỷ Yếu</DisplayName>
+			<Desc>Bí sách nhập môn trận pháp của Thái Nhất Môn, ghi chép nguyên mẫu của các trận pháp phổ biến, giúp người mới học thực hành bố trí và biến hóa trận pháp.\nNguyên mẫu trận pháp là nền tảng của mọi trận pháp, có thể kết hợp với bất kỳ trận pháp cao cấp nào khác. Dù sử dụng nguyên trận nhãn làm kết nối sẽ không nhận được hiệu ứng tăng cường bổ sung, nhưng ít nhất có thể đảm bảo trận pháp hoàn chỉnh và vận hành được.</Desc>
+			<EffectDesc>Tăng nhẹ khả năng chịu tải của trận pháp, mở khóa Trận Xu: Nguyên Trận Xu - Gian (Khoảng Cách), Nguyên Trận Xu - Tác (Dây Thừng), Nguyên Trận Xu - Khuyết (Thiếu Hụt), Nguyên Trận Xu - Toàn (Toàn Bộ), mở khóa Trận Nhãn: Nguyên Trận Nhãn - Kết (Nút Thắt), Nguyên Trận Nhãn - Đối (Đối Lập), Nguyên Trận Nhãn - Cách (Ngăn Cách), Nguyên Trận Nhãn - Tinh (Gộp), Nguyên Trận Nhãn - Đoạn (Đứt Gãy), Nguyên Trận Nhãn - Thác (Sai Lệch), Nguyên Trận Nhãn - Lạc (Rơi Xuống), Nguyên Trận Nhãn - Lâm (Đến Gần)</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_2">
-			<DisplayName>Taiyi's Formation Diagrams of Four Guiders</DisplayName>
-			<Desc>Sebuah manual rahasia tentang Formasi dari Sekte Taiyi, di mana pilar dan pembantunya semuanya diambil dari contoh-contoh yang tersebar luas di dunia budidaya. Ide utama dari teknik penerapan Lingkaran ini adalah untuk fokus pada keseimbangan, semua kemampuan beradaptasi yang baik.</Desc>
-			<EffectDesc>Sedikit meningkatkan Beban Formasi Maks.\nMembuka Pilar: \nPisau Kepositifan Tersembunyi\nKutukan Verifikasi Tersembunyi\nAura Pedang Terkonsentrasi\nSegel Pengakuan Iman Tersembunyi\nKepositifan Beku Sejati\nKelenturan Transformasi Tertinggi\nKeseimbangan Alam\n\nMembuka Pembantu: \nPedang\nKepercayaan\nKeadilan\nKelenturan\nRelativitas\nReaksi\nPedang Keadilan\nPedang Lentur\nKepercayaan Positif\nKepercayaan Lentur\nPisau Tersembunyi\nKutukan Tersembunyi</EffectDesc>
+			<DisplayName>Đồ Lục Trận Pháp Tứ Ngự Thái Nhất</DisplayName>
+			<Desc>Bí sách trận pháp do môn phái Thái Nhất truyền lại, các trận nhãn và trận trục đều lấy từ những điển tịch kinh điển của giới tu hành. Tư tưởng kết trận chú trọng cân bằng, thích ứng cực mạnh.</Desc>
+			<EffectDesc>Tăng nhẹ khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nẨn Phong Huyền Cương\nChú Ẩn Pháp\nÝ Kiếm Hợp\nuẩn trung pháp ấn\nngưng hóa chân cương\ntịch chuyển huyền nhận\nCân Bằng Chư Vực\nMở khóa trận nhãn:\nKiếm\nPháp\nCương\nNhẫn\nCương\nỨng Hợp\nKiếm Cương\nKiếm Nhẫn\nPháp Cương\nPháp Nhẫn\nẨn Phong\nChú Ẩn</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_3">
-			<DisplayName>Diagrams of the Spiritual Beasts</DisplayName>
-			<Desc>Panduan rahasia Diagram Formasi yang diturunkan dari zaman kuno yang mengambil inspirasi dari bentuk spiritual binatang. Sangat ajaib dan unik.</Desc>
-			<EffectDesc>Sedikit meningkatkan Beban Formasi Maks.\nMembuka Pilar: \nEkor Kalajengking Lapis Baja\nNafas Ular Bersisik\nEkor Penyu Berpedang\nBentuk Penyu Terkutuk\nCangkang Penyu yang Membatu\nTeriakan Bangau\nNaga Awan Petir\nNaga Banjir yang Melonjak\n\nMembuka Kunci Tambahan: \nPedang\nKepercayaan\nKeadilan\nKelenturan\nEkor Kalajengking\nUlar Nafas\nMaw Buaya\nNyanyian Naga\nBentuk Penyu\nPedang Burung Bangau\nMirage</EffectDesc>
+			<DisplayName>Đồ Lục Trận Hình Linh Vạn Thú</DisplayName>
+			<Desc>Bí sách trận pháp lưu truyền từ cổ đại đến nay, lấy ý niệm từ linh hình của vạn thú mà thành trận, cực kỳ huyền diệu.</Desc>
+			<EffectDesc>Tăng nhẹ khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHạt Vĩ Phúc Giáp\nXà Tức Phi Lân\nquy vĩ phụ kiếm\nquy hình ánh chú\nquy giáp kết nham\nphượng ngâm hạc lệ\nlôi vân xuyên long\nhuyền hải đằng giao\nMở khóa trận nhãn:\nKiếm\nPháp\nCương\nNhẫn\nHạt Vĩ\nXà Tức\nNgạc Vẫn\nLong Ca\nQuy Hình\nHạc Kiếm\nThận pháp</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_4">
-			<DisplayName>Polarized Diagrams of Mt. Zhongyuan</DisplayName>
-			<Desc>Dari Gunung Zhongyuan, sekte terkenal yang unggul dalam Formasi di abad pertengahan. Ide Gunung Zhongyuan mengenai budidaya adalah untuk mencapai ekstremitas. Formasi yang berasal dari sekte ini juga menjalankan gagasannya, memegang teguh prinsip sampai akhir.</Desc>
-			<EffectDesc>Sedikit meningkatkan Beban Formasi Maks.\nMembuka Pilar: \nAura Pedang Terkonsentrasi\nSegel Pengakuan Iman yang Tersembunyi\nPositifitas Terkurung Sejati\nKelenturan Transformasi Tertinggi\nKardinal Pedang\nKardinal Pengakuan Iman\nKardinal Positifitas Sejati\nKardinal Kelenturan Mendalam\n\nMembuka Tambahan: \nPedang\nKepercayaan\nKeadilan\nKelenturan\nPedang yang Diasah\nKepercayaan Terkonsentrasi\nPositifitas Ganda\nKelenturan Gabungan\nAura Pedang\nSegel Pengakuan Iman\nKeadilan Sejati\nKelenturan Mendalam</EffectDesc>
+			<DisplayName>Trung Nguyên Sơn Thuần Cực Trận Đồ</DisplayName>
+			<Desc>Bí sách trận pháp của môn phái trận pháp nổi tiếng Trung Nguyên thời Trung Cổ. Tư tưởng tu hành của Trung Nguyên chú trọng đạo cực thuần, trận pháp của môn phái này cũng theo tư tưởng đó, xuyên suốt từ đầu đến cuối.</Desc>
+			<EffectDesc>Tăng nhẹ khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nÝ Kiếm Hợp\nuẩn trung pháp ấn\nngưng hóa chân cương\ntịch chuyển huyền nhận\nchư kiếm chi xu\nvạn pháp chi xu\nChân Cương Chi Xu\nhuyền nhận chi xu\nMở khóa trận nhãn:\nKiếm\nPháp\nCương\nNhẫn\nlệ kiếm\nngưng pháp\ntrọng cương\nhợp nhận\nÝ Kiếm\nẤn Pháp\nChân Cương\nHuyền Nhẫn</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_5">
-			<DisplayName>Secret Revitalizing Diagrams of Heaven and Earth</DisplayName>
-			<Desc>Suatu cara merancang Formasi dengan meniru alam. Panduan ini diturunkan dari zaman kuno, asal usulnya tidak diketahui dan tidak dapat diverifikasi. Jarang diwariskan dalam dunia kultivator. Sangat misterius.</Desc>
-			<EffectDesc>Sedikit meningkatkan Beban Formasi Maks.\nMembuka Pilar: \nHujan Paku Pinus\nAngin Pinus Terkutuk\nDuri Tua yang Tersembunyi\nRoh Kayu Mati\nBatu yang Dijepit Pinus\nBilah Pasang Surut\nKonstan Badai\nPisau Penusuk Bumi\nPasir Kutukan Ilahi\n\nMembuka Tambahan: \nPedang\nKepercayaan\nKeadilan\nKelenturan\nPaku Pinus\nTekstur Kuno\nArmor Rotan</EffectDesc>
+			<DisplayName>pháp thiên hiệu địa quy nguyên trận pháp bí lục</DisplayName>
+			<Desc>Bí sách trận pháp lĩnh ngộ từ tự nhiên, xuất hiện từ thời thượng cổ, nguồn gốc không rõ, ít được truyền thừa trong giới tu hành, cực kỳ huyền diệu.</Desc>
+			<EffectDesc>Tăng nhẹ khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nnhận vũ tùng châm\nchú văn tùng phong\ncổ mộc ẩn thứ\nkhô chi tàng linh\nlão tùng cầm nham\nba đào định phong\nphong vân hằng pháp\nthần phong triệt địa\nthánh chú phi sa\nMở khóa trận nhãn:\nKiếm\nPháp\nCương\nNhẫn\ntùng châm\nCổ Văn\nđằng giáp</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_6">
-			<DisplayName>Primordial Diagrams of Heluo: Syllabus</DisplayName>
-			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Pilar: \nHarmoni Langit-Bumi\nSentralitas Angin-Guntur\nKonversi Yin-Yang\nKonversi Yang-Yin\nJalan Yin Ekstrim\nJalan Yang Ekstrim\n\nMembuka Pembantu: \nSurga\nBumi\nAir\nApi\nGuntur\nAngin\nGunung\nRawa</EffectDesc>
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Tổng Cương</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nThiên Địa Hòa Hợp\nPhong Lôi Ứng Trung\nÂm Cực Sinh Dương\nDương Cực Hóa Âm\nHuyền Âm Chi Đạo\nChí Dương Chi Đạo\nmở khóa Trận Nhãn: Thiên\nĐịa\nThủy\nHỏa\nLôi\nPhong\nSơn\nTrạch.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_7">
-			<DisplayName>Primordial Diagrams of Heluo: Creative Heaven</DisplayName>
-			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Tambahan: \nSurga Kreatif\nKedamaian\nKekuatan\nKemakmuran\nKelimpahan\nHarapan\nResolusi\nKesejahteraan</EffectDesc>
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Thiên Càn</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng khả năng chịu tải của trận pháp\nMở khóa trận nhãn:\nCàn\nThái\nĐại Tráng\nĐại Súc\nĐại Hữu\nNhu\nQuải\nTiểu Súc</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_8">
-			<DisplayName>Primordial Diagrams of Heluo: Receptive Earth</DisplayName>
-			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nStagnasi\nBumi Reseptif\nAntusiasme\nPemisahan\nKemajuan\nPersatuan\nPengumpulan\nKontemplasi</EffectDesc>
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Địa Khôn</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng khả năng chịu tải của trận pháp\nMở khóa trận nhãn:\nPhủ\nKhôn\nDu\nBác\nTiến\nTỉ\nThụy\nQuan</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_9">
-			<DisplayName>Primordial Diagrams of Heluo: Arousing Thunder</DisplayName>
-			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nKepolosan\nKembali\nMembangkitkan Guntur\nKenyamanan\nMenelan\nSprout\nMengikuti\nMeningkatkan</EffectDesc>
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Sấm Chấn</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nmở khóa Trận Nhãn: Vô Vọng\nPhục\nChấn\nDi\nPhệ Hạp\nTruân\nTùy\nÍch</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_10">
-			<DisplayName>Primordial Diagrams of Heluo: Gentle Wind</DisplayName>
-			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nPertemuan\nKenaikan\nDurasi\nBencana\nKuali\nYah\nKelebihan\nAngin Lembut</EffectDesc>
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Phong Tốn</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nmở khóa Trận Nhãn: Cấu\nThăng\nHằng\nCổ\nĐỉnh\nTỉnh\nĐại Quá\nTốn.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_11">
-			<DisplayName>Primordial Diagrams of Heluo: Abysmal Water</DisplayName>
-			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nKonflik\nTentara\nPembebasan\nKetidaktahuan\nKetidaklengkapan\nAir yang Buruk\nKesulitan\nDispersi</EffectDesc>
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Thuỷ Khảm</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nmở khóa Trận Nhãn: Tụng\nSư\nGiải\nMông\nVị Tế\nKhảm\nKhốn\nHoán.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_12">
-			<DisplayName>Primordial Diagrams of Heluo: Clinging Fire</DisplayName>
-			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nPersekutuan\nPenggelapan\nProfusi\nRahmat\nApi yang Melekat\nPenyelesaian\nRevolusi\nKeluarga</EffectDesc>
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Hoả Ly</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nmở khóa Trận Nhãn: Đồng Nhân\nMinh Di\nPhong\nBí\nLy\nKý Tế\nCách\nGia Nhân</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_13">
-			<DisplayName>Primordial Diagrams of Heluo: Still Mountain</DisplayName>
-			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nMundur\nKesopanan\nKelebihan\nMasih Gunung\nMengembara\nHambatan\nAtraksi\nPengembangan</EffectDesc>
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Sơn Cấn</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nmở khóa Trận Nhãn: Độn\nKhiêm\nTiểu Quá\nCấn\nLữ\nKiển\nHàm\nTiệm.</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_14">
-			<DisplayName>Primordial Diagrams of Heluo: Joyous Swamp</DisplayName>
-			<Desc>Memanfaatkan kedalaman Delapan Trigram untuk menyebarkan Formasi, seperti cara primordial Heluo di masa lalu. Sudah lama hilang.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Kunci Tambahan: \nMenginjak\nPendekatan\nPengantin\nPenurunan\nOposisi\nBatasan\nRawa Gembira\nKejujuran</EffectDesc>
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Đầm Đoài</DisplayName>
+			<Desc>Bí pháp trận pháp lấy ý niệm từ huyền cơ của bát quái mà bố trận, lĩnh ngộ đạo tiên thiên Hà Lạc, đã thất truyền trong thời đại hiện tại.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nmở khóa Trận Nhãn: Lý\nLâm\nQuy Muội\nTổn\nKhuê\nTiết\nĐoái\nTrung Phu</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_15">
-			<DisplayName>Primordial Diagrams of Heluo: Solutions of the Demon Emperor</DisplayName>
-			<Desc>Versi revisi Diagram Primordial Heluo yang disusun oleh Fu Pikong, Kaisar Iblis. Dengan bakat yang tak tertandingi, ia berhasil merancang aturan perubahan formasi untuk pasukan tambahan, sehingga memperluas penerapan Formasi secara keseluruhan. Itu adalah sebuah mahakarya yang menghubungkan hal-hal yang terjadi sebelum dan sesudahnya.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMeningkatkan Ukuran Formasi\nMembuka Pembantu: \nPusat Perubahan Formasi dari Dua Puluh Empat Pembantu Primordial</EffectDesc>
+			<DisplayName>Trận Thần Tiên Thiên Hà Lạc: Giải Thích Ma Đế</DisplayName>
+			<Desc>Ma Đế Phó Bích Không với thiên tư tuyệt đại đã tái biên tiên trận thiên Hà Lạc, sáng tạo các trận nhãn biến trận, mở rộng lớn ứng dụng của đạo trận pháp. Đây là tác phẩm tuyệt đại kế thừa và sáng tạo.</Desc>
+			<EffectDesc>Tăng lớn khả năng chịu tải của trận pháp\nTăng quy mô trận pháp\nMở khóa trận nhãn:\nHai Mươi Bốn Trận Tiên Thiên Biến Trận Thần Nhãn</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_16">
-			<DisplayName>Heavenly Diagrams: Way of Sun and Moon</DisplayName>
-			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nMatahari-Bulan Lilin dan Menyusut\n\nMembuka Tambahan: \nMatahari Surgawi\nMatahari Gemuruh\nMatahari Jenuh\nMatahari Pegunungan\nBulan Bumi\nBulan Berangin\nBulan Berapi-api\nBulan Basah</EffectDesc>
+			<DisplayName>Hóa Trận Đạo Thiên: Nhật nguyệt chi đạo</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng lớn khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\n Chu kỳ Nhật Nguyệt\nMở khóa trận nhãn:\nNhật Trung Thiên (Mặt trời giữa trời)\nNhật Trung Lôi (Mặt trời giữa sấm sét)\nNhật Trung Thủy (Mặt trời giữa nước)\nNhật Trung Sơn (Mặt trời giữa núi)\nNguyệt Trung Địa (Mặt trăng giữa đất)\nNguyệt Trung Phong (Mặt trăng giữa gió)\nNguyệt Trung Hỏa (Mặt trăng giữa lửa)\nNguyệt Trung Trạch (Mặt trăng giữa đầm lầy)</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_17">
-			<DisplayName>Heavenly Diagrams: Way of Yin and Yang</DisplayName>
-			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKebangkitan dan Kejatuhan Yin-Yang\n\nMembuka Tambahan: \nYang Surga\nYang Guntur\nAir Yang\nGunung Yang\nBumi Yin\nAngin Yin\nApi Yin\nRawa Yin</EffectDesc>
+			<DisplayName>Hóa Trận Đạo Thiên: Đạo Âm Dương</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng lớn khả năng chịu tải của trận pháp\nMở khóa trận trục:\nÂm Dương Tiêu Trưởng (Suy Giảm và Tăng Trưởng của Âm Dương)\nMở khóa trận nhãn:\nDương Sinh Thiên (Dương sinh ra trời)\nDương Sinh Lôi (Dương sinh ra sấm sét)\nDương Sinh Thủy (Dương sinh ra nước)\nDương Sinh Sơn (Dương sinh ra núi)\nÂm Sinh Địa (Âm sinh ra đất)\nÂm Sinh Phong (Âm sinh ra gió)\nÂm Sinh Hỏa (Âm sinh ra lửa)\nÂm Sinh Trạch (Âm sinh ra đầm lầy)</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_18">
-			<DisplayName>Heavenly Diagrams: Way of Space and Time</DisplayName>
-			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nEvolusi Ruang-Waktu\n\nMembuka Tambahan: \nSurga Ruang\nGuntur Luar Angkasa\nAir Luar Angkasa\nGunung Luar Angkasa\nBumi Waktu\nAngin Waktu\nApi Waktu\nRawa Waktu</EffectDesc>
+			<DisplayName>Hóa Trận Đạo Thiên: Đạo Vũ Trụ</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nVũ Trụ Khai Tịch (Khai Mở Vũ Trụ)\nMở khóa Trận Nhãn:\nVũ Hóa Thiên (Vũ biến thành trời)\nVũ Hóa Lôi (Vũ biến thành sấm sét)i\nVũ Hóa Thủy (Vũ biến thành nước)\nVũ Hóa Sơn (Vũ biến thành núi)\nTrụ Hóa Địa (Trụ biến thành đất)\nTrụ Hóa Phong (Trụ biến thành gió)\nTrụ Hóa Hỏa (Trụ biến thành lửa)\nTrụ Hóa Trạch (Trụ biến thành đầm lầy)</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_19">
-			<DisplayName>Heavenly Diagrams: Way of Beginning and End</DisplayName>
-			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nSiklus Awal dan Akhir\n\nMembuka Kunci Tambahan: \nAwal Langit\nAwal Guntur\nAwal Air\nAwal Gunung\nAkhir Bumi\nAkhir Angin\nAkhir Api\nAkhir Rawa</EffectDesc>
+			<DisplayName>Thiên Đạo Hóa Trận: Đạo Khởi Thủy</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận Thủ:\nKhởi Thủy Luân Chuyển(Vận Hành Không Ngừng)\nMở khóa Trận Nhãn:\nKhởi Tại Thiên(Khởi Đầu Ở Trời)\nKhởi Tại Lôi(Khởi Đầu Ở Sấm Sét)\nKhởi Tại Thủy(Khởi Đầu Ở Nước)\nKhởi Tại Sơn(Khởi Đầu Ở Núi)\nKết Tại Địa(Kết Thúc Ở Đất)\nKết Tại Phong(Kết Thúc Ở Gió)\nKết Tại Hỏa(Kết Thúc Ở Lửa)\nKết Tại Trạch(Kết Thúc Ở Đầm Lầy)</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_20">
-			<DisplayName>Heavenly Diagrams: Way of Life and Death</DisplayName>
-			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKehidupan dan Kematian Segalanya\n\nMembuka Tambahan: \nSurga Kehidupan\nGuntur Kehidupan\nAir Kehidupan\nGunung Kehidupan\nBumi Kematian\nAngin Kematian\nApi Kematian\nRawa Kematian</EffectDesc>
+			<DisplayName>Thiên Đạo Hóa Trận: Đạo Sinh Diệt</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nSinh Diệt Vạn Vật\nMở khóa Trận Nhãn:\nSinh Đồng Thiên\nSinh Đồng Lôi\nSinh Đồng Thủy\nSinh Đồng Sơn\nDiệt Đồng Địa\nDiệt Đồng Phong\nDiệt Đồng Hỏa\nDiệt Đồng Trạch</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_21">
-			<DisplayName>Heavenly Diagrams: Way of Creation and Formation</DisplayName>
-			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nRahasia Penciptaan\n\nMembuka Tambahan: \nSurga Penciptaan\nGuntur Penciptaan\nAir Penciptaan\nGunung Penciptaan\nBumi Takdir\nAngin Takdir\nApi Takdir\nRawa Takdir</EffectDesc>
+			<DisplayName>Thiên Đạo Hóa Trận: Đạo Tạo Hóa</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nTạo Hóa Huyền Cơ\nMở khóa Trận Nhãn:\nTạo Vi Thiên\nTạo Vi Lôi\nTạo Vi Thủy\nTạo Vi Sơn\nHóa Vi Địa\nHóa Vi Phong\nHóa Vi Hỏa\nHóa Vi Trạch</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_22">
-			<DisplayName>Formation of Great Vastness: Creation of Cosmos</DisplayName>
-			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKeluasan Besar\n\nMembuka Tambahan: \nPenciptaan Kosmos</EffectDesc>
+			<DisplayName>Hồng Mông Chi Trận: Thiên Địa Khai Tịch</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHồng Mông\nMở khóa Trận Nhãn:\nThiên Địa Khai Tịch</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_23">
-			<DisplayName>Formation of Great Vastness: Derivation of Time</DisplayName>
-			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKeluasan Besar\n\nMembuka Tambahan: \nPenurunan Waktu</EffectDesc>
+			<DisplayName>Hồng Mông Chi Trận: Thời Không Diễn Sinh</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHồng Mông\nMở khóa Trận Nhãn:\nThời Không Diễn Sinh</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_24">
-			<DisplayName>Formation of Great Vastness: Thriving of Beings</DisplayName>
-			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKeluasan Besar\n\nMembuka Tambahan: \nKemakmuran Makhluk</EffectDesc>
+			<DisplayName>Hồng Mông Chi Trận: Vạn Linh Sinh Phát</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHồng Mông\nMở khóa Trận Nhãn:\nVạn Linh Sinh Phát</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_25">
-			<DisplayName>Formation of Great Vastness: Desolation of Cosmos</DisplayName>
-			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKeluasan Besar\n\nMembuka Tambahan: \nPenghancuran Kosmos</EffectDesc>
+			<DisplayName>Hồng Mông Chi Trận: Thiên Địa Quy Tịch</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHồng Mông\nMở khóa Trận Nhãn:\nThiên Địa Quy Tịch</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_26">
-			<DisplayName>Formation of Great Vastness: Nullification of Time</DisplayName>
-			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKeluasan Besar\n\nMembuka Tambahan: \nPembatalan Waktu</EffectDesc>
+			<DisplayName>Hồng Mông Chi Trận: Thời Không Tận Suy</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHồng Mông\nMở khóa Trận Nhãn:\nThời Không Tận Suy</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_27">
-			<DisplayName>Formation of Great Vastness: Obliteration of Beings</DisplayName>
-			<Desc>Pengetahuan mendalam tentang Formasi yang diilhami oleh cara langit dan bumi.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMembuka Pilar: \nKeluasan Besar\n\nMembuka Tambahan: \nPenghancuran Makhluk</EffectDesc>
+			<DisplayName>Hồng Mông Chi Trận: Vạn Vật Lụi Diệt</DisplayName>
+			<Desc>Bí pháp trận pháp lĩnh ngộ từ đạo trời đất.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nMở khóa Trận then chốt:\nHồng Mông\nMở khóa Trận Nhãn:\nVạn Vật Lụi Diệt</EffectDesc>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit1">
-			<DisplayName>Ragestriker Formation</DisplayName>
-			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Ragestriker. Dikatakan sebagai Formasi paling kejam di medan perang kuno, hampir tak terkalahkan dan tak terhentikan.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMeningkatkan Ukuran Formasi\nMembuka Diagram Formasi Kuno: \nFormasi Ragestriker</EffectDesc>
-			<ZhenShapes.0.Name>Ragestriker Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Since time immemorial, this has been the formation with the greatest offensive power. When deployed, it will turn into four banner gates each with a sword hanging above it, completely surrounding the center. Once activated with primordial spirit, the four swords will vibrate simultaneously, and the Formation is immediately filled with Sword Aura. Even the truest immortal can hardly survive within it.</ZhenShapes.0.Descript>
+			<DisplayName>Trận pháp Tru Tiên</DisplayName>
+			<Desc>Ghi chép bí phổ trận đồ của Tru Tiên Kiếm Trận, truyền thuyết rằng đây là trận sát đầu tiên của thời thượng cổ, không gì không diệt, không gì không phá.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nTăng quy mô trận pháp\nMở khóa Thượng Cổ Trận Đồ:\nTru Tiên Kiếm Trận</EffectDesc>
+			<ZhenShapes.0.Name>Trận pháp Tru Tiên</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Trận sát đầu tiên từ khi Vũ Trụ Khai Tịch, trận đồ triển khai hóa thành bốn cổng cờ, trên mỗi cổng treo một thanh kiếm, bao quanh trung tâm. Dưới sự thúc đẩy của nguyên linh, bốn kiếm cùng lúc rung động, trận trung kiếm khí tung hoành, ngay cả vạn kiếp chân tiên cũng khó tồn tại.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit2">
-			<DisplayName>Conqueror's Formation</DisplayName>
-			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Sang Penakluk. Dikatakan mampu memanfaatkan cahaya ilahi Keterasingan Grand Chariot, yang memberinya kekuatan pembantai iblis yang mahatahu.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMeningkatkan Ukuran Formasi\nMembuka Diagram Formasi Kuno: \nFormasi Penakluk</EffectDesc>
-			<ZhenShapes.0.Name>Conqueror's Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Formation of immortals said to be passed down from the Evil Exorcising Perfected Warrior of Ninth Heavenly Paradise. It can direct the power of seven stars to form the Grand Chariot's divine light of Aloofness, a demon-slaying power that can obliterate all evils.</ZhenShapes.0.Descript>
+			<DisplayName>Bắc Đẩu Chân Võ Sát Ma Đại Trận</DisplayName>
+			<Desc>Ghi chép bí phổ trận đồ của Bắc Đẩu Chân Võ Sát Ma Trận, truyền thuyết rằng trận này có thể dẫn Bắc Đẩu Phá Vọng Thần Quang, sở hữu lực lượng tiêu diệt ma quỷ thấu suốt mọi thứ.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nTăng quy mô trận pháp\nMở khóa Thượng Cổ Trận Đồ:\nBắc Đẩu Chân Võ Sát Ma Đại Trận</EffectDesc>
+			<ZhenShapes.0.Name>Bắc Đẩu Chân Võ Sát Ma Đại Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Truyền thuyết rằng đây là tiên trận truyền từ Chân Võ Đãng Ma Đại Đế của Cửu Trùng Thiên Tiên Cảnh, trận này có thể dẫn lực lượng của Thất Tinh Tinh Tú ngưng tụ Bắc Đẩu Phá Vọng Thần Quang, sát ma diệt yêu, vạn tà tránh xa.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit3">
-			<DisplayName>Impregnable Formation</DisplayName>
-			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi yang Tidak Dapat Ditembus. Dikatakan mampu menyebarkan medan yang tidak bisa dihancurkan dengan Panji Lima Arah Langit dan Bumi untuk melindungi apapun di alam semesta.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi secara signifikan.\nMeningkatkan Ukuran Formasi\nMembuka Diagram Formasi Kuno: \nFormasi Tak Tertembus</EffectDesc>
-			<ZhenShapes.0.Name>Impregnable Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>A great formation based on the five Vast Banners which have existed since the beginning of time itself. The northern banner is referred to as Black Vulture, the southern as Soaring Flame, the central banner as Yellow Apricot, the western as White Cloud, and the eastern as Green Lotus. The combination of the Five Elements forms a Shield of Vastness, which cannot be invaded despite the changing of natural laws.</ZhenShapes.0.Descript>
+			<DisplayName>Thiên Địa Ngũ Phương Bất Diệt Trận</DisplayName>
+			<Desc>Ghi chép bí phổ trận đồ của Thiên Địa Ngũ Phương Bất Diệt Trận, truyền thuyết rằng trận này có thể bố trí kết giới bất diệt bằng cờ Thiên Địa Ngũ Phương, bảo vệ chu thiên vạn giới.</Desc>
+			<EffectDesc>Tăng cường đáng kể khả năng chịu tải của trận pháp\nTăng quy mô trận pháp\nMở khóa Thượng Cổ Trận Đồ:\nThiên Địa Ngũ Phương Bất Diệt Trận</EffectDesc>
+			<ZhenShapes.0.Name>Thiên Địa Ngũ Phương Bất Diệt Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Đại trận được bố trí dựa trên năm cờ sinh ra từ khai thiên lập địa, phía bắc là Chân Võ Tạc Điêu, phía nam là Ly Địa Diễm Quang, chính giữa là Mậu Kỷ Hạnh Hoàng, phía tây là Tố Sắc Vân Giới, phía đông là Thanh Liên Bảo Sắc. Ngũ hành hội tụ có thể bố trí Thiên Địa Ngũ Phương Bất Diệt Giới, vạn pháp tránh xa, không gì có thể xâm nhập.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit4">
-			<DisplayName>Divine Law Formation</DisplayName>
-			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Hukum Ilahi. Dikatakan sebagai Formasi divinator enam dewa di Langit, yang mampu mengubah Alam Fana menjadi surga dan membuat manusia hidup dalam keharmonisan spiritual.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Hukum Ilahi</EffectDesc>
-			<ZhenShapes.0.Name>Divine Law Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Ceremonial formation of law operations on the Celestial Court. When deploying this Formation, it will unfold a pristine abode of the six gods of Celestial Court, turning the Mortal Realm into a paradise and making people live in spiritual harmony.</ZhenShapes.0.Descript>
+			<DisplayName>Chư Thiên Lục Ngự Hành Pháp Nghi Quỹ</DisplayName>
+			<Desc>Ghi chép bí phổ trận đồ tổng thể của Chư Thiên Lục Ngự Nghi Quỹ, truyền thuyết rằng trận này là trận linh khí của Lục Ngự Đình Cung Thiên Đình, bố trí có thể biến nhân gian như tiên cảnh, khiến tâm thần con người trở nên thanh minh không lo âu.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nMở khóa Thượng Cổ Trận Đồ:\nChư Thiên Lục Ngự Hành Pháp Nghi Quỹ</EffectDesc>
+			<ZhenShapes.0.Name>Chư Thiên Lục Ngự Hành Pháp Nghi Quỹ</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Nghi quỹ hành pháp của Lục Ngự Thiên Đình, bố trí trận này có thể triển khai Chư Thiên Lục Ngự Thanh Linh Thắng Cảnh, biến phàm gian thành tiên cảnh, khiến tâm thần con người trở nên thanh minh không lo âu.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit5">
-			<DisplayName>Dragonrider Formation</DisplayName>
-			<Desc>Diagram Formasi Rahasia yang mencatat Formasi Dragonrider. Dikatakan sebagai Formasi Pengendali Naga. Saat dikerahkan, seseorang dapat menggunakan kekuatan Dragonsoul untuk melakukan beberapa keajaiban Formasi yang kuat.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Penunggang Naga</EffectDesc>
-			<ZhenShapes.0.Name>Dragonrider Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>A fascinating Formation that utilizes the body of Flood Dragon as foundation. It is said to be a dragon-controlling formation. When deployed, one can draw the power of Dragonsoul to perform some powerful Formation miracles.</ZhenShapes.0.Descript>
+			<DisplayName>Cửu Ngự Phú Long Hình Trận</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Cửu Ngự Phú Long Hình Trận, tương truyền đây là trận pháp Ngự Long, khi bày trận có thể mượn sức mạnh của long hồn để thi triển những thần thông trận pháp vô cùng mạnh mẽ.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nMở khóa Trận Đồ Thượng Cổ:\nCửu Ngự Phú Long Hình Trận</EffectDesc>
+			<ZhenShapes.0.Name>Cửu Ngự Phú Long Hình Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Một trận pháp kỳ lạ được bố trí dựa trên thân thể của giao long, tương truyền đây là trận pháp Ngự Long, khi bày trận có thể mượn sức mạnh của long hồn để thi triển những thần thông trận pháp vô cùng mạnh mẽ.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit6">
-			<DisplayName>Phoenix Sword Formation</DisplayName>
-			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Pedang Phoenix. Dikatakan sebagai formasi pengendali burung phoenix. Saat dikerahkan, seseorang dapat menggunakan kekuatan Phoenixsoul untuk melakukan beberapa keajaiban Formasi yang kuat.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Pedang Phoenix</EffectDesc>
-			<ZhenShapes.0.Name>Phoenix Sword Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>A fascinating Formation that utilizes the body of Phoenoxica as foundation. It is said to be a phoenix-controlling formation. When deployed, one can draw the power of Phoenixsoul to perform some powerful Formation miracles.</ZhenShapes.0.Descript>
+			<DisplayName>Chân Phượng Vũ Kiếm Trận</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Chân Phượng Vũ Kiếm Trận, tương truyền đây là trận pháp Ngự Phượng, khi bày trận có thể mượn sức mạnh của phượng hồn để thi triển những thần thông trận pháp vô cùng mạnh mẽ.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nMở khóa Trận Đồ Thượng Cổ:\nChân Phượng Vũ Kiếm Trận</EffectDesc>
+			<ZhenShapes.0.Name>Chân Phượng Vũ Kiếm Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Một trận pháp kỳ lạ được bố trí dựa trên thân thể của hung phượng, tương truyền đây là trận pháp Ngự Phượng, khi bày trận có thể mượn sức mạnh của phượng hồn để thi triển những thần thông trận pháp vô cùng mạnh mẽ.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit7">
-			<DisplayName>Yin Yang Formation</DisplayName>
-			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Yin Yang. Dikatakan bahwa Formasi ini dikerahkan berdasarkan Aturan Yin dan Yang. Memanfaatkan transformasi Yin dan Yang, Formasi menjadi sangat fleksibel.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Yin Yang</EffectDesc>
-			<ZhenShapes.0.Name>Yin Yang Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Formation Diagram that drew its inspirations from the flow of energies between heaven and earth. It is said that this Formation is deployed according to the Rule of Yin and Yang. Utilizing the transformation of Yin and Yang, the Formation becomes extremely flexible.</ZhenShapes.0.Descript>
+			<DisplayName>Âm Dương Nhị Hành Thần Trận</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Âm Dương Nhị Hành Thần Trận, tương truyền trận pháp này vận dụng đạo lý âm dương để bố trí, âm dương chuyển hóa, vô cùng linh hoạt.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nMở khóa Trận Đồ Thượng Cổ:\nÂm Dương Nhị Hành Thần Trận</EffectDesc>
+			<ZhenShapes.0.Name>Âm Dương Nhị Hành Thần Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Một trận pháp được tổng kết từ sự luân chuyển của âm dương trong trời đất, tương truyền trận pháp này vận dụng đạo lý âm dương để bố trí, âm dương chuyển hóa, vô cùng linh hoạt.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit8">
-			<DisplayName>Dark Force Formation</DisplayName>
-			<Desc>Diagram Formasi Rahasia yang mencatat Formasi Kekuatan Gelap. Dikatakan sebagai Formasi yang dibentuk oleh energi Yin murni, yang dapat meningkatkan kekuatan Anda secara signifikan.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Kekuatan Gelap</EffectDesc>
-			<ZhenShapes.0.Name>Dark Force Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Formation deployed by utilizing the idea of Three Talents - Heaven, Earth and Human. It is said to be capable of concentrating all the pure Yin energies of the world, which can greatly enhance your power.</ZhenShapes.0.Descript>
+			<DisplayName>Tam Âm Tam Tuyệt Trận</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Tam Âm Tam Tuyệt Trận, tương truyền trận pháp này tụ hợp thuần âm chi lực mà thành, nhờ đó mà uy lực đại tăng.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nMở khóa Trận Đồ Thượng Cổ:\nTam Âm Tam Tuyệt Trận</EffectDesc>
+			<ZhenShapes.0.Name>Tam Âm Tam Tuyệt Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Một trận pháp được bố trí dựa trên ý nghĩa thuần âm của thiên, địa, nhân tam tài, tương truyền trận pháp này có thể tụ hợp thuần âm chi lực trong thiên hạ, nhờ đó mà uy lực đại tăng.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit9">
-			<DisplayName>Abyssal Sword Formation</DisplayName>
-			<Desc>Diagram Formasi Rahasia yang mencatat Formasi Pedang Abyssal. Dikatakan sebagai Formasi yang dikerahkan sesuai dengan aturan Delapan Gerbang Trigram, dengan kemampuan ofensif dan defensif. Sangat ajaib.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Pedang Abyssal</EffectDesc>
-			<ZhenShapes.0.Name>Abyssal Sword Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>It is said to be a Formation that is deployed according to the rules of the Eight Trigram Gates, with both offensive and defensive capabilities. Very miraculous.</ZhenShapes.0.Descript>
+			<DisplayName>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Bát Môn Thiên Kiếp Kiếm Trận, tương truyền trận pháp này dựa trên lý lẽ của bát môn mà thành, có thể tiến công giết địch, có thể lui về phòng thủ, vô cùng huyền diệu.</Desc>
+			<EffectDesc>Tăng cường khả năng chịu tải của trận pháp\nMở khóa Trận Đồ Thượng Cổ:\nBát Môn Huyền Kim Thiên Kiếp Kiếm Trận</EffectDesc>
+			<ZhenShapes.0.Name>Bát Môn Huyền Kim Thiên Kiếp Kiếm Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Tương truyền trận pháp này dựa trên lý lẽ của bát môn mà thành, có thể tiến công giết địch, có thể lui về phòng thủ, vô cùng huyền diệu.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit10">
-			<DisplayName>Wood Spirit Formation</DisplayName>
-			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Roh Kayu. Dikatakan sebagai Formasi yang mampu membangkitkan Qi vitalitas antara langit dan bumi, meremajakan semua makhluk hidup.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Roh Kayu</EffectDesc>
-			<ZhenShapes.0.Name>Wood Spirit Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Formed by concentrating the essence of primordial eastern wood spirit, it is said to be a Formation capable of awakening the Qi of vitality among heaven and earth, rejuvenating all living things.</ZhenShapes.0.Descript>
+			<DisplayName>Tiên Thiên Giáp Ất Mộc Thần Trận</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Tiên Thiên Giáp Ất Mộc Thần Trận, tương truyền trận pháp này có thể đánh thức sinh khí trong trời đất, phục hồi vạn vật.</Desc>
+			<EffectDesc>Nâng cao khả năng chịu tải của trận pháp\nMở khóa Trận đồ Thượng cổ:\nTiên Thiên Giáp Ất Mộc Thần Trận</EffectDesc>
+			<ZhenShapes.0.Name>Tiên Thiên Giáp Ất Mộc Thần Trận</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Tụ tập nguyên tinh Tiên Thiên Giáp Ất Mộc thành trận, truyền thuyết rằng trận này có thể đánh thức khí sinh phát trong trời đất, hồi sinh vạn vật.</ZhenShapes.0.Descript>
 		</Text>
 		<Text Name="Esoterica_ZhenFa_Suit11">
-			<DisplayName>Convergence Formation</DisplayName>
-			<Desc>Bagan rahasia Diagram Formasi yang mencatat Formasi Konvergensi. Dikatakan bahwa setelah dikerahkan, Formasi ini menghadirkan bentuk Lima Puncak untuk melindungi suatu lokasi, menjadikannya tidak bisa dihancurkan.</Desc>
-			<EffectDesc>Meningkatkan Beban Formasi Maks.\nMembuka Diagram Formasi Kuno: \nFormasi Konvergensi</EffectDesc>
-			<ZhenShapes.0.Name>Convergence Formation</ZhenShapes.0.Name>
-			<ZhenShapes.0.Descript>Formation formed by the spiritual essence of the Five Peaks. It's said that once deployed, it will present the form of the Five Peaks to ward a location, rendering it indestructible.</ZhenShapes.0.Descript>
+			<DisplayName>Ngũ Phong Trấn Quy Hư</DisplayName>
+			<Desc>Bí phổ trận đồ ghi chép về Ngũ Phong Trấn Quy Hư, truyền thuyết rằng trận này có thể dùng hình dạng ngũ phong để trấn giữ một phương, kiên cố không thể phá.</Desc>
+			<EffectDesc>Nâng cao khả năng chịu tải của trận pháp\nMở khóa Trận đồ Thượng cổ:\nNgũ Phong Trấn Quy Hư</EffectDesc>
+			<ZhenShapes.0.Name>Ngũ Phong Trấn Quy Hư</ZhenShapes.0.Name>
+			<ZhenShapes.0.Descript>Dùng thần tủy của Quy Hư Ngũ Thần Phong để tạo trận, truyền thuyết rằng trận này có thể dùng hình dạng ngũ phong để trấn giữ một phương, kiên cố không thể phá.</ZhenShapes.0.Descript>
 		</Text>
 	</List>
 </Texts>
+

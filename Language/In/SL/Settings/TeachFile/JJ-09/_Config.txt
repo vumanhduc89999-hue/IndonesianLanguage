@@ -2470,3 +2470,4 @@
 /Settings/TeachFile/JJ-09.osave	Zhens.m_mapZhenShape.4.ShapeName	八门玄金天劫剑阵	4	_ReplaceShapeName
 /Settings/TeachFile/JJ-09.osave	Zhens.m_mapZhenShape.4.Descript	传闻此阵以八门之理成阵，进可杀伐，退可护身，非常玄妙。	4	
 /Settings/TeachFile/JJ-09.osave	Zhens.m_mapZhenShape.5.ShapeName	成阵	5	_ReplaceShapeName
+

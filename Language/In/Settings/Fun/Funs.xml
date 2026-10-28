@@ -1,25 +1,26 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="LookAtSky">
-			<Desc>menganggur/melihat ke langit/matahari/bulan</Desc>
+			<Desc>Ngẩn ngơ/nhìn trời/mặt trời/mặt trăng</Desc>
 		</Text>
 		<Text Name="Dance">
-			<Desc>Menari</Desc>
+			<Desc>Nhảy múa</Desc>
 		</Text>
 		<Text Name="Music">
-			<Desc>Bermain musik</Desc>
+			<Desc>Chơi nhạc</Desc>
 		</Text>
 		<Text Name="PlayBird">
-			<Desc>Bermain dengan burung dan serangga</Desc>
+			<Desc>Chọc ghẹo chim côn trùng</Desc>
 		</Text>
 		<Text Name="Calligraphy">
-			<Desc>Melakukan kaligrafi</Desc>
+			<Desc>Thư họa</Desc>
 		</Text>
 		<Text Name="PlayChess">
-			<Desc>Bermain catur</Desc>
+			<Desc>Chơi cờ</Desc>
 		</Text>
 		<Text Name="PlayTicTacToe">
-			<Desc>Bermain tic-tac-toe</Desc>
+			<Desc>Chơi cờ caro</Desc>
 		</Text>
 	</List>
 </Texts>
+

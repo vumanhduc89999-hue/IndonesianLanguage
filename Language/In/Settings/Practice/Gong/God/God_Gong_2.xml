@@ -1,27 +1,28 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="God_Gong_2">
-			<DisplayName>Eight Heavens Sadhana</DisplayName>
-			<Desc>Sebuah metode budidaya Hukum Shendao yang telah hilang sejak zaman kuno, merupakan cara mengumpulkan Keyakinan makhluk hidup untuk mencapai ketuhanan. Sebagian besar aliran Hukum Shendao memiliki banyak kesamaan, mereka hanya berbeda dalam jenis katalis spiritual yang digunakan, yang memanggil makhluk surgawi yang berbeda untuk perlindungan. Warisan Sadhana Delapan Surga datang dari surga melampaui langit ke arah barat. Dengan mengolah metode ini, seseorang akan mampu memanfaatkan katalis spiritual dari banyak surga untuk memanggil roh Delapan Legiun sebagai penjaga. Ini menekankan keahlian mantra.</Desc>
-			<SelectDesc>Budidaya Iman berbeda dengan cara tradisional dalam memanfaatkan Inti Emas. Itu sepenuhnya bergantung pada keyakinan makhluk hidup. Meskipun tidak ada persyaratan bakat untuk Pengembangan Iman, Anda tetap harus memiliki tingkat Kecerdasan yang sangat tinggi jika ingin mencapai puncak. Apakah anda ingin memilih untuk mengembangkan Hukum ini?</SelectDesc>
-			<Stages.0.DisplayName>Ascetic</Stages.0.DisplayName>
-			<Stages.0.Necks.0.DisplayName>Devotion</Stages.0.Necks.0.DisplayName>
-			<Stages.1.DisplayName>Preaching</Stages.1.DisplayName>
-			<Stages.1.Necks.0.DisplayName>Creation</Stages.1.Necks.0.DisplayName>
-			<Stages.2.DisplayName>Sushruta</Stages.2.DisplayName>
-			<Stages.2.Necks.0.DisplayName>Edict: Gandharva</Stages.2.Necks.0.DisplayName>
-			<Stages.2.Necks.1.DisplayName>Edict: Kinnara</Stages.2.Necks.1.DisplayName>
-			<Stages.2.Necks.2.DisplayName>Edict: Garuda</Stages.2.Necks.2.DisplayName>
-			<Stages.3.DisplayName>Ferocious</Stages.3.DisplayName>
-			<Stages.3.Necks.0.DisplayName>Edict: Mahoraga</Stages.3.Necks.0.DisplayName>
-			<Stages.3.Necks.1.DisplayName>Edict: Yaksha</Stages.3.Necks.1.DisplayName>
-			<Stages.3.Necks.2.DisplayName>Edict: Asura</Stages.3.Necks.2.DisplayName>
-			<Stages.4.DisplayName>Supreme</Stages.4.DisplayName>
-			<Stages.4.Necks.0.DisplayName>Edict: Naga</Stages.4.Necks.0.DisplayName>
-			<Stages.4.Necks.1.DisplayName>Edict: Deva</Stages.4.Necks.1.DisplayName>
-			<Stages.4.Necks.2.DisplayName>Transcendence</Stages.4.Necks.2.DisplayName>
-			<Stages.5.DisplayName>Attainment</Stages.5.DisplayName>
-			<Stages.5.Necks.0.DisplayName>Supreme</Stages.5.Necks.0.DisplayName>
+			<DisplayName>Chư Thiên Bát Bộ Thành Tựu Pháp</DisplayName>
+			<Desc>Thuật tu hành thần đạo đã bị đoạn tuyệt từ thời thượng cổ, là pháp môn tập hợp tín ngưỡng chúng sinh để thành tựu thần tính. Pháp thần tu đều đại đồng tiểu dị, truyền thừa khác biệt chỉ ở linh dẫn thần tính khác nhau, có thể dẫn động các linh thiên đạo khác nhau bảo hộ. "Chư Thiên Bát Bộ Thành Tựu Pháp" là truyền thừa của Tây Phương Thiên Ngoại Thiên, tu luyện pháp này có thể mượn linh dẫn của chư thiên, triệu tập linh chúng Bát Bộ bảo hộ, thiên về thuật pháp chi đạo.</Desc>
+			<SelectDesc>Đạo tu hành tín ngưỡng khác với tu hành Kim Đan truyền thống, pháp này hoàn toàn dựa vào tín ngưỡng của chúng sinh để tu hành. Tu hành tín ngưỡng tuy không yêu cầu thiên tư, nhưng nếu muốn đạt đến đỉnh cao, cần ngộ tính cực cao, có muốn lựa chọn tu luyện công pháp này không?</SelectDesc>
+			<Stages.0.DisplayName>Khổ Hành</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Khiêm Tâm</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Truyền đạo</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Khai Phá</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Diệu Văn</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Sắc Lệnh: Càn Đạt Bà</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Sắc Lệnh: Khẩn Na La</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Sắc Lệnh: Già Lâu La</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Hung Lệ</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Sắc Lệnh: Ma Hô La Già</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Sắc Lệnh: Dạ Xoa</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Sắc Lệnh: A Tu La</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>Chí Cao</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Sắc Lệnh: Long Vương</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Sắc Lệnh: Thiên Nhân</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Thoát Phàm</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>Viên mãn</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Vô Thượng</Stages.5.Necks.0.DisplayName>
 		</Text>
 	</List>
 </Texts>
+

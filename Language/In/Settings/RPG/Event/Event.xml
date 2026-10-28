@@ -1,44 +1,45 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Initialize">
-			<DisplayName>Initialize</DisplayName>
+			<DisplayName>Khởi tạo</DisplayName>
 		</Text>
 		<Text Name="StayInTrap">
-			<DisplayName>Stay in Trap Point</DisplayName>
-			<PDisplayName>Stay Time (sec)</PDisplayName>
+			<DisplayName>Dừng lại tại điểm Trap</DisplayName>
+			<PDisplayName>Thời gian dừng lại (giây)</PDisplayName>
 		</Text>
 		<Text Name="EnterTrap">
-			<DisplayName>Enter Trap Point</DisplayName>
+			<DisplayName>Vào điểm Trap</DisplayName>
 		</Text>
 		<Text Name="LeaveTrap">
-			<DisplayName>Leave Trap Point</DisplayName>
+			<DisplayName>Rời khỏi điểm Trap</DisplayName>
 		</Text>
 		<Text Name="BeenAttack">
-			<DisplayName>Under Attack</DisplayName>
+			<DisplayName>Bị tấn công</DisplayName>
 		</Text>
 		<Text Name="BeenDestroy">
-			<DisplayName>Destroyed</DisplayName>
+			<DisplayName>Bị phá hủy</DisplayName>
 		</Text>
 		<Text Name="Dead">
-			<DisplayName>Dead</DisplayName>
+			<DisplayName>Tử vong</DisplayName>
 		</Text>
 		<Text Name="InSocial">
-			<DisplayName>When Interacting</DisplayName>
+			<DisplayName>Đang giao tiếp</DisplayName>
 		</Text>
 		<Text Name="LeaveSocial">
-			<DisplayName>After Interaction</DisplayName>
+			<DisplayName>Sau giao tiếp</DisplayName>
 		</Text>
 		<Text Name="NpcEnterWorkSpace">
-			<DisplayName>Character enters build point</DisplayName>
+			<DisplayName>Nhân vật vào điểm làm việc</DisplayName>
 		</Text>
 		<Text Name="NpcLeaveWorkSpace">
-			<DisplayName>Character leaves build point</DisplayName>
+			<DisplayName>Nhân vật rời điểm làm việc</DisplayName>
 		</Text>
 		<Text Name="OnStep">
-			<DisplayName>Logic Frame Callback</DisplayName>
+			<DisplayName>Gọi lại khung logic</DisplayName>
 		</Text>
 		<Text Name="OnRender">
-			<DisplayName>Rendering Frame Callback</DisplayName>
+			<DisplayName>Gọi lại khung hiển thị</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

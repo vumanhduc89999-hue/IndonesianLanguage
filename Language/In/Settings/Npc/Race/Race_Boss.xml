@@ -1,35 +1,36 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Boss_Long">
-			<DisplayName>Naga Banjir</DisplayName>
-			<Desc>Binatang Purba: Naga Banjir</Desc>
-			<FightParts.0.DisplayName>Tubuh</FightParts.0.DisplayName>
-			<FightParts.1.DisplayName>Ekor</FightParts.1.DisplayName>
-			<FightParts.2.DisplayName>Klakson</FightParts.2.DisplayName>
-			<FightParts.3.DisplayName>L-Cakar Depan</FightParts.3.DisplayName>
-			<FightParts.4.DisplayName>R-Cakar Depan</FightParts.4.DisplayName>
-			<FightParts.5.DisplayName>L-Cakar Belakang</FightParts.5.DisplayName>
-			<FightParts.6.DisplayName>R-Cakar Belakang</FightParts.6.DisplayName>
-			<FightParts.7.DisplayName>Skala Terlarang</FightParts.7.DisplayName>
+			<DisplayName>Giao Long</DisplayName>
+			<Desc>Thú cổ đại: Giao Long</Desc>
+			<FightParts.0.DisplayName>Cơ thể</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Long vĩ</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Long Giác</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Long tả tiền trảo</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Long hữu tiền trảo</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Long tả hậu trảo</FightParts.5.DisplayName>
+			<FightParts.6.DisplayName>Long hữu hậu trảo</FightParts.6.DisplayName>
+			<FightParts.7.DisplayName>Vảy ngược</FightParts.7.DisplayName>
 		</Text>
 		<Text Name="Boss_Feng">
-			<DisplayName>Phoenix</DisplayName>
-			<Desc>Binatang Purba: Phoenix</Desc>
-			<FightParts.0.DisplayName>Tubuh</FightParts.0.DisplayName>
-			<FightParts.1.DisplayName>Bulu Mahkota</FightParts.1.DisplayName>
-			<FightParts.2.DisplayName>L-Sayap</FightParts.2.DisplayName>
-			<FightParts.3.DisplayName>Sayap-R</FightParts.3.DisplayName>
-			<FightParts.4.DisplayName>Bulu ekor</FightParts.4.DisplayName>
-			<FightParts.5.DisplayName>Mata Surya</FightParts.5.DisplayName>
+			<DisplayName>Phượng hung</DisplayName>
+			<Desc>Thú cổ đại: Hung Phượng</Desc>
+			<FightParts.0.DisplayName>Cơ thể</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Lông đầu</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Cánh trái</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Cánh phải</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Lông đuôi</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Thái Dương Chi Nhãn</FightParts.5.DisplayName>
 		</Text>
 		<Text Name="Boss_Zhulong">
-			<DisplayName>Naga Obor</DisplayName>
-			<Desc>Binatang Purba: Naga Banjir</Desc>
-			<FightParts.0.DisplayName>Tubuh</FightParts.0.DisplayName>
-			<FightParts.1.DisplayName>Skala Langit</FightParts.1.DisplayName>
-			<FightParts.2.DisplayName>Naga Giok</FightParts.2.DisplayName>
-			<FightParts.3.DisplayName>Mata Kiri</FightParts.3.DisplayName>
-			<FightParts.4.DisplayName>Mata Kanan</FightParts.4.DisplayName>
+			<DisplayName>Chúc Long</DisplayName>
+			<Desc>Thú cổ đại: Giao Long</Desc>
+			<FightParts.0.DisplayName>Cơ thể</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Thiên Lân</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Long ngọc</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Mắt trái</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Mắt phải</FightParts.4.DisplayName>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,12 +1,13 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="NoHeavyWork">
-			<DisplayName>Sheltered</DisplayName>
-			<Desc>Kehidupan yang istimewa telah membuat [IT] tidak dapat melakukan pekerjaan kasar apa pun.</Desc>
+			<DisplayName>Được nuông chiều từ bé</DisplayName>
+			<Desc>Cuộc sống sung túc khiến [IT] không thể làm những công việc nặng nhọc</Desc>
 		</Text>
 		<Text Name="NoMeticulousWork">
-			<DisplayName>Clumsy</DisplayName>
-			<Desc>Orang ini terlalu kikuk untuk melakukan pekerjaan apa pun yang membutuhkan ketelitian.</Desc>
+			<DisplayName>Vụng về</DisplayName>
+			<Desc>Người này rất vụng về, không thể làm những công việc tỉ mỉ.</Desc>
 		</Text>
 	</List>
 </Texts>
+

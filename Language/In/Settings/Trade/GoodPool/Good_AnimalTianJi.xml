@@ -1,20 +1,21 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="TianJiA">
-			<IVNUMBER.0.Animal.DisplayName>Chicken Cage</IVNUMBER.0.Animal.DisplayName>
-			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor ayam di Awakening State. Pelatihan yang diterimanya dari sekte telah memberinya kenangan terkait Kecepatan Budidaya.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.0.Animal.DisplayName>Chuồng gà</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con gà kỳ khai trí, được môn phái định hướng bồi dưỡng để sở hữu ký ức về tốc độ tu luyện.</IVNUMBER.0.Animal.Tip>
 		</Text>
 		<Text Name="TianJiAL">
-			<IVNUMBER.0.Animal.DisplayName>Simple Chicken Cage</IVNUMBER.0.Animal.DisplayName>
-			<IVNUMBER.0.Animal.Tip>Di dalamnya ada seekor ayam dalam kondisi Kebangkitan, ia memiliki Kecerdasan Ketakutan.</IVNUMBER.0.Animal.Tip>
-			<IVNUMBER.1.Animal.DisplayName>Simple Chicken Cage</IVNUMBER.1.Animal.DisplayName>
-			<IVNUMBER.1.Animal.Tip>Di dalamnya ada seekor ayam dalam kondisi Kebangkitan, ia memiliki Kecerdasan Pikiran.</IVNUMBER.1.Animal.Tip>
-			<IVNUMBER.2.Animal.DisplayName>Simple Chicken Cage</IVNUMBER.2.Animal.DisplayName>
-			<IVNUMBER.2.Animal.Tip>Di dalamnya ada seekor ayam dalam kondisi Kebangkitan, ia memiliki Intelegensi Kegembiraan.</IVNUMBER.2.Animal.Tip>
-			<IVNUMBER.3.Animal.DisplayName>Simple Chicken Cage</IVNUMBER.3.Animal.DisplayName>
-			<IVNUMBER.3.Animal.Tip>Di dalamnya ada seekor ayam dalam kondisi Kebangkitan, ia memiliki Kecerdasan Kemarahan.</IVNUMBER.3.Animal.Tip>
-			<IVNUMBER.4.Animal.DisplayName>Simple Chicken Cage</IVNUMBER.4.Animal.DisplayName>
-			<IVNUMBER.4.Animal.Tip>Di dalamnya ada seekor ayam dalam kondisi Kebangkitan, ia memiliki Kecerdasan Kecemasan.</IVNUMBER.4.Animal.Tip>
+			<IVNUMBER.0.Animal.DisplayName>Chuồng gà sơ sài.</IVNUMBER.0.Animal.DisplayName>
+			<IVNUMBER.0.Animal.Tip>Bên trong có một con gà kỳ khai trí, sở hữu linh trí về nỗi sợ.</IVNUMBER.0.Animal.Tip>
+			<IVNUMBER.1.Animal.DisplayName>Chuồng gà sơ sài.</IVNUMBER.1.Animal.DisplayName>
+			<IVNUMBER.1.Animal.Tip>Bên trong có một con gà kỳ khai trí, sở hữu linh trí về nỗi nhớ.</IVNUMBER.1.Animal.Tip>
+			<IVNUMBER.2.Animal.DisplayName>Chuồng gà sơ sài.</IVNUMBER.2.Animal.DisplayName>
+			<IVNUMBER.2.Animal.Tip>Bên trong có một con gà kỳ khai trí, sở hữu linh trí về niềm vui.</IVNUMBER.2.Animal.Tip>
+			<IVNUMBER.3.Animal.DisplayName>Chuồng gà sơ sài.</IVNUMBER.3.Animal.DisplayName>
+			<IVNUMBER.3.Animal.Tip>Bên trong có một con gà kỳ khai trí, sở hữu linh trí về sự giận dữ.</IVNUMBER.3.Animal.Tip>
+			<IVNUMBER.4.Animal.DisplayName>Chuồng gà sơ sài.</IVNUMBER.4.Animal.DisplayName>
+			<IVNUMBER.4.Animal.Tip>Bên trong có một con gà kỳ khai trí, sở hữu linh trí về nỗi lo.</IVNUMBER.4.Animal.Tip>
 		</Text>
 	</List>
 </Texts>
+

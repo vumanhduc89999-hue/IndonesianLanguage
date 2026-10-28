@@ -1,25 +1,26 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="FightSkill_God_Damage1">
-			<DisplayName>Dragon's Roar</DisplayName>
+			<DisplayName>Ngự Long Tiếu</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_Damage2">
-			<DisplayName>Seven Slaughters Thunder</DisplayName>
+			<DisplayName>Thất Sát Lục Ma Thần Lôi</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_FaBao1">
-			<DisplayName>Sword of Asura</DisplayName>
+			<DisplayName>Kiếm Tu La</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_FightSkill1">
-			<DisplayName>Curse of Yaksha</DisplayName>
+			<DisplayName>Lời nguyền máu Dạ Xoa</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_Sheild1">
-			<DisplayName>Guard of Impermanence</DisplayName>
+			<DisplayName>Hộ vô thường</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_Health1">
-			<DisplayName>Chant of Luxuriance</DisplayName>
+			<DisplayName>Vạn Hoa Chú</DisplayName>
 		</Text>
 		<Text Name="FightSkill_God_Health2">
-			<DisplayName>Tranquility</DisplayName>
+			<DisplayName>Tĩnh lặng</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

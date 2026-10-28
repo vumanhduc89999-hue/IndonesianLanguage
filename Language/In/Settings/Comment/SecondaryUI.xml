@@ -1,203 +1,204 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="SystemMessage">
-			<Notes>Comment Panel of System Message</Notes>
-			<Title>System Message</Title>
-			<Desc>Pesan Sistem</Desc>
+			<Notes>Bảng thông báo hệ thống</Notes>
+			<Title>Thông báo hệ thống</Title>
+			<Desc>Thông báo hệ thống</Desc>
 		</Text>
 		<Text Name="Architecture">
-			<Notes>Comment Panel of Building</Notes>
-			<Title>Building Page</Title>
-			<Desc>Halaman Bangunan</Desc>
+			<Notes>Bảng kiến trúc</Notes>
+			<Title>Trang kiến trúc</Title>
+			<Desc>Trang kiến trúc</Desc>
 		</Text>
 		<Text Name="NpcProperty">
-			<Notes>Comment Panel of Character Stats</Notes>
-			<Title>Character Stats</Title>
-			<Desc>Statistik Karakter</Desc>
+			<Notes>Bảng thuộc tính nhân vật</Notes>
+			<Title>Thuộc tính nhân vật</Title>
+			<Desc>Thuộc tính nhân vật</Desc>
 		</Text>
 		<Text Name="NpcSociality">
-			<Notes>Comment Panel of Character Social</Notes>
-			<Title>Character Social</Title>
-			<Desc>Karakter Sosial</Desc>
+			<Notes>Bảng xã giao nhân vật</Notes>
+			<Title>Xã giao nhân vật</Title>
+			<Desc>Xã giao nhân vật</Desc>
 		</Text>
 		<Text Name="NpcHealth">
-			<Notes>Comment Panel of Character Health</Notes>
-			<Title>Health Panel</Title>
-			<Desc>Panel Kesehatan</Desc>
+			<Notes>Bảng sức khỏe nhân vật</Notes>
+			<Title>Bảng sức khỏe</Title>
+			<Desc>Bảng sức khỏe</Desc>
 		</Text>
 		<Text Name="NpcPractice">
-			<Notes>Comment Panel of Character Cultivation/Training</Notes>
-			<Title>Cultivation Panel</Title>
-			<Desc>Panel Budidaya</Desc>
+			<Notes>Bảng tu luyện nhân vật</Notes>
+			<Title>Bảng tu luyện</Title>
+			<Desc>Bảng tu luyện</Desc>
 		</Text>
 		<Text Name="NpcZhuJi">
-			<Notes>Comment Panel of Character Foundation Training</Notes>
-			<Title>Foundation Panel</Title>
-			<Desc>Panel Yayasan</Desc>
+			<Notes>Bảng trúc cơ nhân vật</Notes>
+			<Title>Bảng trúc cơ</Title>
+			<Desc>Bảng trúc cơ</Desc>
 		</Text>
 		<Text Name="NpcGnosis">
-			<Notes>Comment Panel of Character Intelligence</Notes>
-			<Title>Intelligence Panel</Title>
-			<Desc>Panel Intelijen</Desc>
+			<Notes>Bảng linh trí nhân vật</Notes>
+			<Title>Bảng linh trí</Title>
+			<Desc>Bảng linh trí</Desc>
 		</Text>
 		<Text Name="NpcEquipment">
-			<Notes>Comment Panel of Character Gear</Notes>
-			<Title>Gear Page</Title>
-			<Desc>Halaman Perlengkapan</Desc>
+			<Notes>Bảng trang bị nhân vật</Notes>
+			<Title>Trang trang bị</Title>
+			<Desc>Trang trang bị</Desc>
 		</Text>
 		<Text Name="NpcEquipmentOfBodyPractice">
-			<Notes>Comment Panel of Gear and Secret Body Configurations</Notes>
-			<Title>Gear and Secret Body Configurations Panel</Title>
-			<Desc>Panel Konfigurasi Perlengkapan dan Tubuh Rahasia</Desc>
+			<Notes>Bảng cấu hình trang bị và bí thể</Notes>
+			<Title>Bảng cấu hình trang bị và bí thể</Title>
+			<Desc>Bảng cấu hình trang bị và bí thể</Desc>
 		</Text>
 		<Text Name="NpcCombatStyle">
-			<Notes>Comment Panel of Character's Battle Tactic</Notes>
-			<Title>Battle Tactic Panel</Title>
-			<Desc>Panel Taktik Pertempuran</Desc>
+			<Notes>Bảng phong cách chiến đấu nhân vật</Notes>
+			<Title>Bảng phong cách chiến đấu</Title>
+			<Desc>Bảng phong cách chiến đấu</Desc>
 		</Text>
 		<Text Name="NpcDetailProperty">
-			<Notes>Comment Panel of Character's Detailed Stats</Notes>
-			<Title>Detailed Stats Panel</Title>
-			<Desc>Panel Statistik Terperinci</Desc>
+			<Notes>Bảng thuộc tính chi tiết nhân vật</Notes>
+			<Title>Bảng thuộc tính chi tiết</Title>
+			<Desc>Bảng thuộc tính chi tiết</Desc>
 		</Text>
 		<Text Name="NpcDrugResistance">
-			<Notes>Comment Panel of Character's Medicine Tolerance</Notes>
-			<Title>Medicine Tolerance Panel</Title>
-			<Desc>Panel Toleransi Obat</Desc>
+			<Notes>Bảng khả năng chịu thuốc của nhân vật</Notes>
+			<Title>Bảng khả năng chịu thuốc</Title>
+			<Desc>Bảng khả năng chịu thuốc</Desc>
 		</Text>
 		<Text Name="Secret">
-			<Notes>Comment Panel of Mystery</Notes>
-			<Title>Mystery Panel</Title>
-			<Desc>Panel Misteri</Desc>
+			<Notes>Bảng bí mật</Notes>
+			<Title>Bảng bí mật</Title>
+			<Desc>Bảng bí mật</Desc>
 		</Text>
 		<Text Name="Character">
-			<Notes>Comment Panel of NPC</Notes>
-			<Title>NPC Panel</Title>
-			<Desc>Panel NPC</Desc>
+			<Notes>Bảng nhân vật</Notes>
+			<Title>Bảng nhân vật</Title>
+			<Desc>Bảng nhân vật</Desc>
 		</Text>
 		<Text Name="Clue">
-			<Notes>Comment Panel of Clue</Notes>
-			<Title>Clue Panel</Title>
-			<Desc>Panel Petunjuk</Desc>
+			<Notes>Bảng manh mối</Notes>
+			<Title>Bảng manh mối</Title>
+			<Desc>Bảng manh mối</Desc>
 		</Text>
 		<Text Name="ZhenGraph">
-			<Notes>Comment Panel of Formation Diagram</Notes>
-			<Title>Formation Diagram Panel</Title>
-			<Desc>Panel Diagram Formasi</Desc>
+			<Notes>Bảng trận đồ</Notes>
+			<Title>Bảng trận đồ</Title>
+			<Desc>Bảng trận đồ</Desc>
 		</Text>
 		<Text Name="ZhenEdit">
-			<Notes>Comment Panel of Formation Edit</Notes>
-			<Title>Formation Edit Panel</Title>
-			<Desc>Panel Edit Formasi</Desc>
+			<Notes>Bảng chỉnh sửa trận pháp</Notes>
+			<Title>Bảng chỉnh sửa trận pháp</Title>
+			<Desc>Bảng chỉnh sửa trận pháp</Desc>
 		</Text>
 		<Text Name="ZhenEyesOverview">
-			<Notes>Comment Panel of Auxiliary Overview</Notes>
-			<Title>Auxiliary Overview Panel</Title>
-			<Desc>Panel Ikhtisar Tambahan</Desc>
+			<Notes>Bảng tổng quan trận nhãn</Notes>
+			<Title>Bảng tổng quan trận nhãn</Title>
+			<Desc>Bảng tổng quan trận nhãn</Desc>
 		</Text>
 		<Text Name="WorkSchedule">
-			<Notes>Comment Panel of Work Schedule</Notes>
-			<Title>Work Schedule Panel</Title>
-			<Desc>Panel Jadwal Kerja</Desc>
+			<Notes>Bảng sắp xếp công việc</Notes>
+			<Title>Bảng sắp xếp công việc</Title>
+			<Desc>Bảng sắp xếp công việc</Desc>
 		</Text>
 		<Text Name="SectOverview">
-			<Notes>Comment Panel of Sect Overview</Notes>
-			<Title>Sect Panel</Title>
-			<Desc>Panel Sekte</Desc>
+			<Notes>Bảng tổng quan môn phái</Notes>
+			<Title>Bảng môn phái</Title>
+			<Desc>Bảng môn phái</Desc>
 		</Text>
 		<Text Name="SectStructure">
-			<Notes>Comment Panel of Sect Structure</Notes>
-			<Title>Sect Structure Panel</Title>
-			<Desc>Panel Struktur Sekte</Desc>
+			<Notes>Bảng cấu trúc môn phái</Notes>
+			<Title>Bảng cấu trúc môn phái</Title>
+			<Desc>Bảng cấu trúc môn phái</Desc>
 		</Text>
 		<Text Name="SectFollower">
-			<Notes>Comment Panel of Sect Disciple</Notes>
-			<Title>Sect Disciple Panel</Title>
-			<Desc>Panel Murid Sekte</Desc>
+			<Notes>Bảng đệ tử môn phái</Notes>
+			<Title>Bảng đệ tử môn phái</Title>
+			<Desc>Bảng đệ tử môn phái</Desc>
 		</Text>
 		<Text Name="SectRelationship">
-			<Notes>Comment Panel of Sect Diplomacy</Notes>
-			<Title>Sect Diplomacy Panel</Title>
-			<Desc>Panel Diplomasi Sekte</Desc>
+			<Notes>Bảng quan hệ môn phái</Notes>
+			<Title>Bảng quan hệ môn phái</Title>
+			<Desc>Bảng quan hệ môn phái</Desc>
 		</Text>
 		<Text Name="PowerManagement">
-			<Notes>Comment Panel of Power Management</Notes>
-			<Title>Power Management</Title>
+			<Notes>Bảng quản lý thế lực</Notes>
+			<Title>Quản lý thế lực</Title>
 		</Text>
 		<Text Name="SectGift">
-			<Notes>Comment Panel of Sect Gift</Notes>
-			<Title>Gift</Title>
-			<Desc>Hadiah Sekte</Desc>
+			<Notes>Bảng tặng quà môn phái</Notes>
+			<Title>Tặng quà</Title>
+			<Desc>Tặng quà môn phái</Desc>
 		</Text>
 		<Text Name="SectTransaction">
-			<Notes>Comment Panel of Sect Trade</Notes>
-			<Title>Sect Trade</Title>
-			<Desc>Perdagangan Sekte</Desc>
+			<Notes>Bảng giao dịch môn phái</Notes>
+			<Title>Giao dịch môn phái</Title>
+			<Desc>Giao dịch môn phái</Desc>
 		</Text>
 		<Text Name="SectMessageManagement">
-			<Notes>Comment Panel of Sect Messages</Notes>
-			<Title>Sect Messages</Title>
-			<Desc>Pesan Sekte</Desc>
+			<Notes>Bảng quản lý thông báo môn phái</Notes>
+			<Title>Quản lý tin tức môn phái</Title>
+			<Desc>Quản lý tin tức môn phái</Desc>
 		</Text>
 		<Text Name="SectLaws">
-			<Notes>Comment Panel of Sect Rules</Notes>
-			<Title>Sect Rules</Title>
-			<Desc>Aturan Sekte</Desc>
+			<Notes>Bảng môn quy</Notes>
+			<Title>Môn quy</Title>
+			<Desc>Môn quy</Desc>
 		</Text>
 		<Text Name="PedlarTransaction">
-			<Notes>Comment Panel of Trade</Notes>
-			<Title>Trade</Title>
-			<Desc>Berdagang</Desc>
+			<Notes>Bảng giao dịch hành thương</Notes>
+			<Title>Giao dịch hành thương</Title>
+			<Desc>Giao dịch hành thương</Desc>
 		</Text>
 		<Text Name="KeyholeReport">
-			<Notes>Comment Panel of Secret</Notes>
-			<Title>Secret</Title>
-			<Desc>Rahasia</Desc>
+			<Notes>Bảng bí văn</Notes>
+			<Title>Bí văn</Title>
+			<Desc>Bí văn</Desc>
 		</Text>
 		<Text Name="RefineBody">
-			<Notes>Comment Panel of Remold</Notes>
-			<Title>Remold Panel</Title>
-			<Desc>Panel Cetakan Ulang</Desc>
+			<Notes>Bảng ta thể</Notes>
+			<Title>Bảng ta thể</Title>
+			<Desc>Bảng ta thể</Desc>
 		</Text>
 		<Text Name="DomesticateSpiritBeast">
-			<Notes>Comment Panel of Pet Raising</Notes>
-			<Title>Pet Raising</Title>
-			<Desc>Pemeliharaan Hewan Peliharaan</Desc>
+			<Notes>Bảng nuôi dưỡng linh sủng</Notes>
+			<Title>Nuôi dưỡng linh sủng</Title>
+			<Desc>Nuôi dưỡng linh sủng</Desc>
 		</Text>
 		<Text Name="TrainSpiritBeast">
-			<Notes>Comment Panel of Pet Training</Notes>
-			<Title>Pet Training</Title>
-			<Desc>Pelatihan Hewan Peliharaan</Desc>
+			<Notes>Bảng huấn luyện linh sủng</Notes>
+			<Title>Huấn luyện linh sủng</Title>
+			<Desc>Huấn luyện linh sủng</Desc>
 		</Text>
 		<Text Name="FeedSpiritBeast">
-			<Notes>Comment Panel of Pet Food Nutrition</Notes>
-			<Title>Pet Food Nutrition</Title>
-			<Desc>Nutrisi Makanan Hewan Peliharaan</Desc>
+			<Notes>Bảng dinh dưỡng thức ăn linh sủng</Notes>
+			<Title>Dinh dưỡng thức ăn linh sủng</Title>
+			<Desc>Dinh dưỡng thức ăn linh sủng</Desc>
 		</Text>
 		<Text Name="BehaviorRecordSpiritBeast">
-			<Notes>Comment Panel of Pet Behavior Records</Notes>
-			<Title>Pet Behavior</Title>
-			<Desc>Perilaku Hewan Peliharaan</Desc>
+			<Notes>Bảng hành vi linh sủng</Notes>
+			<Title>Hành vi linh sủng</Title>
+			<Desc>Hành vi linh sủng</Desc>
 		</Text>
 		<Text Name="EmotionAndThinkingOfAnimal">
-			<Notes>Comment Panel of Thought and Thinking</Notes>
-			<Title>Thought and Thinking</Title>
-			<Desc>Berpikir dan Berpikir</Desc>
+			<Notes>Bảng suy nghĩ và tư duy</Notes>
+			<Title>Suy nghĩ và suy tư</Title>
+			<Desc>Suy nghĩ và suy tư</Desc>
 		</Text>
 		<Text Name="EmotionATarget">
-			<Notes>About Thought: Comment Panel of Realization</Notes>
-			<Title>Thought: Realization</Title>
-			<Desc>Tiga fragmen Pikiran Realisasi yang identik dapat digabungkan menjadi satu Pikiran Realisasi.</Desc>
+			<Notes>Bảng suy nghĩ: Nhận thức</Notes>
+			<Title>Suy nghĩ: Nhận thức</Title>
+			<Desc>Ba mảnh suy nghĩ nhận thức giống nhau có thể hợp thành một suy nghĩ nhận thức.</Desc>
 		</Text>
 		<Text Name="EmotionAScene">
-			<Notes>About Thought: Comment Panel of Rationality</Notes>
-			<Title>Thought: Rationality</Title>
-			<Desc>Tiga penggalan Pemikiran Rasionalitas yang identik dapat digabungkan menjadi satu Pemikiran Rasionalitas.</Desc>
+			<Notes>Bảng suy nghĩ: Lý trí</Notes>
+			<Title>Suy nghĩ: Lý trí</Title>
+			<Desc>Ba mảnh suy nghĩ lý trí giống nhau có thể hợp thành một suy nghĩ lý trí.</Desc>
 		</Text>
 		<Text Name="EmotionAEmotion">
-			<Notes>About Thought: Comment Panel of Perception</Notes>
-			<Title>Thought: Perception</Title>
-			<Desc>Tiga fragmen Pikiran Persepsi yang identik dapat digabungkan menjadi satu Pikiran Persepsi.</Desc>
+			<Notes>Bảng suy nghĩ: Cảm tri</Notes>
+			<Title>Suy nghĩ: Cảm tri</Title>
+			<Desc>Ba mảnh suy nghĩ cảm tri giống nhau có thể hợp thành một suy nghĩ cảm tri.</Desc>
 		</Text>
 	</List>
 </Texts>
+

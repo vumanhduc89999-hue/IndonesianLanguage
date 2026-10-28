@@ -76,4 +76,5 @@
 /Settings/RPG/Maps/Rpg_Tower_12/map.txt	RPGInfo.Objects.1.LuaPostProcessing.Param2	狂徒，国库禁地也敢恣意游荡，受死！	1	
 /Settings/RPG/Maps/Rpg_Tower_12/map.txt	RPGInfo.MapInfo.Title	画地为牢	-1	
 /Settings/RPG/Maps/Rpg_Tower_12/map.txt	RPGInfo.MapInfo.Desc	防御，闪避，飞剑速度降低	-1	
-/Settings/RPG/Maps/Rpg_Tower_12/map.txt	RPGInfo.MapInfo.EnterContent	此地有一尊玄黄宝塔，有着镇压时空的玄妙作用。	-1	
+/Settings/RPG/Maps/Rpg_Tower_12/map.txt	RPGInfo.MapInfo.EnterContent	此地有一尊玄黄宝塔，有着镇压时空的玄妙作用。	-1
+

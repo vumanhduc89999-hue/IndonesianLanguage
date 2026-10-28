@@ -1,84 +1,85 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Bear_Fat">
-			<DisplayName>Thick Layer of Fat</DisplayName>
-			<Desc>Terlahir dengan jumlah lemak yang besar, memberikan ketahanan dingin yang cukup baik dan ketahanan yang kuat terhadap Lima Elemen.</Desc>
+			<DisplayName>Mỡ dày</DisplayName>
+			<Desc>Bẩm sinh có nhiều mỡ, chịu lạnh tốt, đồng thời có sức kháng với ngũ hành mạnh mẽ.</Desc>
 		</Text>
 		<Text Name="Rabbit_Fast">
-			<DisplayName>Eager</DisplayName>
-			<Desc>Kecepatan lari dan kecepatan belajarnya sangat cepat, namun dengan mentalitas tidak sabaran.</Desc>
+			<DisplayName>Nhanh nhẹn</DisplayName>
+			<Desc>Chạy rất nhanh, học hỏi cũng nhanh, nhưng tâm trạng thì nóng vội.</Desc>
 		</Text>
 		<Text Name="Rabbit_Hear">
-			<DisplayName>Cautious</DisplayName>
-			<Desc>Memiliki telinga yang sangat sensitif dan persepsi yang baik.</Desc>
+			<DisplayName>Cảnh giác</DisplayName>
+			<Desc>Thính giác rất nhạy, cảm nhận rất cao.</Desc>
 		</Text>
 		<Text Name="Chicken_Sleep">
-			<DisplayName>Light Sleeper</DisplayName>
-			<Desc>Terlahir dengan siklus tidur yang sangat pendek, pekerja keras.</Desc>
+			<DisplayName>Ngày đêm suy nghĩ</DisplayName>
+			<Desc>Bẩm sinh ngủ rất ít, rất chăm chỉ.</Desc>
 		</Text>
 		<Text Name="Wolf_Calm">
-			<DisplayName>Cruel and Calm</DisplayName>
-			<Desc>Pejuang yang terlahir secara alami, dengan bakat tempur unggul yang melampaui batas kemampuan manusia.</Desc>
+			<DisplayName>Tàn Nhẫn Lãnh Tĩnh</DisplayName>
+			<Desc>Là một chiến binh bẩm sinh, năng lực chiến đấu của họ vượt qua giới hạn của con người.</Desc>
 		</Text>
 		<Text Name="Snake_Progenitor">
-			<DisplayName>Race of Survivors</DisplayName>
-			<Desc>Pada zaman dahulu, para pembudidaya setan ular mencoba mengubah bentuk tubuh mereka menjadi menyerupai naga, dan akhirnya dituntut oleh ras naga dan hampir punah. Oleh karena itu, mereka tidak meninggalkan banyak teknik rahasia pemurnian tubuh. Namun, hal itu memungkinkan mereka untuk memiliki persepsi dan bakat Qi tingkat tinggi melebihi orang biasa.</Desc>
+			<DisplayName>Dòng dõi đứt đoạn</DisplayName>
+			<Desc>Thời kỳ cổ đại, những người luyện thể từ Xà Yêu muốn ta luyện cơ thể hóa thành rồng, nhưng bị tộc rồng đàn áp, gần như bị diệt vong và không để lại gì về bí quyết luyện thể. Nhưng điều này cũng khiến họ có khả năng cảm nhận linh khí và thiên phú vượt trội hơn người.</Desc>
 		</Text>
 		<Text Name="Frog">
-			<DisplayName>Resilient</DisplayName>
-			<Desc>Terlahir dengan tubuh yang memiliki ketahanan yang kuat.</Desc>
+			<DisplayName>Khôi Phục Lực</DisplayName>
+			<Desc>Cơ thể bẩm sinh có khả năng phục hồi mạnh mẽ.</Desc>
 		</Text>
 		<Text Name="Frog_Vision">
-			<DisplayName>Miniature</DisplayName>
-			<Desc>Ukurannya yang kecil membuat katak lebih waspada terhadap hal-hal sepele dan lebih memperhatikan detail dalam kerajinan.</Desc>
+			<DisplayName>Vi mô</DisplayName>
+			<Desc>Kích thước nhỏ của mình giúp ếch hiểu rõ hơn về chi tiết của mọi thứ, chú trọng hơn đến từng chi tiết khi chế tạo.</Desc>
 		</Text>
 		<Text Name="Boar">
-			<DisplayName>Omnivorous</DisplayName>
-			<Desc>Makan semuanya, cerna dengan baik, dan ubah makanan menjadi Stamina dengan lebih mudah.</Desc>
+			<DisplayName>Ăn tạp</DisplayName>
+			<Desc>Ăn tất cả mọi thứ, tiêu hóa tốt, dễ dàng chuyển hóa thực phẩm thành tinh nguyên.</Desc>
 		</Text>
 		<Text Name="Snake">
-			<DisplayName>Blessed</DisplayName>
-			<Desc>Terlahir secara alami dengan Berkah yang kuat.</Desc>
+			<DisplayName>Linh tính</DisplayName>
+			<Desc>Bẩm sinh có linh tính mạnh mẽ.</Desc>
 		</Text>
 		<Text Name="Wolf">
-			<DisplayName>Social</DisplayName>
-			<Desc>Menjadi hewan yang suka berteman membuatnya sangat pandai bekerja sama dengan orang lain.</Desc>
+			<DisplayName>Tập thể</DisplayName>
+			<Desc>Sống tập thể và hợp tác giúp họ rất giỏi trong việc hợp tác ăn ý với người khác.</Desc>
 		</Text>
 		<Text Name="Cat_Elegant">
-			<DisplayName>Nimble</DisplayName>
-			<Desc>Hampir tidak mengeluarkan suara saat berjalan, dan sangat pandai bersembunyi.</Desc>
+			<DisplayName>Nhẹ nhàng</DisplayName>
+			<Desc>Đi bộ gần như không phát ra âm thanh nào, giỏi trong việc ẩn mình.</Desc>
 		</Text>
 		<Text Name="Cat_Light">
-			<DisplayName>Nimble</DisplayName>
-			<Desc>Hampir tidak mengeluarkan suara saat berjalan, dan sangat pandai bersembunyi.</Desc>
+			<DisplayName>Nhẹ nhàng</DisplayName>
+			<Desc>Đi bộ gần như không phát ra tiếng động, sở trường ẩn nấp.</Desc>
 		</Text>
 		<Text Name="Tor_Longevity">
-			<DisplayName>Long-lived</DisplayName>
-			<Desc>Mereka mempunyai umur yang sangat panjang.</Desc>
+			<DisplayName>Trường thọ</DisplayName>
+			<Desc>Trường thọ, tuổi thọ rất dài.</Desc>
 		</Text>
 		<Text Name="Tor_Slow">
-			<DisplayName>Slow</DisplayName>
-			<Desc>Kura-kura adalah hewan yang sangat lambat, tetapi mereka menjaga mentalitas yang baik, dan mengonsumsi makanan dan air dengan lebih lambat juga.</Desc>
+			<DisplayName>Quy Tốc</DisplayName>
+			<Desc>Rùa di chuyển rất chậm, nhưng tâm trạng rất tốt, tiêu thụ thức ăn và nước uống cũng chậm.</Desc>
 		</Text>
 		<Text Name="Tor_Def">
-			<DisplayName>Shell</DisplayName>
-			<Desc>Kura-kura secara alami mempunyai pertahanan yang sangat kuat.</Desc>
+			<DisplayName>Mai rùa</DisplayName>
+			<Desc>Rùa bẩm sinh có khả năng phòng thủ cực kỳ mạnh mẽ.</Desc>
 		</Text>
 		<Text Name="Tiger_Pier">
-			<DisplayName>Ferocious</DisplayName>
-			<Desc>Sangat galak dan pandai bertarung. Agresivitas ini juga sangat membantu Sword Mastery.</Desc>
+			<DisplayName>Dữ dằn</DisplayName>
+			<Desc>Rất dữ dằn, giỏi trong việc chiến đấu. Tính tấn công của họ cũng rất hữu ích cho việc sử dụng kiếm.</Desc>
 		</Text>
 		<Text Name="Cow_Farmer">
-			<DisplayName>Meek</DisplayName>
-			<Desc>Secara alami pekerja keras dan pandai bertani.</Desc>
+			<DisplayName>Ôn Thuận Hòa Thiện</DisplayName>
+			<Desc>Bẩm sinh giỏi làm nông, chịu khó chịu khổ.</Desc>
 		</Text>
 		<Text Name="Cow_Big">
-			<DisplayName>Experienced Pharmacist</DisplayName>
-			<Desc>Ia memiliki sistem pencernaan yang unik, yang memberinya pemahaman yang lebih baik tentang kualitas tumbuhan jauh melebihi yang lain.</Desc>
+			<DisplayName>Am hiểu dược tính</DisplayName>
+			<Desc>Có hệ tiêu hóa độc đáo, khiến họ hiểu biết về dược liệu vượt trội hơn người khác.</Desc>
 		</Text>
 		<Text Name="Cat_Pot">
-			<DisplayName>Curious</DisplayName>
-			<Desc>Kucing secara alami ingin tahu tentang hal yang tidak diketahui, yang merupakan kualitas yang sangat penting dalam budidaya.</Desc>
+			<DisplayName>Tò mò</DisplayName>
+			<Desc>Mèo bẩm sinh rất tò mò về những điều chưa biết, đây là phẩm chất rất quan trọng trong tu luyện.</Desc>
 		</Text>
 	</List>
 </Texts>
+

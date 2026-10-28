@@ -1,119 +1,120 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="OrnamentBase" sParam="Building">
-			<Desc>Struktur dekoratif. Itu dapat mempengaruhi Lima Elemen di sekitarnya berdasarkan materialnya.</Desc>
+			<Desc>Công trình trang trí, tùy theo vật liệu chế tạo có thể ảnh hưởng đến thuộc tính ngũ hành của khu vực xung quanh.</Desc>
 		</Text>
 		<Text Name="Building_StoneMan" sParam="Building">
-			<ThingName>Stone Giant</ThingName>
+			<ThingName>Tượng Cự Linh</ThingName>
 		</Text>
 		<Text Name="Building_Flag1" sParam="Building">
-			<ThingName>Dragon Flag</ThingName>
+			<ThingName>Long kỳ</ThingName>
 		</Text>
 		<Text Name="Building_Flag2" sParam="Building">
-			<ThingName>Trigrams Flag</ThingName>
+			<ThingName>Cờ bát quái</ThingName>
 		</Text>
 		<Text Name="Building_Flag3" sParam="Building">
-			<ThingName>Tai Chi Flag</ThingName>
+			<ThingName>Cờ thái cực</ThingName>
 		</Text>
 		<Text Name="Building_StoneLion" sParam="Building">
-			<ThingName>Stone Lion</ThingName>
+			<ThingName>Tượng sư tử</ThingName>
 		</Text>
 		<Text Name="Building_StoneLion2" sParam="Building">
-			<ThingName>Stone Lion</ThingName>
+			<ThingName>Tượng sư tử</ThingName>
 		</Text>
 		<Text Name="Building_StoneLion3" sParam="Building">
-			<ThingName>Stone Lion</ThingName>
+			<ThingName>Tượng sư tử</ThingName>
 		</Text>
 		<Text Name="Building_BigTripod" sParam="Building">
-			<ThingName>Cauldron</ThingName>
+			<ThingName>Đỉnh</ThingName>
 		</Text>
 		<Text Name="Building_SmallTripod" sParam="Building">
-			<ThingName>Cauldron</ThingName>
+			<ThingName>Đỉnh</ThingName>
 		</Text>
 		<Text Name="Building_BigCenser" sParam="Building">
-			<ThingName>Censer</ThingName>
+			<ThingName>Lư hương</ThingName>
 		</Text>
 		<Text Name="Building_SmallCenser" sParam="Building">
-			<ThingName>Censer</ThingName>
+			<ThingName>Lư hương</ThingName>
 		</Text>
 		<Text Name="Building_BigSwordPillar" sParam="Building">
-			<ThingName>Sword Shield</ThingName>
-			<Desc>Artefak cadangan dapat digunakan untuk membentuk Perisai Pedang, yang dapat diaktifkan untuk mempertahankan serangan musuh. Perisai hanya dapat melindungi murid dalam. Artefak tidak dapat diambil.</Desc>
+			<ThingName>Kiếm trận hộ sơn</ThingName>
+			<Desc>Có thể ném pháp bảo không dùng vào kiếm trận, khi cần thiết có thể kích hoạt kiếm trận để chống lại kẻ thù. Kiếm trận chỉ có thể khóa khí tức của đệ tử nội môn. Pháp bảo một khi đã ném vào kiếm trận thì không thể lấy ra.</Desc>
 		</Text>
 		<Text Name="Building_BigVase" sParam="Building">
-			<ThingName>Vase</ThingName>
+			<ThingName>Bình hoa</ThingName>
 		</Text>
 		<Text Name="Building_SmallVase" sParam="Building">
-			<ThingName>Vase</ThingName>
+			<ThingName>Bình hoa</ThingName>
 		</Text>
 		<Text Name="Building_Screen1" sParam="Building">
-			<ThingName>Folding Screen</ThingName>
+			<ThingName>Bình phong</ThingName>
 		</Text>
 		<Text Name="Building_BookShelf" sParam="Building">
-			<ThingName>Decoration Shelf</ThingName>
+			<ThingName>Giá sách trang trí</ThingName>
 		</Text>
 		<Text Name="Building_ItemShelf" sParam="Building">
-			<ThingName>Display</ThingName>
-			<Desc>Item dapat dipilih dan ditempatkan pada Tampilan.</Desc>
+			<ThingName>Kệ đồ</ThingName>
+			<Desc>Có thể đặt vật phẩm chỉ định lên kệ đồ.</Desc>
 		</Text>
 		<Text Name="Building_ShuZhuangTai" sParam="Building">
-			<ThingName>Dressing Table</ThingName>
+			<ThingName>Bàn trang điểm</ThingName>
 		</Text>
 		<Text Name="Building_Tower" sParam="Building">
-			<ThingName>Subduer Pagoda</ThingName>
+			<ThingName>Tháp trấn</ThingName>
 		</Text>
 		<Text Name="Building_Tower2" sParam="Building">
-			<ThingName>Pagoda</ThingName>
+			<ThingName>Tháp</ThingName>
 		</Text>
 		<Text Name="Building_ShiBei" sParam="Building">
-			<ThingName>Stele</ThingName>
+			<ThingName>Bia</ThingName>
 		</Text>
 		<Text Name="Building_Zhong" sParam="Building">
-			<ThingName>Bell</ThingName>
-			<Desc>Lonceng besar yang dapat dibunyikan untuk mengingatkan dan memanggil semua murid luar agar mereka terhindar dari bahaya, namun perlu dihentikan secara manual. Dapat juga digunakan sebagai hiasan, yang mempengaruhi Lima Elemen di sekitarnya berdasarkan bahannya.</Desc>
+			<ThingName>Chuông</ThingName>
+			<Desc>Một chiếc chuông lớn, có thể gõ để phát tín hiệu cảnh báo, gọi tất cả đệ tử ngoại môn đến gần tránh nguy hiểm. Cần hủy cảnh báo thủ công. Cũng có thể dùng làm trang trí, tùy thuộc vào vật liệu chế tác có thể ảnh hưởng đến thuộc tính ngũ hành của khu vực xung quanh.</Desc>
 		</Text>
 		<Text Name="Building_Gu" sParam="Building">
-			<ThingName>Drum</ThingName>
+			<ThingName>Trống</ThingName>
 		</Text>
 		<Text Name="Building_JiaShan1" sParam="Building">
-			<ThingName>Rock Garden (Peak)</ThingName>
+			<ThingName>Giả Sơn-Tằng Loan</ThingName>
 		</Text>
 		<Text Name="Building_JiaShan2" sParam="Building">
-			<ThingName>Rock Garden (Hill)</ThingName>
+			<ThingName>Giả Sơn-Điệp Chướng</ThingName>
 		</Text>
 		<Text Name="Building_PenZai1" sParam="Building">
-			<ThingName>Bonsai (Lush)</ThingName>
+			<ThingName>Bồn Tài-Thương Thúy</ThingName>
 		</Text>
 		<Text Name="Building_PenZai2" sParam="Building">
-			<ThingName>Bonsai (Pine)</ThingName>
+			<ThingName>Bồn Tài-Nghênh Khách</ThingName>
 		</Text>
 		<Text Name="Building_PenZai3" sParam="Building">
-			<ThingName>Bonsai (Upright)</ThingName>
+			<ThingName>Bồn Tài-Nghênh Tiên</ThingName>
 		</Text>
 		<Text Name="Building_Tower1" sParam="Building">
-			<ThingName>Golden Pagoda</ThingName>
+			<ThingName>Tháp lưu kim</ThingName>
 		</Text>
 		<Text Name="Building_ShiBei1" sParam="Building">
-			<ThingName>Force Stele</ThingName>
+			<ThingName>Bia Bá Hạ</ThingName>
 		</Text>
 		<Text Name="Building_Zhong1" sParam="Building">
-			<ThingName>Dragon Bell</ThingName>
+			<ThingName>Chuông Phan Long</ThingName>
 		</Text>
 		<Text Name="Building_Gu1" sParam="Building">
-			<ThingName>Dragon Drum</ThingName>
+			<ThingName>Trống Vân Long</ThingName>
 		</Text>
 		<Text Name="Building_BookShelf_CangJing" sParam="Building">
-			<ThingName>Manual Pavilion</ThingName>
-			<Desc>Rak buku yang digunakan untuk menyimpan buku manual rahasia, masing-masing mempunyai kapasitas penyimpanan 100 buah. Semakin keras sebuah buku manual, maka semakin banyak ruang penyimpanan yang dibutuhkan.</Desc>
+			<ThingName>Giá sách Tàng Kinh Các</ThingName>
+			<Desc>Giá sách dùng để lưu trữ bí kíp, mỗi giá sách Tàng Kinh Các có dung lượng 100. Bí kíp càng sâu sắc, dung lượng lưu trữ càng nhiều.</Desc>
 		</Text>
 		<Text Name="Building_StoneYiJi1" sParam="Building">
-			<ThingName>Bixi Stele</ThingName>
+			<ThingName>Bia Huyền Quy</ThingName>
 		</Text>
 		<Text Name="Building_StoneYiJi2" sParam="Building">
-			<ThingName>Decrepit Statue</ThingName>
+			<ThingName>Tượng cổ tàn đạo</ThingName>
 		</Text>
 		<Text Name="Building_JuNengDeng" sParam="Building">
-			<ThingName>Primordial Light</ThingName>
+			<ThingName>Ánh sáng cổ thủy nguyên</ThingName>
 		</Text>
 	</List>
 </Texts>
+

@@ -1,70 +1,71 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="MakeLingSoil">
-			<DisplayName>Spiritual Soil of Creator</DisplayName>
-			<Desc>Menukarkan pertumbuhan dan nutrisi seseorang untuk mengubah sebidang tanah menjadi Tanah Spiritual.</Desc>
-			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
+			<DisplayName>Linh thổ sáng tạo</DisplayName>
+			<Desc>Hy sinh sự phát triển và dinh dưỡng của bản thân, biến một khu vực thành linh thổ.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
 		</Text>
 		<Text Name="MakeFatSoil">
-			<DisplayName>Fertile Soil</DisplayName>
-			<Desc>Menukarkan pertumbuhan dan nutrisi seseorang untuk mengubah sebidang tanah menjadi Tanah Subur.</Desc>
-			<TargetDesc>Pilih area kosong di tanah.</TargetDesc>
+			<DisplayName>Đất màu sáng tạo</DisplayName>
+			<Desc>Hy sinh sự phát triển và dinh dưỡng của bản thân, biến một khu vực thành đất màu mỡ.</Desc>
+			<TargetDesc>Vui lòng chọn một vùng đất trống.</TargetDesc>
 		</Text>
 		<Text Name="LcBrokeHeartLock">
-			<DisplayName>Act Playful</DisplayName>
-			<Desc>Dibutuhkan kecerdasan untuk memahami pikiran pengunjung atau orang luar dan bertindak Playful untuk menurunkan kewaspadaan mereka.</Desc>
-			<TargetDesc>Pilih target.</TargetDesc>
+			<DisplayName>Làm nũng</DisplayName>
+			<Desc>Tiêu hao linh trí để cảm nhận nội tâm của một khách ghé thăm hoặc người ngoài, nũng nịu để làm động lòng họ, phá vỡ phòng thủ tâm lý của họ.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
 		</Text>
 		<Text Name="LcClearHanyu">
-			<DisplayName>Cold Prison Dispelling</DisplayName>
-			<Desc>Sebagai makhluk yang sejenis dengan Naga Banjir, ia dapat menghilangkan Penjara Dingin yang ditinggalkan Naga Banjir untuk mendapatkan nutrisi dalam jumlah besar.</Desc>
-			<TargetDesc>Pilih target.</TargetDesc>
+			<DisplayName>Hấp thụ Hàn Ngục</DisplayName>
+			<Desc>Là đồng loại của giao long, hấp thụ hàn ngục do giao long để lại, có thể nhận được lượng lớn dinh dưỡng.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
 		</Text>
 		<Text Name="LcStopColdWave">
-			<DisplayName>Scorching Breath</DisplayName>
-			<Desc>Menggunakan kekuatan Phoenix dari dalam untuk mengeluarkan nafas panas dan mengusir rasa dingin yang pahit.</Desc>
-			<TargetDesc>Pilih target.</TargetDesc>
+			<DisplayName>Hơi thở nóng rực</DisplayName>
+			<Desc>Sử dụng sức mạnh phượng hoàng trong cơ thể, giải phóng hơi thở nóng rực để xua tan mùa đông.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
 		</Text>
 		<Text Name="LcStopHeatWave">
-			<DisplayName>Icy Breath</DisplayName>
-			<Desc>Menggunakan kekuatan Naga Banjir dari dalam untuk mengeluarkan nafas sedingin es dan mengeluarkan panas terik.</Desc>
-			<TargetDesc>Pilih target.</TargetDesc>
+			<DisplayName>Hơi thở lạnh lẽo</DisplayName>
+			<Desc>Sử dụng sức mạnh giao long trong cơ thể, giải phóng hơi thở lạnh giá để xua tan mùa hè.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
 		</Text>
 		<Text Name="LcBaipiao">
-			<DisplayName>Act Playful</DisplayName>
-			<Desc>Dibutuhkan kecerdasan untuk menebak pikiran Pedagang Keliling dan bertindak Ceria untuk menjilat. Mungkin saudagar itu tidak berhati dingin seperti yang dibayangkan.</Desc>
-			<TargetDesc>Pilih Pedagang Bepergian.</TargetDesc>
+			<DisplayName>Làm nũng</DisplayName>
+			<Desc>Tiêu hao một phần linh trí, đoán được nội tâm của một thương nhân, nũng nịu để lấy lòng họ. Có lẽ thương nhân không lạnh lùng như tưởng tượng?</Desc>
+			<TargetDesc>Vui lòng chọn một thương nhân.</TargetDesc>
 		</Text>
 		<Text Name="LcSeeUnknown">
-			<DisplayName>Piercing Sight</DisplayName>
-			<Desc>Memberikan Piercing Sight kepada murid batin sehingga mereka dapat melihat fitur sebenarnya dari suatu item saat berada di pelelangan.</Desc>
-			<TargetDesc>Pilih target.</TargetDesc>
+			<DisplayName>Hỏa Nhãn Kim Tinh</DisplayName>
+			<Desc>Ban cho một đệ tử nội môn khả năng Hỏa Nhãn Kim Tinh, giúp họ nhìn thấu một số món đồ trong đấu giá.</Desc>
+			<TargetDesc>Vui lòng chọn một mục tiêu</TargetDesc>
 		</Text>
 		<Text Name="LcOutspreadAttractive">
-			<DisplayName>Auspicious Signs</DisplayName>
-			<Desc>Mengirimkan mereka ke agensi dan menunjukkan tanda-tanda keberuntungan dengan mengorbankan pertumbuhan dan statistik mereka sendiri untuk meningkatkan daya tarik kami.</Desc>
-			<sParam2>Auspicious</sParam2>
+			<DisplayName>Thần Thú May Mắn</DisplayName>
+			<Desc>Cử người đến một điểm đại lý, hy sinh sự phát triển và thuộc tính của bản thân để biểu diễn tướng lành cho dân chúng, từ đó tăng sức hút của phe ta.</Desc>
+			<sParam2>Tướng lành</sParam2>
 		</Text>
 		<Text Name="LcOutspreadStability">
-			<DisplayName>Renowned Might</DisplayName>
-			<Desc>Mengirim mereka ke agensi dan menunjukkan kekuatan ilahi dengan mengorbankan pertumbuhan dan statistik mereka sendiri untuk meningkatkan stabilitas tempat.</Desc>
-			<sParam2>Divine Might</sParam2>
+			<DisplayName>Uy chấn tứ phương</DisplayName>
+			<Desc>Cử người đến một điểm đại lý, hy sinh sự phát triển và thuộc tính của bản thân để biểu diễn thần uy cho dân chúng, từ đó tăng độ ổn định của khu vực.</Desc>
+			<sParam2>Thần uy</sParam2>
 		</Text>
 		<Text Name="Magic_YG_RealPower">
-			<DisplayName>Origin Force (Power)</DisplayName>
-			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli guna meningkatkan kekuatan artefak dan badan rahasia secara drastis. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
+			<DisplayName>Chân lực nguyên thân (Lực)</DisplayName>
+			<Desc>Đốt cháy nhanh chóng nguồn sống bản nguyên, kích phát sức mạnh nguyên thân của yêu tộc, tăng đáng kể sức mạnh ngự khí và bí thể. Thi triển lại kỹ năng sẽ dừng hiệu quả này.</Desc>
 		</Text>
 		<Text Name="Magic_YG_RealRecover">
-			<DisplayName>Origin Force (Nurture)</DisplayName>
-			<Desc>Membakar sumber kehidupan dengan cepat untuk menstimulasi kekuatan Yaoguai asli guna meningkatkan ketahanan secara drastis, tingkat pemulihan Qi artefak, dan tingkat pemulihan Qi Sejati badan rahasia. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
+			<DisplayName>Chân lực nguyên thân (Hàm)</DisplayName>
+			<Desc>Đốt cháy nhanh chóng nguồn sống bản nguyên, kích phát sức mạnh nguyên thân của yêu tộc, tăng đáng kể khả năng hồi phục cơ thể, tốc độ hồi linh khí pháp bảo và chân khí bí thể. Thi triển lại kỹ năng sẽ dừng hiệu quả này.</Desc>
 		</Text>
 		<Text Name="Magic_YG_RealWisdom">
-			<DisplayName>Origin Force (INT)</DisplayName>
-			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli untuk secara drastis meningkatkan kekuatan mantra, akurasi serangan tubuh rahasia, tingkat keberhasilan pertahanan, penetrasi penghalang Qi, dan peluang penindasan artefak. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
+			<DisplayName>Chân lực nguyên thân (Trí)</DisplayName>
+			<Desc>Đốt cháy nhanh chóng nguồn sống bản nguyên, kích phát sức mạnh nguyên thân của yêu tộc, tăng đáng kể sức mạnh pháp thuật, tỷ lệ đánh trúng, tỷ lệ phòng thủ thành công, tỷ lệ xuyên thủng hộ thuẫn linh khí và tỷ lệ trấn áp pháp bảo. Thi triển lại kỹ năng sẽ dừng hiệu quả này.</Desc>
 		</Text>
 		<Text Name="Magic_YG_RealShield">
-			<DisplayName>Origin Force (PCT)</DisplayName>
-			<Desc>Membakar sumber kehidupan dengan cepat untuk merangsang kekuatan Yaoguai asli guna meningkatkan penghalang Qi dan daya tahan tubuh rahasia secara drastis. Lepaskan skill lagi untuk menghentikan efek ini.</Desc>
+			<DisplayName>Chân lực nguyên thân (Hộ)</DisplayName>
+			<Desc>Đốt cháy nhanh chóng nguồn sống bản nguyên, kích phát sức mạnh nguyên thân của yêu tộc, tăng đáng kể độ bền vững của hộ thuẫn linh khí và bí thể. Thi triển lại kỹ năng sẽ dừng hiệu quả này.</Desc>
 		</Text>
 	</List>
 </Texts>
+

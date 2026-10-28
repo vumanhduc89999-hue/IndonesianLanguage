@@ -1,90 +1,91 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="ChangeZhen">
-			<DisplayName>Change Formation</DisplayName>
-			<Tip>Ubah formasi untuk menutupi pasukan pembantu yang terbuka.</Tip>
+			<DisplayName>Biến trận</DisplayName>
+			<Tip>Thay đổi trận pháp, che giấu trận nhãn bị lộ</Tip>
 		</Text>
 		<Text Name="CancelZhen">
-			<DisplayName>Disband</DisplayName>
-			<Tip>Membubarkan formasi. Setelah suatu formasi dibubarkan, perlu beberapa waktu sebelum formasi baru dapat terbentuk.</Tip>
+			<DisplayName>Hủy bỏ trận pháp</DisplayName>
+			<Tip>Hủy bỏ trận pháp, sau khi hủy bỏ không thể kết trận trong một thời gian.</Tip>
 		</Text>
 		<Text Name="JointJian">
-			<DisplayName>Joint Artifact</DisplayName>
-			<Tip>Setiap orang menggabungkan Qi mereka untuk mengontrol artefak pilar formasi dan mengisinya kembali dengan Qi, secara drastis meningkatkan Kekuatan Artefak sesuai dengan Bonus Kekuatan Penguasaan Pedang formasi. Setiap orang dalam formasi berbagi biaya Qi.</Tip>
+			<DisplayName>Pháp bảo hợp kích</DisplayName>
+			<Tip>Tất cả tiêu hao linh khí để cùng điều khiển pháp bảo của chủ trận, tái truyền linh khí vào pháp bảo, tăng mạnh uy lực pháp bảo. Mức tăng liên quan đến hệ số uy lực pháp bảo của trận pháp. Linh khí được phân chia đều cho tất cả thành viên trận pháp.</Tip>
 		</Text>
 		<Text Name="JointSkill">
-			<DisplayName>Joint Spell</DisplayName>
-			<Tip>Setiap orang menggabungkan Qi mereka untuk membantu pilar formasi mengeluarkan mantra berikutnya, meningkatkan kekuatannya. Peningkatan kekuatan terkait dengan Bonus Kekuatan Mantra formasi. Setiap orang dalam formasi berbagi biaya Qi.</Tip>
+			<DisplayName>Pháp thuật hợp kích</DisplayName>
+			<Tip>Tất cả tiêu hao linh khí để cùng hỗ trợ chủ trận thi triển pháp thuật tiếp theo, tăng cường uy lực. Mức tăng liên quan đến hệ số uy lực pháp thuật của trận pháp. Linh khí được phân chia đều cho tất cả thành viên trận pháp.</Tip>
 		</Text>
 		<Text Name="ZhenTempAura">
-			<DisplayName>Heat Up</DisplayName>
+			<DisplayName>Gia nhiệt</DisplayName>
 		</Text>
 		<Text Name="ZhenModifyArea">
-			<DisplayName>Enlarge</DisplayName>
+			<DisplayName>Phóng to</DisplayName>
 		</Text>
 		<Text Name="ZhenShield">
-			<DisplayName>Shield Up</DisplayName>
+			<DisplayName>Mở thuẫn</DisplayName>
 		</Text>
 		<Text Name="TransLing">
-			<DisplayName>Qi Transfer</DisplayName>
+			<DisplayName>Chuyển linh khí</DisplayName>
 		</Text>
 		<Text Name="Reducetability">
-			<DisplayName>Lower Stability</DisplayName>
+			<DisplayName>Giảm độ ổn định</DisplayName>
 		</Text>
 		<Text Name="RevealZhen">
-			<DisplayName>Exposed Auxiliary</DisplayName>
+			<DisplayName>Lộ trận nhãn</DisplayName>
 		</Text>
 		<Text Name="FightSkill_Zhen_RevealZhen1">
-			<DisplayName>Heavenly Derivation</DisplayName>
-			<HeadMsg>Select an enemy auxiliary.</HeadMsg>
-			<Tip>Mengikuti pola Labirin Penjaga Batu untuk menyerang titik lemah formasi target. Menurunkan stabilitasnya dan berpeluang mengekspos alat bantunya.</Tip>
+			<DisplayName>Diễn hóa tiên thiên</DisplayName>
+			<HeadMsg>Hãy chọn một trận nhãn của kẻ địch</HeadMsg>
+			<Tip>Sử dụng quy luật biến hóa bát môn để tấn công điểm yếu trận pháp mục tiêu, giảm độ ổn định và có khả năng làm lộ trận nhãn của nó tùy thuộc vào độ ổn định của trận pháp.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_RevealZhen2">
-			<DisplayName>Battle Aloofness</DisplayName>
-			<Tip>Menimbulkan kerusakan Qi dalam jumlah besar pada target.</Tip>
+			<DisplayName>Bắc Đẩu Phá Vọng</DisplayName>
+			<Tip>Gây sát thương linh khí lớn lên kẻ địch mục tiêu</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenShield1">
-			<DisplayName>Domain of Five Peaks</DisplayName>
-			<Tip>Buat domain dengan radius 5 meter di sekitar titik target dan gunakan Qi formasi untuk bertahan.</Tip>
+			<DisplayName>Ngũ Phong Ngự Giới</DisplayName>
+			<Tip>Mở ra một kết giới bán kính 5 mét tại điểm mục tiêu, dùng linh khí trận pháp để phòng thủ.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenShield2">
-			<DisplayName>Domain of Vastness</DisplayName>
-			<Tip>Buat domain dengan radius 12 meter di sekitar titik target dan gunakan Qi formasi untuk bertahan.</Tip>
+			<DisplayName>Thiên Địa Ngũ Phương Bất Diệt Giới</DisplayName>
+			<Tip>Mở ra một kết giới bán kính 12 mét tại điểm mục tiêu, dùng linh khí trận pháp để phòng thủ.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenArea1">
-			<DisplayName>Domain of Wood Essence</DisplayName>
-			<Tip>Buat domain yang mencakup radius 8 meter di sekitar titik target. Menyuburkan tanah di dalam dan meningkatkan ketahanan alami karakter terkait.</Tip>
+			<DisplayName>Tiên Thiên Mộc Linh Giới</DisplayName>
+			<Tip>Mở ra một kết giới bán kính 8 mét tại điểm mục tiêu, tăng độ phì nhiêu của đất trong kết giới và cải thiện khả năng hồi phục tự nhiên của đồng minh.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhenArea2">
-			<DisplayName>Domain of Heavenly Serenity</DisplayName>
-			<Tip>Buat domain yang mencakup radius 8 meter di sekitar titik target. Meningkatkan kondisi mental, suasana hati, kecepatan pengembangan karakter sekutu di dalam domain.</Tip>
+			<DisplayName>Chư Thiên Lục Ngự Thanh Linh Thắng Cảnh</DisplayName>
+			<Tip>Mở ra một kết giới bán kính 8 mét tại điểm mục tiêu, tăng cường tâm cảnh, tâm trạng và tốc độ tu luyện của đồng minh trong kết giới.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_JointJian1">
-			<DisplayName>Divine Sword of Phoenix</DisplayName>
-			<Tip>Setiap orang menggabungkan Qi mereka untuk mengontrol artefak pilar formasi dan mengisinya kembali dengan Qi, secara drastis meningkatkan Kekuatan Artefak sesuai dengan Bonus Kekuatan Penguasaan Pedang formasi. Setiap orang dalam formasi berbagi biaya Qi.</Tip>
+			<DisplayName>Phượng Ngự Thần Kiếm</DisplayName>
+			<Tip>Tất cả tiêu hao linh khí để cùng điều khiển pháp bảo của chủ trận, tái truyền linh khí vào pháp bảo, tăng mạnh uy lực pháp bảo. Mức tăng liên quan đến hệ số uy lực pháp bảo của trận pháp. Linh khí được phân chia đều cho tất cả thành viên trận pháp.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_JointSkill1">
-			<DisplayName>Divine Dragonroar</DisplayName>
-			<Tip>Setiap orang menggabungkan Qi mereka untuk membantu pilar formasi mengeluarkan mantra berikutnya, meningkatkan kekuatannya. Peningkatan kekuatan terkait dengan Bonus Kekuatan Mantra formasi. Setiap orang dalam formasi berbagi biaya Qi.</Tip>
+			<DisplayName>Long Ngâm Thần Chú</DisplayName>
+			<Tip>Tất cả tiêu hao linh khí để cùng hỗ trợ chủ trận thi triển pháp thuật tiếp theo, tăng cường uy lực. Mức tăng liên quan đến hệ số uy lực pháp thuật của trận pháp. Linh khí được phân chia đều cho tất cả thành viên trận pháp.</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_Stability1">
-			<DisplayName>Divine Obliteration</DisplayName>
-			<HeadMsg>Select an enemy auxiliary.</HeadMsg>
-			<Tip>Menimbulkan kerusakan besar pada stabilitas formasi musuh.</Tip>
+			<DisplayName>Long Hồn Thần Liệt Pháp</DisplayName>
+			<HeadMsg>Hãy chọn một trận nhãn của kẻ địch</HeadMsg>
+			<Tip>Gây sát thương lớn lên độ ổn định của trận pháp địch</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_Stability2">
-			<DisplayName>Nirvana</DisplayName>
-			<Tip>Memulihkan stabilitas formasi.</Tip>
+			<DisplayName>Niết Bàn</DisplayName>
+			<Tip>Phục hồi độ ổn định của trận pháp</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhuXian">
-			<DisplayName>Ragestriker</DisplayName>
-			<Tip>Setelah jeda singkat, menimbulkan kerusakan Qi dalam jumlah besar kepada musuh dalam radius 12 meter dari titik target.</Tip>
+			<DisplayName>Tru Tiên</DisplayName>
+			<Tip>Sau một độ trễ ngắn, gây sát thương linh khí lớn lên kẻ địch trong bán kính 12 mét tại điểm mục tiêu</Tip>
 		</Text>
 		<Text Name="FightSkill_Zhen_BDPW_MissileBase">
-			<DisplayName>Battle Aloofness Bullets</DisplayName>
+			<DisplayName>Đạn Bắc Đẩu Phá Vọng</DisplayName>
 		</Text>
 		<Text Name="FightSkill_Zhen_ZhuXian_MissileBase">
-			<DisplayName>Ragestriker Sub-skill</DisplayName>
+			<DisplayName>Kỹ năng phụ Tru Tiên</DisplayName>
 		</Text>
 	</List>
 </Texts>
+

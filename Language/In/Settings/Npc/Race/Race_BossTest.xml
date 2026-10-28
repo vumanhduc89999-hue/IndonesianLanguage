@@ -1,24 +1,25 @@
 <Texts Type="Other">
 	<List>
 		<Text Name="Boss_Long_Test">
-			<DisplayName>Naga Banjir</DisplayName>
-			<FightParts.0.DisplayName>Tubuh</FightParts.0.DisplayName>
-			<FightParts.1.DisplayName>Ekor Naga</FightParts.1.DisplayName>
-			<FightParts.2.DisplayName>Tanduk Naga</FightParts.2.DisplayName>
-			<FightParts.3.DisplayName>Cakar Depan Kiri Naga</FightParts.3.DisplayName>
-			<FightParts.4.DisplayName>Cakar Depan Kanan Naga</FightParts.4.DisplayName>
-			<FightParts.5.DisplayName>Cakar Belakang Kiri Naga</FightParts.5.DisplayName>
-			<FightParts.6.DisplayName>Cakar Belakang Kanan Naga</FightParts.6.DisplayName>
-			<FightParts.7.DisplayName>Skala Terlarang</FightParts.7.DisplayName>
+			<DisplayName>Giao Long</DisplayName>
+			<FightParts.0.DisplayName>Cơ thể</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Long vĩ</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Long Giác</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Long tả tiền trảo</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Long hữu tiền trảo</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Long tả hậu trảo</FightParts.5.DisplayName>
+			<FightParts.6.DisplayName>Long hữu hậu trảo</FightParts.6.DisplayName>
+			<FightParts.7.DisplayName>Vảy ngược</FightParts.7.DisplayName>
 		</Text>
 		<Text Name="Boss_Feng_Test">
-			<DisplayName>Phoenix</DisplayName>
-			<FightParts.0.DisplayName>Tubuh</FightParts.0.DisplayName>
-			<FightParts.1.DisplayName>Bulu Mahkota</FightParts.1.DisplayName>
-			<FightParts.2.DisplayName>Sayap kiri</FightParts.2.DisplayName>
-			<FightParts.3.DisplayName>Sayap kanan</FightParts.3.DisplayName>
-			<FightParts.4.DisplayName>Bulu ekor</FightParts.4.DisplayName>
-			<FightParts.5.DisplayName>Mata Surya</FightParts.5.DisplayName>
+			<DisplayName>Phượng hung</DisplayName>
+			<FightParts.0.DisplayName>Cơ thể</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Lông đầu</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Cánh trái</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Cánh phải</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Lông đuôi</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Thái Dương Chi Nhãn</FightParts.5.DisplayName>
 		</Text>
 	</List>
 </Texts>
+

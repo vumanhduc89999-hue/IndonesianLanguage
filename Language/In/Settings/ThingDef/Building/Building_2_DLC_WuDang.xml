@@ -1,42 +1,43 @@
 <Texts Type="Thing">
 	<List>
 		<Text Name="RedWallDownLeftS" sParam="Building">
-			<ThingName>Curved Red Wall</ThingName>
-			<Desc>Dinding unik Sekte Wudang yang menggunakan metode bangunan yang sama tetapi dapat digunakan untuk membuat ruangan setelah ukurannya diperkecil.</Desc>
-			<StoryBnts.0.Name>Observe</StoryBnts.0.Name>
-			<StoryBnts.0.Desc>Cobalah mempelajari metode konstruksi bangunan ini.</StoryBnts.0.Desc>
+			<ThingName>Góc tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
+			<StoryBnts.0.Name>Quan sát</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Thử tìm hiểu phương pháp xây dựng công trình này</StoryBnts.0.Desc>
 		</Text>
 		<Text Name="RedWallUpLeftS" sParam="Building">
-			<ThingName>Curved Red Wall</ThingName>
-			<Desc>Dinding unik Sekte Wudang yang menggunakan metode bangunan yang sama tetapi dapat digunakan untuk membuat ruangan setelah ukurannya diperkecil.</Desc>
+			<ThingName>Góc tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
 		</Text>
 		<Text Name="RedWallMidUpS" sParam="Building">
-			<ThingName>Curved Red Wall</ThingName>
-			<Desc>Dinding unik Sekte Wudang yang menggunakan metode bangunan yang sama tetapi dapat digunakan untuk membuat ruangan setelah ukurannya diperkecil.</Desc>
+			<ThingName>Tường đỏ uốn cong</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
 		</Text>
 		<Text Name="RedWallMidRightS" sParam="Building">
-			<ThingName>Curved Red Wall</ThingName>
-			<Desc>Dinding unik Sekte Wudang yang menggunakan metode bangunan yang sama tetapi dapat digunakan untuk membuat ruangan setelah ukurannya diperkecil.</Desc>
+			<ThingName>Tường đỏ uốn cong</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
 		</Text>
 		<Text Name="RedWallVerticalS" sParam="Building">
-			<ThingName>Red wall mid</ThingName>
-			<Desc>Dinding unik Sekte Wudang yang menggunakan metode bangunan yang sama tetapi dapat digunakan untuk membuat ruangan setelah ukurannya diperkecil.</Desc>
+			<ThingName>Đoạn giữa của tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
 		</Text>
 		<Text Name="RedWallVerticalHalfS" sParam="Building">
-			<ThingName>Red Wall End</ThingName>
-			<Desc>Dinding unik Sekte Wudang yang menggunakan metode bangunan yang sama tetapi dapat digunakan untuk membuat ruangan setelah ukurannya diperkecil.</Desc>
+			<ThingName>Đoạn cuối của tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
 		</Text>
 		<Text Name="RedWallHorizontalS" sParam="Building">
-			<ThingName>Red Wall</ThingName>
-			<Desc>Dinding unik Sekte Wudang yang menggunakan metode bangunan yang sama tetapi dapat digunakan untuk membuat ruangan setelah ukurannya diperkecil.</Desc>
+			<ThingName>Tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
 		</Text>
 		<Text Name="RedWallDownLeftTinyS" sParam="Building">
-			<ThingName>Red Wall Small Corner</ThingName>
-			<Desc>Dinding unik Sekte Wudang yang menggunakan metode bangunan yang sama tetapi dapat digunakan untuk membuat ruangan setelah ukurannya diperkecil.</Desc>
+			<ThingName>Góc nhỏ của tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
 		</Text>
 		<Text Name="RedWallUpLeftTinyS" sParam="Building">
-			<ThingName>Red Wall Small Corner</ThingName>
-			<Desc>Dinding unik Sekte Wudang yang menggunakan metode bangunan yang sama tetapi dapat digunakan untuk membuat ruangan setelah ukurannya diperkecil.</Desc>
+			<ThingName>Góc nhỏ của tường đỏ</ThingName>
+			<Desc>Bức tường đặc trưng của Võ Đang, xây dựng theo phương pháp tương tự nhưng thu nhỏ quy mô, có thể tạo thành phòng.</Desc>
 		</Text>
 	</List>
 </Texts>
+
